@@ -16,9 +16,9 @@ related tips/cheats shared. </p>
 <b> Overview </b> 
 </p>
 <p align=left>
-With the start of #100DaysOfMLCode challenge this ML Goodness repository will be updated daily with some completed Jupyter notebooks, Python codes,
-useful ML/DL libraries, cheat codes of ML/DL, useful information such as websites, beneficial learning materials, tips and whatnot not to mention
-some basic and advanced Python coding.
+With the start of #100DaysOfMLCode challenge this Machine Learning Goodness repository will be updated daily with either 
+the completed Jupyter notebooks, Python codes, ML projects, useful ML/DL libraries, cheat codes of ML/DL, useful information 
+such as websites, beneficial learning materials, tips and whatnot not to mention some basic and advanced Python coding.
 </p>
 
 
