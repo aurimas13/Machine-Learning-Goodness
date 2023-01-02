@@ -1,3 +1,3 @@
-DONE 1. Clean the GirHub repo
-DONE 2. Update README
-3. Make it available with instalations as in Domas repo
+DOING 1. Update README
+TO DO 2. Clean the GirHub repo
+DO TO 3. Advertise it
