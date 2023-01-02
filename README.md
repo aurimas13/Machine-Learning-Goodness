@@ -1,13 +1,13 @@
 <p align=center>
-  <img height="444px" src="https://github.com/aurimas13/Coding-and_Teaching-ML/blob/main/Public/Photo/ml.png"/>
+  <img height="444px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Photo/ml.png"/>
 </p>
 <p align="center" > <b>Machine Learning Goodness </b> with notebooks added when completed, projects update and ML/DL/Python 
 related tips/cheats shared. </p>
 <br>
 <p align=center>
-    <a href="https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_In_Progress">
+    <a href="https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notebooks">
 <img alt="jupyter" src="https://img.shields.io/badge/language-jupyter-orange.svg?style=social&logo=jupyter")></a>
-    <a href="https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_Finished">
+    <a href="https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notebooks">
 <img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
     <a href="https://twitter.com/anausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
     <img height="20px" title="profile views" src="https://img.shields.io/github/stars/aurimas13/Coding-and_Teaching-ML?style=social" alt="stars">
@@ -58,20 +58,20 @@ Some worthy Python repositories related to the ML course with all details includ
 ## Notebooks 
 [(Back to top)](#table-of-contents)
 
-Done notebooks of various datasets can be found [here](https://github.com/aurimas13/Coding-and_Teaching-ML/tree/main/Notebooks).
+Done notebooks of various datasets can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notebooks).
 
 # Notes
 [(Back to top)](#table-of-contents)
 
 Additional notes that we covered through lectures or additional material that I said about can be found 
-[here](https://github.com/aurimas13/Coding-and_Teaching-ML/tree/main/Notes).
+[here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notes).
 
 # Public
 [(Back to top)](#table-of-contents)
 
 Public folder contains two files: 
-- [todolist](https://github.com/aurimas13/Coding-and_Teaching-ML/blob/main/Public/todolist.txt) - the TO DO List.
-- [logo](https://github.com/aurimas13/Coding-and_Teaching-ML/blob/main/Public/Photo/ml.png) - the Photo folder.
+- [todolist](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/todolist.txt) - the TO DO List.
+- [logo](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Public/Photo) - the Photo folder.
 
 
 ## Jupyter in Browser
@@ -86,7 +86,7 @@ If you find difficulty in running Jupyter Notebook through Browser then you coul
 # Photo
 [(Back to top)](#table-of-contents)
 
-The Photo of the repository can be found [here](https://github.com/aurimas13/Coding-and_Teaching-ML/blob/main/Public/Photo/ml.png).
+The Photo of the repository can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Photo/ml.png).
 
 # License
 [(Back to top)](#table-of-contents)
