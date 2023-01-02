@@ -1,8 +1,7 @@
 <p align=center>
   <img height="444px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Photo/ml.png"/>
 </p>
-<p align="center" > <b>Machine Learning Goodness </b> with notebooks added when completed, projects update and ML/DL/Python 
-related tips/cheats shared. </p>
+<p align="center" > <b>Machine Learning Goodness </b> with various <b> notebooks </b> added, ML/DL projects update and <> AGI/AI </b> tips/cheats. </p>
 <br>
 <p align=center>
     <a href="https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notebooks">
