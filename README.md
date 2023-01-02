@@ -1,7 +1,8 @@
 <p align=center>
   <img height="222px" src="https://github.com/aurimas13/Coding-and_Teaching-ML/blob/main/Public/Photo/ml.png"/>
 </p>
-<p align="center" > <b>Machine Learning Goodness/b> with many <b> notebooks </b> done and ML/DL/Python related tips/cheats shared. </p>
+<p align="center" > <b>Machine Learning Goodness </b> with notebooks added when completed, projects update and ML/DL/Python 
+related tips/cheats shared. </p>
 <br>
 <p align=center>
     <a href="https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_In_Progress">
