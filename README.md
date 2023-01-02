@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="333px" src="https://github.com/aurimas13/Coding-and_Teaching-ML/blob/main/Public/Photo/ml.png"/>
+  <img height="444px" src="https://github.com/aurimas13/Coding-and_Teaching-ML/blob/main/Public/Photo/ml.png"/>
 </p>
 <p align="center" > <b>Machine Learning Goodness </b> with notebooks added when completed, projects update and ML/DL/Python 
 related tips/cheats shared. </p>
