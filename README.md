@@ -1,8 +1,7 @@
 <p align=center>
-  <img height="222px" src="https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/Public/Photo/CodeAcademy_baltas.png"/>
+  <img height="222px" src="https://github.com/aurimas13/Coding-and_Teaching-ML/blob/main/Public/Photo/ml.png"/>
 </p>
-<p align="center" > <b>CodeAcademy AI Course</b> with delivered <b> Jupyter Notebooks  </b> through sessions. </p>
-<p align="center" > <b> Solutions </b> to the <b> exercises </b> and additional <b> Notes </b> of the program within. </p>
+<p align="center" > <b>Machine Learning Goodness/b> with many <b> notebooks </b> done and ML/DL/Python related tips/cheats shared. </p>
 <br>
 <p align=center>
     <a href="https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_In_Progress">
@@ -10,41 +9,28 @@
     <a href="https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_Finished">
 <img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
     <a href="https://twitter.com/anausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
-    <img height="20px" title="profile views" src="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course?style=social" alt="stars">
+    <img height="20px" title="profile views" src="https://img.shields.io/github/stars/aurimas13/Coding-and_Teaching-ML?style=social" alt="stars">
 </p>
 <p align=center>
 <b> Overview </b> 
 </p>
 <p align=left>
-With the start of #100DaysOfMLCode challenge this repository will be updated daily with done Jupyter notebooks, Python codes,
+With the start of #100DaysOfMLCode challenge this ML Goodness repository will be updated daily with some completed Jupyter notebooks, Python codes,
 useful ML/DL libraries, cheat codes of ML/DL, useful information such as websites, beneficial learning materials, tips and whatnot not to mention
-some basic and advanced coding.
+some basic and advanced Python coding.
 </p>
-
-More on the presentation of the program can be found [here](https://codeacademy.lt/en/programavimo-kursai/artificial-intelligence-advance/)
-and refer to this [menu](#table-of-contents) for further information.
 
 
 # Table of Contents
 - [Table of contents](#table-of-contents)
-- [Jupyter in Browser](#jupyter-in-browser)
 - [Worthy Tools](#worthy-tools)
 - [Worthy Repositories](#worthy-repositories)
 - [Notebooks](#notebooks)
 - [Notes](#notes)  
 - [Public](#public)
+- [Jupyter in Browser](#jupyter-in-browser)
 - [Photo](#photo)
 - [License](#license)
-
-## Jupyter in Browser
-[(Back to top)](#table-of-contents)
-
-First nice thing is that you could run Jupyter also through browser by doing so going [here](https://jupyterlite.github.io/demo/lab/index.html) and 
-reading more about it in this [article](https://medium.com/geekculture/run-jupyter-notebooks-on-a-web-browser-using-jupyterlite-18e3bd25bd97).
-
-If you find difficulty in running Jupyter Notebook through Browser then you could use Google Colab by clicking 
-[here](https://colab.research.google.com/notebooks/intro.ipynb). Functionalities of both machines are similar.
-
 
 ## Worthy Tools
 [(Back to top)](#table-of-contents)
@@ -71,26 +57,35 @@ Some worthy Python repositories related to the ML course with all details includ
 ## Notebooks 
 [(Back to top)](#table-of-contents)
 
-Done notebooks of various datasets can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_In_Progress).
+Done notebooks of various datasets can be found [here](https://github.com/aurimas13/Coding-and_Teaching-ML/tree/main/Notebooks).
 
 # Notes
 [(Back to top)](#table-of-contents)
 
 Additional notes that we covered through lectures or additional material that I said about can be found 
-[here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notes).
+[here](https://github.com/aurimas13/Coding-and_Teaching-ML/tree/main/Notes).
 
 # Public
 [(Back to top)](#table-of-contents)
 
 Public folder contains two files: 
-- [todolist](https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/Public/todolist.txt) - the TO DO List.
-- [logo](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Public/Photo) - the Photo folder.
+- [todolist](https://github.com/aurimas13/Coding-and_Teaching-ML/blob/main/Public/todolist.txt) - the TO DO List.
+- [logo](https://github.com/aurimas13/Coding-and_Teaching-ML/blob/main/Public/Photo/ml.png) - the Photo folder.
 
 
-# Logo
+## Jupyter in Browser
 [(Back to top)](#table-of-contents)
 
-The logo of the CodeAcademy can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/Public/Photo/CodeAcademy_baltas.png).
+First nice thing is that you could run Jupyter also through browser by doing so going [here](https://jupyterlite.github.io/demo/lab/index.html) and 
+reading more about it in this [article](https://medium.com/geekculture/run-jupyter-notebooks-on-a-web-browser-using-jupyterlite-18e3bd25bd97).
+
+If you find difficulty in running Jupyter Notebook through Browser then you could use Google Colab by clicking 
+[here](https://colab.research.google.com/notebooks/intro.ipynb). Functionalities of both machines are similar.
+
+# Photo
+[(Back to top)](#table-of-contents)
+
+The Photo of the repository can be found [here](https://github.com/aurimas13/Coding-and_Teaching-ML/blob/main/Public/Photo/ml.png).
 
 # License
 [(Back to top)](#table-of-contents)
