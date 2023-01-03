@@ -15,8 +15,8 @@
 <b> Overview </b> 
 </p>
 <p align=left>
-With the start of #100DaysOfMLCode challenge this Machine Learning Goodness repository will be updated daily with either 
-the completed Jupyter notebooks, Python codes, ML projects, useful ML/DL libraries, cheat codes of ML/DL, useful information 
+With the start of #100DaysOfMLCode challenge this Machine Learning Goodness repository is updated daily with either 
+the completed Jupyter notebooks, Python codes, ML projects, useful ML/DL/NN libraries, cheat codes of ML/DL/NN/AI, useful information 
 such as websites, beneficial learning materials, tips and whatnot not to mention some basic and advanced Python coding.
 </p>
 
@@ -27,6 +27,7 @@ such as websites, beneficial learning materials, tips and whatnot not to mention
 - [Worthy Repositories](#worthy-repositories)
 - [Notebooks](#notebooks)
 - [Notes](#notes)  
+- [100DaysOfMLCode](#100daysofmlcode)
 - [Public](#public)
 - [Jupyter in Browser](#jupyter-in-browser)
 - [Photo](#photo)
@@ -39,11 +40,11 @@ Worthy websites and tools that include cheat codes for Python, Machine Learning,
 worthy tools like GitHub repositories or books while you are learning or honing your skills can be found here. Updated constantly when a worthy material is found
 to be shared on the repository.
 
-| **Title**                              | **Description**                                                                                         | **Link**                                                                          |
-|----------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| Python Cheatsheet                      | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources. | https://github.com/wilfredinni/python-cheatsheet                                  |
-| Machine Learning Algorithms Cheatsheet | The Machine Learning Cheatsheet explaining various models briefly.                                      | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet  |
-
+| **Title**                                      | **Description**                                                                                         | **Link**                                                                          |
+|------------------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Python Cheatsheet                              | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources. | https://github.com/wilfredinni/python-cheatsheet                                  |
+| Machine Learning Algorithms Cheatsheet         | The Machine Learning Cheatsheet explaining various models briefly.                                      | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet  |
+| Awesome datasets ranging from Media to Science | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html |
 
 ## Worthy Repositories
 [(Back to top)](#table-of-contents)
@@ -65,6 +66,25 @@ Done notebooks of various datasets can be found [here](https://github.com/aurima
 
 Additional notes that we covered through lectures or additional material that I said about can be found 
 [here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notes).
+
+# 100DaysOfMLCode
+
+## ML Regression Notebook | Day 1
+Check out the Jupyter code from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Regression.ipynb).
+
+<p align="center">
+  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
+</p>
+
+## ML Classification Notebook | Day 2
+Check out the Jupyter code from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Classification.ipynb).
+
+<p align="center">
+  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
+</p>
+
+## Addition of beneficial websites in AI | Day 3
+Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
 
 # Public
 [(Back to top)](#table-of-contents)
