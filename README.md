@@ -69,20 +69,20 @@ Additional notes that we covered through lectures or additional material that I 
 
 # 100DaysOfMLCode
 
-## ML Regression Notebook | Day 1
-Check out the Jupyter code for Regression from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Regression.ipynb).
+### ML Regression Notebook | Day 1
++ Check out the Jupyter code for Regression from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Regression.ipynb).
 
-## ML Classification Notebook | Day 2
-Check out the Jupyter code from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Classification.ipynb).
+### ML Classification Notebook | Day 2
++ Check out the Jupyter code from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Classification.ipynb).
 
-## Data PreProcessing and Beneficial Websites| Day 3
-Check out the code for Classification from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Data%20PreProcessing.md).
+### Data PreProcessing and Beneficial Websites| Day 3
++ Check out the code for Classification from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Data%20PreProcessing.md).
++ Added beneficial websites public datasets [here](#worthy-tools) and Deep Learning Course [here](#worthy-repositories)
 
 <p align="center">
   <img src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Photos/Data_Preprocessing.png">
 </p>
 
-Added beneficial websites public datasets [here](#worthy-tools) and Deep Learning Course [here](#worthy-repositories)
 
 # Public
 [(Back to top)](#table-of-contents)
