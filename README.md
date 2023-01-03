@@ -27,7 +27,7 @@ such as websites, beneficial learning materials, tips and whatnot not to mention
 - [Worthy Repositories](#worthy-repositories)
 - [Notebooks](#notebooks)
 - [Notes](#notes)  
-- [100DaysOfMLCode](#100daysofmlcode)
+- [100DaysOfMLCode Challenge](#100daysofmlcode-challenge)
 - [Public](#public)
 - [Jupyter in Browser](#jupyter-in-browser)
 - [Photo](#photo)
@@ -67,22 +67,21 @@ Done notebooks of various datasets can be found [here](https://github.com/aurima
 Additional notes that we covered through lectures or additional material that I said about can be found 
 [here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notes).
 
-# 100DaysOfMLCode
+# 100DaysOfMLCode Challenge
 
 ### ML Regression Notebook | Day 1
-+ Check out the Jupyter code for Regression from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Regression.ipynb).
++ Check out the Jupyter code for Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Regression.ipynb).
 
 ### ML Classification Notebook | Day 2
-+ Check out the Jupyter code from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Classification.ipynb).
++ Check out the Jupyter code for Classification  [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Classification.ipynb).
 
 ### Data PreProcessing and Beneficial Websites| Day 3
-+ Check out the code for Classification from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Data%20PreProcessing.md).
-+ Added beneficial websites public datasets [here](#worthy-tools) and Deep Learning Course [here](#worthy-repositories)
++ Check out the code for Data Preprocessing [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Data%20PreProcessing.md).
++ Added beneficial websites of public open-source datasets for AI [here](#worthy-tools) and Deep Learning Course [here](#worthy-repositories).
 
 <p align="center">
   <img src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Photos/Data_Preprocessing.png">
 </p>
-
 
 # Public
 [(Back to top)](#table-of-contents)
