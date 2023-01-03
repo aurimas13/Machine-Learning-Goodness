@@ -30,7 +30,7 @@ such as websites, beneficial learning materials, tips and whatnot not to mention
 - [Notes](#notes)  
 - [Public](#public)
 - [Jupyter in Browser](#jupyter-in-browser)
-- [Photo](#photo)
+- [Logo](#logo)
 - [License](#license)
 
 
