@@ -75,7 +75,7 @@ Check out the Jupyter code for Regression from [here](https://github.com/aurimas
 ## ML Classification Notebook | Day 2
 Check out the Jupyter code from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Classification.ipynb).
 
-### Data PreProcessing and Beneficial Websites| Day 3
+## Data PreProcessing and Beneficial Websites| Day 3
 Check out the code for Classification from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Data%20PreProcessing.md).
 
 <p align="center">
