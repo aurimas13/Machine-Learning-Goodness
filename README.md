@@ -68,6 +68,7 @@ Additional notes that we covered through lectures or additional material that I 
 [here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notes).
 
 # 100DaysOfMLCode Challenge
+[(Back to top)](#table-of-contents)
 
 ### ML Regression Notebook | Day 1
 + Check out the Jupyter code for Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Regression.ipynb).
