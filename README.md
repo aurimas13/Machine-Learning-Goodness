@@ -40,11 +40,11 @@ Worthy websites and tools that include cheat codes for Python, Machine Learning,
 worthy tools like GitHub repositories or books while you are learning or honing your skills can be found here. Updated constantly when a worthy material is found
 to be shared on the repository.
 
-| **Title**                                      | **Description**                                                                                         | **Link**                                                                          |
-|------------------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| Python Cheatsheet                              | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources. | https://github.com/wilfredinni/python-cheatsheet                                  |
-| Machine Learning Algorithms Cheatsheet         | The Machine Learning Cheatsheet explaining various models briefly.                                      | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet  |
-| Awesome datasets ranging from Media to Science | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html |
+| **Title**                              | **Description**                                                                                         | **Link**                                                                          |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Python Cheatsheet                      | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources. | https://github.com/wilfredinni/python-cheatsheet                                  |
+| Machine Learning Algorithms Cheatsheet | The Machine Learning Cheatsheet explaining various models briefly.                                      | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet  |
+| Awesome AI Tools, Datasets, Data Lakes | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html |
 
 ## Worthy Repositories
 [(Back to top)](#table-of-contents)
