@@ -76,7 +76,7 @@ Additional notes that we covered through lectures or additional material that I 
 ### ML Classification Notebook | Day 2
 + Check out the Jupyter code for Classification  [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Classification.ipynb).
 
-### Data PreProcessing and Beneficial Websites| Day 3
+### Data PreProcessing and Beneficial Websites | Day 3
 + Check out the code for Data Preprocessing [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Data%20PreProcessing.md).
 + Added beneficial websites of public open-source datasets for AI [here](#worthy-tools) and Deep Learning Course [here](#worthy-repositories).
 
