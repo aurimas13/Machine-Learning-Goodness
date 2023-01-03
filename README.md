@@ -44,7 +44,7 @@ to be shared on the repository.
 |----------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | Python Cheatsheet                      | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources. | https://github.com/wilfredinni/python-cheatsheet                                  |
 | Machine Learning Algorithms Cheatsheet | The Machine Learning Cheatsheet explaining various models briefly.                                      | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet  |
-| Awesome AI Tools, Datasets, Data Lakes | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html |
+| Awesome AI Datasets & Tools            | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html |
 
 ## Worthy Repositories
 [(Back to top)](#table-of-contents)
