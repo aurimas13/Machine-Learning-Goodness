@@ -52,10 +52,11 @@ to be shared on the repository.
 
 Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details included can be found here:
 
-| **Title**                       | **Description**                                                  | **Link**                                       |
-|---------------------------------|------------------------------------------------------------------|------------------------------------------------|
-| Advanced AI course | Code Academy Advanced AI course in Lithuania                     | https://github.com/aurimas13/CodeAcademy-AI-Course       |
-| Deep Learning Course | Coursera's Deep Learning Specialization by deeplearning.ai | https://github.com/aurimas13/Coursera-Deep-Learning-Specialization |
+| **Title**                                    | **Description**                                                              | **Link**                                                                                |
+|----------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Advanced AI course                           | Code Academy Advanced AI course in Lithuania                                 | https://github.com/aurimas13/CodeAcademy-AI-Course                                      |
+| GitHub on Coursera's Deep Learning Course    | GitHub Repo for Coursera's Deep Learning Specialization by deeplearning.ai   | https://github.com/aurimas13/Coursera-Deep-Learning-Specialization                      |
+| Notes on Cousera's Deep Learning Course      | Lecture Notes for Coursera's Deep Learning Specialization by deeplearning.ai | https://drive.google.com/drive/folders/1X9qp9KsGs6IuVgzZJZvMJvVzgxPjhNKN?usp=share_link |
 
 # Notebooks 
 [(Back to top)](#table-of-contents)
