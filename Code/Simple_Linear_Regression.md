@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Data_Preprocessing.png">
+  <img src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Simple_Linear_Regression.png">
 </p>
 
 
