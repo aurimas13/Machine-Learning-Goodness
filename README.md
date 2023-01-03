@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="444px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Photo/ml.png"/>
+  <img height="444px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/ml.png"/>
 </p>
 <p align="center" > <b>Machine Learning Goodness </b> with various <b> notebooks </b>, ML/DL projects update and <b> AGI/AI </b> tips/cheats. </p>
 <br>
@@ -89,7 +89,7 @@ Additional notes that we covered through lectures or additional material that I 
 
 Public folder contains two files: 
 - [todolist](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/todolist.txt) - the TO DO List.
-- [logo](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Public/Photo) - the Photo folder.
+- [Images](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Public/Images) - the Images folder.
 
 
 ## Jupyter in Browser
@@ -101,10 +101,10 @@ reading more about it in this [article](https://medium.com/geekculture/run-jupyt
 If you find difficulty in running Jupyter Notebook through Browser then you could use Google Colab by clicking 
 [here](https://colab.research.google.com/notebooks/intro.ipynb). Functionalities of both machines are similar.
 
-# Photo
+# Logo
 [(Back to top)](#table-of-contents)
 
-The Photo of the repository can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Photo/ml.png).
+The Logo of the repository can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/ml.png).
 
 # License
 [(Back to top)](#table-of-contents)
