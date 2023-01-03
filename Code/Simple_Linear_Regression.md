@@ -42,3 +42,4 @@ X_train, X_test, Y_train, Y_test = train_test_split( X, Y, test_size = 1/4, rand
  plt.scatter(X_test , Y_test, color = 'red')
  plt.plot(X_test , regressor.predict(X_test), color ='blue')
  ``` 
+
