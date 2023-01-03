@@ -34,7 +34,7 @@ such as websites, beneficial learning materials, tips and whatnot not to mention
 - [License](#license)
 
 
-## Worthy Tools
+# Worthy Tools
 [(Back to top)](#table-of-contents)
 
 Worthy websites and tools that include cheat codes for Python, Machine Learning, Deep Learning, Neural Networks and what not apart from other
@@ -47,7 +47,7 @@ to be shared on the repository.
 | Machine Learning Algorithms Cheatsheet | The Machine Learning Cheatsheet explaining various models briefly.                                      | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet  |
 | Awesome AI Datasets & Tools            | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html |
 
-## Worthy Repositories
+# Worthy Repositories
 [(Back to top)](#table-of-contents)
 
 Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details included can be found here:
@@ -57,7 +57,7 @@ Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details 
 | Advanced AI course | Code Academy Advanced AI course in Lithuania                     | https://github.com/aurimas13/CodeAcademy-AI-Course       |
 | Deep Learning Course | Coursera's Deep Learning Specialization by deeplearning.ai | https://github.com/aurimas13/Coursera-Deep-Learning-Specialization |
 
-## Notebooks 
+# Notebooks 
 [(Back to top)](#table-of-contents)
 
 Done notebooks of various datasets can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notebooks).
@@ -68,7 +68,7 @@ Done notebooks of various datasets can be found [here](https://github.com/aurima
 Additional notes that we covered through lectures or additional material that I said about can be found 
 [here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notes).
 
-## 100DaysOfMLCode
+# 100DaysOfMLCode
 [(Back to top)](#table-of-contents)
 
 *This is the section of **100DaysOfMLCode** Challenge updated daily by adding what has been done each day.*
@@ -96,7 +96,7 @@ Public folder contains two files:
 - [Images](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Public/Images) - the Images folder.
 
 
-## Jupyter in Browser
+# Jupyter in Browser
 [(Back to top)](#table-of-contents)
 
 First nice thing is that you could run Jupyter also through browser by doing so going [here](https://jupyterlite.github.io/demo/lab/index.html) and 
