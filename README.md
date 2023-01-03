@@ -70,21 +70,19 @@ Additional notes that we covered through lectures or additional material that I 
 # 100DaysOfMLCode
 
 ## ML Regression Notebook | Day 1
-Check out the Jupyter code from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Regression.ipynb).
-
-<p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
-</p>
+Check out the Jupyter code for Regression from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Regression.ipynb).
 
 ## ML Classification Notebook | Day 2
 Check out the Jupyter code from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Classification.ipynb).
 
+# Data PreProcessing and Beneficial Websites| Day 3
+Check out the code for Classification from [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Data%20PreProcessing.md).
+
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
+  <img src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Photos/Data_Preprocessing.png">
 </p>
 
-## Addition of beneficial websites in AI | Day 3
-Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
+Added beneficial websites public datasets [here](#worthy-tools) and Deep Learning Course [here](#worthy-repositories)
 
 # Public
 [(Back to top)](#table-of-contents)
