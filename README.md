@@ -46,7 +46,8 @@ to be shared on the repository.
 | Python Cheatsheet                      | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources.                                       | https://github.com/wilfredinni/python-cheatsheet                                 |
 | Machine Learning Algorithms Cheatsheet | The Machine Learning Cheatsheet explaining various models briefly.                                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet |
 | Awesome AI Datasets & Tools            | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes.                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                     |
-| Machine Learning Cheatsheet            | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning. | https://github.com/soulmachine/machine-learning-cheat-sheet                      |
+
+[//]: # (| Machine Learning Cheatsheet            | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning. | https://github.com/soulmachine/machine-learning-cheat-sheet                      |)
 # Worthy Repositories
 [(Back to top)](#table-of-contents)
 
@@ -96,17 +97,22 @@ Additional notes that we covered through lectures or additional material that I 
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Simple_Linear_Regression.png">
 </p>
 
-### Multiple Linear Regression Info and Beneficial Websites | Day 5
+[//]: # (### Multiple Linear Regression Info and Beneficial Websites | Day 5)
 
-+ Check out the code snippet for Multiple Linear Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Multiple_Linear_Regression.md).
-+ Added GitHub repo that contains a huge Cheatsheet on Machine Learning [here](#worthy-tools).
+[//]: # ()
+[//]: # (+ Check out the code snippet for Multiple Linear Regression [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Multiple_Linear_Regression.md&#41;.)
 
+[//]: # (+ Added GitHub repo that contains a huge Cheatsheet on Machine Learning [here]&#40;#worthy-tools&#41;.)
 
-<p align="center">
+[//]: # ()
+[//]: # ()
+[//]: # (<p align="center">)
 
-  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Multiple_Linear_Regression.png">
+[//]: # ()
+[//]: # (  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Multiple_Linear_Regression.png">)
 
-</p>
+[//]: # ()
+[//]: # (</p>)
 
 # Public
 [(Back to top)](#table-of-contents)
