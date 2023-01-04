@@ -83,7 +83,7 @@ Additional notes that we covered through lectures or additional material that I 
 
 ### Data Preprocessing and Beneficial Website | Day 3
 + Check out the code snippet for Data Preprocessing [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Data_PreProcessing.md).
-+ Added beneficial website of public open-source datasets for AI [here](#worthy-tools)
++ Added beneficial website (**3**) of public open-source datasets for AI [here](#worthy-tools)
 
 <p align="center">
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Data_Preprocessing.png">
@@ -91,7 +91,7 @@ Additional notes that we covered through lectures or additional material that I 
 
 ### Simple Linear Regression Info and Beneficial Websites | Day 4
 + Check out the code snippet for Simple Linear Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Simple_Linear_Regression.md).
-+ Added beneficial websites of Deep Learning Course & its lecture notes [here](#worthy-repositories).
++ Added beneficial websites (**2** and **3**) of Deep Learning Course & its lecture notes [here](#worthy-repositories).
 
 <p align="center">
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Simple_Linear_Regression.png">
