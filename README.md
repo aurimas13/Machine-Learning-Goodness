@@ -117,7 +117,7 @@ Additional notes that we covered through lectures or additional material that I 
 + Added a publication on Universal Intelligence: A Definition of Machine Intelligence (**5**) [here](#worthy-repositories) 
 that looks into informal definitions of intelligence defined by experts, then mathematically looks into what 
 is intelligence for machines and investigates other tests and definitions of intelligence proposed for machines.
-
++ Added a graphical summary of K Nearest Neighbours below and [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Multiple_Linear_Regression.png)
 <p align="center">
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/K_Nearest_Neighbours.png">
 </p>
