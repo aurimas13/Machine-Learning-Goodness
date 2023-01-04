@@ -41,23 +41,23 @@ Worthy websites and tools that include cheat codes for Python, Machine Learning,
 worthy tools like GitHub repositories or books while you are learning or honing your skills can be found here. Updated constantly when a worthy material is found
 to be shared on the repository.
 
-| **Title**                              | **Description**                                                                                                                               | **Link**                                                                         |
-|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| Python Cheatsheet                      | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources.                                       | https://github.com/wilfredinni/python-cheatsheet                                 |
-| Machine Learning Algorithms Cheatsheet | The Machine Learning Cheatsheet explaining various models briefly.                                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet |
-| Awesome AI Datasets & Tools            | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes.                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                     |
+| **Number** | **Title**                              | **Description**                                                                                                                               | **Link**                                                                         |
+|------------|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| 1          | Python Cheatsheet                      | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources.                                       | https://github.com/wilfredinni/python-cheatsheet                                 |
+| 2          | Machine Learning Algorithms Cheatsheet | The Machine Learning Cheatsheet explaining various models briefly.                                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet |
+| 3          | Awesome AI Datasets & Tools            | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes.                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                     |
 
-[//]: # (| Machine Learning Cheatsheet            | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning. | https://github.com/soulmachine/machine-learning-cheat-sheet                      |)
+[//]: # (|4| Machine Learning Cheatsheet            | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning. | https://github.com/soulmachine/machine-learning-cheat-sheet                      |)
 # Worthy Repositories
 [(Back to top)](#table-of-contents)
 
 Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details included can be found here:
 
-| **Title**                                    | **Description**                                                              | **Link**                                                                                |
-|----------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| Advanced AI course                           | Code Academy Advanced AI course in Lithuania                                 | https://github.com/aurimas13/CodeAcademy-AI-Course                                      |
-| GitHub on Coursera's Deep Learning Course    | GitHub Repo for Coursera's Deep Learning Specialization by deeplearning.ai   | https://github.com/aurimas13/Coursera-Deep-Learning-Specialization                      |
-| Notes on Cousera's Deep Learning Course      | Lecture Notes for Coursera's Deep Learning Specialization by deeplearning.ai | https://drive.google.com/drive/folders/1X9qp9KsGs6IuVgzZJZvMJvVzgxPjhNKN?usp=share_link |
+| **Number** | **Title**                                 | **Description**                                                              | **Link**                                                                                |
+|------------|-------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| 1          | Advanced AI course                        | Code Academy Advanced AI course in Lithuania                                 | https://github.com/aurimas13/CodeAcademy-AI-Course                                      |
+| 2          | GitHub on Coursera's Deep Learning Course | GitHub Repo for Coursera's Deep Learning Specialization by deeplearning.ai   | https://github.com/aurimas13/Coursera-Deep-Learning-Specialization                      |
+| 3          | Notes on Cousera's Deep Learning Course   | Lecture Notes for Coursera's Deep Learning Specialization by deeplearning.ai | https://drive.google.com/drive/folders/1X9qp9KsGs6IuVgzZJZvMJvVzgxPjhNKN?usp=share_link |
 
 # Notebooks 
 [(Back to top)](#table-of-contents)
