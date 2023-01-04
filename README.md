@@ -41,13 +41,15 @@ Worthy websites and tools that include cheat codes for Python, Machine Learning,
 worthy tools like GitHub repositories or books while you are learning or honing your skills can be found here. Updated constantly when a worthy material is found
 to be shared on the repository.
 
-| **Number** | **Title**                              | **Description**                                                                                                                               | **Link**                                                                         |
-|-----------|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| 1         | Python Cheatsheet                      | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources.                                       | https://github.com/wilfredinni/python-cheatsheet                                 |
-| 2         | Machine Learning Algorithms Cheatsheet | The Machine Learning Cheatsheet explaining various models briefly.                                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet |
-| 3         | Awesome AI Datasets & Tools            | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes.                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                     |
+| **Number** | **Title**                                                    | **Description**                                                                                                                               | **Link**                                                                         |
+|------------|--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| 1          | Python Cheatsheet                                            | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources.                                       | https://github.com/wilfredinni/python-cheatsheet                                 |
+| 2          | Machine Learning Algorithms Cheatsheet                       | The Machine Learning Cheatsheet explaining various models briefly.                                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet |
+| 3          | Awesome AI Datasets & Tools                                  | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes.                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                     |
 
-[//]: # (| 4         | Machine Learning Cheatsheet            | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning. | https://github.com/soulmachine/machine-learning-cheat-sheet                      |)
+[//]: # (| 4          | Machine Learning Cheatsheet                                  | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning. | https://github.com/soulmachine/machine-learning-cheat-sheet                      |)
+
+[//]: # (| 5          | Universal Intelligence: A Definition of Machine Intelligence | The publication on definitions of intelligence                                                                                                | https://arxiv.org/pdf/0712.3329.pdf                                              |)
 
 # Worthy Repositories
 [(Back to top)](#table-of-contents)
@@ -98,7 +100,7 @@ Additional notes that we covered through lectures or additional material that I 
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Simple_Linear_Regression.png">
 </p>
 
-[//]: # (### Multiple Linear Regression Info and Beneficial Websites | Day 5)
+[//]: # (### Multiple Linear Regression and ML Cheatsheet | Day 5)
 
 [//]: # (+ Check out the code snippet for Multiple Linear Regression [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Multiple_Linear_Regression.md&#41;.)
 
@@ -110,6 +112,16 @@ Additional notes that we covered through lectures or additional material that I 
 [//]: # (  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Multiple_Linear_Regression.png">)
 
 [//]: # (</p>)
+
+### K Nearest Neighbours and Universal Intelligence | Day 6
++ Added a publication on Universal Intelligence: A Definition of Machine Intelligence (**5**) [here](#worthy-repositories) 
+that looks into informal definitions of intelligence defined by experts, then mathematically looks into what 
+is intelligence for machines and investigates other tests and definitions of intelligence proposed for machines.
+
+<p align="center">
+  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/K_Nearest_Neighbours.png">
+</p>
+
 
 # Public
 [(Back to top)](#table-of-contents)
