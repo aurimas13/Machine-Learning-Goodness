@@ -98,18 +98,18 @@ Additional notes that we covered through lectures or additional material that I 
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Simple_Linear_Regression.png">
 </p>
 
-### Multiple Linear Regression Info and Beneficial Websites | Day 5
+[//]: # (### Multiple Linear Regression Info and Beneficial Websites | Day 5)
 
-+ Check out the code snippet for Multiple Linear Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Multiple_Linear_Regression.md).
+[//]: # (+ Check out the code snippet for Multiple Linear Regression [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Multiple_Linear_Regression.md&#41;.)
 
-+ Added GitHub repo (**4**) that contains a huge Cheatsheet on Machine Learning [here](#worthy-tools).
+[//]: # (+ Added GitHub repo &#40;**4**&#41; that contains a huge Cheatsheet on Machine Learning [here]&#40;#worthy-tools&#41;.)
 
+[//]: # ()
+[//]: # (<p align="center">)
 
-<p align="center">
+[//]: # (  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Multiple_Linear_Regression.png">)
 
-  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Multiple_Linear_Regression.png">
-
-</p>
+[//]: # (</p>)
 
 # Public
 [(Back to top)](#table-of-contents)
