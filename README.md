@@ -96,6 +96,13 @@ Additional notes that we covered through lectures or additional material that I 
   <img src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Simple_Linear_Regression.png">
 </p>
 
+### Multiple Linear Regression Info and Beneficial Websites | Day 4
++ Check out the code snippet for Multiple Linear Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Multiple_Linear_Regression.md).
++ Added beneficial websites of Deep Learning Course & its lecture notes [here](#worthy-repositories).
+
+<p align="center">
+  <img src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Multiple_Linear_Regression.png">
+</p>
 
 # Public
 [(Back to top)](#table-of-contents)
