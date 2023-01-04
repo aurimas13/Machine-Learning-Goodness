@@ -93,7 +93,7 @@ Additional notes that we covered through lectures or additional material that I 
 + Added beneficial websites of Deep Learning Course & its lecture notes [here](#worthy-repositories).
 
 <p align="center">
-  <img height="1111px"src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Simple_Linear_Regression.png">
+  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Simple_Linear_Regression.png">
 </p>
 
 ### Multiple Linear Regression Info and Beneficial Websites | Day 5
