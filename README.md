@@ -102,7 +102,7 @@ Additional notes that we covered through lectures or additional material that I 
 ### Multiple Linear Regression and ML Cheatsheet | Day 5
 
 + Check out the code snippet for Multiple Linear Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Multiple_Linear_Regression.md).
-+ Added GitHub repo (**4**) that contains a huge Cheatsheet on Machine Learning [here](#worthy-tools).
++ Added GitHub repo (**4**) that contains a huge Cheatsheet on Machine Learning [here](#worthy-tools) that helped recall knowledge and ideas on Machine Learning.
 
 <p align="center">
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Multiple_Linear_Regression.png">
