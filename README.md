@@ -109,22 +109,16 @@ equations with diagrams that helped recall knowledge and ideas on Machine Learni
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Multiple_Linear_Regression.png">
 </p>
 
-[//]: # (## K Nearest Neighbours and Universal Intelligence | Day 6)
+## K Nearest Neighbours and Universal Intelligence | Day 6
 
-[//]: # (+ Added a publication &#40;**5**&#41; on Universal Intelligence: A Definition of Machine Intelligence [here]&#40;#worthy-repositories&#41; )
++ Added a publication (**5**) on Universal Intelligence: A Definition of Machine Intelligence [here](#worthy-repositories) 
+that looks into informal definitions of intelligence defined by experts, then mathematically investigates what 
+is intelligence for machines and studies other tests and definitions of intelligence proposed for machines.
++ Learnt about K Nearest Neighbours algorithm and made a graphical summary below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Multiple_Linear_Regression.png)
 
-[//]: # (that looks into informal definitions of intelligence defined by experts, then mathematically looks into what )
-
-[//]: # (is intelligence for machines and investigates other tests and definitions of intelligence proposed for machines.)
-
-[//]: # (+ Added a graphical summary of K Nearest Neighbours below and [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Multiple_Linear_Regression.png&#41;)
-
-[//]: # (<p align="center">)
-
-[//]: # (  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/K_Nearest_Neighbours.png">)
-
-[//]: # (</p>)
-
+<p align="center">
+  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/K_Nearest_Neighbours.png">
+</p>
 
 # Public
 [(Back to top)](#table-of-contents)
