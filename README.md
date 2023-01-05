@@ -81,7 +81,7 @@ Additional notes that we covered through lectures or additional material that I 
 + Check out the Jupyter code for Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Regression.ipynb).
 
 ### ML Classification Notebook | Day 2
-+ Check out the Jupyter code for Classification  [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Classification.ipynb).
++ Check out the Jupyter code for Classification [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Classification.ipynb).
 
 ### Data Preprocessing and Beneficial Website | Day 3
 + Check out the code snippet for Data Preprocessing [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Data_PreProcessing.md).
@@ -102,7 +102,8 @@ Additional notes that we covered through lectures or additional material that I 
 ### Multiple Linear Regression and ML Cheatsheet | Day 5
 
 + Check out the code snippet for Multiple Linear Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Multiple_Linear_Regression.md).
-+ Added a huge Cheatsheet on Machine Learning as item **4**  [here](#worthy-tools) via GitHub repo that contains that helped recall knowledge and ideas on Machine Learning.
++ Added a huge Cheatsheet on Machine Learning as item **4** [here](#worthy-tools) via GitHub repo containing classical 
+equations with diagrams that helped recall knowledge and ideas on Machine Learning.
 
 <p align="center">
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Multiple_Linear_Regression.png">
