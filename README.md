@@ -101,7 +101,7 @@ Additional notes that we covered through lectures or additional material that I 
 
 ## Multiple Linear Regression and ML Cheatsheet | Day 5
 
-+ Check out the code snippet for Multiple Linear Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Multiple_Linear_Regression.md).
++ Check out the code snippet for Multiple Linear Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_5_Multiple_Linear_Regression.md).
 + Added a huge Cheatsheet on Machine Learning as item **4** [here](#worthy-tools) via GitHub repo containing classical 
 equations with diagrams that helped recall knowledge and ideas on Machine Learning.
 
@@ -114,16 +114,20 @@ equations with diagrams that helped recall knowledge and ideas on Machine Learni
 + Added a publication (**5**) on Universal Intelligence: A Definition of Machine Intelligence [here](#worthy-repositories) 
 that looks into informal definitions of intelligence defined by experts, then mathematically investigates what 
 is intelligence for machines and studies other tests and definitions of intelligence proposed for machines.
-+ Learnt about K Nearest Neighbours algorithm and made a graphical summary below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Multiple_Linear_Regression.png)
++ Learnt about K Nearest Neighbours algorithm and made a graphical summary below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_6_K_Nearest_Neighbours.png)
 
 <p align="center">
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/K_Nearest_Neighbours.png">
 </p>
 
-## KNN code snippet, Notebook on TF Tensors & Creativity of ChatGPT | Day 7
-+ Wrote the KNN algorithm for classification as a code snippet that can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/KNN.md)
-and honed expertise of Deep Learning frameworks like TensorFlow and Keras by making a notebook that looked into TensorFlow tensors [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_about_Tensors.ipynb).
-+ Read an article on how to improve creative writing through ChatGPT [here](https://towardsdatascience.com/using-chatgpt-as-a-creative-writing-partner-part-1-prose-dc9a9994d41f)
+[//]: # ()
+[//]: # (## KNN code snippet, Notebook on TF Tensors & Creativity of ChatGPT | Day 7)
+
+[//]: # (+ Wrote the KNN algorithm for classification as a code snippet that can be found [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/KNN.md&#41;)
+
+[//]: # (and honed expertise of Deep Learning frameworks like TensorFlow and Keras by making a notebook that looked into TensorFlow tensors [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_about_Tensors.ipynb&#41;.)
+
+[//]: # (+ Read an article on how to improve creative writing through ChatGPT [here]&#40;https://towardsdatascience.com/using-chatgpt-as-a-creative-writing-partner-part-1-prose-dc9a9994d41f&#41;)
 
 
 # Public
