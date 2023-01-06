@@ -139,21 +139,15 @@ is intelligence for machines and studies other tests and definitions of intellig
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_6_K_Nearest_Neighbours.png">
 </p>
 
-[//]: # ()
-[//]: # (## KNN code snippet, Notebook on TF Tensors, Creativity of ChatGPT & AI Art | Day 7)
 
-[//]: # ()
-[//]: # ()
-[//]: # (+ Wrote the KNN algorithm for classification as a code snippet that can be found [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_7_KNN.md&#41;)
+## KNN code snippet, Notebook on TF Tensors, Creativity of ChatGPT & AI Art | Day 7
 
-[//]: # (and honed expertise of Deep Learning framework TensorFlow by making a notebook that looked into TensorFlow tensors [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_7_Example_about_Tensors.ipynb&#41;.)
++ Wrote the KNN algorithm for classification as a code snippet that can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_7_KNN.md)
+and honed expertise of Deep Learning framework TensorFlow by making a notebook that looked into TensorFlow tensors [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_7_Example_about_Tensors.ipynb).
 
-[//]: # ()
-[//]: # (+ Read articles on how to improve creative writing through ChatGPT [here]&#40;https://towardsdatascience.com/using-chatgpt-as-a-creative-writing-partner-part-1-prose-dc9a9994d41f&#41;)
-
-[//]: # (where I loved the poem about Python after trying it myself that left me certain that ChatGPT could be a good collaborator on creative writing)
-
-[//]: # (and on the potential of AI in the art [here]&#40;https://medium.com/mlearning-ai/is-ai-art-really-art-a363073d62d0&#41; that may lead to the future of social activism.)
++ Read articles on how to improve creative writing through ChatGPT [here](https://towardsdatascience.com/using-chatgpt-as-a-creative-writing-partner-part-1-prose-dc9a9994d41f)
+where I loved the poem about Python after trying it myself that left me certain that ChatGPT could be a good collaborator on creative writing
+and on the potential of AI in the art [here](https://medium.com/mlearning-ai/is-ai-art-really-art-a363073d62d0) that may lead to the future of social activism.
 
 [//]: # ()
 [//]: # ()
