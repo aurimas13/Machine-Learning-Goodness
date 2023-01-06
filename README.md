@@ -54,7 +54,7 @@ Worthy books to hone expertise of ML/DL/NN/AGI, Python Programming, CS fundament
 [(Back to top)](#table-of-contents)
 
 Worthy websites and tools that include cheat codes for Python, Machine Learning, Deep Learning, Neural Networks and what not apart from other
-worthy tools like GitHub repositories or books while you are learning or honing your skills can be found here. Updated constantly when a worthy material is found
+worthy tools like GitHub repositories while you are learning or honing your skills can be found here. Updated constantly when a worthy material is found
 to be shared on the repository.
 
 | **Number** | **Title**                                                    | **Description**                                                                                                                              | **Link**                                                                         |
