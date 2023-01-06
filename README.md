@@ -130,7 +130,7 @@ equations with diagrams that helped recall knowledge and ideas on Machine Learni
 
 ## Universal Intelligence and K Nearest Neighbours | Day 6
 
-+ Added a publication (**5**) on Universal Intelligence: A Definition of Machine Intelligence [here](#worthy-repositories) 
++ Added a publication (**5**) on Universal Intelligence: A Definition of Machine Intelligence [here](#worthy-tools) 
 that looks into informal definitions of intelligence defined by experts, then mathematically investigates what 
 is intelligence for machines and studies other tests and definitions of intelligence proposed for machines.
 + Learnt about K Nearest Neighbours algorithm and made a graphical summary below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_6_K_Nearest_Neighbours.png).
