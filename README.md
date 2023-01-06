@@ -78,10 +78,10 @@ Additional notes that we covered through lectures or additional material that I 
 *This is the folder of **100DaysOfMLCode** challenge updated daily by adding what has been done each day.*
 
 ## Machine Learning Regression Notebook | Day 1
-+ Check out the Jupyter code for Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Regression.ipynb).
++ Check out the Jupyter code for Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_1_Example_with_PyCaret_of_Regression.ipynb).
 
 ## Machine Learning Classification Notebook | Day 2
-+ Check out the Jupyter code for Classification [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Classification.ipynb).
++ Check out the Jupyter code for Classification [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_2_Example_with_PyCaret_of_Classification.ipynb).
 
 ## Data Preprocessing and Beneficial Website | Day 3
 + Check out the code snippet for Data Preprocessing [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_3_Data_PreProcessing.md).
@@ -123,12 +123,13 @@ is intelligence for machines and studies other tests and definitions of intellig
 [//]: # ()
 [//]: # (## KNN code snippet, Notebook on TF Tensors & Creativity of ChatGPT | Day 7)
 
-[//]: # (+ Wrote the KNN algorithm for classification as a code snippet that can be found [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/KNN.md&#41;)
+[//]: # (+ Wrote the KNN algorithm for classification as a code snippet that can be found [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_7_KNN.md&#41;)
 
-[//]: # (and honed expertise of Deep Learning frameworks like TensorFlow and Keras by making a notebook that looked into TensorFlow tensors [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_about_Tensors.ipynb&#41;.)
+[//]: # (and honed expertise of Deep Learning frameworks like TensorFlow and Keras by making a notebook that looked into TensorFlow tensors [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_7_Example_about_Tensors.ipynb&#41;.)
 
 [//]: # (+ Read an article on how to improve creative writing through ChatGPT [here]&#40;https://towardsdatascience.com/using-chatgpt-as-a-creative-writing-partner-part-1-prose-dc9a9994d41f&#41;)
 
+## | Day 21
 
 # Public
 [(Back to top)](#table-of-contents)
