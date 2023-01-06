@@ -88,7 +88,7 @@ Additional notes that we covered through lectures or additional material that I 
 + Added beneficial website as item **3** of public open-source datasets for AI [here](#worthy-tools)
 
 <p align="center">
-  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Data_Preprocessing.png">
+  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_3_Data_Preprocessing.png">
 </p>
 
 ## Simple Linear Regression Info and Beneficial Websites | Day 4
@@ -96,7 +96,7 @@ Additional notes that we covered through lectures or additional material that I 
 + Added beneficial websites as items **2** & **3** of Deep Learning Course & its lecture notes [here](#worthy-repositories).
 
 <p align="center">
-  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Simple_Linear_Regression.png">
+  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_4_Simple_Linear_Regression.png">
 </p>
 
 ## Multiple Linear Regression and ML Cheatsheet | Day 5
@@ -106,7 +106,7 @@ Additional notes that we covered through lectures or additional material that I 
 equations with diagrams that helped recall knowledge and ideas on Machine Learning.
 
 <p align="center">
-  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Multiple_Linear_Regression.png">
+  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_5_Multiple_Linear_Regression.png">
 </p>
 
 ## K Nearest Neighbours and Universal Intelligence | Day 6
@@ -117,7 +117,7 @@ is intelligence for machines and studies other tests and definitions of intellig
 + Learnt about K Nearest Neighbours algorithm and made a graphical summary below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_6_K_Nearest_Neighbours.png)
 
 <p align="center">
-  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/K_Nearest_Neighbours.png">
+  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_6_K_Nearest_Neighbours.png">
 </p>
 
 [//]: # ()
