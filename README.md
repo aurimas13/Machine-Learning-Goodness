@@ -47,8 +47,7 @@ to be shared on the repository.
 | 2          | Machine Learning Algorithms Cheatsheet                       | The Machine Learning Cheatsheet explaining various models briefly.                                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet |
 | 3          | Awesome AI Datasets & Tools                                  | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes.                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                     |
 | 4          | Machine Learning Cheatsheet                                  | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning. | https://github.com/soulmachine/machine-learning-cheat-sheet                      |
-
-[//]: # (| 5          | Universal Intelligence: A Definition of Machine Intelligence | The publication on definitions of intelligence                                                                                                | https://arxiv.org/pdf/0712.3329.pdf                                              |)
+| 5          | Universal Intelligence: A Definition of Machine Intelligence | The publication on definitions of intelligence                                                                                                | https://arxiv.org/pdf/0712.3329.pdf                                              |
 
 # Worthy Repositories
 [(Back to top)](#table-of-contents)
@@ -85,7 +84,7 @@ Additional notes that we covered through lectures or additional material that I 
 
 ## Data Preprocessing and Beneficial Website | Day 3
 + Check out the code snippet for Data Preprocessing [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_3_Data_PreProcessing.md).
-+ Added beneficial website as item **3** of public open-source datasets for AI [here](#worthy-tools)
++ Added beneficial website as item **3** of public open-source datasets for AI [here](#worthy-tools).
 
 <p align="center">
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_3_Data_Preprocessing.png">
@@ -114,22 +113,48 @@ equations with diagrams that helped recall knowledge and ideas on Machine Learni
 + Added a publication (**5**) on Universal Intelligence: A Definition of Machine Intelligence [here](#worthy-repositories) 
 that looks into informal definitions of intelligence defined by experts, then mathematically investigates what 
 is intelligence for machines and studies other tests and definitions of intelligence proposed for machines.
-+ Learnt about K Nearest Neighbours algorithm and made a graphical summary below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_6_K_Nearest_Neighbours.png)
++ Learnt about K Nearest Neighbours algorithm and made a graphical summary below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_6_K_Nearest_Neighbours.png).
 
 <p align="center">
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_6_K_Nearest_Neighbours.png">
 </p>
 
-[//]: # ()
-[//]: # (## KNN code snippet, Notebook on TF Tensors & Creativity of ChatGPT | Day 7)
 
+[//]: # (## KNN code snippet, Notebook on TF Tensors, Creativity of ChatGPT & AI Art | Day 7)
+
+[//]: # ()
 [//]: # (+ Wrote the KNN algorithm for classification as a code snippet that can be found [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_7_KNN.md&#41;)
 
 [//]: # (and honed expertise of Deep Learning frameworks like TensorFlow and Keras by making a notebook that looked into TensorFlow tensors [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_7_Example_about_Tensors.ipynb&#41;.)
 
-[//]: # (+ Read an article on how to improve creative writing through ChatGPT [here]&#40;https://towardsdatascience.com/using-chatgpt-as-a-creative-writing-partner-part-1-prose-dc9a9994d41f&#41;)
+[//]: # (+ Read articles on how to improve creative writing through ChatGPT [here]&#40;https://towardsdatascience.com/using-chatgpt-as-a-creative-writing-partner-part-1-prose-dc9a9994d41f&#41;)
 
-## | Day 21
+[//]: # (and the ques)
+
+[//]: # ()
+[//]: # (## Category Theory in Machine Learning & Algorithms books | Day 8)
+
+[//]: # (+ Began diving into Category Theory and its usage in Machine Learning. A nice GitHub repository that lists all of the )
+
+[//]: # (relevant papers can be found [here]&#40;https://github.com/bgavran/Category_Theory_Machine_Learning&#41; while to get a good grasp of)
+
+[//]: # (Category Theory started reading the book of [Category Theory for Programmers by Bartosz Milewski]&#40;https://www.scribd.com/document/387084492/Category-Theory-for-Programmers&#41;.)
+
+[//]: # (+ Finished 'Grokking Algorithms: An illustrated guide for programmers and other curious people' by Aditya Y. Bhargava )
+
+[//]: # (that can be found [here]&#40;http://library.lol/main/1a699911f1094229b4d6c5df601a09ad&#41;. Recommend it highly as algorithms )
+
+[//]: # (are explained simply and through visualisations. Loved it. Also began another technical book of Steven Skiena's )
+
+[//]: # ('Algorithm Design Manual' to hone expertise on algorithms further as found [here]&#40;https://www.amazon.com/gp/product/3030542556/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=3030542556&linkCode=as2&tag=algorist-20&linkId=00b8675b374dcd56244e23efeecc80b0&#41;)
+
+[//]: # (with videos that compelement the book [here]&#40;https://www3.cs.stonybrook.edu/~skiena/373/videos/&#41;.)
+
+[//]: # ()
+[//]: # (## TensorFlow Eager & Graph Executions | Day 21)
+
+[//]: # ()
+[//]: # (+ Wrote a short Jupyter code snippet on comparing Eager and Graph executions of TensorFlow [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_21_TF_Eager_and_Graph_Executions.ipynb.ipynb&#41;)
 
 # Public
 [(Back to top)](#table-of-contents)
