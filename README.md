@@ -37,7 +37,7 @@ such as websites, beneficial learning materials, tips and whatnot not to mention
 # Worthy Books
 [(Back to top)](#table-of-contents)
 
-Worthy books to hone expertise of ML/DL/NN/AGI, Python Programming, CS fundamentals needed for AI analysis and any useful book for a pragrammer:
+Worthy books to hone expertise of ML/DL/NN/AGI, Python Programming, CS fundamentals needed for AI analysis and any useful book for a Developer or ML Engineer:
 
 [//]: # (| **Number** | **Title**                                                                          | **Description**                                                                                                                                                     | **Link**                                                                                                                                                                               |)
 
