@@ -109,7 +109,7 @@ equations with diagrams that helped recall knowledge and ideas on Machine Learni
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_5_Multiple_Linear_Regression.png">
 </p>
 
-## K Nearest Neighbours and Universal Intelligence | Day 6
+## Universal Intelligence and K Nearest Neighbours | Day 6
 
 + Added a publication (**5**) on Universal Intelligence: A Definition of Machine Intelligence [here](#worthy-repositories) 
 that looks into informal definitions of intelligence defined by experts, then mathematically investigates what 
