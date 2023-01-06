@@ -1,6 +1,6 @@
 # Data PreProcessing
 <p align="center">
-  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_3_Data_Preprocessing.png">
+  <img height="3333px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_3_Data_Preprocessing.png">
 </p>
 
 As shown in the infograph we will break down data preprocessing in 6 essential steps.
