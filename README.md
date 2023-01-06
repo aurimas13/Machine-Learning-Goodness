@@ -75,7 +75,7 @@ Additional notes that we covered through lectures or additional material that I 
 # 100DaysOfMLCode
 [(Back to top)](#table-of-contents)
 
-*This is the section of **100DaysOfMLCode** challenge updated daily by adding what has been done each day.*
+*This is the folder of **100DaysOfMLCode** challenge updated daily by adding what has been done each day.*
 
 ## Machine Learning Regression Notebook | Day 1
 + Check out the Jupyter code for Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_with_PyCaret_of_Regression.ipynb).
@@ -119,6 +119,11 @@ is intelligence for machines and studies other tests and definitions of intellig
 <p align="center">
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/K_Nearest_Neighbours.png">
 </p>
+
+## KNN code snippet, Notebook on TF Tensors & Creativity of ChatGPT | Day 7
++ Wrote the KNN algorithm for classification as a code snippet that can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/KNN.md)
+and honed expertise of Deep Learning frameworks like TensorFlow and Keras by making a notebook that looked into TensorFlow tensors [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_about_Tensors.ipynb).
++ Read an article on how to improve creative writing through ChatGPT [here](https://towardsdatascience.com/using-chatgpt-as-a-creative-writing-partner-part-1-prose-dc9a9994d41f)
 
 # Public
 [(Back to top)](#table-of-contents)
