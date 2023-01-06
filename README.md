@@ -23,6 +23,7 @@ such as websites, beneficial learning materials, tips and whatnot not to mention
 
 # Table of Contents
 - [Table of contents](#table-of-contents)
+- [Worthy Books](#worthy-books)
 - [Worthy Tools](#worthy-tools)
 - [Worthy Repositories](#worthy-repositories)
 - [Notebooks](#notebooks)
@@ -33,6 +34,21 @@ such as websites, beneficial learning materials, tips and whatnot not to mention
 - [Logo](#logo)
 - [License](#license)
 
+# Worthy Books
+[(Back to top)](#table-of-contents)
+
+Worthy books to hone expertise of ML/DL/NN/AGI, Python Programming, CS fundamentals needed for AI analysis and any useful book for a pragrammer:
+
+[//]: # (| **Number** | **Title**                                                                          | **Description**                                                                                                                                                     | **Link**                                                                                                                                                                               |)
+
+[//]: # (|------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|)
+
+[//]: # (| 1          | Grokking Algorithms: An illustrated guide for programmers and other curious people | Visualisation of most popular algorithms used in Machine Learning and programming to solve problems                                                                 | http://library.lol/main/1a699911f1094229b4d6c5df601a09ad                                                                                                                               |)
+
+[//]: # (| 2          | Algorithm Design Manual                                                            | Introduction to mathematical analysis of a variety of computer algorithms                                                                                           | https://www.amazon.com/gp/product/3030542556/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=3030542556&linkCode=as2&tag=algorist-20&linkId=00b8675b374dcd56244e23efeecc80b0 |)
+
+[//]: # (| 3          | Category Theory for Programmers                                                    | Book about Category Theory written on posts from Milewski's programming [cafe]&#40;https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/&#41; | https://www.scribd.com/document/387084492/Category-Theory-for-Programmers                                                                                                              |)
+
 
 # Worthy Tools
 [(Back to top)](#table-of-contents)
@@ -41,24 +57,28 @@ Worthy websites and tools that include cheat codes for Python, Machine Learning,
 worthy tools like GitHub repositories or books while you are learning or honing your skills can be found here. Updated constantly when a worthy material is found
 to be shared on the repository.
 
-| **Number** | **Title**                                                    | **Description**                                                                                                                               | **Link**                                                                         |
-|------------|--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| 1          | Python Cheatsheet                                            | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources.                                       | https://github.com/wilfredinni/python-cheatsheet                                 |
-| 2          | Machine Learning Algorithms Cheatsheet                       | The Machine Learning Cheatsheet explaining various models briefly.                                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet |
-| 3          | Awesome AI Datasets & Tools                                  | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes.                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                     |
-| 4          | Machine Learning Cheatsheet                                  | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning. | https://github.com/soulmachine/machine-learning-cheat-sheet                      |
-| 5          | Universal Intelligence: A Definition of Machine Intelligence | The publication on definitions of intelligence                                                                                                | https://arxiv.org/pdf/0712.3329.pdf                                              |
+| **Number** | **Title**                                                    | **Description**                                                                                                                              | **Link**                                                                         |
+|------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| 1          | Python Cheatsheet                                            | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources                                       | https://github.com/wilfredinni/python-cheatsheet                                 |
+| 2          | Machine Learning Algorithms Cheatsheet                       | The Machine Learning Cheatsheet explaining various models briefly                                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet |
+| 3          | Awesome AI Datasets & Tools                                  | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                     |
+| 4          | Machine Learning Cheatsheet                                  | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning | https://github.com/soulmachine/machine-learning-cheat-sheet                      |
+| 5          | Universal Intelligence: A Definition of Machine Intelligence | The publication on definitions of intelligence                                                                                               | https://arxiv.org/pdf/0712.3329.pdf                                              |
+
+[//]: # (| X          | Machine Learning Cheatsheet                                  | The Machine Learning Cheatsheet of all fiels making it and common used algorithms                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet                                 |)
 
 # Worthy Repositories
 [(Back to top)](#table-of-contents)
 
 Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details included can be found here:
 
-| **Number** | **Title**                                 | **Description**                                                              | **Link**                                                                                |
-|------------|-------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| 1          | Advanced AI course                        | Code Academy Advanced AI course in Lithuania                                 | https://github.com/aurimas13/CodeAcademy-AI-Course                                      |
-| 2          | GitHub on Coursera's Deep Learning Course | GitHub Repo for Coursera's Deep Learning Specialization by deeplearning.ai   | https://github.com/aurimas13/Coursera-Deep-Learning-Specialization                      |
-| 3          | Notes on Cousera's Deep Learning Course   | Lecture Notes for Coursera's Deep Learning Specialization by deeplearning.ai | https://drive.google.com/drive/folders/1X9qp9KsGs6IuVgzZJZvMJvVzgxPjhNKN?usp=share_link |
+| **Number** | **Title**                                 | **Description**                                                                | **Link**                                                                                |
+|------------|-------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| 1          | Advanced AI course                        | Code Academy Advanced AI course in Lithuania                                   | https://github.com/aurimas13/CodeAcademy-AI-Course                                      |
+| 2          | GitHub on Coursera's Deep Learning Course | GitHub Repo for Coursera's Deep Learning Specialization by deeplearning.ai     | https://github.com/aurimas13/Coursera-Deep-Learning-Specialization                      |
+| 3          | Notes on Cousera's Deep Learning Course   | Lecture Notes for Coursera's Deep Learning Specialization by deeplearning.ai   | https://drive.google.com/drive/folders/1X9qp9KsGs6IuVgzZJZvMJvVzgxPjhNKN?usp=share_link |
+
+[//]: # (| 4          | Category Theory on Machine Learning       | Github containing list of publications of Category Theory in various AI fields | https://github.com/bgavran/Category_Theory_Machine_Learning                             |)
 
 # Notebooks 
 [(Back to top)](#table-of-contents)
@@ -125,36 +145,46 @@ is intelligence for machines and studies other tests and definitions of intellig
 [//]: # ()
 [//]: # (+ Wrote the KNN algorithm for classification as a code snippet that can be found [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_7_KNN.md&#41;)
 
-[//]: # (and honed expertise of Deep Learning frameworks like TensorFlow and Keras by making a notebook that looked into TensorFlow tensors [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_7_Example_about_Tensors.ipynb&#41;.)
+[//]: # (and honed expertise of Deep Learning framework TensorFlow by making a notebook that looked into TensorFlow tensors [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_7_Example_about_Tensors.ipynb&#41;.)
 
-[//]: # (+ Read articles on how to improve creative writing through ChatGPT [here]&#40;https://towardsdatascience.com/using-chatgpt-as-a-creative-writing-partner-part-1-prose-dc9a9994d41f&#41;)
+[//]: # (+ Read articles on how to improve creative writing through ChatGPT [here]&#40;https://towardsdatascience.com/using-chatgpt-as-a-creative-writing-partner-part-1-prose-dc9a9994d41f&#41; )
 
-[//]: # (and the ques)
+[//]: # (where I loved the poem about Python after trying it myself that left me certain that ChatGPT could be a good collaborator on creative writing )
 
-[//]: # ()
+[//]: # (and on the potential of AI in the art [here]&#40;https://medium.com/mlearning-ai/is-ai-art-really-art-a363073d62d0&#41; that may lead to the future of social activism.)
+
+[//]: # (+ Read about ML experimetn tracking [here]&#40;https://neptune.ai/blog/ml-experiment-tracking&#41;.)
+
 [//]: # (## Category Theory in Machine Learning & Algorithms books | Day 8)
 
 [//]: # (+ Began diving into Category Theory and its usage in Machine Learning. A nice GitHub repository that lists all of the )
 
-[//]: # (relevant papers can be found [here]&#40;https://github.com/bgavran/Category_Theory_Machine_Learning&#41; while to get a good grasp of)
+[//]: # (relevant papers can be found as item **4** [here]&#40;#worthy-repositories&#41; while to get a good grasp of Category Theory started )
 
-[//]: # (Category Theory started reading the book of [Category Theory for Programmers by Bartosz Milewski]&#40;https://www.scribd.com/document/387084492/Category-Theory-for-Programmers&#41;.)
+[//]: # (reading the book of [Category Theory for Programmers by Bartosz Milewski]&#40;https://www.scribd.com/document/387084492/Category-Theory-for-Programmers&#41; as also found [here]&#40;#worthy-books&#41; )
+
+[//]: # (with a blog from which the book is based on.)
 
 [//]: # (+ Finished 'Grokking Algorithms: An illustrated guide for programmers and other curious people' by Aditya Y. Bhargava )
 
-[//]: # (that can be found [here]&#40;http://library.lol/main/1a699911f1094229b4d6c5df601a09ad&#41;. Recommend it highly as algorithms )
+[//]: # (that can be found as item **1** [here]&#40;#worthy-books&#41;. Recommend it highly as algorithms are explained simply and through visualisations. Loved it. )
 
-[//]: # (are explained simply and through visualisations. Loved it. Also began another technical book of Steven Skiena's )
+[//]: # (Also began another technical book of Steven Skiena's'Algorithm Design Manual' to hone expertise on algorithms further as found)
 
-[//]: # ('Algorithm Design Manual' to hone expertise on algorithms further as found [here]&#40;https://www.amazon.com/gp/product/3030542556/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=3030542556&linkCode=as2&tag=algorist-20&linkId=00b8675b374dcd56244e23efeecc80b0&#41;)
+[//]: # (as item **2** [here]&#40;#worthy-books&#41; with videos that compelement the book [here]&#40;https://www3.cs.stonybrook.edu/~skiena/373/videos/&#41;.)
 
-[//]: # (with videos that compelement the book [here]&#40;https://www3.cs.stonybrook.edu/~skiena/373/videos/&#41;.)
 
-[//]: # ()
-[//]: # (## TensorFlow Eager & Graph Executions | Day 21)
+
+
+[//]: # (## TensorFlow Eager & Graph Executions & Machine Learning Cheatsheet| Day 21)
 
 [//]: # ()
 [//]: # (+ Wrote a short Jupyter code snippet on comparing Eager and Graph executions of TensorFlow [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_21_TF_Eager_and_Graph_Executions.ipynb.ipynb&#41;)
+
+[//]: # (and found a short and to the point Machine Learning cheatsheet that can be found as item **X** [here]&#40;#worthy-tools&#41;.)
+
+
+
 
 # Public
 [(Back to top)](#table-of-contents)
