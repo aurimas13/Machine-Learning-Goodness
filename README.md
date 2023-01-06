@@ -125,6 +125,7 @@ is intelligence for machines and studies other tests and definitions of intellig
 and honed expertise of Deep Learning frameworks like TensorFlow and Keras by making a notebook that looked into TensorFlow tensors [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Example_about_Tensors.ipynb).
 + Read an article on how to improve creative writing through ChatGPT [here](https://towardsdatascience.com/using-chatgpt-as-a-creative-writing-partner-part-1-prose-dc9a9994d41f)
 
+
 # Public
 [(Back to top)](#table-of-contents)
 
