@@ -1,7 +1,7 @@
  # K-Nearest Neighbors (K-NN)
 
 <p align="center">
-  <img height="2222px"src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_6_K_Nearest_Neighbours.png)
+  <img height="2222px"src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_6_K_Nearest_Neighbours.png")
 ">
 </p>
 
