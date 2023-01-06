@@ -65,7 +65,7 @@ to be shared on the repository.
 | 4          | Machine Learning Cheatsheet                                  | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning | https://github.com/soulmachine/machine-learning-cheat-sheet                      |
 | 5          | Universal Intelligence: A Definition of Machine Intelligence | The publication on definitions of intelligence                                                                                               | https://arxiv.org/pdf/0712.3329.pdf                                              |
 
-[//]: # (| X          | Machine Learning Cheatsheet                                  | The Machine Learning Cheatsheet of all fiels making it and common used algorithms                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet                                 |)
+[//]: # (| X          | Simple Machine Learning Cheatsheet                                  | The Machine Learning Cheatsheet of all fields making it and common used algorithms                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet                                 |)
 
 # Worthy Repositories
 [(Back to top)](#table-of-contents)
@@ -139,51 +139,57 @@ is intelligence for machines and studies other tests and definitions of intellig
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_6_K_Nearest_Neighbours.png">
 </p>
 
-
+[//]: # ()
 [//]: # (## KNN code snippet, Notebook on TF Tensors, Creativity of ChatGPT & AI Art | Day 7)
 
+[//]: # ()
 [//]: # ()
 [//]: # (+ Wrote the KNN algorithm for classification as a code snippet that can be found [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_7_KNN.md&#41;)
 
 [//]: # (and honed expertise of Deep Learning framework TensorFlow by making a notebook that looked into TensorFlow tensors [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_7_Example_about_Tensors.ipynb&#41;.)
 
-[//]: # (+ Read articles on how to improve creative writing through ChatGPT [here]&#40;https://towardsdatascience.com/using-chatgpt-as-a-creative-writing-partner-part-1-prose-dc9a9994d41f&#41; )
+[//]: # ()
+[//]: # (+ Read articles on how to improve creative writing through ChatGPT [here]&#40;https://towardsdatascience.com/using-chatgpt-as-a-creative-writing-partner-part-1-prose-dc9a9994d41f&#41;)
 
-[//]: # (where I loved the poem about Python after trying it myself that left me certain that ChatGPT could be a good collaborator on creative writing )
+[//]: # (where I loved the poem about Python after trying it myself that left me certain that ChatGPT could be a good collaborator on creative writing)
 
 [//]: # (and on the potential of AI in the art [here]&#40;https://medium.com/mlearning-ai/is-ai-art-really-art-a363073d62d0&#41; that may lead to the future of social activism.)
 
-[//]: # (+ Read about ML experimetn tracking [here]&#40;https://neptune.ai/blog/ml-experiment-tracking&#41;.)
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # (## Category Theory in ML, Algorithms & ML experiment tracking | Day 8)
 
-[//]: # (## Category Theory in Machine Learning & Algorithms books | Day 8)
+[//]: # ()
+[//]: # (+ Began diving into Category Theory and its usage in Machine Learning. A nice GitHub repository that lists all of the)
 
-[//]: # (+ Began diving into Category Theory and its usage in Machine Learning. A nice GitHub repository that lists all of the )
+[//]: # (relevant papers can be found as item **4** [here]&#40;#worthy-repositories&#41; while to get a good grasp of Category Theory started)
 
-[//]: # (relevant papers can be found as item **4** [here]&#40;#worthy-repositories&#41; while to get a good grasp of Category Theory started )
+[//]: # (reading the book of Category Theory for Programmers by Bartosz Milewski [here]&#40;https://www.scribd.com/document/387084492/Category-Theory-for-Programmers&#41; )
 
-[//]: # (reading the book of [Category Theory for Programmers by Bartosz Milewski]&#40;https://www.scribd.com/document/387084492/Category-Theory-for-Programmers&#41; as also found [here]&#40;#worthy-books&#41; )
+[//]: # (as also found [here]&#40;#worthy-books&#41; where a blog on which the book is based is given.)
 
-[//]: # (with a blog from which the book is based on.)
+[//]: # ()
+[//]: # (+ Finished 'Grokking Algorithms: An illustrated guide for programmers and other curious people' by Aditya Y. Bhargava)
 
-[//]: # (+ Finished 'Grokking Algorithms: An illustrated guide for programmers and other curious people' by Aditya Y. Bhargava )
-
-[//]: # (that can be found as item **1** [here]&#40;#worthy-books&#41;. Recommend it highly as algorithms are explained simply and through visualisations. Loved it. )
+[//]: # (that can be found as item **1** [here]&#40;#worthy-books&#41;. Recommend it highly as algorithms are explained simply and through visualisations. Loved it.)
 
 [//]: # (Also began another technical book of Steven Skiena's'Algorithm Design Manual' to hone expertise on algorithms further as found)
 
-[//]: # (as item **2** [here]&#40;#worthy-books&#41; with videos that compelement the book [here]&#40;https://www3.cs.stonybrook.edu/~skiena/373/videos/&#41;.)
+[//]: # (as item **2** [here]&#40;#worthy-books&#41; with videos that complement the book [here]&#40;https://www3.cs.stonybrook.edu/~skiena/373/videos/&#41;.)
 
+[//]: # ()
+[//]: # (+ Dived into ML experiment tracking [here]&#40;https://neptune.ai/blog/ml-experiment-tracking&#41; that in a few words is the process of saving all the experiment related information.)
 
-
-
-[//]: # (## TensorFlow Eager & Graph Executions & Machine Learning Cheatsheet| Day 21)
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # (## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet| Day 21)
 
 [//]: # ()
 [//]: # (+ Wrote a short Jupyter code snippet on comparing Eager and Graph executions of TensorFlow [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_21_TF_Eager_and_Graph_Executions.ipynb.ipynb&#41;)
 
-[//]: # (and found a short and to the point Machine Learning cheatsheet that can be found as item **X** [here]&#40;#worthy-tools&#41;.)
-
-
+[//]: # (+ Found a simple, short and to the point Machine Learning cheatsheet that can be found as item **X** [here]&#40;#worthy-tools&#41;.)
 
 
 # Public
