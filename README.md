@@ -57,15 +57,23 @@ Worthy websites and tools that include cheat codes for Python, Machine Learning,
 worthy tools like GitHub repositories while you are learning or honing your skills can be found here. Updated constantly when a worthy material is found
 to be shared on the repository.
 
-| **Number** | **Title**                                                    | **Description**                                                                                                                              | **Link**                                                                         |
-|------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| 1          | Python Cheatsheet                                            | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources                                       | https://github.com/wilfredinni/python-cheatsheet                                 |
-| 2          | Machine Learning Algorithms Cheatsheet                       | The Machine Learning Cheatsheet explaining various models briefly                                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet |
-| 3          | Awesome AI Datasets & Tools                                  | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                     |
-| 4          | Machine Learning Cheatsheet                                  | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning | https://github.com/soulmachine/machine-learning-cheat-sheet                      |
-| 5          | Universal Intelligence: A Definition of Machine Intelligence | The publication on definitions of intelligence                                                                                               | https://arxiv.org/pdf/0712.3329.pdf                                              |
+| **Number** | **Title**                                                    | **Description**                                                                                                                              | **Link**                                                                                           |
+|------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| 1          | Python Cheatsheet                                            | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources                                       | https://github.com/wilfredinni/python-cheatsheet                                                   |
+| 2          | Machine Learning Algorithms Cheatsheet                       | The Machine Learning Cheatsheet explaining various models briefly                                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet                   |
+| 3          | Awesome AI Datasets & Tools                                  | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                                       |
+| 4          | Machine Learning Cheatsheet                                  | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning | https://github.com/soulmachine/machine-learning-cheat-sheet                                        |
+| 5          | Universal Intelligence: A Definition of Machine Intelligence | The publication on definitions of intelligence                                                                                               | https://arxiv.org/pdf/0712.3329.pdf                                                                |
 
-[//]: # (| X          | Simple Machine Learning Cheatsheet                                  | The Machine Learning Cheatsheet of all fields making it and common used algorithms                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet                                 |)
+[//]: # (| A          | Simple Machine Learning Cheatsheet                           | The Machine Learning Cheatsheet of all fields making it and common used algorithms                                                           | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet                   |)
+
+[//]: # (| B          | DeepMind & UCL on Reinforcement Learning                     | DeepMind & UCL lectures as videos on Reinforcement Learning                                                                                  | https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm                           |)
+
+[//]: # (| C          | Stanford Machine Learning Full Course                        | Full machine Learning course as lecture slides given at Stanford University                                                                  | https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU                           |)
+
+[//]: # (| D          | Coursera' Deep Learning Specialization                       | DL Specialization given by teh great Andrew Ng and his team at deeplearning.ai                                                               | https://www.coursera.org/specializations/deep-learning                                             |)
+
+[//]: # (| E          | Simple Clustering Cheatsheet                                 | Simple Unsupervised Learning Clustering Cheatsheet                                                                                           | https://towardsdatascience.com/clustering-cheat-sheet-dcf72259abb6                                 |)
 
 # Worthy Repositories
 [(Back to top)](#table-of-contents)
@@ -180,13 +188,25 @@ and on the potential of AI in the art [here](https://medium.com/mlearning-ai/is-
 [//]: # ()
 [//]: # ()
 [//]: # ()
-[//]: # (## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet| Day 21)
+
+[//]: # (## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet | Day 21)
 
 [//]: # ()
 [//]: # (+ Wrote a short Jupyter code snippet on comparing Eager and Graph executions of TensorFlow [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_21_TF_Eager_and_Graph_Executions.ipynb.ipynb&#41;)
 
-[//]: # (+ Found a simple, short and to the point Machine Learning cheatsheet that can be found as item **X** [here]&#40;#worthy-tools&#41;.)
+[//]: # (+ Analysed a simple, short and to the point Machine Learning cheatsheet that can be found as item **A** [here]&#40;#worthy-tools&#41;.)
 
+[//]: # ()
+[//]: # (##  DeepMind/UCL Lectures & ML and DL courses & Simple Clustering Cheatsheet | Day 22)
+
+[//]: # ()
+[//]: # (* Honed knowledge of Reinforcment Learning through studying DeepMind and UCL lecture slides on it as item **B** [here]&#40;#worthy-tools&#41;.)
+
+[//]: # (* Found a fantastic full course on Machine Learning by the great Andrew Ng as item **C** [here]&#40;#worthy-tools&#41; and two years ago did [this on as item **D**]&#40;#worthy-tools&#41; )
+
+[//]: # (which I also highly recommend to begin learning about Deep Learning as time from time I revisit it that I did today for example.)
+
+[//]: # (+ Analysed a short cheatsheet on Clustering and added it as item **E** [here]&#40;#worthy-tools&#41;.)
 
 # Public
 [(Back to top)](#table-of-contents)
