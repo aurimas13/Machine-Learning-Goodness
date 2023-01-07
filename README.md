@@ -149,28 +149,30 @@ and honed expertise of Deep Learning framework TensorFlow by making a notebook t
 where I loved the poem about Python after trying it myself that left me certain that ChatGPT could be a good collaborator on creative writing
 and on the potential of AI in the art [here](https://medium.com/mlearning-ai/is-ai-art-really-art-a363073d62d0) that may lead to the future of social activism.
 
-[//]: # ()
-[//]: # ()
-[//]: # ()
-[//]: # (## Category Theory in ML, Algorithms & ML experiment tracking | Day 8)
 
-[//]: # ()
-[//]: # (+ Began diving into Category Theory and its usage in Machine Learning. A nice GitHub repository that lists all of the)
 
-[//]: # (relevant papers can be found as item **4** [here]&#40;#worthy-repositories&#41; while to get a good grasp of Category Theory started)
 
-[//]: # (reading the book of Category Theory for Programmers by Bartosz Milewski [here]&#40;https://www.scribd.com/document/387084492/Category-Theory-for-Programmers&#41; )
-
-[//]: # (as also found [here]&#40;#worthy-books&#41; where a blog on which the book is based is given.)
+[//]: # (##  Algorithms, Category Theory in ML & ML experiment tracking | Day 8)
 
 [//]: # ()
 [//]: # (+ Finished 'Grokking Algorithms: An illustrated guide for programmers and other curious people' by Aditya Y. Bhargava)
 
-[//]: # (that can be found as item **1** [here]&#40;#worthy-books&#41;. Recommend it highly as algorithms are explained simply and through visualisations. Loved it.)
+[//]: # (that can be found as item **1** [here]&#40;#worthy-books&#41;. Recommend it highly as algorithms are explained simply through visualisations )
 
-[//]: # (Also began another technical book of Steven Skiena's'Algorithm Design Manual' to hone expertise on algorithms further as found)
+[//]: # (and some usage of algorithms in ML is visualised as well. Loved it. Also began another technical book of Steven Skiena's'Algorithm Design Manual' )
 
-[//]: # (as item **2** [here]&#40;#worthy-books&#41; with videos that complement the book [here]&#40;https://www3.cs.stonybrook.edu/~skiena/373/videos/&#41;.)
+[//]: # (to hone expertise on algorithms further as found as item **2** [here]&#40;#worthy-books&#41; with videos that complement )
+
+[//]: # (the book [here]&#40;https://www3.cs.stonybrook.edu/~skiena/373/videos/&#41;.)
+
+[//]: # ()
+[//]: # (+ Began diving into Category Theory and its usage in Machine Learning. A nice GitHub repository that lists all of the)
+
+[//]: # (relevant papers which can be found as item **4** [here]&#40;#worthy-repositories&#41; while to get a good grasp of Category Theory started)
+
+[//]: # (reading the book of Category Theory for Programmers by Bartosz Milewski [here]&#40;https://www.scribd.com/document/387084492/Category-Theory-for-Programmers&#41;)
+
+[//]: # (as also it can be inspected through [here]&#40;#worthy-books&#41; as item **3** where a blog on which the book is based is given.)
 
 [//]: # ()
 [//]: # (+ Dived into ML experiment tracking [here]&#40;https://neptune.ai/blog/ml-experiment-tracking&#41; that in a few words is the process of saving all the experiment related information.)
