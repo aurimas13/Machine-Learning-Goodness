@@ -39,15 +39,11 @@ such as websites, beneficial learning materials, tips and whatnot not to mention
 
 Worthy books to hone expertise of ML/DL/NN/AGI, Python Programming, CS fundamentals needed for AI analysis and any useful book for a Developer or ML Engineer.
 
-[//]: # (| **Number** | **Title**                                                                          | **Description**                                                                                                                                                     | **Link**                                                                                                                                                                               |)
-
-[//]: # (|------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|)
-
-[//]: # (| 1          | Grokking Algorithms: An illustrated guide for programmers and other curious people | Visualisation of most popular algorithms used in Machine Learning and programming to solve problems                                                                 | http://library.lol/main/1a699911f1094229b4d6c5df601a09ad                                                                                                                               |)
-
-[//]: # (| 2          | Algorithm Design Manual                                                            | Introduction to mathematical analysis of a variety of computer algorithms                                                                                           | https://www.amazon.com/gp/product/3030542556/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=3030542556&linkCode=as2&tag=algorist-20&linkId=00b8675b374dcd56244e23efeecc80b0 |)
-
-[//]: # (| 3          | Category Theory for Programmers                                                    | Book about Category Theory written on posts from Milewski's programming [cafe]&#40;https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/&#41; | https://www.scribd.com/document/387084492/Category-Theory-for-Programmers                                                                                                              |)
+| **Number** | **Title**                                                                          | **Description**                                                                                                                                                     | **Link**                                                                                                                                                                               |
+|------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1          | Grokking Algorithms: An illustrated guide for programmers and other curious people | Visualisation of most popular algorithms used in Machine Learning and programming to solve problems                                                                 | http://library.lol/main/1a699911f1094229b4d6c5df601a09ad                                                                                                                               |
+| 2          | Algorithm Design Manual                                                            | Introduction to mathematical analysis of a variety of computer algorithms                                                                                           | https://www.amazon.com/gp/product/3030542556/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=3030542556&linkCode=as2&tag=algorist-20&linkId=00b8675b374dcd56244e23efeecc80b0 |
+| 3          | Category Theory for Programmers                                                    | Book about Category Theory written on posts from Milewski's programming [cafe](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) | https://www.scribd.com/document/387084492/Category-Theory-for-Programmers                                                                                                              |
 
 
 # Worthy Tools
@@ -85,8 +81,7 @@ Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details 
 | 1          | Advanced AI course                        | Code Academy Advanced AI course in Lithuania                                   | https://github.com/aurimas13/CodeAcademy-AI-Course                                      |
 | 2          | GitHub on Coursera's Deep Learning Course | GitHub Repo for Coursera's Deep Learning Specialization by deeplearning.ai     | https://github.com/aurimas13/Coursera-Deep-Learning-Specialization                      |
 | 3          | Notes on Cousera's Deep Learning Course   | Lecture Notes for Coursera's Deep Learning Specialization by deeplearning.ai   | https://drive.google.com/drive/folders/1X9qp9KsGs6IuVgzZJZvMJvVzgxPjhNKN?usp=share_link |
-
-[//]: # (| 4          | Category Theory on Machine Learning       | Github containing list of publications of Category Theory in various AI fields | https://github.com/bgavran/Category_Theory_Machine_Learning                             |)
+| 4          | Category Theory on Machine Learning       | Github containing list of publications of Category Theory in various AI fields | https://github.com/bgavran/Category_Theory_Machine_Learning                             |
 
 # Notebooks 
 [(Back to top)](#table-of-contents)
