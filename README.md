@@ -177,15 +177,22 @@ as also it can be inspected through [here](#worthy-books) as item **3** where a 
 
 + Dived into ML experiment tracking [here](https://neptune.ai/blog/ml-experiment-tracking) that in a few words is the process of saving all the experiment related information.
 
-##  Automated ML, Algorithm Design Manual & Logistic Regression | Day 9
+[//]: # (##  Automated ML, Algorithm Design Manual & Logistic Regression | Day 9)
 
-+ To work out how we could automate all aspects of ML and data analysis pipeline found this awesome book as item **4** [here](#worthy-books). I highly recommend it to any machine learning researcher 
-wanting to get started in the field and to any practitioner looking to understand the methods behind all the AutoML tools out there. Do check it out. 
-After finishing with the current technical book that is going to be my the third technical book to go hand in hand with [this one](https://www.scribd.com/document/387084492/Category-Theory-for-Programmers).
-+ Started reading 'Algorithm Design Manual' to refresh as well as strengthen knowledge on algorithms used in Machine Learning and Computer Science in general 
-as full book can be found as item **2** [here](#worthy-books) with videos that complement the book [here](https://www3.cs.stonybrook.edu/~skiena/373/videos/).
-+ Also to clear my insights on Logistic Regression I was searching on the internet for some well documented sources and came across the article 
-as item **6** [here](#worthy-tools). It provides a detailed description of Logistic Regression and I recommend to check it out.
+[//]: # ()
+[//]: # (+ To work out how we could automate all aspects of ML and data analysis pipeline found this awesome book as item **4** [here]&#40;#worthy-books&#41;. I highly recommend it to any machine learning researcher )
+
+[//]: # (wanting to get started in the field and to any practitioner looking to understand the methods behind all the AutoML tools out there. Do check it out. )
+
+[//]: # (After finishing with the current technical book that is going to be my the third technical book to go hand in hand with [this one]&#40;https://www.scribd.com/document/387084492/Category-Theory-for-Programmers&#41;.)
+
+[//]: # (+ Started reading 'Algorithm Design Manual' to refresh as well as strengthen knowledge on algorithms used in Machine Learning and Computer Science in general )
+
+[//]: # (as full book can be found as item **2** [here]&#40;#worthy-books&#41; with videos that complement the book [here]&#40;https://www3.cs.stonybrook.edu/~skiena/373/videos/&#41;.)
+
+[//]: # (+ Also to clear my insights on Logistic Regression I was searching on the internet for some well documented sources and came across the article )
+
+[//]: # (as item **6** [here]&#40;#worthy-tools&#41;. It provides a detailed description of Logistic Regression and I recommend to check it out.)
 
 
 [//]: # (## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet | Day 21)
