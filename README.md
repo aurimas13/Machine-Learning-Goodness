@@ -143,7 +143,7 @@ is intelligence for machines and studies other tests and definitions of intellig
 </p>
 
 
-## KNN code, Notebook on Tensors, Creativity of ChatGPT & AI Art | Day 7
+## KNN code, Notebook on TF Tensors, Creativity of ChatGPT & AI Art | Day 7
 
 + Wrote about the K Nearest Neighbours algorithm for classification as a code snippet that can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_7_KNN.md)
 and honed expertise of Deep Learning framework TensorFlow by making a notebook that looked into TensorFlow tensors [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_7_Example_about_Tensors.ipynb).
