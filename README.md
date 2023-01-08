@@ -97,7 +97,7 @@ Additional notes that we covered through lectures or additional material that I 
 # 100DaysOfMLCode
 [(Back to top)](#table-of-contents)
 
-*This is the folder of **100DaysOfMLCode** challenge updated daily by adding what has been done each day.*
+*This is the section of **100DaysOfMLCode** challenge updated daily by adding what has been done each day.*
 
 ## Machine Learning Regression Notebook | Day 1
 + Check out the Jupyter code for Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_1_Example_with_PyCaret_of_Regression.ipynb).
