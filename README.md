@@ -39,27 +39,32 @@ such as websites, beneficial learning materials, tips and whatnot not to mention
 
 Worthy books to hone expertise of ML/DL/NN/AGI, Python Programming, CS fundamentals needed for AI analysis and any useful book for a Developer or ML Engineer.
 
-| **Number** | **Title**                                                                          | **Description**                                                                                                                                                     | **Link**                                                                                                                                                                               |
-|------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1          | Grokking Algorithms: An illustrated guide for programmers and other curious people | Visualisation of most popular algorithms used in Machine Learning and programming to solve problems                                                                 | http://library.lol/main/1a699911f1094229b4d6c5df601a09ad                                                                                                                               |
-| 2          | Algorithm Design Manual                                                            | Introduction to mathematical analysis of a variety of computer algorithms                                                                                           | https://www.amazon.com/gp/product/3030542556/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=3030542556&linkCode=as2&tag=algorist-20&linkId=00b8675b374dcd56244e23efeecc80b0 |
-| 3          | Category Theory for Programmers                                                    | Book about Category Theory written on posts from Milewski's programming [cafe](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) | https://www.scribd.com/document/387084492/Category-Theory-for-Programmers                                                                                                              |
+| **Number** | **Title**                                                                           | **Description**                                                                                                                                                                      | **Link**                                                                                                                                                                               |
+|------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1          | Grokking Algorithms: An illustrated guide for programmers and other curious people  | Visualisation of most popular algorithms used in Machine Learning and programming to solve problems                                                                                  | http://library.lol/main/1a699911f1094229b4d6c5df601a09ad                                                                                                                               |
+| 2          | Algorithm Design Manual                                                             | Introduction to mathematical analysis of a variety of computer algorithms                                                                                                            | https://www.amazon.com/gp/product/3030542556/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=3030542556&linkCode=as2&tag=algorist-20&linkId=00b8675b374dcd56244e23efeecc80b0 |
+| 3          | Category Theory for Programmers                                                     | Book about Category Theory written on posts from Milewski's programming [cafe](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)                  | https://www.scribd.com/document/387084492/Category-Theory-for-Programmers                                                                                                              |
+| 4          | Automated Machine Learning                                                          | Book includes overviews of the bread-and-butter techniques we need in AutoML, provides in-depth discussions of existing AutoML systems, and evaluates the state of the art in AutoML | https://www.scribd.com/document/387084492/Category-Theory-for-Programmers                                                                                                              |
 
 
 # Worthy Tools
 [(Back to top)](#table-of-contents)
 
 Worthy websites and tools that include cheat codes for Python, Machine Learning, Deep Learning, Neural Networks and what not apart from other
-worthy tools like GitHub repositories while you are learning or honing your skills can be found here. Updated constantly when a worthy material is found
+worthy tools while you are learning or honing your skills can be found here. Updated constantly when a worthy material is found
 to be shared on the repository.
 
-| **Number** | **Title**                                                    | **Description**                                                                                                                              | **Link**                                                                                           |
-|------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| 1          | Python Cheatsheet                                            | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources                                       | https://github.com/wilfredinni/python-cheatsheet                                                   |
-| 2          | Machine Learning Algorithms Cheatsheet                       | The Machine Learning Cheatsheet explaining various models briefly                                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet                   |
-| 3          | Awesome AI Datasets & Tools                                  | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                                       |
-| 4          | Machine Learning Cheatsheet                                  | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning | https://github.com/soulmachine/machine-learning-cheat-sheet                                        |
-| 5          | Universal Intelligence: A Definition of Machine Intelligence | The publication on definitions of intelligence                                                                                               | https://arxiv.org/pdf/0712.3329.pdf                                                                |
+| **Number** | **Title**                                                    | **Description**                                                                                                                              | **Link**                                                                                       |
+|------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| 1          | Python Cheatsheet                                            | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources                                       | https://github.com/wilfredinni/python-cheatsheet                                               |
+| 2          | Machine Learning Algorithms Cheatsheet                       | The Machine Learning Cheatsheet explaining various models briefly                                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet               |
+| 3          | Awesome AI Datasets & Tools                                  | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                                   |
+| 4          | Machine Learning Cheatsheet                                  | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning | https://github.com/soulmachine/machine-learning-cheat-sheet                                    |
+| 5          | Universal Intelligence: A Definition of Machine Intelligence | The publication on definitions of intelligence                                                                                               | https://arxiv.org/pdf/0712.3329.pdf                                                            |
+
+[//]: # (| 5          | ULogistic Regression                                         | TDetailed Overview of Logistic Regression                                                                                                    | https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc              |)
+
+
 
 [//]: # (| A          | Simple Machine Learning Cheatsheet                           | The Machine Learning Cheatsheet of all fields making it and common used algorithms                                                           | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet                   |)
 
@@ -159,7 +164,7 @@ and on the potential of AI in the art [here](https://medium.com/mlearning-ai/is-
 
 + Finished 'Grokking Algorithms: An illustrated guide for programmers and other curious people' by Aditya Y. Bhargava
 that can be found as item **1** [here](#worthy-books). Recommend it highly as algorithms are explained simply through visualisations
-and some usage of algorithms in ML is visualised as well. Loved it. Also began another technical book of Steven Skiena's 'Algorithm Design Manual'
+and some usage of algorithms in ML is visualised as well. Loved it. Also began another technical book of Steven Skiena's 'Algorithm Design Manual' by reading preface 
 to hone expertise on algorithms further as found as item **2** [here](#worthy-books) with videos that complement
 the book [here](https://www3.cs.stonybrook.edu/~skiena/373/videos/).
 
@@ -170,6 +175,16 @@ as also it can be inspected through [here](#worthy-books) as item **3** where a 
 
 + Dived into ML experiment tracking [here](https://neptune.ai/blog/ml-experiment-tracking) that in a few words is the process of saving all the experiment related information.
 
+##  Automated ML, Algorithm Design Manual & Logistic Regression | Day 9
+
++ To work out how we could automate all aspects of ML and data analysis pipeline found this awesome book as item **4** [here](#worthy-book). I highly recommend it to any machine learning researcher 
+wanting to get started in the field and to any practitioner looking to understand the methods behind all the AutoML tools out there. Do check it out. 
+After finishing with the current technical book that is going to be my the third technical book to go hand in hand with [this one](https://www.scribd.com/document/387084492/Category-Theory-for-Programmers).
++ Started reading 'Algorithm Design Manual' to refresh as well as strengthen knowledge on algorithms used in Machine Learning and Computer Science in general 
+as full book can be found as item **2** [here](#worthy-books) with videos that complement the book [here](https://www3.cs.stonybrook.edu/~skiena/373/videos/).
++ Also to clear my insights on logistic regression I was searching on the internet for some well documented sources and came across the article 
+as item **6** [here](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc). It provides a detailed description 
+of Logistic Regression and I recommend to check it out.
 
 
 [//]: # (## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet | Day 21)
