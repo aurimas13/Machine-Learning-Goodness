@@ -159,7 +159,7 @@ and on the potential of AI in the art [here](https://medium.com/mlearning-ai/is-
 
 + Finished 'Grokking Algorithms: An illustrated guide for programmers and other curious people' by Aditya Y. Bhargava
 that can be found as item **1** [here](#worthy-books). Recommend it highly as algorithms are explained simply through visualisations
-and some usage of algorithms in ML is visualised as well. Loved it. Also began another technical book of Steven Skiena's'Algorithm Design Manual'
+and some usage of algorithms in ML is visualised as well. Loved it. Also began another technical book of Steven Skiena's 'Algorithm Design Manual'
 to hone expertise on algorithms further as found as item **2** [here](#worthy-books) with videos that complement
 the book [here](https://www3.cs.stonybrook.edu/~skiena/373/videos/).
 
