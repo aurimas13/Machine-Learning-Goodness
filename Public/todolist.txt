@@ -1,3 +1,3 @@
 DOING 1. Update README
-TO DO 2. Clean the GirHub repo
-DO TO 3. Advertise it
+DOING 2. Advertise it
+TO DO 3. Clean the GitHub repo further
