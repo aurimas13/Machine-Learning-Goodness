@@ -61,7 +61,7 @@ to be shared on the repository.
 | 3          | Awesome AI Datasets & Tools                                  | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                                   |
 | 4          | Machine Learning Cheatsheet                                  | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning | https://github.com/soulmachine/machine-learning-cheat-sheet                                    |
 | 5          | Universal Intelligence: A Definition of Machine Intelligence | The publication on definitions of intelligence                                                                                               | https://arxiv.org/pdf/0712.3329.pdf                                                            |
-| 6          | Logistic Regression                                         | Detailed Overview of Logistic Regression                                                                                                    | https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc              |
+| 6          | Logistic Regression                                          | Detailed Overview of Logistic Regression                                                                                                    | https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc              |
 
 
 
@@ -115,15 +115,14 @@ Additional notes that we covered through lectures or additional material that I 
 + Added beneficial website as item **3** of public open-source datasets for AI [here](#worthy-tools).
 
 <p align="center">
-  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_3_Data_Preprocessing.png">
-</p>
+  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_3_Data_Preprocessing.jpg"> </p>
 
 ## Simple Linear Regression Info and Beneficial Websites | Day 4
 + Check out the code snippet for Simple Linear Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_4_Simple_Linear_Regression.md).
 + Added beneficial websites as items **2** & **3** of Deep Learning Course & its lecture notes [here](#worthy-repositories).
 
 <p align="center">
-  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_4_Simple_Linear_Regression.png">
+  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_4_Simple_Linear_Regression.jpg">
 </p>
 
 ## Multiple Linear Regression and ML Cheatsheet | Day 5
@@ -133,7 +132,7 @@ Additional notes that we covered through lectures or additional material that I 
 equations with diagrams that helped recall knowledge and ideas on Machine Learning.
 
 <p align="center">
-  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_5_Multiple_Linear_Regression.png">
+  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_5_Multiple_Linear_Regression.jpg">
 </p>
 
 ## Universal Intelligence and K Nearest Neighbours | Day 6
@@ -141,10 +140,10 @@ equations with diagrams that helped recall knowledge and ideas on Machine Learni
 + Added a publication (**5**) on Universal Intelligence: A Definition of Machine Intelligence [here](#worthy-tools) 
 that looks into informal definitions of intelligence defined by experts, then mathematically investigates what 
 is intelligence for machines and studies other tests and definitions of intelligence proposed for machines.
-+ Learnt about K Nearest Neighbours algorithm and made a graphical summary below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_6_K_Nearest_Neighbours.png).
++ Learnt about K Nearest Neighbours algorithm and made a graphical summary below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_6_K_Nearest_Neighbours.jpg).
 
 <p align="center">
-  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_6_K_Nearest_Neighbours.png">
+  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_6_K_Nearest_Neighbours.jpg">
 </p>
 
 
@@ -229,7 +228,7 @@ If you find difficulty in running Jupyter Notebook through Browser then you coul
 # Logo
 [(Back to top)](#table-of-contents)
 
-The Logo of the repository can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/ml.png).
+The Logo of the repository can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/ml.jpg).
 
 # License
 [(Back to top)](#table-of-contents)
