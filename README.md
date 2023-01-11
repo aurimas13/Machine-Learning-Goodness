@@ -152,7 +152,6 @@ is intelligence for machines and studies other tests and definitions of intellig
 
 + Wrote about the K Nearest Neighbours algorithm for classification as a code snippet that can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_7_KNN.md)
 and honed expertise of Deep Learning framework TensorFlow by making a notebook that looked into TensorFlow tensors [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_7_Example_about_Tensors.ipynb).
-
 + Read articles on how to improve creative writing through ChatGPT [here](https://towardsdatascience.com/using-chatgpt-as-a-creative-writing-partner-part-1-prose-dc9a9994d41f)
 where I loved the poem about Python after trying it myself that left me certain that ChatGPT could be a good collaborator on creative writing
 and on the potential of AI in the art [here](https://medium.com/mlearning-ai/is-ai-art-really-art-a363073d62d0) that may lead to the future of social activism.
@@ -197,6 +196,12 @@ as item **6** [here](#worthy-tools). It provides a detailed description of Logis
 
 </p>
 
+## Code on SVM & ??? | Day 11
+
+
++ Implemented Support Vector Machine (SVM) on linearly related data while using Scikit-Learn. As in this library we have SVC classifier I used it to solve the task. 
+The code snippet of it can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_11_SVM.md).
++ Created a notebook that compared Graph and Eager excecutions of Tensorflow aS FOUND [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_11_Example_of_Graph_and_Eager_Execution.ipynb)
 
 [//]: # (## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet | Day 21)
 
