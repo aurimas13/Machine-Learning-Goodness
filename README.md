@@ -206,6 +206,13 @@ The code snippet of it can be found [here](https://github.com/aurimas13/Machine-
 diving further by reading **9**, **10**, **11** & **12** [here](#worthy-tools).
 
 
+
+
+
+
+
+
+
 [//]: # (## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet | Day 21)
 
 [//]: # ()
