@@ -208,11 +208,7 @@ through diving into it while reading some articles of which some highlights coul
 
 
 
-
-
-
-
-
+  
 [//]: # (## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet | Day 21)
 
 [//]: # ()
