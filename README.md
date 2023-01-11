@@ -54,18 +54,20 @@ Worthy websites and tools that include cheat codes for Python, Machine Learning,
 worthy tools while you are learning or honing your skills can be found here. Updated constantly when a worthy material is found
 to be shared on the repository.
 
-| **Number** | **Title**                                                    | **Description**                                                                                                                              | **Link**                                                                                      |
-|------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 1          | Python Cheatsheet                                            | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources                                       | https://github.com/wilfredinni/python-cheatsheet                                              |
-| 2          | Machine Learning Algorithms Cheatsheet                       | The Machine Learning Cheatsheet explaining various models briefly                                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet              |
-| 3          | Awesome AI Datasets & Tools                                  | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                                  |
-| 4          | Machine Learning Cheatsheet                                  | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning | https://github.com/soulmachine/machine-learning-cheat-sheet                                   |
-| 5          | Universal Intelligence: A Definition of Machine Intelligence | The publication on definitions of intelligence                                                                                               | https://arxiv.org/pdf/0712.3329.pdf                                                           |
-| 6          | Logistic Regression                                          | Detailed Overview of Logistic Regression                                                                                                     | https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc             |
-| 7          | BCI Overview                                                 | Simple Overview of Brain-Computer Interface (BCI)                                                                                            | https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc             |
-| 8          | BCI Research                                                 | Fascinating research of Brain-Computer Interface (BCI)                                                                                       | https://medium.com/mlearning-ai/the-brain-computer-interfaces-is-here-bb47b7041c0d            |
-
-
+| **Number** | **Title**                                                    | **Description**                                                                                                                              | **Link**                                                                           |
+|------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| 1          | Python Cheatsheet                                            | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources                                       | https://github.com/wilfredinni/python-cheatsheet                                   |
+| 2          | Machine Learning Algorithms Cheatsheet                       | The Machine Learning Cheatsheet explaining various models briefly                                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet   |
+| 3          | Awesome AI Datasets & Tools                                  | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                       |
+| 4          | Machine Learning Cheatsheet                                  | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning | https://github.com/soulmachine/machine-learning-cheat-sheet                        |
+| 5          | Universal Intelligence: A Definition of Machine Intelligence | The publication on definitions of intelligence                                                                                               | https://arxiv.org/pdf/0712.3329.pdf                                                |
+| 6          | Logistic Regression                                          | Detailed Overview of Logistic Regression                                                                                                     | https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc  |
+| 7          | BCI Overview                                                 | Simple Overview of Brain-Computer Interface (BCI)                                                                                            | https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc  |
+| 8          | BCI Research                                                 | Fascinating research of Brain-Computer Interface (BCI)                                                                                       | https://medium.com/mlearning-ai/the-brain-computer-interfaces-is-here-bb47b7041c0d |
+| 9          | AI in Chemical Discovery                                     | How AI is changing Chemical Diccovery?                                                                                                       | https://thegradient.pub/how-ai-is-changing-chemical-discovery/                     |
+| 10         | Machine Learning for chemistry                               | Best practices in Machine Learning for Chemistry                                                                                             | https://www.nature.com/articles/s41557-021-00716-z                                 |
+| 11         | AI tools for drug discovery                                  | 5 cool AI-powered Drug Discovery tools                                                                                                       | https://medium.com/geekculture/5-cool-ai-powered-drug-discovery-tools-1d7e976ffc2a |
+| 12         | Quantum Chemistry and Deep Learning                          | The application of Deep Learning and Neural Networks on Quantum Chemisty                                                                     | https://www.works.so/blog/developers/quantum-chemistry-and-deep-learning           |
 
 [//]: # (| A          | Simple Machine Learning Cheatsheet                           | The Machine Learning Cheatsheet of all fields making it and common used algorithms                                                           | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet                   |)
 
@@ -196,17 +198,18 @@ as item **6** [here](#worthy-tools). It provides a detailed description of Logis
 
 </p>
 
-## Code on SVM & ??? | Day 11
-
+## Code on SVM & AI in Chemistry| Day 11
 
 + Implemented Support Vector Machine (SVM) on linearly related data while using Scikit-Learn. As in this library we have SVC classifier I used it to solve the task. 
 The code snippet of it can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_11_SVM.md).
-+ Created a notebook that compared Graph and Eager excecutions of Tensorflow aS FOUND [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_11_Example_of_Graph_and_Eager_Execution.ipynb)
++ Coming from chemical background made me hyper excited to study about ML influence on Chemistry through 
+diving further by reading **9**, **10**, **11** & **12** [here](#worthy-tools).
+
 
 [//]: # (## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet | Day 21)
 
 [//]: # ()
-[//]: # (+ Wrote a short Jupyter code snippet on comparing Eager and Graph executions of TensorFlow [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_21_TF_Eager_and_Graph_Executions.ipynb.ipynb&#41;)
+[//]: # (+ Wrote a short Jupyter notebook on comparing Eager and Graph executions of TensorFlow [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_21_Example_of_Graph_and_Eager_Execution.ipynb&#41;)
 
 [//]: # (+ Analysed a simple, short and to the point Machine Learning cheatsheet that can be found as item **A** [here]&#40;#worthy-tools&#41;.)
 
