@@ -202,8 +202,8 @@ as item **6** [here](#worthy-tools). It provides a detailed description of Logis
 
 + Implemented Support Vector Machine (SVM) on linearly related data while using Scikit-Learn. As in this library we have SVC classifier I used it to solve the task. 
 The code snippet of it can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_11_SVM.md).
-+ Coming from chemical background made me hyper excited to study about ML influence on Chemistry through 
-diving further by reading **9**, **10**, **11** & **12** [here](#worthy-tools).
++ Coming from chemical background made me hyper excited to study about ML influence on Chemistry 
+through diving into it while reading some articles of which some highlights could be **9**, **10**, **11** & **12** as found [here](#worthy-tools).
 
 
 
