@@ -1,4 +1,4 @@
-# Day 13 | Support Vector Machine (SVM)
+# Day 11 | Support Vector Machine (SVM)
 
 ## Importing the libraries
 ```python
