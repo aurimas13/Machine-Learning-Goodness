@@ -206,9 +206,12 @@ The code snippet of it can be found [here](https://github.com/aurimas13/Machine-
 + Coming from chemical background made me hyper excited to study about ML influence on Chemistry 
 through diving into it while reading a number of articles of which some highlights could be **9**, **10**, **11** & **12** as found [here](#worthy-tools).
 
+## Notebooks on PyTorch Tensors & Visualisations | Day 12
 
-
-
++ Made two Jupyter notebooks. One with simple analysis of PyTorch Tensors as found 
+[here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_12_Example_of_PyTorch_and_Numpy_tensors.ipynb) 
+and the other on visualising Neural Networks through Pytorch 
+[here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_12_Example_of_some_PyTorch_visualisations.ipynb).
   
 [//]: # (## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet | Day 21)
 
