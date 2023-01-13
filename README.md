@@ -220,7 +220,7 @@ and the other on visualising Neural Networks through Pytorch
 
 + Made a notebook with a simple overview of Perceptron theory and its usage through PyTorch as found 
 [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_13_Example_of_PyTorch_with_Perceptron.ipynb).
-+ Learned about different types of naive bayes classifiers. Also started the lectures by Bloomberg as found as item **5** [here](#worthy-repositories). 
++ Learned about different types of naive bayes classifiers. Also started to hone Machine Learning expertise by studying lectures by Bloomberg as found as item **5** [here](#worthy-repositories). 
 First one in the playlist was Black Box Machine Learning. It gives the whole overview about prediction functions, feature extraction, learning algorithms, 
 performance evaluation, cross-validation, sample bias, nonstationarity, overfitting, and hyperparameter tuning.
   
