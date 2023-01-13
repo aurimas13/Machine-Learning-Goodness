@@ -85,12 +85,14 @@ to be shared on the repository.
 
 Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details included can be found here:
 
-| **Number** | **Title**                                 | **Description**                                                                | **Link**                                                                                |
-|------------|-------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| 1          | Advanced AI course                        | Code Academy Advanced AI course in Lithuania                                   | https://github.com/aurimas13/CodeAcademy-AI-Course                                      |
-| 2          | GitHub on Coursera's Deep Learning Course | GitHub Repo for Coursera's Deep Learning Specialization by deeplearning.ai     | https://github.com/aurimas13/Coursera-Deep-Learning-Specialization                      |
-| 3          | Notes on Cousera's Deep Learning Course   | Lecture Notes for Coursera's Deep Learning Specialization by deeplearning.ai   | https://drive.google.com/drive/folders/1X9qp9KsGs6IuVgzZJZvMJvVzgxPjhNKN?usp=share_link |
-| 4          | Category Theory on Machine Learning       | Github containing list of publications of Category Theory in various AI fields | https://github.com/bgavran/Category_Theory_Machine_Learning                             |
+| **Number** | **Title**                                 | **Description**                                                                                     | **Link**                                                                                |
+|------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| 1          | Advanced AI course                        | Code Academy Advanced AI course in Lithuania                                                        | https://github.com/aurimas13/CodeAcademy-AI-Course                                      |
+| 2          | GitHub on Coursera's Deep Learning Course | GitHub Repo for Coursera's Deep Learning Specialization by deeplearning.ai                          | https://github.com/aurimas13/Coursera-Deep-Learning-Specialization                      |
+| 3          | Notes on Cousera's Deep Learning Course   | Lecture Notes for Coursera's Deep Learning Specialization by deeplearning.ai                        | https://drive.google.com/drive/folders/1X9qp9KsGs6IuVgzZJZvMJvVzgxPjhNKN?usp=share_link |
+| 4          | Category Theory on Machine Learning       | Github containing list of publications of Category Theory in various AI fields                      | https://github.com/bgavran/Category_Theory_Machine_Learning                             |
+| 5          | Foundations of Machine Learning           | Understand the Concepts, Techniques and Mathematical Frameworks Used by Experts in Machine Learning | https://bloomberg.github.io/foml/#home                                                  |
+
 
 # Notebooks 
 [(Back to top)](#table-of-contents)
@@ -212,6 +214,15 @@ through diving into it while reading a number of articles of which some highligh
 [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_12_Example_of_PyTorch_and_Numpy_tensors.ipynb) 
 and the other on visualising Neural Networks through Pytorch 
 [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_12_Example_of_some_PyTorch_visualisations.ipynb).
+  
+
+## Perceptron with PyTorch, Naive Bayes Classifier & Black Box | Day 13
+
++ Made a notebook with a simple overview of Perceptron theory and its usage through PyTorch as found 
+[here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_13_Example_of_PyTorch_with_Perceptron.ipynb).
++ Learned about different types of naive bayes classifiers. Also started the lectures by Bloomberg as found as item **5** [here](#worthy-repositories). First one in the playlist 
+was Black Box Machine Learning. It gives the whole overview about prediction functions, feature extraction, learning algorithms, 
+performance evaluation, cross-validation, sample bias, nonstationarity, overfitting, and hyperparameter tuning.
   
 
 
