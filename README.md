@@ -70,12 +70,8 @@ to be shared on the repository.
 | 12         | Quantum Chemistry and Deep Learning                          | The application of Deep Learning and Neural Networks on Quantum Chemisty                                                                     | https://www.works.so/blog/developers/quantum-chemistry-and-deep-learning           |
 | 13         | Computing Machinery and Intelligence                         | First paper on AI by Alan Turing                                                                                                             | https://gordicaleksa.medium.com/turing-for-dummies-ai-part-1-f0f668bcd83d          |
 | 14         | The blog on the take of Alan Turing                          | The analysis of Alan Turing's paper on AI (13 in the list) and the blog post on the life of him                                              | https://gordicaleksa.medium.com/turing-for-dummies-ai-part-1-f0f668bcd83d          | 
-
-
-
-[//]: # (  | 15                                                           | Minds, Brains and Programs                                   | Paper that objects 'Turing Test' by John Searle                                                                                              | https://www.scribd.com/doc/86417990/John-Searle-Minds-Brains-and-Programs          |)
-
-[//]: # (| 16         | The blog on the take Of John Searle                          | The blog post on the take Of John Searle paper &#40;15 in the list&#41; and ideas about AI                                                           | https://gordicaleksa.medium.com/turing-for-dummies-ai-part-2-848cb87e95ab          |)
+| 15         | Minds, Brains and Programs                                   | Paper that objects 'Turing Test' by John Searle                                                                                              | https://www.scribd.com/doc/86417990/John-Searle-Minds-Brains-and-Programs          |
+| 16         | The blog on the take Of John Searle & Alan Turing            | The blog post on the take Of John Searle paper (15 in the list) and ideas about AI and Alan Turing                                           | https://gordicaleksa.medium.com/turing-for-dummies-ai-part-2-848cb87e95ab          |
 
 [//]: # ( )
 
@@ -252,13 +248,12 @@ and its analysis as item **14** [here](#worthy-tools) or accessed through [here]
 
 </p>
 
-[//]: # (## Code on Decision Trees & Paper contradicting 'Turing Test' with its analysis | Day 15)
+## Code on Decision Trees & Paper contradicting 'Turing Test' with its analysis | Day 15
 
-[//]: # ()
-[//]: # ()
-[//]: # (+ Check out the code snippet for Decision Trees [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_15_Decision_Tree.md&#41;.)
 
-[//]: # (+ Read John R. Searle's paper contradicting 'Turing Test' as item **15** [here]&#40;#worthy-tools&#41; with its analysis as found as **16** [here]&#40;#worthy-tools&#41;)
+
++ Check out the code snippet for Decision Trees [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_15_Decision_Tree.md).
++ Read John R. Searle's paper contradicting 'Turing Test' as item **15** [here](#worthy-tools) with its analysis as found as **16** [here](#worthy-tools)
 
 
 
