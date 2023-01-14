@@ -243,7 +243,8 @@ performance evaluation, cross-validation, sample bias, nonstationarity, overfitt
 ##  Decision Trees & Original first paper on AI with its analysis | Day 14
 
 + Made a graphical summary of Decision Trees below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_14_Decision_Tree.jpg).
-+ Read Alan Turing's original paper on the foundation of AI as found as **13** [here](#worthy-tools) and its analysis as item **14** [here](#worthy-tools).
++ Read Alan Turing's original paper on the foundation of AI as found as **13** [here](#worthy-tools) or accessed through [here](https://gordicaleksa.medium.com/turing-for-dummies-ai-part-1-f0f668bcd83d)
+and its analysis as item **14** [here](#worthy-tools) or accessed through [here](https://gordicaleksa.medium.com/turing-for-dummies-ai-part-1-f0f668bcd83d).
 
 <p align="center">
 
