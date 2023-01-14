@@ -244,12 +244,12 @@ performance evaluation, cross-validation, sample bias, nonstationarity, overfitt
 
 </p>
 
-[//]: # (## Code on Decision Trees & Paper contradicting 'Turing Test' with its analysis | Day 15)
+## Code on Decision Trees & Paper contradicting 'Turing Test' with its analysis | Day 15
 
-[//]: # ()
-[//]: # (+ Check out the code snippet for Decision Trees [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_15_Decision_Tree.md&#41;.)
 
-[//]: # (+ Read John R. Searle's paper contradicting 'Turing Test' as item **15** [here]&#40;#worthy-tools&#41; with its analysis as found as **16** [here]&#40;#worthy-tools&#41;)
++ Check out the code snippet for Decision Trees [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_15_Decision_Tree.md).
+
++ Read John R. Searle's paper contradicting 'Turing Test' as item **15** [here](#worthy-tools) with its analysis as found as **16** [here](#worthy-tools)
 
 
 
