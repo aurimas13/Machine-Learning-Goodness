@@ -276,22 +276,30 @@ performance evaluation, cross-validation, sample bias, nonstationarity, overfitt
 
 [//]: # (+ Analysed a short cheatsheet on Clustering and added it as item **E** [here]&#40;#worthy-tools&#41;.)
 
-##  Random Forest & Confusion matrix Cheatsheet | Day 24
+[//]: # (##  Random Forest & Confusion matrix Cheatsheet | Day 23)
 
-+ Made a graphical summary of Random Forest below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_24_Random_Forest.jpg).
-* Found a fantastic cheatsheet on Confusion matrix that incorporates accuracy, precision, recall, TPR, FPR, specificity, sensitivity, ROC and added it as item **F** [here](#worthy-tools).
+[//]: # ()
+[//]: # (+ Made a graphical summary of Random Forest below as well as [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_23_Random_Forest.jpg&#41;.)
 
-<p align="center">
+[//]: # (* Found a fantastic cheatsheet on Confusion matrix that incorporates accuracy, precision, recall, TPR, FPR, specificity, sensitivity, ROC and added it as item **F** [here]&#40;#worthy-tools&#41;.)
 
-  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_24_Random_Forest.jpg">
+[//]: # ()
+[//]: # (<p align="center">)
 
-</p>
+[//]: # ()
+[//]: # (  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_24_Random_Forest.jpg">)
 
-## Code on Random Forest & Cheatsheets for Data Scientists | Day 25
+[//]: # ()
+[//]: # (</p>)
 
+[//]: # (## Code on Random Forest & Cheatsheets for Data Scientists | Day 24)
 
-+ Check out the code snippet for Decision Trees [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_15_Decision_Tree.md).
-* Found various cheatsheets for Data Scientists as item **G** [here](#worthy-tools).
+[//]: # ()
+[//]: # ()
+[//]: # (+ Check out the code snippet for Decision Trees [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_24_Random_Forest.md&#41;.)
+
+[//]: # ()
+[//]: # (* Found various cheatsheets for Data Scientists as item **G** [here]&#40;#worthy-tools&#41;.)
 
 
 # Public
