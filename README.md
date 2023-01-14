@@ -70,8 +70,7 @@ to be shared on the repository.
 | 12         | Quantum Chemistry and Deep Learning                          | The application of Deep Learning and Neural Networks on Quantum Chemisty                                                                     | https://www.works.so/blog/developers/quantum-chemistry-and-deep-learning           |
 | 13         | Computing Machinery and Intelligence                         | First paper on AI by Alan Turing                                                                                                             | https://gordicaleksa.medium.com/turing-for-dummies-ai-part-1-f0f668bcd83d          |
 | 14         | The blog on the take of Alan Turing                          | The analysis of Alan Turing's paper on AI (13 in the list) and the blog post on the life of him                                              | https://gordicaleksa.medium.com/turing-for-dummies-ai-part-1-f0f668bcd83d          | 
-| F          | Cheatsheet on Confusion matrix                               | Cheatsheet on accuracy, precision, recall, TPR, FPR, specificity, sensitivity, ROC and all that stuff in Confusion matrix                    | http://numerical.recipes/whp/ConfusionMatrixDefns.pdf                              |
-| G          | Cheatsheets for Data Scientists                              | Various and different cheatsheets for data scientists                                                                                        | https://www.datacamp.com/cheat-sheet                                               |
+
 
 
 [//]: # (  | 15                                                           | Minds, Brains and Programs                                   | Paper that objects 'Turing Test' by John Searle                                                                                              | https://www.scribd.com/doc/86417990/John-Searle-Minds-Brains-and-Programs          |)
@@ -91,6 +90,11 @@ to be shared on the repository.
 [//]: # (| D          | Coursera' Deep Learning Specialization                       | DL Specialization given by teh great Andrew Ng and his team at deeplearning.ai                                                               | https://www.coursera.org/specializations/deep-learning                                             |)
 
 [//]: # (| E          | Simple Clustering Cheatsheet                                 | Simple Unsupervised Learning Clustering Cheatsheet                                                                                           | https://towardsdatascience.com/clustering-cheat-sheet-dcf72259abb6                                 |)
+
+[//]: # (| F          | Cheatsheet on Confusion matrix                               | Cheatsheet on accuracy, precision, recall, TPR, FPR, specificity, sensitivity, ROC and all that stuff in Confusion matrix                    | http://numerical.recipes/whp/ConfusionMatrixDefns.pdf                              |)
+
+[//]: # (| G          | Cheatsheets for Data Scientists                              | Various and different cheatsheets for data scientists                                                                                        | https://www.datacamp.com/cheat-sheet                                               |)
+
 
 # Worthy Repositories
 [(Back to top)](#table-of-contents)
