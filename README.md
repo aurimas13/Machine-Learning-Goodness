@@ -70,8 +70,11 @@ to be shared on the repository.
 | 12         | Quantum Chemistry and Deep Learning                          | The application of Deep Learning and Neural Networks on Quantum Chemisty                                                                     | https://www.works.so/blog/developers/quantum-chemistry-and-deep-learning           |
 | 13         | Computing Machinery and Intelligence                         | First paper on AI by Alan Turing                                                                                                             | https://gordicaleksa.medium.com/turing-for-dummies-ai-part-1-f0f668bcd83d          |
 | 14         | The blog on the take of Alan Turing                          | The analysis of Alan Turing's paper on AI (13 in the list) and the blog post on the life of him                                              | https://gordicaleksa.medium.com/turing-for-dummies-ai-part-1-f0f668bcd83d          | 
+| F          | Cheatsheet on Confusion matrix                               | Cheatsheet on accuracy, precision, recall, TPR, FPR, specificity, sensitivity, ROC and all that stuff in Confusion matrix                    | http://numerical.recipes/whp/ConfusionMatrixDefns.pdf                              |
+| G          | Cheatsheets for Data Scientists                              | Various and different cheatsheets for data scientists                                                                                        | https://www.datacamp.com/cheat-sheet                                               |
 
-[//]: # (| 15         | Minds, Brains and Programs                                   | Paper that objects 'Turing Test' by John Searle                                                                                              | https://www.scribd.com/doc/86417990/John-Searle-Minds-Brains-and-Programs          |)
+
+[//]: # (  | 15                                                           | Minds, Brains and Programs                                   | Paper that objects 'Turing Test' by John Searle                                                                                              | https://www.scribd.com/doc/86417990/John-Searle-Minds-Brains-and-Programs          |)
 
 [//]: # (| 16         | The blog on the take Of John Searle                          | The blog post on the take Of John Searle paper &#40;15 in the list&#41; and ideas about AI                                                           | https://gordicaleksa.medium.com/turing-for-dummies-ai-part-2-848cb87e95ab          |)
 
@@ -272,6 +275,24 @@ performance evaluation, cross-validation, sample bias, nonstationarity, overfitt
 [//]: # (which I also highly recommend to begin learning about Deep Learning as time from time I revisit it that I did today for example.)
 
 [//]: # (+ Analysed a short cheatsheet on Clustering and added it as item **E** [here]&#40;#worthy-tools&#41;.)
+
+##  Random Forest & Confusion matrix Cheatsheet | Day 24
+
++ Made a graphical summary of Random Forest below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_24_Random_Forest.jpg).
+* Found a fantastic cheatsheet on Confusion matrix that incorporates accuracy, precision, recall, TPR, FPR, specificity, sensitivity, ROC and added it as item **F** [here](#worthy-tools).
+
+<p align="center">
+
+  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_24_Random_Forest.jpg">
+
+</p>
+
+## Code on Random Forest & Cheatsheets for Data Scientists | Day 25
+
+
++ Check out the code snippet for Decision Trees [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_15_Decision_Tree.md).
+* Found various cheatsheets for Data Scientists as item **G** [here](#worthy-tools).
+
 
 # Public
 [(Back to top)](#table-of-contents)
