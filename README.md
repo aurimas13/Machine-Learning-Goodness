@@ -54,32 +54,30 @@ Worthy websites and tools that include cheat codes for Python, Machine Learning,
 worthy tools while you are learning or honing your skills can be found here. Updated constantly when a worthy material is found
 to be shared on the repository.
 
-| **Number** | **Title**                                                    | **Description**                                                                                                                              | **Link**                                                                                                      |
-|------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| 1          | Python Cheatsheet                                            | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources                                       | https://github.com/wilfredinni/python-cheatsheet                                                              |
-| 2          | Machine Learning Algorithms Cheatsheet                       | The Machine Learning Cheatsheet explaining various models briefly                                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet                              |
-| 3          | Awesome AI Datasets & Tools                                  | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                                                  |
-| 4          | Machine Learning Cheatsheet                                  | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning | https://github.com/soulmachine/machine-learning-cheat-sheet                                                   |
-| 5          | Universal Intelligence: A Definition of Machine Intelligence | The publication on definitions of intelligence                                                                                               | https://arxiv.org/pdf/0712.3329.pdf                                                                           |
-| 6          | Logistic Regression                                          | Detailed Overview of Logistic Regression                                                                                                     | https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc                             |
-| 7          | BCI Overview                                                 | Simple Overview of Brain-Computer Interface (BCI)                                                                                            | https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc                             |
-| 8          | BCI Research                                                 | Fascinating research of Brain-Computer Interface (BCI)                                                                                       | https://medium.com/mlearning-ai/the-brain-computer-interfaces-is-here-bb47b7041c0d                            |
-| 9          | AI in Chemical Discovery                                     | How AI is changing Chemical Diccovery?                                                                                                       | https://thegradient.pub/how-ai-is-changing-chemical-discovery/                                                |
-| 10         | Machine Learning for Chemistry                               | Best practices in Machine Learning for Chemistry                                                                                             | https://www.nature.com/articles/s41557-021-00716-z                                                            |
-| 11         | AI tools for drug discovery                                  | 5 cool AI-powered Drug Discovery tools                                                                                                       | https://medium.com/geekculture/5-cool-ai-powered-drug-discovery-tools-1d7e976ffc2a                            |
-| 12         | Quantum Chemistry and Deep Learning                          | The application of Deep Learning and Neural Networks on Quantum Chemisty                                                                     | https://www.works.so/blog/developers/quantum-chemistry-and-deep-learning                                      |
-| 13         | Computing Machinery and Intelligence                         | First paper on AI by Alan Turing                                                                                                             | https://gordicaleksa.medium.com/turing-for-dummies-ai-part-1-f0f668bcd83d                                     |
-| 14         | The blog on the take of Alan Turing                          | The analysis of Alan Turing's paper on AI (13 in the list) and the blog post on the life of him                                              | https://gordicaleksa.medium.com/turing-for-dummies-ai-part-1-f0f668bcd83d                                     | 
-| 15         | Minds, Brains and Programs                                   | Paper that objects 'Turing Test' by John Searle                                                                                              | https://www.scribd.com/doc/86417990/John-Searle-Minds-Brains-and-Programs                                     |
-| 16         | The blog on the take Of John Searle & Alan Turing            | The blog post on the take Of John Searle paper (15 in the list) and ideas about AI and Alan Turing                                           | https://gordicaleksa.medium.com/turing-for-dummies-ai-part-2-848cb87e95ab                                     |
-| 17         | The Youtube channel on Deep Learning's Neural Networks       | An amazing youtube channel explaining what is Neural Network with simple and easy to follow descriptions                                     | https://www.youtube.com/watch?v=aircAruvnKk&t=7s                                                              |
-| 18         | 8 architectures of Neural Networks                           | 8 architectures of Neural Network every ML engineer should know                                                                              | https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html |
-  
-
-
-
-[//]: # ( )
-
+| **Number** | **Title**                                                                   | **Description**                                                                                                                              | **Link**                                                                                                      |
+|------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| 1          | Python Cheatsheet                                                           | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources                                       | https://github.com/wilfredinni/python-cheatsheet                                                              |
+| 2          | Machine Learning Algorithms Cheatsheet                                      | The Machine Learning Cheatsheet explaining various models briefly                                                                            | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet                              |
+| 3          | Awesome AI Datasets & Tools                                                 | Links to popular open-source and public datasets, data visualizations, data analytics resources, and data lakes                              | https://www.kdnuggets.com/2021/05/awesome-list-datasets.html                                                  |
+| 4          | Machine Learning Cheatsheet                                                 | This Cheatsheet contains many classical equations and diagrams on Machine Learning to quickly recall knowledge and ideas on Machine Learning | https://github.com/soulmachine/machine-learning-cheat-sheet                                                   |
+| 5          | Universal Intelligence: A Definition of Machine Intelligence                | The publication on definitions of intelligence                                                                                               | https://arxiv.org/pdf/0712.3329.pdf                                                                           |
+| 6          | Logistic Regression                                                         | Detailed Overview of Logistic Regression                                                                                                     | https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc                             |
+| 7          | BCI Overview                                                                | Simple Overview of Brain-Computer Interface (BCI)                                                                                            | https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc                             |
+| 8          | BCI Research                                                                | Fascinating research of Brain-Computer Interface (BCI)                                                                                       | https://medium.com/mlearning-ai/the-brain-computer-interfaces-is-here-bb47b7041c0d                            |
+| 9          | AI in Chemical Discovery                                                    | How AI is changing Chemical Diccovery?                                                                                                       | https://thegradient.pub/how-ai-is-changing-chemical-discovery/                                                |
+| 10         | Machine Learning for Chemistry                                              | Best practices in Machine Learning for Chemistry                                                                                             | https://www.nature.com/articles/s41557-021-00716-z                                                            |
+| 11         | AI tools for drug discovery                                                 | 5 cool AI-powered Drug Discovery tools                                                                                                       | https://medium.com/geekculture/5-cool-ai-powered-drug-discovery-tools-1d7e976ffc2a                            |
+| 12         | Quantum Chemistry and Deep Learning                                         | The application of Deep Learning and Neural Networks on Quantum Chemisty                                                                     | https://www.works.so/blog/developers/quantum-chemistry-and-deep-learning                                      |
+| 13         | Computing Machinery and Intelligence                                        | First paper on AI by Alan Turing                                                                                                             | https://gordicaleksa.medium.com/turing-for-dummies-ai-part-1-f0f668bcd83d                                     |
+| 14         | The blog on the take of Alan Turing                                         | The analysis of Alan Turing's paper on AI (13 in the list) and the blog post on the life of him                                              | https://gordicaleksa.medium.com/turing-for-dummies-ai-part-1-f0f668bcd83d                                     | 
+| 15         | Minds, Brains and Programs                                                  | Paper that objects 'Turing Test' by John Searle                                                                                              | https://www.scribd.com/doc/86417990/John-Searle-Minds-Brains-and-Programs                                     |
+| 16         | The blog on the take Of John Searle & Alan Turing                           | The blog post on the take Of John Searle paper (15 in the list) and ideas about AI and Alan Turing                                           | https://gordicaleksa.medium.com/turing-for-dummies-ai-part-2-848cb87e95ab                                     |
+| 17         | The Youtube channel on Deep Learning's Neural Networks                      | An amazing youtube channel explaining what is Neural Network with simple and easy to follow descriptions                                     | https://www.youtube.com/watch?v=aircAruvnKk&t=7s                                                              |
+| 18         | 8 architectures of Neural Networks                                          | 8 architectures of Neural Network every ML engineer should know                                                                              | https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html |
+| 19         | Neural Networks for the Prediction of Organic Chemistry Reactions           | The use of neural networks for predicting reaction types                                                                                     | https://pubs.acs.org/doi/10.1021/acscentsci.6b00219                                                           | 
+| 20         | Expert System for Predicting Reaction Conditions: The Michael Reaction Case | Models were built to decide the compatibility of an organic chemistry process with each considered reaction condition option                 | https://pubs.acs.org/doi/10.1021/ci500698a                                                                    |
+| 21         | Machine learning in chemical reaction space                                 | Looked at reaction spaces of molecules involved in multiple reactions using  ML-concepts                                                     | https://www.nature.com/articles/s41467-020-19267-x                                                            |
+| 22         | Machine Learning for Chemical Reactions                                     | An overview of the questions that can and have been addressed using machine learning techniques                                              | https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00033                                                          |
 
 
 [//]: # (  | A                                                            | Simple Machine Learning Cheatsheet                                                                                                           | The Machine Learning Cheatsheet of all fields making it and common used algorithms                                                           | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet                   |)
@@ -95,6 +93,8 @@ to be shared on the repository.
 [//]: # (| F          | Cheatsheet on Confusion matrix                               | Cheatsheet on accuracy, precision, recall, TPR, FPR, specificity, sensitivity, ROC and all that stuff in Confusion matrix                    | http://numerical.recipes/whp/ConfusionMatrixDefns.pdf                              |)
 
 [//]: # (| G          | Cheatsheets for Data Scientists                              | Various and different cheatsheets for data scientists                                                                                        | https://www.datacamp.com/cheat-sheet                                               |)
+
+[//]: # (| H          | K-Means Clustering visualisation                                            | Simple graphics explaining K-Means Clustering                                                                                                | https://shabal.in/visuals/kmeans/6.html                                                                       |)
 
 
 # Worthy Repositories
@@ -138,7 +138,8 @@ Additional notes that we covered through lectures or additional material that I 
 + Added beneficial website as item **3** of public open-source datasets for AI [here](#worthy-tools).
 
 <p align="center">
-  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_3_Data_Preprocessing.jpg"> </p>
+  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_3_Data_Preprocessing.jpg"> 
+</p>
 
 ## Simple Linear Regression Info and Beneficial Websites | Day 4
 + Check out the code snippet for Simple Linear Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_4_Simple_Linear_Regression.md).
@@ -269,6 +270,23 @@ uses Handwritten digit dataset to explain the concept. Link to the video found a
 + A great article going though Neural Network 8 architectures that every ML engineer needs to know found as it 18 [here](worthy-tools) 
 or accessed through [here](https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html).
 
+
+# Machine Learning in Chemistry | Day 17
+
+Read about Machine Learning concepts in Chemistry and particularly in automating and predicting chemical 
+reactions as well as other chemical niceties:
+
+1. Most cited article is on the reaction predictions for organic chemistry where these reactions were 
+explored by the use of neural networks. This newly developed predictor built a system which predicts the likely products of these reaction. 
+Further details found as item **19** [here](#worthy-tools) or accessed though [here](https://pubs.acs.org/doi/10.1021/acscentsci.6b00219).
+2. Machine Learning methods (Support Vector Machine, Naive Bayes, and Random Forest) looked at the compatibility of 
+specific chemical processes and the feasability of these predicted reactions. The link as item **20** found [here](#worthy-tools) 
+or accessed though [here](https://pubs.acs.org/doi/10.1021/ci500698a)
+3. Machine Learning studied one of the largest reaction space to date by creating a database that contains all possible
+chemical reactions found as item **21** [here](#worthy-tools) or accessed though [here](https://www.nature.com/articles/s41467-020-19267-x)
+4. The review overviewed how important chemical questions that could be answered through using machine learning techniques
+as found as item **22** [here](#worthy-tools) or accessed though [here](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00033)
+
 [//]: # (## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet | Day 21)
 
 [//]: # ()
@@ -299,7 +317,7 @@ or accessed through [here](https://www.kdnuggets.com/2018/02/8-neural-network-ar
 [//]: # (<p align="center">)
 
 [//]: # ()
-[//]: # (  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_24_Random_Forest.jpg">)
+[//]: # (  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_23_Random_Forest.jpg">)
 
 [//]: # ()
 [//]: # (</p>)
@@ -312,6 +330,25 @@ or accessed through [here](https://www.kdnuggets.com/2018/02/8-neural-network-ar
 
 [//]: # ()
 [//]: # (* Found various cheatsheets for Data Scientists as item **G** [here]&#40;#worthy-tools&#41;.)
+
+
+[//]: # (# K-Means Clustering | Day 25)
+
+[//]: # ()
+[//]: # (+ Strengthened knowledge about Unsupervised Learning and particularly Clustering by creating a visual on K-Meand as shown  )
+
+[//]: # (below and found a wonderful animation that can help to easily understand K-Means Clustering as found as item **H**)
+
+[//]: # ([here]&#40;#worthy-tools&#41; or accessed through [here]&#40;https://shabal.in/visuals/kmeans/6.html&#41;.)
+
+[//]: # ()
+[//]: # (<p align="center">)
+
+[//]: # ()
+[//]: # (  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_25_K_Means_Clustering.jpg">)
+
+[//]: # ()
+[//]: # (</p>)
 
 
 # Public
