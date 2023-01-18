@@ -287,9 +287,9 @@ chemical reactions found as item **21** [here](#worthy-tools) or accessed though
 4. The review overviewed how important chemical questions that could be answered through using machine learning techniques
 as found as item **22** [here](#worthy-tools) or accessed though [here](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00033)
 
-# Notebook on Image Recognition | Day 18
+# Image Recognition | Day 18
 
-+ Made a Notebook on image recognition with PyTorch as found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_18_Example_of_Image_Recognition_with_PyTorch.ipynb).
++ Made a Notebook implementing deep neural networks on image recognition with PyTorch as found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_18_Example_of_Image_Recognition_with_PyTorch.ipynb).
 
 [//]: # (## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet | Day 21)
 
