@@ -291,6 +291,13 @@ as found as item **22** [here](#worthy-tools) or accessed though [here](https://
 
 + Made a Notebook implementing deep neural networks on image recognition with PyTorch as found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_18_Example_of_Image_Recognition_with_PyTorch.ipynb).
 
+
+# Fuel Efficiency | Day 19
+
++ Made a Notebook implementing linear regression with deep neural networks to predict Miles Per Gallon (MPG) values on fuel efficiency across
+the US, Europe and Japan as found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_19_Example_with_TensorFlow_of_Regression_Fuel_Efficiency.ipynb).
+
+
 [//]: # (## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet | Day 21)
 
 [//]: # ()
