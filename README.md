@@ -81,31 +81,33 @@ to be shared on the repository.
 | 23         | ByTorch overview                                                            | BoTorch as a framework of PyTorch                                                                                                            | [ByTorch overview](https://pub.towardsai.net/botorch-is-a-framework-for-bayesian-optimization-in-pytorch-7d0f90c69064)           |
 | 24         | ByTorch official                                                            | Bayesian optimization or simply an official website of BoTorch                                                                               | [ByTorch official](https://botorch.org/)                                                                                         |
 | 25         | VS Code Cheatsheet                                                          | VS Code Shortcut Cheatsheet                                                                                                                  | [VS Code Cheatsheet](https://betterprogramming.pub/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d)                  |
+| 26         | Simple Machine Learning Cheatsheet                                          | The Machine Learning Cheatsheet of all fields making it and common used algorithms                                                           | [Machine Learning Cheatsheet](https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet)                  |
 
+[//]: # (| 27          | DeepMind & UCL on Reinforcement Learning                     | DeepMind & UCL lectures as videos on Reinforcement Learning                                                                                  | [DeepMind & UCL on Reinforcement Learning]&#40;https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&#41;                           |)
 
+[//]: # ()
+[//]: # (| 28         | Stanford Machine Learning Full Course                        | Full machine Learning course as lecture slides given at Stanford University                                                                  | [Stanford Machine Learning Full Course]&#40;https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&#41;                           |)
 
+[//]: # ()
+[//]: # (| 29         | Coursera's Deep Learning Specialization                       | DL Specialization given by teh great Andrew Ng and his team at deeplearning.ai                                                               | [Coursera's Deep Learning Specialization]&#40;https://www.coursera.org/specializations/deep-learning&#41;                                             |)
 
+[//]: # ()
+[//]: # (| E          | Simple Clustering Cheatsheet                                 | Simple Unsupervised Learning Clustering Cheatsheet                                                                                           | [Clustering Cheatsheet]&#40;https://towardsdatascience.com/clustering-cheat-sheet-dcf72259abb6&#41;                                 |)
 
+[//]: # ()
+[//]: # (| F          | Cheatsheet on Confusion Matrix                               | Cheatsheet on accuracy, precision, recall, TPR, FPR, specificity, sensitivity, ROC and all that stuff in Confusion matrix                    | [Cheatsheet on Confusion Matrix]&#40;http://numerical.recipes/whp/ConfusionMatrixDefns.pdf&#41;                              |)
 
-[//]: # (  | A                                                            | Simple Machine Learning Cheatsheet                                                                                                           | The Machine Learning Cheatsheet of all fields making it and common used algorithms                                                           | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet                   |)
+[//]: # ()
+[//]: # (| G          | Cheatsheets for Data Scientists                              | Various and different cheatsheets for data scientists                                                                                        | [Cheatsheets for Data Scientists]&#40;https://www.datacamp.com/cheat-sheet&#41;                                               |)
 
-[//]: # (| B          | DeepMind & UCL on Reinforcement Learning                     | DeepMind & UCL lectures as videos on Reinforcement Learning                                                                                  | https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm                           |)
+[//]: # ()
+[//]: # (| H          | K-Means Clustering visualisation                                            | Simple graphics explaining K-Means Clustering                                                                                                | [K-Means Clustering visualisation ]&#40;https://shabal.in/visuals/kmeans/6.html&#41;                                                                       |)
 
-[//]: # (| C          | Stanford Machine Learning Full Course                        | Full machine Learning course as lecture slides given at Stanford University                                                                  | https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU                           |)
+[//]: # ()
+[//]: # (| I          | Youtube channel by 3Blue1Brown                                              | Youtube channel on animated math concepts                                                                                                    | [Animated math concepts]&#40;https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw&#41;                                                      |)
 
-[//]: # (| D          | Coursera' Deep Learning Specialization                       | DL Specialization given by teh great Andrew Ng and his team at deeplearning.ai                                                               | https://www.coursera.org/specializations/deep-learning                                             |)
-
-[//]: # (| E          | Simple Clustering Cheatsheet                                 | Simple Unsupervised Learning Clustering Cheatsheet                                                                                           | https://towardsdatascience.com/clustering-cheat-sheet-dcf72259abb6                                 |)
-
-[//]: # (| F          | Cheatsheet on Confusion matrix                               | Cheatsheet on accuracy, precision, recall, TPR, FPR, specificity, sensitivity, ROC and all that stuff in Confusion matrix                    | http://numerical.recipes/whp/ConfusionMatrixDefns.pdf                              |)
-
-[//]: # (| G          | Cheatsheets for Data Scientists                              | Various and different cheatsheets for data scientists                                                                                        | https://www.datacamp.com/cheat-sheet                                               |)
-
-[//]: # (| H          | K-Means Clustering visualisation                                            | Simple graphics explaining K-Means Clustering                                                                                                | https://shabal.in/visuals/kmeans/6.html                                                                       |)
-
-[//]: # (| I          | Youtube channel by 3Blue1Brown                                              | Youtube channel on animated math concepts                                                                                                    | https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw                                                      |)
-
-[//]: # (| J          | Essence of Linear Algebra                                                   | Youtube playlist on Linear Algebra by 3Blue1Brown                                                                                            | https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab                                      |)
+[//]: # ()
+[//]: # (| J          | Essence of Linear Algebra                                                   | Youtube playlist on Linear Algebra by 3Blue1Brown                                                                                            | [Linear Algebra]&#40;https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&#41;                                      |)
 
 
 # Worthy Repositories
@@ -319,20 +321,19 @@ or full Bayesian optimization as it says as found as item **24** [here](#worthy-
 to Applications and other amazing material on RL you can check by visiting item **6** [here](#worthy-repositories) that can also be accessed straight from [here](https://github.com/aikorea/awesome-rl).
 
 
-[//]: # (## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet | Day 21)
+## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet | Day 21
 
-[//]: # ()
-[//]: # (+ Wrote a short Jupyter notebook on comparing Eager and Graph executions of TensorFlow [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_21_Example_of_Graph_and_Eager_Execution.ipynb&#41;)
 
-[//]: # (+ Analysed a simple, short and to the point Machine Learning cheatsheet that can be found as item **A** [here]&#40;#worthy-tools&#41;.)
++ Wrote a short Jupyter notebook on comparing Eager and Graph executions of TensorFlow [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_21_Example_of_Graph_and_Eager_Execution.ipynb)
++ Analysed a simple, short and to the point Machine Learning cheatsheet that can be found as item **26** [here](#worthy-tools).
 
 [//]: # ()
 [//]: # (##  DeepMind/UCL Lectures & ML and DL courses & Simple Clustering Cheatsheet | Day 22)
 
 [//]: # ()
-[//]: # (* Honed knowledge of Reinforcment Learning through studying DeepMind and UCL lecture slides on it as item **B** [here]&#40;#worthy-tools&#41;.)
+[//]: # (* Honed knowledge of Reinforcment Learning through studying DeepMind and UCL lecture slides on it as item **27** [here]&#40;#worthy-tools&#41;.)
 
-[//]: # (* Found a fantastic full course on Machine Learning by the great Andrew Ng as item **C** [here]&#40;#worthy-tools&#41; and two years ago did [this on as item **D**]&#40;#worthy-tools&#41; )
+[//]: # (* Found a fantastic full course on Machine Learning by the great Andrew Ng as item **28** [here]&#40;#worthy-tools&#41; and two years ago did [this on as item **29**]&#40;#worthy-tools&#41; )
 
 [//]: # (which I also highly recommend to begin learning about Deep Learning as time from time I revisit it that I did today for example.)
 
