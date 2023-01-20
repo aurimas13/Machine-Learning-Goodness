@@ -78,6 +78,13 @@ to be shared on the repository.
 | 20         | Expert System for Predicting Reaction Conditions: The Michael Reaction Case | Models were built to decide the compatibility of an organic chemistry process with each considered reaction condition option                 | https://pubs.acs.org/doi/10.1021/ci500698a                                                                    |
 | 21         | Machine learning in chemical reaction space                                 | Looked at reaction spaces of molecules involved in multiple reactions using  ML-concepts                                                     | https://www.nature.com/articles/s41467-020-19267-x                                                            |
 | 22         | Machine Learning for Chemical Reactions                                     | An overview of the questions that can and have been addressed using machine learning techniques                                              | https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00033                                                          |
+| 23         | ByTorch overview                                                            | BoTorch as a framework of PyTorch                                                                                                            | https://pub.towardsai.net/botorch-is-a-framework-for-bayesian-optimization-in-pytorch-7d0f90c69064            |
+| 24         | ByTorch official                                                            | Bayesian optimization or simply official BoTorch website                                                                                     | https://botorch.org/                                                                                          |
+| 25         | VS Code Cheatscheet                                                         | VS Code Shortcut Cheatsheet                                                                                                                  | https://betterprogramming.pub/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d                     |
+
+
+
+
 
 
 [//]: # (  | A                                                            | Simple Machine Learning Cheatsheet                                                                                                           | The Machine Learning Cheatsheet of all fields making it and common used algorithms                                                           | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet                   |)
@@ -96,6 +103,10 @@ to be shared on the repository.
 
 [//]: # (| H          | K-Means Clustering visualisation                                            | Simple graphics explaining K-Means Clustering                                                                                                | https://shabal.in/visuals/kmeans/6.html                                                                       |)
 
+[//]: # (| I          | Youtube channel by 3Blue1Brown                                              | Youtube channel on animated math concepts                                                                                                    | https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw                                                      |)
+
+[//]: # (| J          | Essence of Linear Algebra                                                   | Youtube playlist on Linear Algebra by 3Blue1Brown                                                                                            | https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab                                      |)
+
 
 # Worthy Repositories
 [(Back to top)](#table-of-contents)
@@ -109,6 +120,7 @@ Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details 
 | 3          | Notes on Cousera's Deep Learning Course   | Lecture Notes for Coursera's Deep Learning Specialization by deeplearning.ai                        | https://drive.google.com/drive/folders/1X9qp9KsGs6IuVgzZJZvMJvVzgxPjhNKN?usp=share_link |
 | 4          | Category Theory on Machine Learning       | Github containing list of publications of Category Theory in various AI fields                      | https://github.com/bgavran/Category_Theory_Machine_Learning                             |
 | 5          | Foundations of Machine Learning           | Understand the Concepts, Techniques and Mathematical Frameworks Used by Experts in Machine Learning | https://bloomberg.github.io/foml/#home                                                  |
+| 6          | Awesome RL                                | Github repository on amazing materials on Reinforcement Learning                                    | https://github.com/aikorea/awesome-rl                                                   |
 
 
 # Notebooks 
@@ -298,6 +310,15 @@ as found as item **22** [here](#worthy-tools) or accessed though [here](https://
 the US, Europe and Japan as found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_19_Example_with_TensorFlow_of_Regression_Fuel_Efficiency.ipynb).
 
 
+# BoTorch & Reinforcement Learning | Day 20
+
++ Studied about BoTorch as a low level framework of PyTorch which introduction can be found as item **23** [here](#worthy-tools) or accessed through [here](https://pub.towardsai.net/botorch-is-a-framework-for-bayesian-optimization-in-pytorch-7d0f90c69064)
+or full Bayesian optimization as it says as found as item **24** [here](#worthy-tools) or accessed through [here](https://botorch.org/).
+* Found VS code shortcut cheatsheet as found as item **25** [here](#worthy-tools) or accessed through [here](https://betterprogramming.pub/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d).
+* Came across an awesome Reinforcement Learning material that includes everything from codes to theory to Lectures, Papers 
+to Applications and other amazing material on RL you can check by visiting item **6** [here](#worthy-repositories) that can also be accessed straight from [here](https://github.com/aikorea/awesome-rl).
+
+
 [//]: # (## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet | Day 21)
 
 [//]: # ()
@@ -346,7 +367,7 @@ the US, Europe and Japan as found [here](https://github.com/aurimas13/Machine-Le
 [//]: # (# K-Means Clustering | Day 25)
 
 [//]: # ()
-[//]: # (+ Strengthened knowledge about Unsupervised Learning and particularly Clustering by creating a visual on K-Meand as shown  )
+[//]: # (+ Strengthened knowledge about Unsupervised Learning and particularly Clustering by creating a visual on K-Means as shown  )
 
 [//]: # (below and found a wonderful animation that can help to easily understand K-Means Clustering as found as item **H**)
 
@@ -360,6 +381,43 @@ the US, Europe and Japan as found [here](https://github.com/aurimas13/Machine-Le
 
 [//]: # ()
 [//]: # (</p>)
+
+[//]: # (# Linear Algebra | Day 26)
+
+[//]: # ()
+[//]: # (+ Found an awesome channel as item **I** [here]&#40;#worthy-tools&#41; or you can check the channel directly [here]&#40;https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw&#41; by)
+
+[//]: # (*3Blue1Brown**. It has a playlist called `Essence of Linear Algebra`. Started yesterday and completed full playlist of videos today)
+
+[//]: # (which gave a complete overview of Vectors, Linear Combinations, Spans, Basis Vectors, Linear Transformations, Matrix Multiplication,)
+
+[//]: # (3D Transformations, Determinants, Inverse Matrix, Column Space, Null Space, Non-Square Matrices, Dot Product, Cross Product, Eigenvectors, Eigenvalues and Abstract Vector Spaces.)
+
+[//]: # ()
+[//]: # (Link to the playlist of `Essence of Linear Algebra` can be found as item **J** [here] or accessed straight through [here]&#40;https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&#41;.)
+
+
+[//]: # (# Reinforcement Learning | 27)
+
+[//]: # ()
+[//]: # (+ Found an amazing Princeton material as slides on the Neuroscience of Reinforcement Learning as item **K** [here]&#40;#worthy-tools&#41; )
+
+[//]: # (or accessed straight through [here]&#40;https://www.princeton.edu/~yael/ICMLTutorial.pdf&#41;. Looked also at overview of )
+
+[//]: # (Reinforcement Learning implementation of Drug Design as found as item  **L** as found [here]&#40;#worthy-tools&#41; or accessed )
+
+[//]: # (through [here]&#40;https://medium.datadriveninvestor.com/drug-design-made-fun-using-reinforcement-learning-212a4f867f33&#41;.)
+
+[//]: # (# Notebook on Employee Performance | Day 28)
+
+[//]: # ()
+[//]: # (+ Made a Notebook implementing regression with Pycaret to look at employee performance [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_28_Example_with_Pycaret_and_PCA_regression_of_employee_performance.ipynb&#41;.)
+
+[//]: # ()
+[//]: # ()
+
+
+
 
 
 # Public
