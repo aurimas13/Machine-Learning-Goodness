@@ -323,7 +323,6 @@ to Applications and other amazing material on RL you can check by visiting item 
 
 ## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet | Day 21
 
-
 + Wrote a short Jupyter notebook on comparing Eager and Graph executions of TensorFlow [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_21_Example_of_Graph_and_Eager_Execution.ipynb)
 + Analysed a simple, short and to the point Machine Learning cheatsheet that can be found as item **26** [here](#worthy-tools).
 
