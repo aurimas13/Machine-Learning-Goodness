@@ -333,6 +333,12 @@ found [here](#worthy-tools) or accessed through [here](https://www.coursera.org/
 which I also highly recommend to begin learning about Deep Learning as time from time I revisit it that I did today for example.
 + Analysed a short cheatsheet on Clustering and added it as item **30** [here](#worthy-tools)(https://towardsdatascience.com/clustering-cheat-sheet-dcf72259abb6)                                        |).
 
+
+<p align="center">
+
+  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_14_Decision_Tree.jpg">
+
+</p>
 [//]: # (##  Random Forest & Confusion matrix Cheatsheet | Day 23)
 
 [//]: # ()
