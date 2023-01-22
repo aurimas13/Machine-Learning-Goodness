@@ -331,8 +331,8 @@ or accessed through [here](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH
 [here](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) and two years ago did this on as item **29** 
 found [here](#worthy-tools) or accessed through [here](https://www.coursera.org/specializations/deep-learning)                          .
 which I also highly recommend to begin learning about Deep Learning as time from time I revisit it that I did today for example.
-+ Analysed a short cheatsheet on Clustering and added it as item **30** [here](#worthy-tools)(https://towardsdatascience.com/clustering-cheat-sheet-dcf72259abb6)                                        |).
-
++ Analysed a short cheatsheet on Clustering and added it as item **30** [here](#worthy-tools) or accessed 
+through [here](https://towardsdatascience.com/clustering-cheat-sheet-dcf72259abb6).
 
 <p align="center">
 
