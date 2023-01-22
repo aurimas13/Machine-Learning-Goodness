@@ -342,7 +342,7 @@ through [here](https://towardsdatascience.com/clustering-cheat-sheet-dcf72259abb
 
 + Made a graphical summary of Random Forest below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_23_Random_Forest.jpg).
 * Found a fantastic cheatsheet on Confusion matrix that incorporates accuracy, precision, recall, TPR, FPR, specificity, sensitivity, ROC and
-added it as item **31** [here](#worthy-tools) or accessed through [here]().
+added it as item **31** [here](#worthy-tools) or accessed through [here](http://numerical.recipes/whp/ConfusionMatrixDefns.pdf).
 
 <p align="center">
 
