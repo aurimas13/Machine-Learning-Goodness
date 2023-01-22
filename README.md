@@ -337,6 +337,7 @@ through [here](https://towardsdatascience.com/clustering-cheat-sheet-dcf72259abb
   <img height="333px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_22_Clustering_30.png">
 
 </p>
+
 ##  Random Forest & Confusion matrix Cheatsheet | Day 23
 
 + Made a graphical summary of Random Forest below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_23_Random_Forest.jpg).
