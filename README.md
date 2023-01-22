@@ -338,7 +338,7 @@ which I also highly recommend to begin learning about Deep Learning as time from
 
   <img height="333px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_22_DeepMind_UCL_27.png">
   <img height="333px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_22_Stanford_28.png">
-  <img height="222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_22_Clustering_30.png">
+  <img height="333px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_22_Clustering_30.png">
 
 </p>
 [//]: # (##  Random Forest & Confusion matrix Cheatsheet | Day 23)
