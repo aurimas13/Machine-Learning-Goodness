@@ -329,7 +329,7 @@ or accessed straight through [here](https://www.accel.ai/anthology/2022/1/24/mac
 or accessed through [here](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm).
 * Found a fantastic full course on Machine Learning by the great Andrew Ng as item **28** [here](#worthy-tools) or accessed through
 [here](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) and two years ago did this on as item **29** 
-found [here](#worthy-tools) or accessed through [here](https://www.coursera.org/specializations/deep-learning)                          .
+found [here](#worthy-tools) or accessed through [here](https://www.coursera.org/specializations/deep-learning).
 which I also highly recommend to begin learning about Deep Learning as time from time I revisit it that I did today for example.
 + Analysed a short cheatsheet on Clustering and added it as item **30** [here](#worthy-tools) or accessed 
 through [here](https://towardsdatascience.com/clustering-cheat-sheet-dcf72259abb6).
