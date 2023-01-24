@@ -351,7 +351,8 @@ added it as item **31** [here](#worthy-tools) or accessed through [here](http://
 ## Code on Random Forest & Cheatsheets for Data Scientists | Day 24
 
 + Check out the code snippet for Decision Trees [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_24_Random_Forest.md).
-* Found various cheatsheets for Data Scientists as item **32** [here](#worthy-tools).
+* Found various cheatsheets for Data Scientists as item **32** [here](#worthy-tools) or 
+accessed through [here](https://www.datacamp.com/cheat-sheet).
 
 
 [//]: # (# K-Means Clustering | Day 25)
