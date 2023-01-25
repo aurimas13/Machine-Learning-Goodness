@@ -358,7 +358,7 @@ accessed through [here](https://www.datacamp.com/cheat-sheet) as the glimpse giv
 
 # K-Means Clustering | Day 25
 
-+ Strengthened knowledge about Unsupervised Learning and particularly Clustering by creating a visual on K-Means as shown  
++ Strengthened knowledge about Unsupervised Learning and particularly Clustering by creating a visual on K-Means as shown 
 below and found a wonderful animation that can help to easily understand K-Means Clustering as found as item **33**
 [here](#worthy-tools) or accessed through [here](https://shabal.in/visuals/kmeans/6.html).
 
