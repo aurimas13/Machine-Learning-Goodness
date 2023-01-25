@@ -88,9 +88,7 @@ to be shared on the repository.
 | 30         | Simple Clustering Cheatsheet                                                | Simple Unsupervised Learning Clustering Cheatsheet                                                                                           | [Clustering Cheatsheet](https://towardsdatascience.com/clustering-cheat-sheet-dcf72259abb6)                                    |
 | 31         | Cheatsheet on Confusion Matrix                                              | Cheatsheet on accuracy, precision, recall, TPR, FPR, specificity, sensitivity, ROC and all that stuff in Confusion matrix                    | [Cheatsheet on Confusion Matrix](http://numerical.recipes/whp/ConfusionMatrixDefns.pdf)                                        |
 | 32         | Cheatsheets for Data Scientists                                             | Various and different cheatsheets for data scientists                                                                                        | [Cheatsheets for Data Scientists](https://www.datacamp.com/cheat-sheet)                                                        |
-
-[//]: # ()
-[//]: # (| H          | K-Means Clustering visualisation                                            | Simple graphics explaining K-Means Clustering                                                                                                | [K-Means Clustering visualisation ]&#40;https://shabal.in/visuals/kmeans/6.html&#41;                                                                       |)
+| 33         | K-Means Clustering visualisation                                            | Simple graphics explaining K-Means Clustering                                                                                                | [K-Means Clustering visualisation ](https://shabal.in/visuals/kmeans/6.html)                                                                       |
 
 [//]: # ()
 [//]: # (| I          | Youtube channel by 3Blue1Brown                                              | Youtube channel on animated math concepts                                                                                                    | [Animated math concepts]&#40;https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw&#41;                                                      |)
@@ -358,23 +356,15 @@ accessed through [here](https://www.datacamp.com/cheat-sheet) as the glimpse giv
   <img height="1111px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_24_Data_Science_Cheat_Sheets.png">
 </p>
 
-[//]: # (# K-Means Clustering | Day 25)
+# K-Means Clustering | Day 25
 
-[//]: # ()
-[//]: # (+ Strengthened knowledge about Unsupervised Learning and particularly Clustering by creating a visual on K-Means as shown  )
++ Strengthened knowledge about Unsupervised Learning and particularly Clustering by creating a visual on K-Means as shown  
+below and found a wonderful animation that can help to easily understand K-Means Clustering as found as item **33**
+[here](#worthy-tools) or accessed through [here](https://shabal.in/visuals/kmeans/6.html).
 
-[//]: # (below and found a wonderful animation that can help to easily understand K-Means Clustering as found as item **H**)
-
-[//]: # ([here]&#40;#worthy-tools&#41; or accessed through [here]&#40;https://shabal.in/visuals/kmeans/6.html&#41;.)
-
-[//]: # ()
-[//]: # (<p align="center">)
-
-[//]: # ()
-[//]: # (  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_25_K_Means_Clustering.jpg">)
-
-[//]: # ()
-[//]: # (</p>)
+<p align="center">
+  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_25_K_Means_Clustering.jpg">
+</p>
 
 [//]: # (# Linear Algebra | Day 26)
 
