@@ -91,10 +91,8 @@ to be shared on the repository.
 | 33         | K-Means Clustering visualisation                                            | Simple graphics explaining K-Means Clustering                                                                                                | [K-Means Clustering visualisation ](https://shabal.in/visuals/kmeans/6.html)                                                                       |
 | 34         | Youtube channel by 3Blue1Brown                                              | Youtube channel on animated math concepts                                                                                                    | [Animated math concepts](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)                                                                 |
 | 35         | Essence of Linear Algebra                                                   | Youtube playlist on Linear Algebra by 3Blue1Brown                                                                                            | [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)                                                         |
-
-[//]: # (| K          | The Neuroscience of Reinforcmement Learning                                 | The Princeton slides of Neuroscience for Reinforcement Learning                                                                              | [The Neuroscience of Rein forcement Learning]&#40;https://www.princeton.edu/~yael/ICMLTutorial.pdf&#41;                                                    |)
-
-[//]: # (| L          | Reinforcement Learning of Drug Design                                       | Reinforcement Learning implementation of Drug Design                                                                                         | [Reinforcement Learning of Drug Design]&#40;https://httpsmedium.datadriveninvestor.com/drug-design-made-fun-using-reinforcement-learning-212a4f867f33&#41; | )
+| 36         | The Neuroscience of Reinforcmement Learning                                 | The Princeton slides of Neuroscience for Reinforcement Learning                                                                              | [The Neuroscience of Rein forcement Learning](https://www.princeton.edu/~yael/ICMLTutorial.pdf)                                                    |
+| 37         | Reinforcement Learning of Drug Design                                       | Reinforcement Learning implementation of Drug Design                                                                                         | [Reinforcement Learning of Drug Design](https://httpsmedium.datadriveninvestor.com/drug-design-made-fun-using-reinforcement-learning-212a4f867f33) | 
 
 
 # Worthy Repositories
@@ -370,7 +368,7 @@ below and found a wonderful animation that can help to easily understand K-Means
 
 
 + Found an awesome channel as item **34** [here](#worthy-tools) or you can check the channel directly [here](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) by
-*3Blue1Brown**. It has a playlist called `Essence of Linear Algebra`. Started yesterday and completed full playlist of videos today
+**3Blue1Brown**. It has a playlist called `Essence of Linear Algebra`. Started yesterday and completed full playlist of videos today
 which gave a complete overview of Vectors, Linear Combinations, Spans, Basis Vectors, Linear Transformations, Matrix Multiplication,
 3D Transformations, Determinants, Inverse Matrix, Column Space, Null Space, Non-Square Matrices, Dot Product, Cross Product, Eigenvectors, Eigenvalues and Abstract Vector Spaces.
 
@@ -380,21 +378,22 @@ which gave a complete overview of Vectors, Linear Combinations, Spans, Basis Vec
 [//]: # (# Reinforcement Learning | 27)
 
 [//]: # ()
-[//]: # (+ Found an amazing Princeton material as slides on the Neuroscience of Reinforcement Learning as item **K** [here]&#40;#worthy-tools&#41; )
+[//]: # (+ Found an amazing Princeton material as slides on the Neuroscience of Reinforcement Learning as item **36** [here]&#40;#worthy-tools&#41;)
 
-[//]: # (or accessed straight through [here]&#40;https://www.princeton.edu/~yael/ICMLTutorial.pdf&#41;. Looked also at overview of )
+[//]: # (or accessed straight through [here]&#40;https://www.princeton.edu/~yael/ICMLTutorial.pdf&#41;. Looked also at overview of)
 
-[//]: # (Reinforcement Learning implementation of Drug Design as found as item  **L** as found [here]&#40;#worthy-tools&#41; or accessed )
+[//]: # (Reinforcement Learning implementation for Drug Design as found as item  **37** [here]&#40;#worthy-tools&#41; or accessed)
 
 [//]: # (through [here]&#40;https://httpsmedium.datadriveninvestor.com/drug-design-made-fun-using-reinforcement-learning-212a4f867f33&#41;.)
 
-[//]: # (# Notebook on Employee Performance | Day 28)
+[//]: # (# Notebook on Employee Performance with PyCaret | Day 28)
 
+[//]: # ()
 [//]: # ()
 [//]: # (+ Made a Notebook implementing regression with Pycaret to look at employee performance [here]&#40;https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_28_Example_with_Pycaret_and_PCA_regression_of_employee_performance.ipynb&#41;.)
 
-[//]: # ()
-[//]: # ()
+
+
 
 
 
