@@ -374,7 +374,7 @@ below and found a wonderful animation that can help to easily understand K-Means
 which gave a complete overview of Vectors, Linear Combinations, Spans, Basis Vectors, Linear Transformations, Matrix Multiplication,
 3D Transformations, Determinants, Inverse Matrix, Column Space, Null Space, Non-Square Matrices, Dot Product, Cross Product, Eigenvectors, Eigenvalues and Abstract Vector Spaces.
 
-Link to the playlist of `Essence of Linear Algebra` can be found as item **J** [here] or accessed straight through [here](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
++ Link to the playlist of `Essence of Linear Algebra` can be found as item **J** [here] or accessed straight through [here](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 
 
 [//]: # (# Reinforcement Learning | 27)
