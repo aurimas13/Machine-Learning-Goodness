@@ -375,16 +375,12 @@ which gave a complete overview of Vectors, Linear Combinations, Spans, Basis Vec
 + Link to the playlist of `Essence of Linear Algebra` can be found as item **35** [here] or accessed straight through [here](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 
 
-[//]: # (# Reinforcement Learning | 27)
+# Reinforcement Learning | 27
 
-[//]: # ()
-[//]: # (+ Found an amazing Princeton material as slides on the Neuroscience of Reinforcement Learning as item **36** [here]&#40;#worthy-tools&#41;)
-
-[//]: # (or accessed straight through [here]&#40;https://www.princeton.edu/~yael/ICMLTutorial.pdf&#41;. Looked also at overview of)
-
-[//]: # (Reinforcement Learning implementation for Drug Design as found as item  **37** [here]&#40;#worthy-tools&#41; or accessed)
-
-[//]: # (through [here]&#40;https://httpsmedium.datadriveninvestor.com/drug-design-made-fun-using-reinforcement-learning-212a4f867f33&#41;.)
++ Found an amazing Princeton material as slides on the Neuroscience of Reinforcement Learning as item **36** [here](#worthy-tools)
+or accessed straight through [here](https://www.princeton.edu/~yael/ICMLTutorial.pdf). Looked also at overview of
+Reinforcement Learning implementation for Drug Design as found as item  **37** [here](#worthy-tools) or accessed
+through [here](https://httpsmedium.datadriveninvestor.com/drug-design-made-fun-using-reinforcement-learning-212a4f867f33).
 
 [//]: # (# Notebook on Employee Performance with PyCaret | Day 28)
 
