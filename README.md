@@ -382,7 +382,7 @@ or accessed straight through [here](https://www.princeton.edu/~yael/ICMLTutorial
 Reinforcement Learning implementation for Drug Design as found as item  **37** [here](#worthy-tools) or accessed
 through [here](https://httpsmedium.datadriveninvestor.com/drug-design-made-fun-using-reinforcement-learning-212a4f867f33).
 
-# Notebook on Employee Performance with PyCaret | Day 28
+# Employee Performance with PyCaret | Day 28
 
 + Made a Notebook implementing regression with Pycaret to look at employee performance [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_28_Example_with_Pycaret_and_PCA_regression_of_employee_performance.ipynb).
 
