@@ -394,11 +394,10 @@ through [here](https://httpsmedium.datadriveninvestor.com/drug-design-made-fun-u
 closed-loop system possibility once penetrating microneedles can conform to the brain or simply 
 about an advanced brain-computer interface with a flexible and moldable penetrating microneedles 
 that gets to the brain's cortex. It can also be accessed through [here](https://medicalxpress.com/news/2022-03-brain-computer-interface-flexible.html). 
-+ Cam across a GitHub repository on optimizing chemical reactions through Reinforcement Learning as item **7** [here](#worthy-repositories) 
++ Came across a GitHub repository on optimizing chemical reactions through Reinforcement Learning as item **7** [here](#worthy-repositories) 
 or accessed through [here](https://github.com/lightingghost/chemopt).
 + Also found a fantastic explanation on Big O notation as item **39** [here](#worthy-tools) 
 or accessed through [here](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/).
-
 
 # Public
 [(Back to top)](#table-of-contents)
