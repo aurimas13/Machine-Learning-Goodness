@@ -415,13 +415,13 @@ Details as item **41** [here](#worthy-repositories) or accessesd through [here](
 
 + Started reading lecture notes as books of MIT and University Of California on Mathematics for Computer Science and Mathematics for 
 Machine Learning as items **5** and **6** [here](#worthy-books) and [here](#worthy-books) or accessed through 
-[here](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) and
-[here](https://gwthomas.github.io/docs/math4ml.pdf).
+[here](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) and [here](https://gwthomas.github.io/docs/math4ml.pdf).
 
 # Quizzes about TensorFlow & PyTorch | Day 32
 
-+ Made two quizzes about TensorFlow and PyTorch combining 25 questions in total each. Quiz on TensorFlow can be found [here]() 
-while on PyTorch can be found [here]().
++ Made two quizzes about TensorFlow and PyTorch combining 25 questions each. Quiz on TensorFlow can be found 
+[here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Quizzes/Day_32_Quiz_of_TensorFlow.ipynb) 
+while on PyTorch can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Quizzes/Day_32_Quiz_of_PyTorch.ipynb).
 
 
 # Public
