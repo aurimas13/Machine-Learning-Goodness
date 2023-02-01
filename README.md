@@ -418,6 +418,12 @@ Machine Learning as items **5** and **6** [here](#worthy-books) and [here](#wort
 [here](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) and
 [here](https://gwthomas.github.io/docs/math4ml.pdf).
 
+# Quizzes about TensorFlow & PyTorch | Day 32
+
++ Made two quizzes about TensorFlow and PyTorch combining 25 questions in total each. Quiz on TensorFlow can be found [here]() 
+while on PyTorch can be found [here]().
+
+
 # Public
 [(Back to top)](#table-of-contents)
 
