@@ -423,7 +423,7 @@ Machine Learning as items **5** and **6** [here](#worthy-books) and [here](#wort
 [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Quizzes/Day_32_Quiz_of_TensorFlow.ipynb) 
 while on PyTorch can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Quizzes/Day_32_Quiz_of_PyTorch.ipynb).
 
-# Problems & Solutions on PyCaret & PyTorch and AI book| Day 33
+# PyCaret, PyTorch & Applied Artificial Intelligence | Day 33
 
 + Created problems for PyCaret and PyTorch as found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Problems/Problem_PyCaret.ipynb)
 and [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Problems/Problem_PyTorch.ipynb). 
