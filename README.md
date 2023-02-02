@@ -47,7 +47,7 @@ Worthy books to hone expertise of ML/DL/NN/AGI, Python Programming, CS fundament
 | 4          | Automated Machine Learning                                                         | Book includes overviews of the bread-and-butter techniques we need in AutoML, provides in-depth discussions of existing AutoML systems, and evaluates the state of the art in AutoML | [Automated Machine Learning](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)                                                                                                                   |
 | 5          | Mathematics for Computer Science                                                   | Book by MIT on Mathematics for Computer Science                                                                                                                                      | [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)                                                                                                                          |                                                           
 | 6          | Mathematics for Machine Learning                                                   | Book by University of California on Mathematics for Machine Learning                                                                                                                 | [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf)                                                                                                                                   |                                                                                          |
-
+| 7          | Applied Artificial Intelligence                                                    | Book on engineering AI applications                                                                                                                                                  | [Applied Artificial Intelligence](file:///Users/aurimasnausedas/Downloads/Humm-AppliedArtificialIntelligencefreesamplechapter.pdf) |
 
 # Worthy Tools
 [(Back to top)](#table-of-contents)
@@ -423,6 +423,13 @@ Machine Learning as items **5** and **6** [here](#worthy-books) and [here](#wort
 [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Quizzes/Day_32_Quiz_of_TensorFlow.ipynb) 
 while on PyTorch can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Quizzes/Day_32_Quiz_of_PyTorch.ipynb).
 
+# Problems & Solutions on PyCaret & PyTorch and AI book| Day 33
+
++ Created problems for PyCaret and PyTorch as found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Problems/Problem_PyCaret.ipynb)
+and [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Problems/Problem_PyTorch.ipynb). 
+Their solutions could be also found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Problems/Solution_to_Problem_PyCaret.ipynb)
+and [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Problems/Solution_to_Problem_PyTorch.ipynb).
++ Found an AI book on engineering AI applications as item **7** [here](#worthy-books) or accessed through [here](file:///Users/aurimasnausedas/Downloads/Humm-AppliedArtificialIntelligencefreesamplechapter.pdf).
 
 # Public
 [(Back to top)](#table-of-contents)
