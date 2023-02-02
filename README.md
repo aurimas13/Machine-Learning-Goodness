@@ -429,7 +429,7 @@ while on PyTorch can be found [here](https://github.com/aurimas13/Machine-Learni
 and [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Problems/Problem_PyTorch.ipynb). 
 Their solutions could be also found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Problems/Solution_to_Problem_PyCaret.ipynb)
 and [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Problems/Solution_to_Problem_PyTorch.ipynb).
-+ Found an AI book on engineering AI applications as item **7** [here](#worthy-books) or accessed through [here](file:///Users/aurimasnausedas/Downloads/Humm-AppliedArtificialIntelligencefreesamplechapter.pdf).
++ Found an AI book on engineering Artificial Intelligence applications as item **7** [here](#worthy-books) or accessed through [here](file:///Users/aurimasnausedas/Downloads/Humm-AppliedArtificialIntelligencefreesamplechapter.pdf).
 
 # Public
 [(Back to top)](#table-of-contents)
