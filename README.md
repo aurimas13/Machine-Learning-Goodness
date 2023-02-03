@@ -434,7 +434,7 @@ through [here](https://www.researchgate.net/publication/324030716_Applied_Artifi
 
 # Deep Learning with Python, TensorFlow and Keras & Encoding | Day 34
 
-+ Watched Youtube material to replenish knowledge on Deep Learning with Python, TensorFlow, Keras through four videos:
++ Watched Youtube videos to replenish knowledge on Deep Learning with Python, TensorFlow and Keras through four recordings:
 1. [Deep Learning with Python, TensorFlow, and Keras tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=3&t=19s)
 2. [Loading in your own data](https://www.youtube.com/watch?v=j-3vuBynnOE&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=4)
 3. [Convolutional Neural Networks](https://www.youtube.com/watch?v=WvoLTXIjBYU&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=4)
