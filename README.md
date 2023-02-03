@@ -439,7 +439,7 @@ through [here](https://www.researchgate.net/publication/324030716_Applied_Artifi
 2. [Loading in your own data](https://www.youtube.com/watch?v=j-3vuBynnOE&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=4)
 3. [Convolutional Neural Networks](https://www.youtube.com/watch?v=WvoLTXIjBYU&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=4)
 4. [Analyzing Models with TensorBoard](https://www.youtube.com/watch?v=BqgTU7_cBnk&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=5)
-+ Made a notebook looking at Ordinal and On-Hot encoding as found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_34_Neural_Networks_for_Tabular_Data_6_L1_Demonstration_1_of_Encoding.ipynb).
++ Made a notebook looking at Ordinal and One Hot Encodings as found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_34_Neural_Networks_for_Tabular_Data_6_L1_Demonstration_1_of_Encoding.ipynb).
 
 # Public
 [(Back to top)](#table-of-contents)
