@@ -98,7 +98,10 @@ to be shared on the repository.
 | 38         | Brain-Computer Interface with backing                                       | Advanced BCI with a flexible and moldable backing and penetrating microneedles                                                               | [Brain-Computer Interface with backing](https://medicalxpress.com/news/2022-03-brain-computer-interface-flexible.html)                            |
 | 39         | Big O Notation                                                              | Great and simple explanation on Big O notation                                                                                               | [Big O Notation](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)                                 |
 | 40         | 6 Data Science Certificates                                                 | 6 Data Science Certificates to boost your career                                                                                             | [6 Data Science Certificates](https://www.kdnuggets.com/2021/02/6-data-science-certificates.html)                                                 |
-
+| 41         | On the Measure of Intelligence                                              | The new concept to measure how human-like artificial intelligence is                                                                         | [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf)                                                                            |
+| 42         | A Collection of Definitions of Intelligence                                 | 70-odd definitions of intelligence                                                                                                           | [A Collection of Definitions of Intelligence](https://arxiv.org/pdf/0706.3639.pdf)                                                                |
+| 43         | Competition-Level Code Generation with AlphaCode                            | AlphaCode paper                                                                                                                              | [Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814)                                                              |
+| 44         | Machine Learning                                                            | What is Machine Learning? A well explained introdution                                                                                       | [Machine Learning](https://pub.towardsai.net/what-is-machine-learning-ml-b58162f97ec7)                                                            | 
 
 # Worthy Repositories
 [(Back to top)](#table-of-contents)
@@ -440,6 +443,19 @@ through [here](https://www.researchgate.net/publication/324030716_Applied_Artifi
 3. [Convolutional Neural Networks](https://www.youtube.com/watch?v=WvoLTXIjBYU&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=4)
 4. [Analyzing Models with TensorBoard](https://www.youtube.com/watch?v=BqgTU7_cBnk&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=5)
 + Made a notebook looking at Ordinal and One Hot Encodings as found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_34_Neural_Networks_for_Tabular_Data_6_L1_Demonstration_1_of_Encoding.ipynb).
+
+# Essential Papers, AlphaCode & Machine Learning | Day 35  
+
++ Read three papers as items **41**, **42** and **43** as found [here](#worthy-tools) or summarrised and accessed below:
+1. [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf) that explained the new concept of how to measure human-like artificial intelligence 
+that enables fair general intelligence comparisons between AI systems and humans. Written by creator of Keras, Francois Chollet.
+2. [A Collection of Definitions of Intelligence](https://arxiv.org/pdf/0706.3639.pdf) that looked at 70-odd definitions of intelligence.
+3. [Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814) that looked into the AlphaCode, 
+a system for code generation that can create novel solutions to competitive programming problems that require deeper reasoning like 
+knowing many computer science algorithms to implement. Fantastic read.
++ Found an awesome quick explanation about Machine Learning as item **44** found [here](#worthy-tools) or accessed 
+through [here](https://pub.towardsai.net/what-is-machine-learning-ml-b58162f97ec7). It explained what Machine Learning is, 
+how it works, and its importance in five minutes of reading.
 
 # Public
 [(Back to top)](#table-of-contents)
