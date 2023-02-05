@@ -457,6 +457,13 @@ knowing many computer science algorithms to implement. Fantastic read.
 through [here](https://pub.towardsai.net/what-is-machine-learning-ml-b58162f97ec7). It explained what Machine Learning is, 
 how it works, and its importance in five minutes of reading.
 
+# Power of Deep Learning & Scientific Discovery with AI | Day 36
+
++ Watched an awesome video from DeepMind on the Power of Deep Learning that can be accessed 
+through [here](https://www.youtube.com/watch?v=KvZGaP8qlI8).
++ Also watched another video from the creator of DeepMind, Demis Hassabis, on the usage of AI to accelerate 
+scientific discovery as found [here](https://www.youtube.com/watch?v=XtJVLOe4cfs).
+
 # Public
 [(Back to top)](#table-of-contents)
 
