@@ -464,6 +464,16 @@ through [here](https://www.youtube.com/watch?v=KvZGaP8qlI8).
 + Also watched another video from the creator of DeepMind, Demis Hassabis, on the usage of AI to accelerate 
 scientific discovery as found [here](https://www.youtube.com/watch?v=XtJVLOe4cfs).
 
+
+# Automate ML pipeline & Autoencoders | Day 37
+
++ Read the book-overview of automating Machine Learning pipeline as item **10** [here](#worthy-books) or accessed through
+[here](https://www.databricks.com/wp-content/uploads/2022/02/How-to-Automate-Your-Machine-Learning-Pipeline-eBook-v4-012522.pdf).
+This short overview looked at the lifecycle using the Databricks Lakehouse Platform.
++ Studied Autoencoders that give a good representation of your data that focuses on the signal rather  the noise. 
+Found and article that briefly introduced Autoencoders and dived deeper into an Undercomplete Autoencoder, 
+suitable for dimensionality reduction and feature extraction as item **44** [here](#worthy-tools) or accessed through 
+[here](https://towardsdatascience.com/autoencoders-ae-a-smart-way-to-process-your-data-using-unsupervised-neural-networks-9661f93a8509).
 # Public
 [(Back to top)](#table-of-contents)
 
