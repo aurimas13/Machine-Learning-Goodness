@@ -470,7 +470,7 @@ scientific discovery as found [here](https://www.youtube.com/watch?v=XtJVLOe4cfs
 
 # Automate ML pipeline & Autoencoders | Day 37
 
-+ Read the book-overview of automating Machine Learning pipeline as item **8** [here](#worthy-books) or accessed through
++ Read the short book of automating Machine Learning pipeline as item **8** [here](#worthy-books) or accessed through
 [here](https://www.databricks.com/wp-content/uploads/2022/02/How-to-Automate-Your-Machine-Learning-Pipeline-eBook-v4-012522.pdf).
 This short overview looked at the lifecycle using the Databricks Lakehouse Platform.
 + Studied Autoencoders that give a good representation of your data that focuses on the signal rather  the noise. 
