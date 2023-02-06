@@ -47,7 +47,9 @@ Worthy books to hone expertise of ML/DL/NN/AGI, Python Programming, CS fundament
 | 4          | Automated Machine Learning                                                         | Book includes overviews of the bread-and-butter techniques we need in AutoML, provides in-depth discussions of existing AutoML systems, and evaluates the state of the art in AutoML | [Automated Machine Learning](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)                                                                                                                   |
 | 5          | Mathematics for Computer Science                                                   | Book by MIT on Mathematics for Computer Science                                                                                                                                      | [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)                                                                                                                          |                                                           
 | 6          | Mathematics for Machine Learning                                                   | Book by University of California on Mathematics for Machine Learning                                                                                                                 | [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf)                                                                                                                                   |                                                                                          |
-| 7          | Applied Artificial Intelligence                                                    | Book on engineering AI applications                                                                                                                                                  | [Applied Artificial Intelligence](https://www.researchgate.net/publication/324030716_Applied_Artificial_Intelligence_-_An_Engineering_Approach) |
+| 7          | Applied Artificial Intelligence                                                    | Book on engineering AI applications                                                                                                                                                  | [Applied Artificial Intelligence](https://www.researchgate.net/publication/324030716_Applied_Artificial_Intelligence_-_An_Engineering_Approach)                                                                   |
+| 8          | Automating Machine Learning Pipeline                                               | Book-overview of automating ML lifecycle with Databricks Lakehouse platform                                                                                                          | [Automating Machine Learning Pipeline](https://www.databricks.com/wp-content/uploads/2022/02/How-to-Automate-Your-Machine-Learning-Pipeline-eBook-v4-012522.pdf)                                                  |
+
 
 # Worthy Tools
 [(Back to top)](#table-of-contents)
@@ -102,6 +104,7 @@ to be shared on the repository.
 | 42         | A Collection of Definitions of Intelligence                                 | 70-odd definitions of intelligence                                                                                                           | [A Collection of Definitions of Intelligence](https://arxiv.org/pdf/0706.3639.pdf)                                                                |
 | 43         | Competition-Level Code Generation with AlphaCode                            | AlphaCode paper                                                                                                                              | [Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814)                                                              |
 | 44         | Machine Learning                                                            | What is Machine Learning? A well explained introdution                                                                                       | [Machine Learning](https://pub.towardsai.net/what-is-machine-learning-ml-b58162f97ec7)                                                            | 
+| 45         | Autoencoders                                                                | Introduction to Autoencoders and dive into Undercomplete Autoencoders                                                                        | [Autoencoders](https://towardsdatascience.com/autoencoders-ae-a-smart-way-to-process-your-data-using-unsupervised-neural-networks-9661f93a8509)   |
 
 # Worthy Repositories
 [(Back to top)](#table-of-contents)
@@ -467,13 +470,14 @@ scientific discovery as found [here](https://www.youtube.com/watch?v=XtJVLOe4cfs
 
 # Automate ML pipeline & Autoencoders | Day 37
 
-+ Read the book-overview of automating Machine Learning pipeline as item **10** [here](#worthy-books) or accessed through
++ Read the book-overview of automating Machine Learning pipeline as item **8** [here](#worthy-books) or accessed through
 [here](https://www.databricks.com/wp-content/uploads/2022/02/How-to-Automate-Your-Machine-Learning-Pipeline-eBook-v4-012522.pdf).
 This short overview looked at the lifecycle using the Databricks Lakehouse Platform.
 + Studied Autoencoders that give a good representation of your data that focuses on the signal rather  the noise. 
 Found and article that briefly introduced Autoencoders and dived deeper into an Undercomplete Autoencoder, 
-suitable for dimensionality reduction and feature extraction as item **44** [here](#worthy-tools) or accessed through 
+suitable for dimensionality reduction and feature extraction as item **45** [here](#worthy-tools) or accessed through 
 [here](https://towardsdatascience.com/autoencoders-ae-a-smart-way-to-process-your-data-using-unsupervised-neural-networks-9661f93a8509).
+
 # Public
 [(Back to top)](#table-of-contents)
 
