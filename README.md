@@ -490,13 +490,13 @@ the training set to the dev set, identifying Bias, Variance, and Data Mismatch E
 to name a few of the questions that the book answers. It can also be accessed straight through
 [here](https://info.deeplearning.ai/hubfs/andrew-ng-machine-learning-yearning-1.pdf?_hsmi=78646066&_hsenc=p2ANqtz--vl5UX2asi1u_1GfOGzNSEhb07iFH0uWdfUY0vWsyKIgzqknfb_4RnO5i64BFYOfTqjaT2zGFZsuOrK3vbace8MOYYkcohiF4xlHDTSDhIk3he-Yc).
 
-# ChatGPT & Scikit-learn Cheat Sheets | Day 39
+# ChatGPT & Scikit-learn Cheatsheets | Day 39
 
-+ Found an awesome Cheat Sheet regarding ChatGPT usage. As OpenAI said it's a must-have for anyone looking to get the 
++ Found an awesome Cheatsheet regarding ChatGPT usage. As OpenAI said it's a must-have for anyone looking to get the 
 most out of ChatGPT or NLP tasks in general. It can be found as item **46** [here](#worthy-tools) or accessed through 
 [here](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf) with KDnuggets post on it 
 [here](https://www.kdnuggets.com/2023/01/chatgpt-cheat-sheet.html)
-+ Also came across a cheat sheet of Scikit-learn on Machine Learning that can be found as item **47** [here](#worthy-tools) 
++ Also came across a cheatsheet of Scikit-learn on Machine Learning that can be found as item **47** [here](#worthy-tools) 
 or accessed straight by clicking on 
 [here](https://www.kdnuggets.com/publications/sheets/Scikit-Learn_Cheatsheet_for_Machine_Learning.pdf)
 with KDnuggets post on it [here](https://www.kdnuggets.com/2022/12/scikit-learn-machine-learning-cheatsheet.html). 
