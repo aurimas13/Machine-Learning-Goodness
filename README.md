@@ -108,7 +108,7 @@ to be shared on the repository.
 | 45         | Autoencoders                                                                | Introduction to Autoencoders and dive into Undercomplete Autoencoders                                                                        | [Autoencoders](https://towardsdatascience.com/autoencoders-ae-a-smart-way-to-process-your-data-using-unsupervised-neural-networks-9661f93a8509)   |
 | 46         | ChatGPT Cheatsheet                                                          | A must-have Cheatsheet for anyone that is using ChatGPT a lot                                                                                | [ChatGPT Cheatsheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)                                                  |
 | 47         | Scikit-learn Cheatsheet                                                     | Scikit-Learn Cheatsheet fo Machine Learning                                                                                                  | [Scikit-Learn Cheatsheet](https://www.kdnuggets.com/publications/sheets/Scikit-Learn_Cheatsheet_for_Machine_Learning.pdf)                         |
-
+| 48         | Top 13 Python Deep Learning Libraries                                       | Summary of top libraries in Deep learning using Python                                                                                       | [Top 13 Python Deep Learning Libraries](https://www.kdnuggets.com/2018/11/top-python-deep-learning-libraries.html)                                |
 
 # Worthy Repositories
 [(Back to top)](#table-of-contents)
@@ -125,6 +125,9 @@ Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details 
 | 6          | Awesome RL                                | Github repository on amazing materials on Reinforcement Learning                                    | [Awesome RL](https://github.com/aikorea/awesome-rl)                                                                     |
 | 7          | Optimizing Chemical Reactions             | Optimizing Chemical Reactions with Deep Reinforcement Learning                                      | [Optimizing Chemical Reactions](https://github.com/lightingghost/chemopt)                                               |
 | 8          | Machine Learning cheatsheets              | Machine Learning cheatsheets on Supervised, Unsupervised & Deep Learning as well as Tips and Tricks | [Machine Learning cheatsheets ](https://www.kdnuggets.com/2021/02/6-data-science-certificates.html)                     |
+| 9          | ML Youtube Courses                        | Most recent Machine Leaning courses available on Youtube                                            | [ML Youtube Course](https://github.com/dair-ai/ML-YouTube-Courses)                                                      |
+| 10         | Machine Learning Course Notes             | Notes on the courses related to Machine Learning                                                    | [Machine Learning Course Notes](https://github.com/dair-ai/ML-Course-Notes)                                             |
+
 
 # Notebooks 
 [(Back to top)](#table-of-contents)
@@ -503,6 +506,20 @@ with KDnuggets post on it [here](https://www.kdnuggets.com/2022/12/scikit-learn-
 A bit on Scikit-learn: Scikit-learn is an open-source Python library for all kinds of predictive data analysis. 
 You can perform classification, regression, clustering, dimensionality reduction, model tuning, 
 and data preprocessing tasks.
+
+
+# ML Videos, Top 13 &  | Day 40
+
++ Came across a fantastic GitHub repository that gives useful ML courses on the Youtube videos where you could refresh yor Machine Learning
+expertise ranging from Deep Learning to Reinforcement Learning to Graph Machine Learning asnd other subcategories through watching them
+as found as item **9** [here](#worthy-repositories) or accessed straight through [here](https://github.com/dair-ai/ML-YouTube-Courses).
++ Found Top 13 Deep Learning libraries summarised in one article found as item **48** [here](#worthy-tools) or accessed straight through 
+[here](https://www.kdnuggets.com/2018/11/top-python-deep-learning-libraries.html).
++ Stumbled across another fantastic GitHub repository on Machine Learning Courses but this time it provides notes on the  
+courses like for Deep Learning Specialization of 2022 or MIT's Introduction of Deep Learning to name a few. It can be 
+accessed as item **10** [here](#worthy-repositories) or through this [link](https://github.com/dair-ai/ML-Course-Notes) directly.
+
+
 
 # Public
 [(Back to top)](#table-of-contents)
