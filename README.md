@@ -508,7 +508,7 @@ You can perform classification, regression, clustering, dimensionality reduction
 and data preprocessing tasks.
 
 
-# ML Videos, Top 13 &  | Day 40
+# ML Videos, Top 13 & ML Courses | Day 40
 
 + Came across a fantastic GitHub repository that gives useful ML courses on the Youtube videos where you could refresh yor Machine Learning
 expertise ranging from Deep Learning to Reinforcement Learning to Graph Machine Learning asnd other subcategories through watching them
