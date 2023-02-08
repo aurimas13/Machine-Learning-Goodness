@@ -493,9 +493,9 @@ to name a few of the questions that the book answers. It can also be accessed st
 # ChatGPT & Scikit-learn Cheatsheets | Day 39
 
 + Found an awesome Cheatsheet regarding ChatGPT usage. As OpenAI said it's a must-have for anyone looking to get the 
-most out of ChatGPT or NLP tasks in general. It can be found as item **46** [here](#worthy-tools) or accessed through 
+most out of ChatGPT or NLP tasks in general. It can be found as item **46** [here](#worthy-tools) or accessed directly through 
 [here](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf) with KDnuggets post on it 
-[here](https://www.kdnuggets.com/2023/01/chatgpt-cheat-sheet.html)
+[here](https://www.kdnuggets.com/2023/01/chatgpt-cheat-sheet.html).
 + Also came across a cheatsheet of Scikit-learn on Machine Learning that can be found as item **47** [here](#worthy-tools) 
 or accessed straight by clicking on 
 [here](https://www.kdnuggets.com/publications/sheets/Scikit-Learn_Cheatsheet_for_Machine_Learning.pdf)
