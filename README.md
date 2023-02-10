@@ -539,7 +539,7 @@ accessed as item **10** [here](#worthy-repositories) or through this [link](http
 
 # Visualisations, Errors & Testing | Day 41
 
-+ Took today easy and spent time reading articles. The ones I found interesting are items **49**, **50** and **51** that could be found [here](#worthy-tools) or accessed through here:
++ Took today easy and spent time reading articles. The ones I found interesting are items **49**, **50** and **51** where a simple guide of vislisations on Machine Learning is given, then a blog post that helps discovering errors in your Machine Learning models and lastly a well explained overview on Hypothesis Tedting. These article coulds be found [here](#worthy-tools) or accessed directly here:
 1. [A Simple Guide to Machine Learning Visualisations](https://towardsdatascience.com/a-simple-guide-to-machine-learning-visualisations-6c808ac925dd)
 2. [Discovering the systematic errors made by machine learning models](https://ai.stanford.edu/blog/domino/)|
 3. [Hypothesis Testing Explained](https://www.kdnuggets.com/2021/09/hypothesis-testing-explained.html)
