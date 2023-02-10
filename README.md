@@ -109,6 +109,24 @@ to be shared on the repository.
 | 46         | ChatGPT Cheatsheet                                                          | A must-have Cheatsheet for anyone that is using ChatGPT a lot                                                                                | [ChatGPT Cheatsheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)                                                  |
 | 47         | Scikit-learn Cheatsheet                                                     | Scikit-Learn Cheatsheet fo Machine Learning                                                                                                  | [Scikit-Learn Cheatsheet](https://www.kdnuggets.com/publications/sheets/Scikit-Learn_Cheatsheet_for_Machine_Learning.pdf)                         |
 | 48         | Top 13 Python Deep Learning Libraries                                       | Summary of top libraries in Deep learning using Python                                                                                       | [Top 13 Python Deep Learning Libraries](https://www.kdnuggets.com/2018/11/top-python-deep-learning-libraries.html)                                |
+| 49 | A Simple Guide to Machine Learning Visualisations | Summary of visual inspection on ML models performance | [A Simple Guide to Machine Learning Visualisations](https://towardsdatascience.com/a-simple-guide-to-machine-learning-visualisations-6c808ac925dd)|
+| 50 | Discovering the systematic errors made by machine learning models | Summary to discover errors on Machine Learning models that achieve high overall accuracy on coherent slices of validation data | [Discovering the systematic errors made by machine learning models](https://ai.stanford.edu/blog/domino/)|
+| 51 | Hypothesis Testing Explaine? | Explanation of Hypothesis Testing | [A Simple Guide to Machine Learning Visualisations](https://www.kdnuggets.com/2021/09/hypothesis-testing-explained.html)|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Worthy Repositories
 [(Back to top)](#table-of-contents)
@@ -519,7 +537,12 @@ as found as item **9** [here](#worthy-repositories) or accessed straight through
 courses like for Deep Learning Specialization of 2022 or MIT's Introduction of Deep Learning to name a few. It can be 
 accessed as item **10** [here](#worthy-repositories) or through this [link](https://github.com/dair-ai/ML-Course-Notes) directly.
 
+# Visualisations, Errors & Testing | Day 41
 
+# Took today easy and spent time reading articles. The ones I found interesting as items **49**, **50** and **51** could be found [here](#worthy-tools) or accessed through here:
+1. [A Simple Guide to Machine Learning Visualisations](https://towardsdatascience.com/a-simple-guide-to-machine-learning-visualisations-6c808ac925dd)
+2. [Discovering the systematic errors made by machine learning models](https://ai.stanford.edu/blog/domino/)|
+3. [Hypothesis Testing Explained](https://www.kdnuggets.com/2021/09/hypothesis-testing-explained.html)
 
 # Public
 [(Back to top)](#table-of-contents)
