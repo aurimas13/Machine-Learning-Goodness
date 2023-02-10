@@ -576,6 +576,3 @@ The MIT LICENSE can be found [here](https://github.com/aurimas13/CodeAcademy-AI-
 
 
 
-
-
-
