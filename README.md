@@ -553,6 +553,9 @@ accessed as item **10** [here](#worthy-repositories) or through this [link](http
 1. [ChatGPT productivity hacks](https://www.zdnet.com/article/chatgpt-productivity-hacks-five-ways-to-use-chatbots-to-make-your-life-easier/?taid=63e690b4be05cf0001218da8)
 2. [Triple Money with Data Science](https://www.kdnuggets.com/2021/10/tripled-my-income-data-science-18-months.html)
 
+# Neural Nets on Tabular Data | Day 43
++
+
 # Public
 [(Back to top)](#table-of-contents)
 
