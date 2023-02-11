@@ -472,8 +472,7 @@ through [here](https://www.researchgate.net/publication/324030716_Applied_Artifi
 2. [Loading in your own data](https://www.youtube.com/watch?v=j-3vuBynnOE&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=4)
 3. [Convolutional Neural Networks](https://www.youtube.com/watch?v=WvoLTXIjBYU&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=4)
 4. [Analyzing Models with TensorBoard](https://www.youtube.com/watch?v=BqgTU7_cBnk&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=5)
-+ Made a notebook looking at Ordinal and One Hot Encodings as found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_34_Neural_Networks_for_Tabular_Data_6_L1_Demonstration_1_of_Encoding.ipynb).
-
++ Made a notebook looking at Ordinal and One Hot Encodings as found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_34_Example_of_Neural_Networks_for_Tabular_Data_Demonstration_1.ipynb).
 # Essential Papers, AlphaCode & Machine Learning | Day 35  
 
 + Read three papers as items **41**, **42** and **43** as found [here](#worthy-tools) or summarrised and accessed below:
@@ -554,7 +553,7 @@ accessed as item **10** [here](#worthy-repositories) or through this [link](http
 2. [Triple Money with Data Science](https://www.kdnuggets.com/2021/10/tripled-my-income-data-science-18-months.html)
 
 # Neural Nets on Tabular Data | Day 43
-+
++ Took it easy today. Created two notebooks with some explanations there on Neural Nets for Tabular Data while using TensorFlow and PyTorch. The former uses in-built embeddings and is short and can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_43_Example_of_Neural_Networks_for_Tabular_Data_Demonstration_2.ipynb) while the latter uses Neural Nets for Tabular Data with PyTorch with less explanation and can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_44_Example_of_Neural_Networks_for_Tabular_with_PyTorch_Demonstration.ipynb).
 
 # Public
 [(Back to top)](#table-of-contents)
