@@ -112,7 +112,9 @@ to be shared on the repository.
 | 49 | A Simple Guide to Machine Learning Visualisations | Summary of visual inspection on ML models performance | [A Simple Guide to Machine Learning Visualisations](https://towardsdatascience.com/a-simple-guide-to-machine-learning-visualisations-6c808ac925dd)|
 | 50 | Discovering the systematic errors made by machine learning models | Summary to discover errors on Machine Learning models that achieve high overall accuracy on coherent slices of validation data | [Discovering the systematic errors made by machine learning models](https://ai.stanford.edu/blog/domino/)|
 | 51 | Hypothesis Testing Explaine? | Explanation of Hypothesis Testing | [A Simple Guide to Machine Learning Visualisations](https://www.kdnuggets.com/2021/09/hypothesis-testing-explained.html)|
-
+|52| Intro Course to AI | Free introductory AI course for beginner's given by Microsoft | [Intro Course to AI](https://www.kdnuggets.com/2022/08/free-ai-beginners-course.html)
+|53| ChatGPT productivity hacks | ChatGPT productivity hacks: Five ways to use chatbots to make your life easier | [ChatGPT productivity hacks](https://www.zdnet.com/article/chatgpt-productivity-hacks-five-ways-to-use-chatbots-to-make-your-life-easier/?taid=63e690b4be05cf0001218da8)
+|54| Triple Money with Data Science | Article on how a fellow tripled his income with Data Science in 18 Months | [Triple Money with Data Science](https://www.kdnuggets.com/2021/10/tripled-my-income-data-science-18-months.html)
 
 
 
@@ -539,10 +541,17 @@ accessed as item **10** [here](#worthy-repositories) or through this [link](http
 
 # Visualisations, Errors & Testing | Day 41
 
-+ Took today a bit easier and spent time reading articles. The ones I found interesting are items **49**, **50** and **51** where a simple guide of vislisations on Machine Learning is given, then a blog post that helps discovering errors in your Machine Learning models and lastly a well explained overview on Hypothesis Tedting. These article coulds be found [here](#worthy-tools) or accessed directly here:
++ Took today a bit easier and spent time reading articles. The ones I found interesting are items **49**, **50** and **51** where a simple guide of vislisations on Machine Learning is given, then a blog post that helps discovering errors in your Machine Learning models and lastly a well explained overview on Hypothesis Tedting. These article coulds be found [here](#worthy-tools) or accessed directly through here:
 1. [A Simple Guide to Machine Learning Visualisations](https://towardsdatascience.com/a-simple-guide-to-machine-learning-visualisations-6c808ac925dd)
 2. [Discovering the systematic errors made by machine learning models](https://ai.stanford.edu/blog/domino/)|
 3. [Hypothesis Testing Explained](https://www.kdnuggets.com/2021/09/hypothesis-testing-explained.html)
+
+# AI Course, ChatGPT hack & Money | Day 42
+
++ Found a well  balanced beginners course on AI by Microsoft as item **52** [here](#worthy-tools) or accessed directly through [here]( https://www.kdnuggets.com/2022/08/free-ai-beginners-course.html). 
++ Also spent time reading articles and the two ones I found interesting give ChatGPT productivity hacks and explanation on how to triple your income with Data Science as items **53** ant **54** [here](#worthy-tools) or accessed directly through here:
+1. [ChatGPT productivity hacks](https://www.zdnet.com/article/chatgpt-productivity-hacks-five-ways-to-use-chatbots-to-make-your-life-easier/?taid=63e690b4be05cf0001218da8)
+2. [Triple Money with Data Science](https://www.kdnuggets.com/2021/10/tripled-my-income-data-science-18-months.html)
 
 # Public
 [(Back to top)](#table-of-contents)
