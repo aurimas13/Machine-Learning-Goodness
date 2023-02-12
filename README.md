@@ -554,7 +554,7 @@ accessed as item **10** [here](#worthy-repositories) or through this [link](http
 
 # Neural Nets on Tabular Data | Day 43
 + Took it easy today. Created two notebooks with some explanations on Neural Nets for Tabular Data there while using TensorFlow and PyTorch. The former uses in-built embeddings and is short and can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_43_Example_of_Neural_Networks_for_Tabular_Data_Demonstration_2.ipynb) while the latter uses Neural Nets for Tabular Data with PyTorch with less explanation and can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_44_Example_of_Neural_Networks_for_Tabular_with_PyTorch_Demonstration.ipynb).
-+ Came across predictions on AI by Andrew Ng for the next 10 years. Great read. Have a look yourself as item **55** [here]($worthy-tools) or access straight through [here](https://venturebeat.com/ai/andrew-ng-predicts-the-next-10-years-in-ai/?sf162890539=1).
++ Came across predictions on AI by Andrew Ng for the next 10 years. Great read. Have a look yourself as item **55** [here](#worthy-tools) or access straight through [here](https://venturebeat.com/ai/andrew-ng-predicts-the-next-10-years-in-ai/?sf162890539=1).
 
 # Public
 [(Back to top)](#table-of-contents)
