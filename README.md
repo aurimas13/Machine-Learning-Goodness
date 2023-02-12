@@ -115,7 +115,7 @@ to be shared on the repository.
 |52| Intro Course to AI | Free introductory AI course for beginner's given by Microsoft | [Intro Course to AI](https://www.kdnuggets.com/2022/08/free-ai-beginners-course.html)
 |53| ChatGPT productivity hacks | ChatGPT productivity hacks: Five ways to use chatbots to make your life easier | [ChatGPT productivity hacks](https://www.zdnet.com/article/chatgpt-productivity-hacks-five-ways-to-use-chatbots-to-make-your-life-easier/?taid=63e690b4be05cf0001218da8)
 |54| Triple Money with Data Science | Article on how a fellow tripled his income with Data Science in 18 Months | [Triple Money with Data Science](https://www.kdnuggets.com/2021/10/tripled-my-income-data-science-18-months.html)
-<!-- |55| Predictions on AI for the next 10 years | Andrew Ng's prediction on AI for the next 10 years | [Predictions on AI for the next 10 years](https://venturebeat.com/ai/andrew-ng-predicts-the-next-10-years-in-ai/?sf162890539=1) -->
+|55| Predictions on AI for the next 10 years | Andrew Ng's prediction on AI for the next 10 years | [Predictions on AI for the next 10 years](https://venturebeat.com/ai/andrew-ng-predicts-the-next-10-years-in-ai/?sf162890539=1)
 
 
 
@@ -552,9 +552,9 @@ accessed as item **10** [here](#worthy-repositories) or through this [link](http
 1. [ChatGPT productivity hacks](https://www.zdnet.com/article/chatgpt-productivity-hacks-five-ways-to-use-chatbots-to-make-your-life-easier/?taid=63e690b4be05cf0001218da8)
 2. [Triple Money with Data Science](https://www.kdnuggets.com/2021/10/tripled-my-income-data-science-18-months.html)
 
-<!-- # Neural Nets on Tabular Data | Day 43
+# Neural Nets on Tabular Data | Day 43
 + Took it easy today. Created two notebooks with some explanations on Neural Nets for Tabular Data there while using TensorFlow and PyTorch. The former uses in-built embeddings and is short and can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_43_Example_of_Neural_Networks_for_Tabular_Data_Demonstration_2.ipynb) while the latter uses Neural Nets for Tabular Data with PyTorch with less explanation and can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_44_Example_of_Neural_Networks_for_Tabular_with_PyTorch_Demonstration.ipynb).
-+ Came across predictions on AI by Andrew Ng for the next 10 years. Great read. Have a look yourself as item **55** [here]($worthy-tools) or access straight through [here](https://venturebeat.com/ai/andrew-ng-predicts-the-next-10-years-in-ai/?sf162890539=1). -->
++ Came across predictions on AI by Andrew Ng for the next 10 years. Great read. Have a look yourself as item **55** [here]($worthy-tools) or access straight through [here](https://venturebeat.com/ai/andrew-ng-predicts-the-next-10-years-in-ai/?sf162890539=1).
 
 # Public
 [(Back to top)](#table-of-contents)
@@ -582,9 +582,3 @@ The Logo of the repository can be found [here](https://github.com/aurimas13/Mach
 [(Back to top)](#table-of-contents)
  
 The MIT LICENSE can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/LICENSE).
-
-
-
-
-
-
