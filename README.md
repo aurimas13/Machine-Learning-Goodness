@@ -437,7 +437,7 @@ or accessed through [here](https://github.com/lightingghost/chemopt).
 + Also found a fantastic explanation on Big O notation as item **39** [here](#worthy-tools) 
 or accessed through [here](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/).
 
-# Data Science Certificates, Chemical Reactions & Big O | Day 30
+# DS Certificates, Chemical Reactions & Big O | Day 30
 
 + Came across 6 Data Science certificates in one place that could boost your career as found as item **40** [here](#worthy-tools) or 
 accessed through [here](https://www.kdnuggets.com/2021/02/6-data-science-certificates.html). Particularly interested in Google Professional Data Engineer Certification & 
@@ -466,7 +466,7 @@ and [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Prob
 + Found an AI book on engineering Artificial Intelligence applications as item **7** [here](#worthy-books) or accessed 
 through [here](https://www.researchgate.net/publication/324030716_Applied_Artificial_Intelligence_-_An_Engineering_Approach).
 
-# Deep Learning with Python, TensorFlow and Keras & Encoding | Day 34
+# DL with Python, TensorFlow and Keras & Encoding | Day 34
 
 + Watched Youtube videos to replenish knowledge on Deep Learning with Python, TensorFlow and Keras through four recordings:
 1. [Deep Learning with Python, TensorFlow, and Keras tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=3&t=19s)
