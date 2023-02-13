@@ -565,6 +565,13 @@ accessed as item **10** [here](#worthy-repositories) or through this [link](http
   2. There’s a Jupyter notebook for every chapter
   3. Code is written in NumPy, SciPy, and Pandas
 
+# PyTorch Presentation | Day 45
++ Created PyTorch presentation taht can be accesse through [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Presentations/Day_45_PyTorch_Presentation.pdf) as a pdf or as poweproint presentation while clicking [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Presentations/Day_45_PyTorch_Presentation.pptx).
+
+
+
+
+
 # Public
 [(Back to top)](#table-of-contents)
 
