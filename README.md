@@ -569,7 +569,7 @@ accessed as item **10** [here](#worthy-repositories) or through this [link](http
 + Created PyTorch presentation that can be accessed through [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Presentations/Day_45_PyTorch_Presentation.pdf) as a pdf or as a poweproint presentation while clicking [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Presentations/Day_45_PyTorch_Presentation.pptx).
 
 <p align="center">
-  <img height="555px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_45_PyTorch_Presentation_image.png">
+  <img height="555px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_45_Pytorch_Presentation_image.png">
 </p>
 
 
