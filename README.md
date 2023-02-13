@@ -466,7 +466,7 @@ and [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Prob
 + Found an AI book on engineering Artificial Intelligence applications as item **7** [here](#worthy-books) or accessed 
 through [here](https://www.researchgate.net/publication/324030716_Applied_Artificial_Intelligence_-_An_Engineering_Approach).
 
-# DL with Python, TensorFlow and Keras & Encoding | Day 34
+# DL with Python, TensorFlow, Keras & Encoding | Day 34
 
 + Watched Youtube videos to replenish knowledge on Deep Learning with Python, TensorFlow and Keras through four recordings:
 1. [Deep Learning with Python, TensorFlow, and Keras tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=3&t=19s)
@@ -474,7 +474,7 @@ through [here](https://www.researchgate.net/publication/324030716_Applied_Artifi
 3. [Convolutional Neural Networks](https://www.youtube.com/watch?v=WvoLTXIjBYU&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=4)
 4. [Analyzing Models with TensorBoard](https://www.youtube.com/watch?v=BqgTU7_cBnk&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=5)
 + Made a notebook looking at Ordinal and One Hot Encodings as found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_34_Example_of_Neural_Networks_for_Tabular_Data_Demonstration_1.ipynb).
-# Essential Papers, AlphaCode & Machine Learning | Day 35  
+# Essential Papers, AlphaCode & ML | Day 35  
 
 + Read three papers as items **41**, **42** and **43** as found [here](#worthy-tools) or summarrised and accessed below:
 1. [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf) that explained the new concept of how to measure human-like artificial intelligence 
@@ -487,7 +487,7 @@ knowing many computer science algorithms to implement. Fantastic read.
 through [here](https://pub.towardsai.net/what-is-machine-learning-ml-b58162f97ec7). It explained what Machine Learning is, 
 how it works, and its importance in five minutes of reading.
 
-# Power of Deep Learning & Scientific Discovery with AI | Day 36
+# Power of DL & Scientific Discovery with AI | Day 36
 
 + Watched an awesome video from DeepMind on the Power of Deep Learning that can be accessed 
 through [here](https://www.youtube.com/watch?v=KvZGaP8qlI8).
