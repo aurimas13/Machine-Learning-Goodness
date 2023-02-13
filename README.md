@@ -50,7 +50,7 @@ Worthy books to hone expertise of ML/DL/NN/AGI, Python Programming, CS fundament
 | 7          | Applied Artificial Intelligence                                                    | Book on engineering AI applications                                                                                                                                                  | [Applied Artificial Intelligence](https://www.researchgate.net/publication/324030716_Applied_Artificial_Intelligence_-_An_Engineering_Approach)                                                                                                            |
 | 8          | Automating Machine Learning Pipeline                                               | Book-overview of automating ML lifecycle with Databricks Lakehouse platform                                                                                                          | [Automating Machine Learning Pipeline](https://www.databricks.com/wp-content/uploads/2022/02/How-to-Automate-Your-Machine-Learning-Pipeline-eBook-v4-012522.pdf)                                                                                           |
 | 9          | Machine Learning Yearning                                                          | The book for AI Engineers win the era of Deep Learning                                                                                                                               | [Machine Learning Yearning](https://info.deeplearning.ai/hubfs/andrew-ng-machine-learning-yearning-1.pdf?_hsmi=78646066&_hsenc=p2ANqtz--vl5UX2asi1u_1GfOGzNSEhb07iFH0uWdfUY0vWsyKIgzqknfb_4RnO5i64BFYOfTqjaT2zGFZsuOrK3vbace8MOYYkcohiF4xlHDTSDhIk3he-Yc)  |
-
+| 10 | Think Bayes | An introduytion to Bayesian statistics with Python implementation and Jupyter Notebooks| [Think Bayes](https://twitter.com/TheSequenceAI/status/1541264801074143232?s=20&t=KyB3eXH00O3HlsUEecSH9g) |
 
 # Worthy Tools
 [(Back to top)](#table-of-contents)
@@ -116,7 +116,8 @@ to be shared on the repository.
 |53| ChatGPT productivity hacks | ChatGPT productivity hacks: Five ways to use chatbots to make your life easier | [ChatGPT productivity hacks](https://www.zdnet.com/article/chatgpt-productivity-hacks-five-ways-to-use-chatbots-to-make-your-life-easier/?taid=63e690b4be05cf0001218da8)
 |54| Triple Money with Data Science | Article on how a fellow tripled his income with Data Science in 18 Months | [Triple Money with Data Science](https://www.kdnuggets.com/2021/10/tripled-my-income-data-science-18-months.html)
 |55| Predictions on AI for the next 10 years | Andrew Ng's prediction on AI for the next 10 years | [Predictions on AI for the next 10 years](https://venturebeat.com/ai/andrew-ng-predicts-the-next-10-years-in-ai/?sf162890539=1)
-
+|56| Theory of Mind May Have Spontaneously Emerged in Large Language Models | [Theory of Mind May Have Spontaneously Emerged in Large Language Models](https://arxiv.org/pdf/2302.02083.pdf) 
+|57| How ChatGPT Helps You To Automate Machine Learning? | [How ChatGPT Helps You To Automate Machine Learning?](https://towardsai.net/p/l/how-chatgpt-helps-you-to-automate-machine-learning).
 
 
 
@@ -555,6 +556,14 @@ accessed as item **10** [here](#worthy-repositories) or through this [link](http
 # Neural Nets on Tabular Data | Day 43
 + Took it easy today. Created two notebooks with some explanations on Neural Nets for Tabular Data there while using TensorFlow and PyTorch. The former uses in-built embeddings and is short and can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_43_Example_of_Neural_Networks_for_Tabular_Data_Demonstration_2.ipynb) while the latter uses Neural Nets for Tabular Data with PyTorch with less explanation and can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_44_Example_of_Neural_Networks_for_Tabular_with_PyTorch_Demonstration.ipynb).
 + Came across predictions on AI by Andrew Ng for the next 10 years. Great read. Have a look yourself as item **55** [here](#worthy-tools) or access straight through [here](https://venturebeat.com/ai/andrew-ng-predicts-the-next-10-years-in-ai/?sf162890539=1).
+
+# ChatGPT & Think Bayes | Day 44
++ Delved into ChatGPT by reading a paper showing that it performs much better than GPT3 and more like a nine-year old kid. It can be found as item **56** [here](#worthy-tools) or accessed straight through [here](https://arxiv.org/pdf/2302.02083.pdf) and read a nice article on how ChatGPT helps to automate Machine Learning projects found as item **57** [here](#worthy-tools) or accesed straight through [here](https://towardsai.net/p/l/how-chatgpt-helps-you-to-automate-machine-learning).
++ Came across a book on [an introduction to Bayesian statistics](#worthy-books) as item **10** there that uses computational methods relevant for MLK practitioners:
+1. This book uses Python code instead of math!
+2. There’s a Jupyter notebook for every chapter
+3. Code is written in NumPy, SciPy, and Pandas
+This book can also be accessed strraight as item [here](https://twitter.com/TheSequenceAI/status/1541264801074143232?s=20&t=KyB3eXH00O3HlsUEecSH9g)
 
 # Public
 [(Back to top)](#table-of-contents)
