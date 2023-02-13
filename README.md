@@ -117,7 +117,7 @@ to be shared on the repository.
 |54| Triple Money with Data Science | Article on how a fellow tripled his income with Data Science in 18 Months | [Triple Money with Data Science](https://www.kdnuggets.com/2021/10/tripled-my-income-data-science-18-months.html)
 |55| Predictions on AI for the next 10 years | Andrew Ng's prediction on AI for the next 10 years | [Predictions on AI for the next 10 years](https://venturebeat.com/ai/andrew-ng-predicts-the-next-10-years-in-ai/?sf162890539=1)
 |56| Theory of Mind May Have Spontaneously Emerged in Large Language Models | [Theory of Mind May Have Spontaneously Emerged in Large Language Models](https://arxiv.org/pdf/2302.02083.pdf) 
-|57| How ChatGPT Helps You To Automate Machine Learning? | [How ChatGPT Helps You To Automate Machine Learning?](https://towardsai.net/p/l/how-chatgpt-helps-you-to-automate-machine-learning).
+|57| How ChatGPT Helps You To Automate Machine Learning? | [How ChatGPT Helps You To Automate Machine Learning?](https://pub.towardsai.net/how-chatgpt-helps-you-to-automate-machine-learning-55520f49db9c).
 
 
 
@@ -558,9 +558,9 @@ accessed as item **10** [here](#worthy-repositories) or through this [link](http
 + Came across predictions on AI by Andrew Ng for the next 10 years. Great read. Have a look yourself as item **55** [here](#worthy-tools) or access straight through [here](https://venturebeat.com/ai/andrew-ng-predicts-the-next-10-years-in-ai/?sf162890539=1).
 
 # ChatGPT & Think Bayes | Day 44
-+ Delved into ChatGPT by reading a paper showing that it performs much better than GPT3 and more like a nine-year old kid. It can be found as item **56** [here](#worthy-tools) or accessed straight through [here](https://arxiv.org/pdf/2302.02083.pdf) and read a nice article on how ChatGPT helps to automate Machine Learning projects found as item **57** [here](#worthy-tools) or accesed straight through [here](https://towardsai.net/p/l/how-chatgpt-helps-you-to-automate-machine-learning).
++ Delved into ChatGPT by reading a paper showing that it performs much better than GPT3 and more like a nine-year-old kid. It can be found as item **56** [here](#worthy-tools) or accessed straight through [here](https://arxiv.org/pdf/2302.02083.pdf) and read a nice article on how ChatGPT helps to automate Machine Learning projects found as item **57** [here](#worthy-tools) or accesed straight through [here](https://pub.towardsai.net/how-chatgpt-helps-you-to-automate-machine-learning-55520f49db9c).
 
-+ Came across a book on [an introduction to Bayesian statistics](#worthy-books) as item **10** there or could be accessed straight [here](https://twitter.com/TheSequenceAI/status/1541264801074143232?s=20&t=KyB3eXH00O3HlsUEecSH9g) that uses computational methods relevant for ML practitioners:
++ Came across a book on [an introduction to Bayesian statistics](#worthy-books) as item **10** there or could be accessed straight [here](https://twitter.com/TheSequenceAI/status/1541264801074143232?s=20&t=KyB3eXH00O3HlsUEecSH9g) that uses computational methods relevant to ML practitioners:
   1. This book uses Python code instead of math!
   2. There’s a Jupyter notebook for every chapter
   3. Code is written in NumPy, SciPy, and Pandas
