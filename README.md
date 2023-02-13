@@ -560,7 +560,7 @@ accessed as item **10** [here](#worthy-repositories) or through this [link](http
 # ChatGPT & Think Bayes | Day 44
 + Delved into ChatGPT by reading a paper showing that it performs much better than GPT3 and more like a nine-year old kid. It can be found as item **56** [here](#worthy-tools) or accessed straight through [here](https://arxiv.org/pdf/2302.02083.pdf) and read a nice article on how ChatGPT helps to automate Machine Learning projects found as item **57** [here](#worthy-tools) or accesed straight through [here](https://towardsai.net/p/l/how-chatgpt-helps-you-to-automate-machine-learning).
 
-+ Came across a book on [an introduction to Bayesian statistics](#worthy-books) as item **10** there or could be accessed straight [here](https://twitter.com/TheSequenceAI/status/1541264801074143232?s=20&t=KyB3eXH00O3HlsUEecSH9g) that uses computational methods relevant for MLK practitioners:
++ Came across a book on [an introduction to Bayesian statistics](#worthy-books) as item **10** there or could be accessed straight [here](https://twitter.com/TheSequenceAI/status/1541264801074143232?s=20&t=KyB3eXH00O3HlsUEecSH9g) that uses computational methods relevant for ML practitioners:
   1. This book uses Python code instead of math!
   2. There’s a Jupyter notebook for every chapter
   3. Code is written in NumPy, SciPy, and Pandas
