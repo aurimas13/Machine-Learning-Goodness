@@ -577,7 +577,7 @@ accessed as item **10** [here](#worthy-repositories) or through this [link](http
 </p>
 
 # FastAI with Tabular Data | Day 46
-+ Made two notebooks looking at Tabular Data with FastAI. Thhe first one is short and an overview of FastAI with tabular data that can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_46_Neural_Networks_for_Tabular_Data_6_L3_Demonstration_1_of_fastai_tabular.ipynb) while the second notebook looked at entity embeddings of tabular data where embeddings could be understood as modified categorical variables where I compared Neural Nets with Random Forest as well as Ensemble machine 
++ Made two notebooks looking at Tabular Data with FastAI. The first one is short and an overview of FastAI with tabular data that can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_46_Neural_Networks_for_Tabular_Data_6_L3_Demonstration_1_of_fastai_tabular.ipynb) while the second notebook looked at entity embeddings of tabular data where embeddings could be understood as modified categorical variables where I compared Neural Nets with Random Forest as well as Ensemble machine 
 and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_46_Neural_Networks_for_Tabular_Data_6_L3_Demonstration_2_of_entity_embeddings.ipynb).
 
 
