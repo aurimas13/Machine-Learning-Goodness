@@ -581,7 +581,7 @@ accessed as item **10** [here](#worthy-repositories) or through this [link](http
 and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_46_Neural_Networks_for_Tabular_Data_6_L3_Demonstration_2_of_entity_embeddings.ipynb).
 
 # Podcasts on AI, ML, CS & Analytics | Day 47
-* Found podcasts that I like to listen on Machine Learning, AI and DS from time to time. I curated 10 most popular of them as such:
+* Created a list of podcasts that I like to listen on Machine Learning, AI and DS from time to time. Here are the 10 most popular of them as such:
 1. [Data Skeptic](https://podcasts.apple.com/us/podcast/data-skeptic/id890348705) | Features interviews and discussion of topics related to data science, statistics, machine learning, and artificial intelligence from the perspective of applying critical thinking and the scientific method to evaluate the veracity of claims and efficacy of approaches.
 2. [Data Stories](https://podcasts.apple.com/us/podcast/data-stories/id502854960) | Discussions on the latest developments in data analytics, visualization, and related topics.
 3. [Lex Fridman Podcast](https://podcasts.apple.com/us/podcast/artificial-intelligence-lex-mit-ai/id1434243584/) | Conversations at MIT and beyond about the nature of intelligence and AI from the perspectives of deep learning, robotics, AGI, neuroscience, philosophy, psychology, cognitive science, economics, physics, and mathematics.
