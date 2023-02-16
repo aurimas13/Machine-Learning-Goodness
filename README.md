@@ -600,7 +600,9 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
   - [Freakonomics Radio](https://podcasts.apple.com/us/podcast/freakonomics-radio/id354668519) | Discover the hidden side of everything with Stephen J. Dubner, co-author of the Freakonomics books. Each week, Freakonomics Radio tells you things you always thought you knew (but didn’t) and things you never thought you wanted to know (but do) — from the economics of sleep to how to become great at just about anything. Dubner speaks with Nobel laureates and provocateurs, intellectuals and entrepreneurs, and various other underachievers. Special features include series like “The Secret Life of a C.E.O.” as well as a live game show, “Tell Me Something I Don’t Know.”
   - [Talk Python To Me](https://podcasts.apple.com/us/podcast/talk-python-to-me/id979020229) | Covering a wide array of Python and related topics, our goal is to bring you the human story behind the Python packages and frameworks you know and love.
 
-
+<p align="center">
+  <img height="555px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/podcasts.png">
+</p>
 
 
 
