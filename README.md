@@ -580,6 +580,39 @@ accessed as item **10** [here](#worthy-repositories) or through this [link](http
 + Created two notebooks looking at Tabular Data with FastAI. The first one is short and an overview of FastAI with tabular data that can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_46_Neural_Networks_for_Tabular_Data_6_L3_Demonstration_1_of_fastai_tabular.ipynb) while the second notebook looked at entity embeddings of tabular data where embeddings could be understood as modified categorical variables where I compared Neural Nets with Random Forest as well as Ensemble machine 
 and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_46_Neural_Networks_for_Tabular_Data_6_L3_Demonstration_2_of_entity_embeddings.ipynb).
 
+# Podcasts on AI, ML, CS & Analytics | Day 47
+* Found podcasts that I like to listen on Machine Learning, AI and DS from time to time. I curated 10 most popular of them as such:
+1. [Data Skeptic](https://podcasts.apple.com/us/podcast/data-skeptic/id890348705) | Features interviews and discussion of topics related to data science, statistics, machine learning, and artificial intelligence from the perspective of applying critical thinking and the scientific method to evaluate the veracity of claims and efficacy of approaches.
+2. [Data Stories](https://podcasts.apple.com/us/podcast/data-stories/id502854960) | Discussions on the latest developments in data analytics, visualization, and related topics.
+3. [Lex Fridman Podcast](https://podcasts.apple.com/us/podcast/artificial-intelligence-lex-mit-ai/id1434243584/) | Conversations at MIT and beyond about the nature of intelligence and AI from the perspectives of deep learning, robotics, AGI, neuroscience, philosophy, psychology, cognitive science, economics, physics, and mathematics.
+4. [Linear Digressions](https://soundcloud.com/linear-digressions) | An exploration of machine learning and data science through interesting (and often very unusual) applications.
+5. [TWIMLAI](https://twimlai.com/) | This Week in Machine Learning & AI caters to a highly targeted audience of machine learning and AI enthusiasts. Covering technologies such as machine learning, artificial intelligence, deep learning, natural language processing, neural networks, analytics, and deep learning.
+6. [SuperDataScience](https://podcasts.apple.com/us/podcast/super-data-science/id1163599059) | Bringing you the most inspiring Data Scientists and Analysts from around the world to help you build your successful career in Data Science. Data is growing exponentially and so are salaries of those who work in analytics. This podcast can help you learn how to skyrocket your analytics career.
+7. [Talking Machines](https://podcasts.apple.com/us/podcast/talking-machines/id955198749) | Katherine Gorman and Neil Lawrence bring you clear conversations with experts in the field, insightful discussions of industry news, and useful answers to your questions. Machine learning is changing the questions we can ask of the world around us, here we explore how to ask the best questions and what to do with the answers.
+8. [The AI Podcast](https://podcasts.apple.com/us/podcast/the-ai-podcast/id1186480811) form NVIDIA | We connect with some of the world’s leading AI experts to explain how it works, how it’s evolving, and how it intersects with every facet of human endeavor. NVIDIA, the AI computing company, produces this podcast.
+9. [The Digital Analytics Power Hour](https://podcasts.apple.com/us/podcast/the-analytics-power-hour/id955228473) from Michael Helbling, Tim Wilson, and Moe Kiss | Attend any conference, and you will hear people say that the most informative discussions happened in the bar after the show. Read any business magazine, and you will find an article saying something along the lines of "Business Analytics is the hottest job category out there, and there is a significant lack of people, process and best practice." In this case, the conference was eMetrics, the bar was… multiple, and the attendees were Michael Helbling, Tim Wilson, and Jim Cain (Co-host Emeritus). After a few pints and a few hours of discussion about the cutting edge of digital analytics, they realized they might have something to contribute back to the community. This podcast is one of those contributions. Each episode is a closed topic and an open forum - the goal is for listeners to enjoy listening to Michael, Tim, and Moe share their thoughts and experiences and hopefully take away something to try at work the next day.
+10. [AI in Business Podcast](https://podcasts.apple.com/us/podcast/the-ai-in-business-podcast/id670771965) with Daniel Faggella | Learn what's possible - and what's working - with artificial intelligence in the enterprise through interviews with top AI and machine learning-focused executives and researchers in sectors like Pharma, Banking, Retail, and Defense. Discover trends, learn about what's working now, and learn how to adapt and thrive in an era of AI disruption.
+* Also worth mention are these podcasts:
+  - [WiDS (Women in Data Science)](https://podcasts.apple.com/us/podcast/women-in-data-science/id1440076586) | Data science is improving outcomes in a wide range of domains, from healthcare to seismology to human rights and more. Hear from women leaders across the data science profession, as they share their advice, career highlights, and lessons learned along the way.
+  - [Data Science Salon Podcast](https://podcasts.apple.com/us/podcast/data-science-salon-podcast/id1472749960) | Interviews with top and rising luminaries in data science, machine learning, and AI on the trends and business use cases that are propelling the field forward.
+  - [Voices in AI](https://podcasts.apple.com/us/podcast/voices-in-ai/id1291540809) from GigaOm| Today's Leading Minds Talk AI with Host Byron Reese.
+  - [Machine Learning Guide](https://podcasts.apple.com/us/podcast/machine-learning-guide/id1204521130) | Teaches the high-level fundamentals of machine learning and artificial intelligence including basic intuition, algorithms, and math. With discussions on languages and frameworks and deep learning, each episode offers a high-quality curated resource for learning each episode’s details.
+  - [Freakonomics Radio](https://podcasts.apple.com/us/podcast/freakonomics-radio/id354668519) | Discover the hidden side of everything with Stephen J. Dubner, co-author of the Freakonomics books. Each week, Freakonomics Radio tells you things you always thought you knew (but didn’t) and things you never thought you wanted to know (but do) — from the economics of sleep to how to become great at just about anything. Dubner speaks with Nobel laureates and provocateurs, intellectuals and entrepreneurs, and various other underachievers. Special features include series like “The Secret Life of a C.E.O.” as well as a live game show, “Tell Me Something I Don’t Know.”
+  - [Talk Python To Me](https://podcasts.apple.com/us/podcast/talk-python-to-me/id979020229) | Covering a wide array of Python and related topics, our goal is to bring you the human story behind the Python packages and frameworks you know and love.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Public
 [(Back to top)](#table-of-contents)
