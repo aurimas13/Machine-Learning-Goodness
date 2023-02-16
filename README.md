@@ -601,7 +601,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
   - [Talk Python To Me](https://podcasts.apple.com/us/podcast/talk-python-to-me/id979020229) | Covering a wide array of Python and related topics, our goal is to bring you the human story behind the Python packages and frameworks you know and love.
 
 <p align="center">
-  <img height="555px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/podcasts.png">
+  <img height="277px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/podcasts.png">
 </p>
 
 
