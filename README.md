@@ -51,6 +51,10 @@ Worthy books to hone expertise of ML/DL/NN/AGI, Python Programming, CS fundament
 | 8          | Automating Machine Learning Pipeline                                               | Book-overview of automating ML lifecycle with Databricks Lakehouse platform                                                                                                          | [Automating Machine Learning Pipeline](https://www.databricks.com/wp-content/uploads/2022/02/How-to-Automate-Your-Machine-Learning-Pipeline-eBook-v4-012522.pdf)                                                                                           |
 | 9          | Machine Learning Yearning                                                          | The book for AI Engineers win the era of Deep Learning                                                                                                                               | [Machine Learning Yearning](https://info.deeplearning.ai/hubfs/andrew-ng-machine-learning-yearning-1.pdf?_hsmi=78646066&_hsenc=p2ANqtz--vl5UX2asi1u_1GfOGzNSEhb07iFH0uWdfUY0vWsyKIgzqknfb_4RnO5i64BFYOfTqjaT2zGFZsuOrK3vbace8MOYYkcohiF4xlHDTSDhIk3he-Yc)  |
 | 10 | Think Bayes | An introduytion to Bayesian statistics with Python implementation and Jupyter Notebooks| [Think Bayes](https://twitter.com/TheSequenceAI/status/1541264801074143232?s=20&t=KyB3eXH00O3HlsUEecSH9g) |
+|11| The Ultimate ChatGPT Guide | The book that provides 100 resources to enhance your life with ChatGPT | [The Ultimate ChatGPT Guide](https://hasantoxr.gumroad.com/l/gpt)
+|12| The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts | The book to learn strategies for crafting compelling ChatGPT prompts that drive engaging and informative conversations | [The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts](https://fka.gumroad.com/l/art-of-chatgpt-prompting)
+|13| 10 ChatGPT prompts for Software Engineers | The book to learn how to prompt for software engineering tasks | [10 ChatGPT prompts for Software Engineers](ttps://sergiorocks.gumroad.com/l/chatgpt-prompts-for-software-engineers)
+
 
 # Worthy Tools
 [(Back to top)](#table-of-contents)
@@ -117,7 +121,9 @@ to be shared on the repository.
 |54| Triple Money with Data Science | Article on how a fellow tripled his income with Data Science in 18 Months | [Triple Money with Data Science](https://www.kdnuggets.com/2021/10/tripled-my-income-data-science-18-months.html)
 |55| Predictions on AI for the next 10 years | Andrew Ng's prediction on AI for the next 10 years | [Predictions on AI for the next 10 years](https://venturebeat.com/ai/andrew-ng-predicts-the-next-10-years-in-ai/?sf162890539=1)
 |56| Theory of Mind May Have Spontaneously Emerged in Large Language Models | [Theory of Mind May Have Spontaneously Emerged in Large Language Models](https://arxiv.org/pdf/2302.02083.pdf) 
-|57| How ChatGPT Helps You To Automate Machine Learning? | [How ChatGPT Helps You To Automate Machine Learning?](https://pub.towardsai.net/how-chatgpt-helps-you-to-automate-machine-learning-55520f49db9c).
+|57| How ChatGPT Helps You To Automate Machine Learning? | [How ChatGPT Helps You To Automate Machine Learning?](https://pub.towardsai.net/how-chatgpt-helps-you-to-automate-machine-learning-55520f49db9c)
+|58| The ChatGPT Cheat Sheet | [The ChatGPT Cheat Sheet](https://www.kdnuggets.com/2023/01/chatgpt-cheat-sheet.html)
+|59| OpenAI Cookbook | [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 
 
 
@@ -604,11 +610,10 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
   <img height="277px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/podcasts.png">
 </p>
 
+# ChaGPT Cheatscodes & Books | Day 48
 
-
-
-
-
++ ChatGPT Cheat Sheets could be found as items **58** and **59** [here](#worthy-tools) where you could learn ChatGPT tips and tricks for NLP, Code, Structure and Unstructured output, Media types, and Meta ChatGPT and [here](#worthy-tools) for understanding OpenAI API and using it to build ChatGPT applications or accessed throuh [here](https://www.kdnuggets.com/2023/01/chatgpt-cheat-sheet.html) and [here](https://github.com/openai/openai-cookbook) 
++ Books on ChatGPR as items **11**, **12** and **13** could be found [here](#worthy-books) where it provides 100 resources to enhance your life with ChatGPT, [here](#worthy-books) where you could learn strategies for crafting compelling ChatGPT prompts that drive engaging and informative conversations and [here](#worthy-books) to learn how to prompt for software engineering tasks or accessed through [here](https://hasantoxr.gumroad.com/l/gpt), [here](https://fka.gumroad.com/l/art-of-chatgpt-prompting) and [here](https://sergiorocks.gumroad.com/l/chatgpt-prompts-for-software-engineers). 
 
 
 
