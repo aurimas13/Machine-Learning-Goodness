@@ -616,7 +616,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 + Books on ChatGPR as items **11**, **12** and **13** could be found [here](#worthy-books) where it provides 100 resources to enhance your life with ChatGPT, [here](#worthy-books) where you could learn strategies for crafting compelling ChatGPT prompts that drive engaging and informative conversations and [here](#worthy-books) to learn how to prompt for software engineering tasks or accessed through [here](https://hasantoxr.gumroad.com/l/gpt), [here](https://fka.gumroad.com/l/art-of-chatgpt-prompting) and [here](https://sergiorocks.gumroad.com/l/chatgpt-prompts-for-software-engineers). 
 
 <p align="center">
-  <img height="277px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/chatgpt_cheats_print.png">
+  <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/chatgpt_cheats_print.png">
 </p>
 
 
