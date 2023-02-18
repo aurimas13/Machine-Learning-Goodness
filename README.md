@@ -124,8 +124,8 @@ to be shared on the repository.
 |57| How ChatGPT Helps You To Automate Machine Learning? | [How ChatGPT Helps You To Automate Machine Learning?](https://pub.towardsai.net/how-chatgpt-helps-you-to-automate-machine-learning-55520f49db9c)
 |58| The ChatGPT Cheat Sheet | [The ChatGPT Cheat Sheet](https://www.kdnuggets.com/2023/01/chatgpt-cheat-sheet.html)
 |59| OpenAI Cookbook | [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
-
-
+|60| Knowledge-augmented Graph Machine Learning for Drug Discovery: A Survey from Precision to Interpretability
+ |[Knowledge-augmented Graph Machine Learning for Drug Discovery: A Survey from Precision to Interpretability](https://deepai.org/publication/knowledge-augmented-graph-machine-learning-for-drug-discovery-a-survey-from-precision-to-interpretability)
 
 
 
@@ -619,9 +619,9 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
   <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/chatgpt_cheats_print.png">
 </p>
 
+# Could AI revolutionise Drug Discovery? | Day 49
 
-
-
++ Read article on Graph Machine Learning for Drug Discovery. As DL applciations have been on the rise in Drug Discoveryy yet Graph Machine Learning has gained considerable attention for its exceptional ability to model graph-structured biomedical data and investigate their properties and functional relationships. Details are found as item **60** [here](#worthy-tools) or accessed straight through [here](https://deepai.org/publication/knowledge-augmented-graph-machine-learning-for-drug-discovery-a-survey-from-precision-to-interpretability)
 
 
 # Public
