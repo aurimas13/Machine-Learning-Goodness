@@ -627,7 +627,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 # Machine Learning Visualisations | Day 50
 
-+ Studied about Machine Learning Visualisations. Looked at the basics (1<sup>st</sup> link), then studied the implementation in PyTorch that I use frequently (2<sup>nd</sup> link) and finished by looking at Visualsiations role in ML (3<sup>rd</sup> link.) These articels can be accesesed though [here](#worthy-tools) as there they are as items **61** **62** and **63** or by clicking on a link below:
++ Studied about Machine Learning Visualisations. Looked at the basics (1<sup>st</sup> link), then studied the implementation in PyTorch that I use frequently (2<sup>nd</sup> link) and finished by looking at Visualsiations role in ML (3<sup>rd</sup> link.) These articels can be accesesed though [here](#worthy-tools) as there they are as items **61**, **62** and **63** or by clicking on a link below:
   1. [A Simple Guide to Machine Learning Visualisations](https://towardsdatascience.com/a-simple-guide-to-machine-learning-visualisations-6c808ac925dd)
   2. [How to Visualize PyTorch Neural Networks – 3 Examples in Python](https://appsilon.com/visualize-pytorch-neural-networks/)
   3. [Role of Data Visualization in Machine Learning](https://pub.towardsai.net/role-of-data-visualization-in-machine-learning-a6dd62ad1082)
