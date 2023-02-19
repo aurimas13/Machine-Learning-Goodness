@@ -126,7 +126,9 @@ to be shared on the repository.
 |59| OpenAI Cookbook | [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 |60| Knowledge-augmented Graph Machine Learning for Drug Discovery: A Survey from Precision to Interpretability
  |[Knowledge-augmented Graph Machine Learning for Drug Discovery: A Survey from Precision to Interpretability](https://deepai.org/publication/knowledge-augmented-graph-machine-learning-for-drug-discovery-a-survey-from-precision-to-interpretability)
-
+|61| [A Simple Guide to Machine Learning Visualisations](https://towardsdatascience.com/a-simple-guide-to-machine-learning-visualisations-6c808ac925dd)
+|62| [How to Visualize PyTorch Neural Networks – 3 Examples in Python](https://appsilon.com/visualize-pytorch-neural-networks/)
+|63| [Role of Data Visualization in Machine Learning](https://pub.towardsai.net/role-of-data-visualization-in-machine-learning-a6dd62ad1082)
 
 
 
@@ -623,6 +625,12 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 + Read article on Graph Machine Learning for Drug Discovery. As DL applciations have been on the rise in Drug Discoveryy yet Graph Machine Learning has gained considerable attention for its exceptional ability to model graph-structured biomedical data and investigate their properties and functional relationships. Details are found as item **60** [here](#worthy-tools) or accessed straight through [here](https://deepai.org/publication/knowledge-augmented-graph-machine-learning-for-drug-discovery-a-survey-from-precision-to-interpretability)
 
+# Machine Learning Visualisations | Day 50
+
++ Studied about Machine Learning Visualisations. Looked at the basics (1<sup>st</sup> link), then studied the implmementation in PyTorch that I use frequently (2<sup>nd</sup> link) and finished by looking at Visualsiations role in ML (3<sup>rd</sup> link.) These articels can be accesesed though [here](#worthy-tools) as there they are as items **61** **62** and **63** or by clicking on a link below:
+  1. [A Simple Guide to Machine Learning Visualisations](https://towardsdatascience.com/a-simple-guide-to-machine-learning-visualisations-6c808ac925dd)
+  2. [How to Visualize PyTorch Neural Networks – 3 Examples in Python](https://appsilon.com/visualize-pytorch-neural-networks/)
+  3. [Role of Data Visualization in Machine Learning](https://pub.towardsai.net/role-of-data-visualization-in-machine-learning-a6dd62ad1082)
 
 # Public
 [(Back to top)](#table-of-contents)
