@@ -635,7 +635,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 
 # Work in progress | Day 51
-+ Worked on the private repository of [my own ML Project](https://github.com/aurimas13/ML-Project---Barbora) and dived into A/B testing by looking [here](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) or [here](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a)as well as found tips for Data Scienists and DataEngineers in their interviews given by Seattle Data Guy [here](https://seattledataguy.substack.com/p/3-sql-interview-tips-and-questions?r=2ydye&s=w). All of the links can also be found [here](#worthy-tools) as items  **64**, **65** and **66**.
++ Worked on the private repository of [my own ML Project](https://github.com/aurimas13/ML-Project---Barbora) and dived into A/B testing by looking [here](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) or [here](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) as well as found tips for Data Scienists and Data Engineers in their interviews given by Seattle Data Guy [here](https://seattledataguy.substack.com/p/3-sql-interview-tips-and-questions?r=2ydye&s=w). All of the links can also be found [here](#worthy-tools) as items  **64**, **65** and **66**.
 
 # Public
 [(Back to top)](#table-of-contents)
