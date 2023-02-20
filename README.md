@@ -129,7 +129,9 @@ to be shared on the repository.
 |61| [A Simple Guide to Machine Learning Visualisations](https://towardsdatascience.com/a-simple-guide-to-machine-learning-visualisations-6c808ac925dd)
 |62| [How to Visualize PyTorch Neural Networks – 3 Examples in Python](https://appsilon.com/visualize-pytorch-neural-networks/)
 |63| [Role of Data Visualization in Machine Learning](https://pub.towardsai.net/role-of-data-visualization-in-machine-learning-a6dd62ad1082)
-
+|64| Interpreting A/B test results: false positives and statistical significance | [Interpreting A/B test results: false positives and statistical significance](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) 
+|65| Complete Guide to A/B Testing Design, Implementation and Pitfalls | [Complete Guide to A/B Testing Design, Implementation and Pitfalls](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a)
+|66| Tips for Data Scienists and DataEngineers in their interviews | [Tips for Data Scienists and DataEngineers in their interviews](https://seattledataguy.substack.com/p/3-sql-interview-tips-and-questions?r=2ydye&s=w)
 
 
 
@@ -627,10 +629,14 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 # Machine Learning Visualisations | Day 50
 
-+ Studied about Machine Learning Visualisations. Looked at the basics (1<sup>st</sup> link), then studied the implementation in PyTorch that I use frequently (2<sup>nd</sup> link) and finished by looking at Visualsiations role in ML (3<sup>rd</sup> link.) These articels can be accesesed though [here](#worthy-tools) as there they are as items **61**, **62** and **63** or by clicking on a link below:
++ Studied about Machine Learning Visualisations. Remembered the basics (1<sup>st</sup> link), then studied the implementation in PyTorch that I use frequently (2<sup>nd</sup> link) and finished by looking at visualisations role in ML (3<sup>rd</sup> link.) These articles can be accesesed though [here](#worthy-tools) as there they are as items **61**, **62** and **63** or by clicking on a link below:
   1. [A Simple Guide to Machine Learning Visualisations](https://towardsdatascience.com/a-simple-guide-to-machine-learning-visualisations-6c808ac925dd)
   2. [How to Visualize PyTorch Neural Networks – 3 Examples in Python](https://appsilon.com/visualize-pytorch-neural-networks/)
   3. [Role of Data Visualization in Machine Learning](https://pub.towardsai.net/role-of-data-visualization-in-machine-learning-a6dd62ad1082)
+
+
+# Work in progress | Day 51
++ Worked on the private repository of [my own ML Project](https://github.com/aurimas13/ML-Project---Barbora) and dived into A/B testing by looking [here](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) or [here](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a)as well as found tips for Data Scienists and DataEngineers in their interviews given by Seattle Data Guy [here](https://seattledataguy.substack.com/p/3-sql-interview-tips-and-questions?r=2ydye&s=w). All of the links can also be found [here](#worthy-tools) as items  **64**, **65** and **66**.
 
 # Public
 [(Back to top)](#table-of-contents)
