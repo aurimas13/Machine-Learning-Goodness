@@ -637,7 +637,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 
 # ML Project & Git Cheat Sheet | Day 52
-+ Worked on the private repository of [my own ML Project](https://github.com/aurimas13/ML-Project---Barbora) and came across a Cheat Sheet of Git commands for Data Science as could be acessed through a list [here](#worthy-tools) as item **67** or directly thourgh [here](https://www.kdnuggets.com/publications/sheets/Git_Cheatsheet_KDnuggets.pdf).
++ Worked on the private repository of [my own ML Project](https://github.com/aurimas13/ML-Project---Barbora) and came across a Cheat Sheet of Git commands for Data Science as could be acessed through a list [here](#worthy-tools) as item **67** or directly thourgh [here](https://www.kdnuggets.com/publications/sheets/Git_Cheatsheet_KDnuggets.pdf). A summary of what it contains is described in this [website](https://www.kdnuggets.com/2022/11/git-data-science-cheatsheet.html) by KDnuggets.
 
 # Public
 [(Back to top)](#table-of-contents)
