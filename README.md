@@ -636,8 +636,8 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 + Worked on the private repository of [my own ML Project](https://github.com/aurimas13/ML-Project---Barbora) and dived into A/B testing by looking [here](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) or [here](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) as well as found tips for Data Scientists and Data Engineers in their interviews given by Seattle Data Guy [here](https://seattledataguy.substack.com/p/3-sql-interview-tips-and-questions?r=2ydye&s=w). All of the links can also be found [here](#worthy-tools) as items  **64**, **65** and **66**.
 
 
-# ML Project & Git Cheat Sheet | Day 51
-+ Worked again on the private repository of [my own ML Project](https://github.com/aurimas13/ML-Project---Barbora) and came across a Cheat Sheet of Git commands for Data Science as could be acessed [here](https://www.kdnuggets.com/publications/sheets/Git_Cheatsheet_KDnuggets.pdf) or [here](#worthy-tools) as item **67**.
+# ML Project & Git Cheat Sheet | Day 52
++ Worked in on the private repository of [my own ML Project](https://github.com/aurimas13/ML-Project---Barbora) and came across a Cheat Sheet of Git commands for Data Science as could be acessed through a list [here](#worthy-tools) as item **67** or directly thourgh [here](https://www.kdnuggets.com/publications/sheets/Git_Cheatsheet_KDnuggets.pdf).
 
 # Public
 [(Back to top)](#table-of-contents)
