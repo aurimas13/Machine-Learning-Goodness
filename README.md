@@ -132,7 +132,8 @@ to be shared on the repository.
 |65| Complete Guide to A/B Testing Design, Implementation and Pitfalls | Complete Guide to A/B Testing | [Complete Guide to A/B Testing Design, Implementation and Pitfalls](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a)
 |66| Tips for Data Scienists and DataEngineers in their interviews | Tips for interviews by Seattle Data Guy | [Tips for Data Scienists and DataEngineers in their interviews](https://seattledataguy.substack.com/p/3-sql-interview-tips-and-questions?r=2ydye&s=w)
 |67| Git Cheat Sheet for Data Science | Cheat Sheet of Git commands for Data Science | [Git Cheat Sheet for Data Science](https://www.kdnuggets.com/publications/sheets/Git_Cheatsheet_KDnuggets.pdf) 
-
+|68| CNN for Breast Cancer Classification | Overview of an algorithm to automatically identify whether a patient is suffering from breast cancer or not by looking at biopsy images| [CNN for Breast Cancer Classification](https://www.kdnuggets.com/2019/10/convolutional-neural-network-breast-cancer-classification.html)
+|69| Goodhart’s Law | Overview of Goodhart’s Law used at OpenAI | [Goodhart’s Law](https://openai.com/blog/measuring-goodharts-law/)
 
 
 
@@ -645,8 +646,19 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 + Looked at Goodhart’s that says: “When a measure becomes a target, it ceases to be a good measure.”. This philosophy is strived for in OpenAI. More as item **69** [here](#worthy-tools) or accessed through [here](https://openai.com/blog/measuring-goodharts-law/).
 
 <p align="center">
-  <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/cancer.png">
+  <img height="555px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/cancer.png">
 </p>
+
+
+
+
+
+
+
+
+
+
+
 
 [(Back to top)](#table-of-contents)
 
