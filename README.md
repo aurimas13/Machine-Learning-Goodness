@@ -643,7 +643,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 # CNN for Breast Cancer & Goodhart’s Law | Day  53
 
 + Found an article on Convolutial Neural Nets for Breast Cancer Classification that built an algorithm to automatically identify whether a patient is suffering from breast cancer or not by looking at biopsy images. The implementation could be found as item **68** [here](#worthy-tools) or accessed straight through [here](https://www.kdnuggets.com/2019/10/convolutional-neural-network-breast-cancer-classification.html).
-+ Looked at Goodhart’s that says: “When a measure becomes a target, it ceases to be a good measure.”. This philosophy is strived for in OpenAI. More as item **69** [here](#worthy-tools) or accessed through [here](https://openai.com/blog/measuring-goodharts-law/).
++ Looked at Goodhart’s Law that says: “When a measure becomes a target, it ceases to be a good measure.”. This philosophy is strived for in OpenAI. More as item **69** [here](#worthy-tools) or accessed through [here](https://openai.com/blog/measuring-goodharts-law/).
 
 <p align="center">
   <img height="555px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/cancer.png">
