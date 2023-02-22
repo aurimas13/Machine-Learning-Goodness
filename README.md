@@ -640,9 +640,9 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 # ML Project & Git Cheat Sheet | Day 52
 + Worked on the private repository of [my own ML Project](https://github.com/aurimas13/ML-Project---Barbora) and came across a Cheat Sheet of Git commands for Data Science as could be acessed through a list [here](#worthy-tools) as item **67** or directly thourgh [here](https://www.kdnuggets.com/publications/sheets/Git_Cheatsheet_KDnuggets.pdf). A summary of what it contains is described in this [website](https://www.kdnuggets.com/2022/11/git-data-science-cheatsheet.html) by KDnuggets.
 
-# CNN for Cancer | Day  53
+# CNN for Canser & Goodhart’s Law | Day  53
 
-+ Found out an article on convolutial neural ents for breast cancer classification that built an algorithm to automatically identify whether a patient is suffering from breast cancer or not by looking at biopsy images. The implementation could be found as item **68** [here](#worthy-tools) or accessed straight through [here](https://www.kdnuggets.com/2019/10/convolutional-neural-network-breast-cancer-classification.html).
++ Found out an article on Convolutial Neural Nets for Breast Cancer Classification that built an algorithm to automatically identify whether a patient is suffering from breast cancer or not by looking at biopsy images. The implementation could be found as item **68** [here](#worthy-tools) or accessed straight through [here](https://www.kdnuggets.com/2019/10/convolutional-neural-network-breast-cancer-classification.html).
 + Looked at Goodhart’s that says: “When a measure becomes a target, it ceases to be a good measure.”. This philosophy is strived for in OpenAI. More as item **69** [here](#worthy-tools) or accessed through [here](https://openai.com/blog/measuring-goodharts-law/).
 
 <p align="center">
