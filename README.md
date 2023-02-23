@@ -134,7 +134,7 @@ to be shared on the repository.
 |67| Git Cheat Sheet for Data Science | Cheat Sheet of Git commands for Data Science | [Git Cheat Sheet for Data Science](https://www.kdnuggets.com/publications/sheets/Git_Cheatsheet_KDnuggets.pdf) 
 |68| CNN for Breast Cancer Classification | Overview of an algorithm to automatically identify whether a patient is suffering from breast cancer or not by looking at biopsy images| [CNN for Breast Cancer Classification](https://www.kdnuggets.com/2019/10/convolutional-neural-network-breast-cancer-classification.html)
 |69| Goodhart’s Law | Overview of Goodhart’s Law used at OpenAI | [Goodhart’s Law](https://openai.com/blog/measuring-goodharts-law/)
-
+|70| How to Build an ML Platform from Scratch | Standard way to design, train and deploy model | directly [How to Build an ML Platform from Scratch](https://thesequence.substack.com/p/-guest-post-how-to-build-an-ml-platform).
 
 
 
@@ -649,7 +649,13 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
   <img height="555px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/cancer.png">
 </p>
 
+# Free on ML | Day 54
 
++ Came across well acknowledged Machine Leaning courses for free such as:
+  - [Top 5 free ML courses](https://www.kdnuggets.com/2022/02/top-5-free-machine-learning-courses.html)
+  - [Machine Learning Systems Design: A Free Stanford Course](https://www.kdnuggets.com/2021/02/machine-learning-systems-design-free-stanford-course.html)
+  - [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai)
++ Continued working on my own ML Project as took notes from building an ML model from scratch as accessed as item **70** [here](#worthy-tools) or given directly [here](https://thesequence.substack.com/p/-guest-post-how-to-build-an-ml-platform).
 
 
 
