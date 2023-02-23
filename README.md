@@ -649,7 +649,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
   <img height="555px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/cancer.png">
 </p>
 
-# Free on ML | Day 54
+# Free ML Courses & Building ML Platform | Day 54
 
 + Came across well acknowledged Machine Leaning courses for free such as:
   - [Top 5 free ML courses](https://www.kdnuggets.com/2022/02/top-5-free-machine-learning-courses.html)
