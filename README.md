@@ -134,8 +134,8 @@ to be shared on the repository.
 |67| Git Cheat Sheet for Data Science | Cheat Sheet of Git commands for Data Science | [Git Cheat Sheet for Data Science](https://www.kdnuggets.com/publications/sheets/Git_Cheatsheet_KDnuggets.pdf) 
 |68| CNN for Breast Cancer Classification | Overview of an algorithm to automatically identify whether a patient is suffering from breast cancer or not by looking at biopsy images| [CNN for Breast Cancer Classification](https://www.kdnuggets.com/2019/10/convolutional-neural-network-breast-cancer-classification.html)
 |69| Goodhart’s Law | Overview of Goodhart’s Law used at OpenAI | [Goodhart’s Law](https://openai.com/blog/measuring-goodharts-law/)
-|70| How to Build an ML Platform from Scratch | Standard way to design, train and deploy model | directly [How to Build an ML Platform from Scratch](https://thesequence.substack.com/p/-guest-post-how-to-build-an-ml-platform).
-
+|70| How to Build an ML Platform from Scratch | Standard way to design, train and deploy model | directly [How to Build an ML Platform from Scratch](https://thesequence.substack.com/p/-guest-post-how-to-build-an-ml-platform)
+|71| Recap of Self-Supervised Learning | Overview of Self-Supervised Learning | [Recap of Self-Supervised learning](https://thesequence.substack.com/p/-edge137-self-supervised-learning?s=w)
 
 
 
@@ -657,11 +657,23 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
   - [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai)
 + Continued working on my own ML Project as took notes from building an ML model from scratch as accessed as item **70** [here](#worthy-tools) or given directly [here](https://thesequence.substack.com/p/-guest-post-how-to-build-an-ml-platform).
 
+# Self-Supervised Learning | Day 55
+
++ Studied and dived into the world of Self-Supervised Learning as it could be accessed through item **71** [here](#worthy-tools) or directly through [here](https://thesequence.substack.com/p/-edge137-self-supervised-learning?s=w). In short terms it is known as the dark matter of AI and the list of the valuable articles on it are:
+  1. [A New Series About Self-Supervised Learning](https://thesequence.substack.com/p/edge123)
+  2. [Self-Supervised Learning for Computer Vision](https://thesequence.substack.com/p/edge135)
+  3. [Self-Supervised Learning for Speech](https://thesequence.substack.com/p/edge133)
+  4. [Self-Supervised Learning for Language](https://thesequence.substack.com/p/edge131)
+  5. [Self-Supervised Learning as Non-Contrastive Learning ](https://thesequence.substack.com/p/edge129)
+  6. [Self-Supervised Learning as Energy Based Methods](https://thesequence.substack.com/p/edge125)
+  7. [How Contrastive Learning Influences Self-Supervised Learning methods](https://thesequence.substack.com/p/edge127)
+  
 
 
-
-
-
+<!-- # MLOPS overview | Day 56
++ https://thesequence.substack.com/p/edge153 -->
+<!-- https://www.medscape.com/viewarticle/971281 -->
+<!-- https://news.emory.edu/stories/2022/04/er_ai_humanities_ethics_lecture_series_05-04-2022/story.html -->
 
 
 
