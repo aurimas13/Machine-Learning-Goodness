@@ -659,7 +659,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 # Self-Supervised Learning | Day 55
 
-+ Studied and dived into the world of Self-Supervised Learning as it could be accessed through item **71** [here](#worthy-tools) or directly through [here](https://thesequence.substack.com/p/-edge137-self-supervised-learning?s=w). In short terms it is known as the dark matter of AI and the list of the valuable articles on it are:
++ Studied and dived into the world of Self-Supervised Learning as it could be accessed through item **71** [here](#worthy-tools) or directly through [here](https://thesequence.substack.com/p/-edge137-self-supervised-learning?s=w). In short terms it is known as the dark matter of AI as it is a type of Unsupervised Learning and the list of the valuable articles on it are:
   1. [A New Series About Self-Supervised Learning](https://thesequence.substack.com/p/edge123)
   2. [Self-Supervised Learning for Computer Vision](https://thesequence.substack.com/p/edge135)
   3. [Self-Supervised Learning for Speech](https://thesequence.substack.com/p/edge133)
