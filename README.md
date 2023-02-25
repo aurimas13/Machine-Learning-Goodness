@@ -136,8 +136,8 @@ to be shared on the repository.
 |69| Goodhart’s Law | Overview of Goodhart’s Law used at OpenAI | [Goodhart’s Law](https://openai.com/blog/measuring-goodharts-law/)
 |70| How to Build an ML Platform from Scratch | Standard way to design, train and deploy model | directly [How to Build an ML Platform from Scratch](https://thesequence.substack.com/p/-guest-post-how-to-build-an-ml-platform)
 |71| Recap of Self-Supervised Learning | Overview of Self-Supervised Learning | [Recap of Self-Supervised learning](https://thesequence.substack.com/p/-edge137-self-supervised-learning?s=w)
-
-
+|72| Recap of MLOps (2021) | Overview of MLOps | [Recap of MLOps (2021)](https://thesequence.substack.com/p/edge153)
+|73| Recap of MLOps (2020) | Overview of MLOps | [Recap of MLOps (2020)](https://thesequence.substack.com/p/-edge20-what-is-mlops-top-mlops-technologies)
 
 # Worthy Repositories
 [(Back to top)](#table-of-contents)
@@ -670,10 +670,9 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
   
 
 
-<!-- # MLOPS overview | Day 56
-+ https://thesequence.substack.com/p/edge153 -->
-<!-- https://www.medscape.com/viewarticle/971281 -->
-<!-- https://news.emory.edu/stories/2022/04/er_ai_humanities_ethics_lecture_series_05-04-2022/story.html -->
+# MLOps, ML in Medicine & Ethics of AI  | Day 56
++ Studied about MLOps where great recaps on it could be found as items **72** and **73** [here](#worthy-tools) or accessed directly through [here](https://thesequence.substack.com/p/edge153) and [here](https://thesequence.substack.com/p/-edge20-what-is-mlops-top-mlops-technologies.
++ Read about Machine Learning applications in Medicine (Rheumatology) and listened to the Ethics of Artificial Intelligence as could be found by accessing directly through[here](https://www.medscape.com/viewarticle/971281) and [here](https://news.emory.edu/stories/2022/04/er_ai_humanities_ethics_lecture_series_05-04-2022/story.html).
 
 
 
