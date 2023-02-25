@@ -672,7 +672,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 # MLOps, ML in Medicine & Ethics of AI  | Day 56
 + Studied about MLOps where great recaps on it could be found as items **72** and **73** [here](#worthy-tools) or accessed directly through [here](https://thesequence.substack.com/p/edge153) and [here](https://thesequence.substack.com/p/-edge20-what-is-mlops-top-mlops-technologies.
-+ Read about Machine Learning applications in Medicine (Rheumatology) and listened to the Ethics of Artificial Intelligence as could be found by accessing directly through[here](https://www.medscape.com/viewarticle/971281) and [here](https://news.emory.edu/stories/2022/04/er_ai_humanities_ethics_lecture_series_05-04-2022/story.html).
++ Read about Machine Learning applications in Medicine (Rheumatology) and listened to the Ethics of Artificial Intelligence as could be found by accessing directly through [here](https://www.medscape.com/viewarticle/971281) and [here](https://news.emory.edu/stories/2022/04/er_ai_humanities_ethics_lecture_series_05-04-2022/story.html).
 
 
 
