@@ -681,9 +681,12 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 # More MLOps | Day 57
 
-+ Dived more into MLOPs as its design patterns could be found as ite **74** [here] or accessed directly through [here](https://www.kdnuggets.com/2022/02/design-patterns-machine-learning-mlops.html).
-+ Found artistic representations of neural network as accessed directly through [here](https://tylerneylon.com/a/randnn/).
++ Dived more into MLOPs as its design patterns could be found as item **74** [here] or accessed directly through [here](https://www.kdnuggets.com/2022/02/design-patterns-machine-learning-mlops.html).
++ Found artistic representations of neural networks as accessed directly through [here](https://tylerneylon.com/a/randnn/).
 
+<p align="center">
+  <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/artistic_NN.png">
+</p>
 # Public
 
 [(Back to top)](#table-of-contents)
