@@ -685,7 +685,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 + Found artistic representations of neural networks as accessed directly through [here](https://tylerneylon.com/a/randnn/).
 
 <p align="center">
-  <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/artistic_NN.png">
+  <img height="250px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/artistic_NN.png">
 </p>
 
 
