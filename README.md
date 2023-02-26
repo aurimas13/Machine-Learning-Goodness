@@ -687,6 +687,14 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 <p align="center">
   <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/artistic_NN.png">
 </p>
+
+
+
+
+
+
+
+
 # Public
 
 [(Back to top)](#table-of-contents)
