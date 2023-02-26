@@ -138,7 +138,8 @@ to be shared on the repository.
 |71| Recap of Self-Supervised Learning | Overview of Self-Supervised Learning | [Recap of Self-Supervised learning](https://thesequence.substack.com/p/-edge137-self-supervised-learning?s=w)
 |72| Recap of MLOps (2021) | Overview of MLOps | [Recap of MLOps (2021)](https://thesequence.substack.com/p/edge153)
 |73| Recap of MLOps (2020) | Overview of MLOps | [Recap of MLOps (2020)](https://thesequence.substack.com/p/-edge20-what-is-mlops-top-mlops-technologies)
-|74|Design patterns of MLOps | A summary of design patterns in MLOps | [Design patterns of MLOps](https://www.kdnuggets.com/2022/02/design-patterns-machine-learning-mlops.html).
+|74| Art of Neural Networks | Artistic representations of Neural Networks | [Art of Neural Networks](https://tylerneylon.com/a/randnn/)
+|75|Design patterns of MLOps | A summary of design patterns in MLOps | [Design patterns of MLOps](https://www.kdnuggets.com/2022/02/design-patterns-machine-learning-mlops.html)
 
 
 # Worthy Repositories
@@ -679,10 +680,10 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
   <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/mlops.png">
 </p>
 
-# More MLOps | Day 57
+# NN Art & More MLOps | Day 57
 
-+ Dived more into MLOPs as its design patterns could be found as item **74** [here] or accessed directly through [here](https://www.kdnuggets.com/2022/02/design-patterns-machine-learning-mlops.html).
-+ Found artistic representations of neural networks as accessed directly through [here](https://tylerneylon.com/a/randnn/).
++ Found artistic representations of neural networks as item **74** [here](#worthy-tools) or accessed directly through [here](https://tylerneylon.com/a/randnn/).
++ Dived more into MLOPs as its design patterns could be found as item **75** [here](#worthy-tools) or accessed directly through [here](https://www.kdnuggets.com/2022/02/design-patterns-machine-learning-mlops.html).
 
 <p align="center">
   <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/artistic_NN.png">
