@@ -140,7 +140,7 @@ to be shared on the repository.
 |73| Recap of MLOps (2020) | Overview of MLOps | [Recap of MLOps (2020)](https://thesequence.substack.com/p/-edge20-what-is-mlops-top-mlops-technologies)
 |74| Art of Neural Networks | Artistic representations of Neural Networks | [Art of Neural Networks](https://tylerneylon.com/a/randnn/)
 |75|Design patterns of MLOps | A summary of design patterns in MLOps | [Design patterns of MLOps](https://www.kdnuggets.com/2022/02/design-patterns-machine-learning-mlops.html)
-
+|76| How to Stay on Top of What’s Going on in the AI World | Resources on how to keep up with all the news and navigate through the endless stream of AI information | [How to Stay on Top of What’s Going on in the AI World](https://www.kdnuggets.com/2022/03/stay-top-going-ai-world.html).
 
 # Worthy Repositories
 [(Back to top)](#table-of-contents)
@@ -689,8 +689,9 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
   <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/artistic_NN.png">
 </p>
 
+# Stay on top with AI world | Day 58
 
-
++ Read about great recommendation how to stay on top with fast moving AI world found as item **76** [here](#worthy-tools) or accessed directyly [here](https://www.kdnuggets.com/2022/03/stay-top-going-ai-world.html). This includes *Youtube* channels worth following, *Arxiv* dataset with papers, *Papers With Code* on the newest ML research with repos, and of course *Twitter* posts on AI like following my created [list](https://twitter.com/i/lists/1455819654539132937) where you culd get news on AI world, Public Speaking, Investment, my posts and the fun that comes with all of that.
 
 
 
