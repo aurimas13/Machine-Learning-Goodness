@@ -691,7 +691,25 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 # Stay on top with AI world | Day 58
 
-+ Read about great recommendation how to stay on top with fast moving AI world found as item **76** [here](#worthy-tools) or accessed directyly [here](https://www.kdnuggets.com/2022/03/stay-top-going-ai-world.html). This includes *Youtube* channels worth following, *Arxiv* dataset with papers, *Papers With Code* on the newest ML research with repos, and of course *Twitter* posts on AI like following my created [list](https://twitter.com/i/lists/1455819654539132937) where you culd get news on AI world, Public Speaking, Investment, my posts and the fun that comes with all of that.
++ Found the article of most rewarding resources to stay on top with fast moving AI world as item **76** [here](#worthy-tools) or accessed directyly through [here](https://www.kdnuggets.com/2022/03/stay-top-going-ai-world.html). It includes *Youtube* channels worth following, *Arxiv* dataset with papers, *Papers With Code* on the newest ML research with repos, and of course *Twitter* posts on AI like following my created [list](https://twitter.com/i/lists/1455819654539132937) where you culd get news on AI world, Public Speaking, Investment, my posts and the fun that comes with all of that.
+
+<p align="center">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/list.png">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
