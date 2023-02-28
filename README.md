@@ -697,7 +697,9 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
   <img height="300px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/list.png">
 </p>
 
+# Geometric Deep Learning | Day 59
 
+ + Listened to an awesome lecture on never underestimating symmetry for Deep Learning as accessed directly though [here](https://www.youtube.com/watch?v=7pRIjJ_u2_c).
 
 
 
