@@ -703,7 +703,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
  # PyTorch Notebook of Fundamentals | Day 60
 
-+ Created a notebook of PyTorch Fundamentals that looks into tensors, it operations like sum, subtraction, division, element-wise and particularly matrix multiplications in depth, then tensors usage between NumPy and PyTorch, indexing, reproducibility and the usage of GPU for speeding up tensor calculations to name a few of the things that are covered there. The notebook can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_60_PyTorch_Fundamentals.ipynb).
++ Created a notebook of PyTorch Fundamentals that looks into tensors, tensor operations like sum, subtraction, division, element-wise and particularly matrix multiplications in depth, then tensors usage between NumPy and PyTorch, indexing, reproducibility and the usage of GPU for speeding up tensor calculations to name a few of the things that are covered there. The notebook can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_60_PyTorch_Fundamentals.ipynb).
 
 
 
