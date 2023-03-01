@@ -701,6 +701,9 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
  + Listened to an awesome lecture on never underestimating symmetry for Deep Learning as accessed directly though [here](https://www.youtube.com/watch?v=7pRIjJ_u2_c).
 
+ # PyTorch notebook of fundamentals | Day 60
+
++ Created a notebook of PyTorch Fundamentals that looks into tensors, tensor operations, matrix multiplications in depth and the usage of GPU to name a few of the things that are covered there. The notebook can be found [here]()
 
 
 
