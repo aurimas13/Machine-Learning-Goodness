@@ -140,7 +140,22 @@ to be shared on the repository.
 |73| Recap of MLOps (2020) | Overview of MLOps | [Recap of MLOps (2020)](https://thesequence.substack.com/p/-edge20-what-is-mlops-top-mlops-technologies)
 |74| Art of Neural Networks | Artistic representations of Neural Networks | [Art of Neural Networks](https://tylerneylon.com/a/randnn/)
 |75|Design patterns of MLOps | A summary of design patterns in MLOps | [Design patterns of MLOps](https://www.kdnuggets.com/2022/02/design-patterns-machine-learning-mlops.html)
-|76| How to Stay on Top of What’s Going on in the AI World | Resources on how to keep up with all the news and navigate through the endless stream of AI information | [How to Stay on Top of What’s Going on in the AI World](https://www.kdnuggets.com/2022/03/stay-top-going-ai-world.html).
+|76| How to Stay on Top of What’s Going on in the AI World | Resources on how to keep up with all the news and navigate through the endless stream of AI information | [How to Stay on Top of What’s Going on in the AI World](https://www.kdnuggets.com/2022/03/stay-top-going-ai-world.html)
+|77| ChatGPT and Whisper API | Integration tool for developer of ChatGPT and Whisper API | [ChatGPT and Whisper API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Worthy Repositories
 [(Back to top)](#table-of-contents)
@@ -705,8 +720,9 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 + Created a notebook of PyTorch Fundamentals that looks into tensors, tensor operations like sum, subtraction, division, element-wise and particularly matrix multiplications in depth, then tensors usage between NumPy and PyTorch, indexing, reproducibility and the usage of GPU for speeding up tensor calculations to name a few of the things that are covered there. The notebook can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_60_PyTorch_Fundamentals.ipynb).
 
+# ChatGPT and Whisper API | Day 61
 
-
++ Started using ChatGPT and Whisper API's to integrate its models in my ML projects. It was released recently by OpenAI for developers to improve their work as these API's could be found as item **77** [here](#worthy-tools) or accessed directly through [here](https://openai.com/blog/introducing-chatgpt-and-whisper-apis).
 
 
 
