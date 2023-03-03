@@ -142,7 +142,8 @@ to be shared on the repository.
 |75|Design patterns of MLOps | A summary of design patterns in MLOps | [Design patterns of MLOps](https://www.kdnuggets.com/2022/02/design-patterns-machine-learning-mlops.html)
 |76| How to Stay on Top of What’s Going on in the AI World | Resources on how to keep up with all the news and navigate through the endless stream of AI information | [How to Stay on Top of What’s Going on in the AI World](https://www.kdnuggets.com/2022/03/stay-top-going-ai-world.html)
 |77| ChatGPT and Whisper API | Integration tool for developer of ChatGPT and Whisper API | [ChatGPT and Whisper API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
-
+|78| 20 Machine Learning Projects That Will Get You Hired | Projects thta should get you hired as an ML Engineer | [20 Machine Learning Projects That Will Get You Hired](https://www.kdnuggets.com/2021/09/20-machine-learning-projects-hired.html).
+|79| 7 Top Machine Learning Programming Languages | Top programming languages used in Machine learning | [7 Top Machine Learning Programming Languages](https://www.codecademy.com/resources/blog/machine-learning-programming-languages/).
 
 
 
@@ -724,8 +725,10 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 + Started using ChatGPT and Whisper API's to integrate its models in my ML projects. It was released recently by OpenAI for developers to improve their work as these API's could be found as item **77** [here](#worthy-tools) or accessed directly through [here](https://openai.com/blog/introducing-chatgpt-and-whisper-apis).
 
+# Top ML Projects $ DS Interviews | Day 62
 
-
++ Came across a wonderful KDnuggets article of what should get you hired as an ML Engineer when completing one of the projects like MNIST Digit Classification, Heart Disease Prediction or Sales Forecasting to name a few of the 20 offered as the rest could be found as item **78** [here](#worthy-tools) or accessed directly through [here](https://www.kdnuggets.com/2021/09/20-machine-learning-projects-hired.html).
++ Every one knows that for Machine Learning you need to master Python, however there are other programming languages that could boost your arsenal in ML as well. Such could be Java and Javascript while the rest are found as top 7 ML pragramming languaes as item **79** [here](#worthy-tools) or accessed directly through [here](https://www.codecademy.com/resources/blog/machine-learning-programming-languages/).
 
 
 
