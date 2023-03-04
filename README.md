@@ -731,8 +731,8 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 + Came across a wonderful KDnuggets article of what should get you hired as an ML Engineer when completing one of the projects like MNIST Digit Classification, Heart Disease Prediction or Sales Forecasting to name a few of the 20 offered as the rest could be found as item **78** [here](#worthy-tools) or accessed directly through [here](https://www.kdnuggets.com/2021/09/20-machine-learning-projects-hired.html).
 + Every one knows that for Machine Learning you need to master Python, however there are other programming languages that could boost your arsenal in ML as well. Such could be Java and Javascript while the rest are found as top 7 ML pragramming languaes as item **79** [here](#worthy-tools) or accessed directly through [here](https://www.codecademy.com/resources/blog/machine-learning-programming-languages/).
 
-# Effective Testing for ML projects | Day 63
-+ Came across a wonderful blog that summarises the effective testing for Machine Learning Projects by giving and solving examples. The blog posts could be found as items **80**, **81** and **82** [here](#worthy-tools) or accesses directly through [here](https://ploomber.io/blog/ml-testing-i/), [here](https://ploomber.io/blog/ml-testing-ii/) and [here](https://ploomber.io/blog/ml-testing-iii/). The GitHub repository of this project could be found as item **11** [here](#worthy-repositories).
+# Effective Testing for ML Projects | Day 63
++ Came across a wonderful blog that summarises the effective testing for Machine Learning Projects by giving and solving examples. The blog posts could be found as items **80**, **81** and **82** [here](#worthy-tools) or accessed directly through [here](https://ploomber.io/blog/ml-testing-i/), [here](https://ploomber.io/blog/ml-testing-ii/) and [here](https://ploomber.io/blog/ml-testing-iii/). The GitHub repository of the project could be found also as item **11** [here](#worthy-repositories).
 
 
 
