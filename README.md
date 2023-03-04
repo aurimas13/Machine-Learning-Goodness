@@ -732,7 +732,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 + Every one knows that for Machine Learning you need to master Python, however there are other programming languages that could boost your arsenal in ML as well. Such could be Java and Javascript while the rest are found as top 7 ML pragramming languaes as item **79** [here](#worthy-tools) or accessed directly through [here](https://www.codecademy.com/resources/blog/machine-learning-programming-languages/).
 
 # Effective Testing for ML Projects | Day 63
-+ Came across a wonderful blog that summarises the effective testing for Machine Learning Projects by giving and solving examples. The blog posts could be found as items **80**, **81** and **82** [here](#worthy-tools) or accessed directly through [here](https://ploomber.io/blog/ml-testing-i/), [here](https://ploomber.io/blog/ml-testing-ii/) and [here](https://ploomber.io/blog/ml-testing-iii/). The GitHub repository of the project could be found also as item **11** [here](#worthy-repositories).
++ Found a wonderful blog that summarises the effective testing for Machine Learning Projects by giving and solving examples. The blog posts could be found as items **80**, **81** and **82** [here](#worthy-tools) or accessed directly through [here](https://ploomber.io/blog/ml-testing-i/), [here](https://ploomber.io/blog/ml-testing-ii/) and [here](https://ploomber.io/blog/ml-testing-iii/). The GitHub repository of the project could be found also as item **11** [here](#worthy-repositories).
 
 
 
