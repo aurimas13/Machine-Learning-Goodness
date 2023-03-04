@@ -142,10 +142,11 @@ to be shared on the repository.
 |75|Design patterns of MLOps | A summary of design patterns in MLOps | [Design patterns of MLOps](https://www.kdnuggets.com/2022/02/design-patterns-machine-learning-mlops.html)
 |76| How to Stay on Top of What’s Going on in the AI World | Resources on how to keep up with all the news and navigate through the endless stream of AI information | [How to Stay on Top of What’s Going on in the AI World](https://www.kdnuggets.com/2022/03/stay-top-going-ai-world.html)
 |77| ChatGPT and Whisper API | Integration tool for developer of ChatGPT and Whisper API | [ChatGPT and Whisper API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
-|78| 20 Machine Learning Projects That Will Get You Hired | Projects thta should get you hired as an ML Engineer | [20 Machine Learning Projects That Will Get You Hired](https://www.kdnuggets.com/2021/09/20-machine-learning-projects-hired.html).
-|79| 7 Top Machine Learning Programming Languages | Top programming languages used in Machine learning | [7 Top Machine Learning Programming Languages](https://www.codecademy.com/resources/blog/machine-learning-programming-languages/).
-
-
+|78| 20 Machine Learning Projects That Will Get You Hired | Projects thta should get you hired as an ML Engineer | [20 Machine Learning Projects That Will Get You Hired](https://www.kdnuggets.com/2021/09/20-machine-learning-projects-hired.html)
+|79| 7 Top Machine Learning Programming Languages | Top programming languages used in Machine learning | [7 Top Machine Learning Programming Languages](https://www.codecademy.com/resources/blog/machine-learning-programming-languages/)
+|80| Effective Testing for Machine Learning Projects (Part I) | Blog post on Effective Testing for ML projects (Part I) | [Effective Testing for Machine Learning Projects (Part I)](https://ploomber.io/blog/ml-testing-i/)
+|81| Effective Testing for Machine Learning Projects (Part II) | Blog post on Effective Testing for ML projects (Part II) | [Effective Testing for Machine Learning Projects (Part III)](https://ploomber.io/blog/ml-testing-ii/)
+|82| Effective Testing for Machine Learning Projects (Part III) | Blog post on Effective Testing for ML projects (Part III) | [Effective Testing for Machine Learning Projects (Part III)](https://ploomber.io/blog/ml-testing-iii/)
 
 
 
@@ -175,7 +176,7 @@ Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details 
 | 8          | Machine Learning cheatsheets              | Machine Learning cheatsheets on Supervised, Unsupervised & Deep Learning as well as Tips and Tricks | [Machine Learning cheatsheets ](https://www.kdnuggets.com/2021/02/6-data-science-certificates.html)                     |
 | 9          | ML Youtube Courses                        | Most recent Machine Leaning courses available on Youtube                                            | [ML Youtube Course](https://github.com/dair-ai/ML-YouTube-Courses)                                                      |
 | 10         | Machine Learning Course Notes             | Notes on the courses related to Machine Learning                                                    | [Machine Learning Course Notes](https://github.com/dair-ai/ML-Course-Notes)                                             |
-
+|11| Effective Testing for ML Projects | GitHub repository for Effective Testing for ML Projects | [Effective Testing for ML Projects](https://github.com/edublancas/ml-testing)
 
 # Notebooks 
 [(Back to top)](#table-of-contents)
@@ -729,6 +730,13 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 + Came across a wonderful KDnuggets article of what should get you hired as an ML Engineer when completing one of the projects like MNIST Digit Classification, Heart Disease Prediction or Sales Forecasting to name a few of the 20 offered as the rest could be found as item **78** [here](#worthy-tools) or accessed directly through [here](https://www.kdnuggets.com/2021/09/20-machine-learning-projects-hired.html).
 + Every one knows that for Machine Learning you need to master Python, however there are other programming languages that could boost your arsenal in ML as well. Such could be Java and Javascript while the rest are found as top 7 ML pragramming languaes as item **79** [here](#worthy-tools) or accessed directly through [here](https://www.codecademy.com/resources/blog/machine-learning-programming-languages/).
+
+# Effective Testing for ML projects | Day 63
++ Came across a wonderful blog that summarises the effective testing for Machine Learning Projects by giving and solving examples. The blog posts could be found as items **80**, **81** and **82** [here](#worthy-tools) or accesses directly through [here](https://ploomber.io/blog/ml-testing-i/), [here](https://ploomber.io/blog/ml-testing-ii/) and [here](https://ploomber.io/blog/ml-testing-iii/). The GitHub repository of this project could be found as item **11** [here](#worthy-repositories).
+
+
+
+
 
 
 
