@@ -739,7 +739,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 # A/B Testing | Day 64
 
-+ Studied about A/B Testing while understanding it basics, working through Python examples and digging into False Negatives and False Positives as more on that could be found as items **83** **84**, **85** and **86** [here](#worthy-tools) or accessed directly through [here](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481), [here](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962), [here](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) and [here](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a).
++ Studied about A/B Testing while understanding its fundamentals, working through Python examples and digging into False Negatives and False Positives as more on that could be found as items **83** **84**, **85** and **86** [here](#worthy-tools) or accessed directly through [here](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481), [here](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962), [here](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) and [here](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a).
 
 
 
