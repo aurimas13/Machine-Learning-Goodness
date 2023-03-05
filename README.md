@@ -151,7 +151,7 @@ to be shared on the repository.
 |84| What is an A/B Test? | How Netflix uses A/B tests to inform decisions and continuously innovate on their products | [What is an A/B Test?](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962)
 |85| Interpreting A/B test results: false positives and statistical significance | Interpreting A/B test results by looking at false positives and statistical significance | [Interpreting A/B test results: false positives and statistical significance](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a)
 |86| Complete Guide to A/B Testing Design, Implementation and Pitfalls | End-to-end A/B testing for your Data Science experiments for non-technical and technical specialists with examples and Python implementation | [Complete Guide to A/B Testing Design, Implementation and Pitfalls](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a).
-
+|87| 10 Statistical Concepts You Should Know For Data Science Interviews | Statistical Concepts necessary to be known for Data Science interviews | [10 Statistical Concepts You Should Know For Data Science Interviews](https://www.kdnuggets.com/2021/02/10-statistical-concepts-data-science-interviews.html).
 
 
 
@@ -741,7 +741,9 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 + Studied about A/B Testing while understanding its fundamentals, working through Python examples and digging into False Negatives and False Positives as more on that could be found as items **83** **84**, **85** and **86** [here](#worthy-tools) or accessed directly through [here](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481), [here](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962), [here](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) and [here](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a).
 
+# Statistical Concepts in Data Science | Day 65
 
++ Refreshed knowledge about statistical concepts necessary to be known for Data Science interviews ranging from Z-tests and T-tests to Uniform and Poisson Distributions to name a few ot the 10 that could be found as item **87** [here](#worthy-tools) or accessed directly through [here](https://www.kdnuggets.com/2021/02/10-statistical-concepts-data-science-interviews.html).
 
 
 
