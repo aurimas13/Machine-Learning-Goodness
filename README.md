@@ -147,7 +147,10 @@ to be shared on the repository.
 |80| Effective Testing for Machine Learning Projects (Part I) | Blog post on Effective Testing for ML projects (Part I) | [Effective Testing for Machine Learning Projects (Part I)](https://ploomber.io/blog/ml-testing-i/)
 |81| Effective Testing for Machine Learning Projects (Part II) | Blog post on Effective Testing for ML projects (Part II) | [Effective Testing for Machine Learning Projects (Part III)](https://ploomber.io/blog/ml-testing-ii/)
 |82| Effective Testing for Machine Learning Projects (Part III) | Blog post on Effective Testing for ML projects (Part III) | [Effective Testing for Machine Learning Projects (Part III)](https://ploomber.io/blog/ml-testing-iii/)
-
+|83| Decision making at Netflix | How Netflix uses A/B tests to make decisions that continuously improve their products, so they can deliver more joy and satisfaction to members| [Decision making at Netflix](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481)
+|84| What is an A/B Test? | How Netflix uses A/B tests to inform decisions and continuously innovate on their products | [What is an A/B Test?](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962)
+|85| Interpreting A/B test results: false positives and statistical significance | Interpreting A/B test results by looking at false positives and statistical significance | [Interpreting A/B test results: false positives and statistical significance](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a)
+|86| Complete Guide to A/B Testing Design, Implementation and Pitfalls | End-to-end A/B testing for your Data Science experiments for non-technical and technical specialists with examples and Python implementation | [Complete Guide to A/B Testing Design, Implementation and Pitfalls](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a).
 
 
 
@@ -733,6 +736,17 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 # Effective Testing for ML Projects | Day 63
 + Found a wonderful blog that summarises the effective testing for Machine Learning Projects by giving and solving examples. The blog posts could be found as items **80**, **81** and **82** [here](#worthy-tools) or accessed directly through [here](https://ploomber.io/blog/ml-testing-i/), [here](https://ploomber.io/blog/ml-testing-ii/) and [here](https://ploomber.io/blog/ml-testing-iii/). The GitHub repository of the project could be found also as item **11** [here](#worthy-repositories).
+
+# A/B Testing | Day 64
+
++ Studied about A/B Testing while understanding it basics, working through Python examples and digging into False Negatives and False Positives as more on that could be found as items **83** **84**, **85** and **86** [here](#worthy-tools) or accessed directly through [here](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481), [here](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962), [here](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) and [here](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a).
+
+
+
+
+
+
+
 
 
 
