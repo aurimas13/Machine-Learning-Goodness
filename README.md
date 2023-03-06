@@ -746,8 +746,11 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 + Refreshed knowledge about statistical concepts necessary to be known for Data Science interviews ranging from Z-tests and T-tests to Uniform and Poisson Distributions to name a few ot the 10 that could be found as item **87** [here](#worthy-tools) or accessed directly through [here](https://www.kdnuggets.com/2021/02/10-statistical-concepts-data-science-interviews.html).
 
 
+# Python Tricks & Reinforcement Learning by MIT | Day 66
 
-
+# Came across two books of Python Tricks and an overview on Reinforcement Learning:
+  1. Python Tricks: The Book — A buffet of Awesome Python Features can be found [here](https://www.amazon.com/dp/1775093301/).
+  2. A Introduction on Reinforcement Learning from fundamentals to advanced topics - [here](http://incompleteideas.net/book/the-book-2nd.html) while the book [here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://incompleteideas.net/book/RLbook2020.pdf).
 
 
 
