@@ -752,7 +752,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
   1. Python Tricks: The Book — A buffet of Awesome Python Features can be found [here](https://www.amazon.com/dp/1775093301/).
   2. Slides, Solutions and Codes about introduction on Reinforcement Learning from fundamentals to advanced topics [here](http://incompleteideas.net/book/the-book-2nd.html) while the book [here](http://incompleteideas.net/book/RLbook2020.pdf).
 
-To get either of the books for free if unavailable through links head and search the name through **libgen.gs**. 
+To get either of the books for free if unavailable through links head and search the name through [this awesome website](https://libgen.gs/). 
 
 
 # Public
