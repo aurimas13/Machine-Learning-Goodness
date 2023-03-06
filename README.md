@@ -750,7 +750,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 + Came across two books of Python Tricks and an overview on Reinforcement Learning:
   1. Python Tricks: The Book — A buffet of Awesome Python Features can be found [here](https://www.amazon.com/dp/1775093301/).
-  2. A Introduction on Reinforcement Learning from fundamentals to advanced topics - [here](http://incompleteideas.net/book/the-book-2nd.html) while the book [here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://incompleteideas.net/book/RLbook2020.pdf).
+  2. A Introduction on Reinforcement Learning from fundamentals to advanced topics - [here](http://incompleteideas.net/book/the-book-2nd.html) while the book [http://incompleteideas.net/book/RLbook2020.pdf).
 
 
 
