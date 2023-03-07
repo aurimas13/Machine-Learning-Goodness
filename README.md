@@ -755,6 +755,8 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 To get either of the books for free if unavailable through links head and search the name through [this awesome website](https://libgen.gs/). 
 
 
+
+
 # Public
 
 [(Back to top)](#table-of-contents)
