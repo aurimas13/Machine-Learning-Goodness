@@ -755,6 +755,25 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 To get either of the books for free if unavailable through links head and search the name through [this awesome website](https://libgen.gs/). 
 
 
+# SQL: Videos, Cheat Sheets, Interviews & Articles | Day 67
+
++ Refreshed expertise by watching, founding Cheat Sheets, reading prepartions for interview questions as well as other articles on SQL as worthy 13 of them are given below:
+ 1. Video Tutorial - [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=1s)
+ 2. Video Tutorial - [Learn SQL in 1 Hour - SQL Basics for Beginners](https://www.youtube.com/watch?v=9Pzj7Aj25lw&t=1s)
+ 3. Video Tutorial - [SQL Full Course | SQL Tutorial For Beginners | Learn SQL (Structured Query Language) | Edureka](https://www.youtube.com/watch?v=BPHAr4QGGVE)
+ 4. Video - [How To Write Better SQL In 7 Minutes](https://www.youtube.com/watch?v=nNR4jracHYA)
+ 5. Video - [SQL Interviews Be Like](https://www.youtube.com/watch?v=OAkHqpzNpRo)
+ 6. Cheat Sheet - [SQL Notes for Proffesionals](https://book.huihoo.com/goalkicker.com/SQLBook/SQLNotesForProfessionals.pdf)
+ 7. Cheat Sheet - [Data Preparation with SQL Cheatsheet](https://www.kdnuggets.com/2021/05/data-preparation-sql-cheat-sheet.html)
+ 8. SQL Course - [Free SQL and Database Course](https://www.kdnuggets.com/2022/09/free-sql-database-course.html)
+ 9. SQL Interview - [24 SQL Questions You Might See on Your Next Interview](https://www.kdnuggets.com/2022/06/24-sql-questions-might-see-next-interview.html)
+ 10. SQL Interview - [Uber SQL Interview Answers](https://towardsdatascience.com/uber-sql-interview-questions-cf6a2a08a23c)
+ 11. SQL Interview - [3 SQL Interview Tips And Questions For Data Scientists And Data Engineers](https://seattledataguy.substack.com/p/3-sql-interview-tips-and-questions?r=2ydye&s=w)
+ 12. Article - [How to Get Up and Running with SQL – A List of Free Learning Resources](https://www.kdnuggets.com/2022/10/get-running-sql-list-free-learning-resources.html)
+ 13. Article - [Handling Missing Values in Time-series with SQL](https://www.kdnuggets.com/2022/09/handling-missing-values-timeseries-sql.html)
+
+
+
 
 
 # Public
