@@ -774,7 +774,7 @@ To get either of the books for free if unavailable through links head and search
 
 # Pandas for Data Science | Day 68
 
-+ Put together insightful Pandas learning resources for Data Science. Some need to be subscribed/paid but it is worth it as they are joy to the eyes. These include courses/tutorials for using Pandas to explore datasets, dataframes, sort, clean, read and write data as well as some Pandas tricks to name a few of the sources. There is a total of 13 learning resources as found below:
++ Put together insightful Pandas learning resources for Data Science. Some need to be subscribed/paid but it is worth it as they are a joy to the eyes. These include courses/tutorials for using Pandas to explore datasets, dataframes, sort, clean, read and write data as well as some its tricks to name a few of the sources. There is a total of 13 learning resources as found below:
 1. Course - [Explore Your Dataset With Pandas](https://realpython.com/courses/explore-dataset-with-pandas/) - 47 minutes
 2. Course - [The Pandas DataFrame: Working With Data Efficiently](https://realpython.com/courses/pandas-dataframe-working-with-data/) - 130 minutes
 3. Course - [Sorting Data in Python With Pandas](https://realpython.com/courses/sorting-data-python-pandas/) - 26 minutes
