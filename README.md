@@ -772,7 +772,22 @@ To get either of the books for free if unavailable through links head and search
  12. Article - [How to Get Up and Running with SQL – A List of Free Learning Resources](https://www.kdnuggets.com/2022/10/get-running-sql-list-free-learning-resources.html)
  13. Article - [Handling Missing Values in Time-series with SQL](https://www.kdnuggets.com/2022/09/handling-missing-values-timeseries-sql.html)
 
+# Pandas for Data Science | Day 68
 
++ Put together insightful Pandas learning resources for Data Science. Some need to be subscribed/paid but it is worth it as they are joy to the eyes. These include courses/tutorials for using Pandas to explore datasets, dataframes, sort, clean, read and write data as well as some Pandas tricks to name a few of the sources. There is a total of 13 learning resources as found below:
+1. Course - [Explore Your Dataset With Pandas](https://realpython.com/courses/explore-dataset-with-pandas/) - 47 minutes
+2. Course - [The Pandas DataFrame: Working With Data Efficiently](https://realpython.com/courses/pandas-dataframe-working-with-data/) - 130 minutes
+3. Course - [Sorting Data in Python With Pandas](https://realpython.com/courses/sorting-data-python-pandas/) - 26 minutes
+4. Course - [Data Cleaning With pandas and NumPy](https://realpython.com/courses/data-cleaning-with-pandas-and-numpy/) - 88 minutes
+5. Course - [Reading and Writing Files With Pandas](https://realpython.com/courses/reading-writing-files-pandas/) - 49 minutes
+6. Course - [Plot With Pandas: Python Data Visualization Basics](https://realpython.com/courses/plot-pandas-data-visualization/) - 28 minutes
+7. Course - [Combining Data in pandas With concat() and merge()](https://realpython.com/courses/data-pandas-concat-and-merge/) - 94 minutes
+8. Course - [Idiomatic Pandas: Tricks & Features You May Not Know](https://realpython.com/courses/idiomatic-pandas-tricks-features-you-may-not-know/) - 47 minutes
+9. Course - [Using Pandas to Make a Gradebook in Python](https://realpython.com/courses/gradebook-using-pandas-python/) - 97 minutes
+10. Tutorial - [SettingWithCopyWarning in pandas: Views vs Copies](https://realpython.com/pandas-settingwithcopywarning/)
+11. Tutorial - [Fast, Flexible, Easy and Intuitive: How to Speed Up Your pandas Projects](https://realpython.com/fast-flexible-pandas/)
+12. Tutorial - [pandas GroupBy: Your Guide to Grouping Data in Python](https://realpython.com/pandas-groupby/)
+13. Tutorial - [NumPy, SciPy, and pandas: Correlation With Python](https://realpython.com/numpy-scipy-pandas-correlation-python/)
 
 
 
