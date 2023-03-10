@@ -790,6 +790,27 @@ To get either of the books for free if unavailable through links head and search
 13. Tutorial - [NumPy, SciPy, and pandas: Correlation With Python](https://realpython.com/numpy-scipy-pandas-correlation-python/)
 
 
+# Machine Learning Blogs | Day 69
+
++ Made a list of Machine Learning Research Blogs to follow with simple overviews what each provides. The list is as follows:
+  - [Machine Learning, Towards AI](https://towardsai.net/ai/machine-learning) - Aims to publish unbiased machine learning related articles and be an impartial source of information.
+  - [Amazon Science Blog](https://www.amazon.science/blog?f0=0000016e-2ff1-d205-a5ef-aff9651e0000&s=0) - Scientific blog that encompasses work from Amazon’s science community, and its research areas include cloud and systems, computer vision, conversational AI, NLP, machine learning, robotics, search and information retrieval and security, privacy, and abuse prevention.
+  - [Machine Learning Blog, ML@CMU, Carnegie Mellon University](https://blog.ml.cmu.edu/) - General-audience medium for researchers to communicate research findings, perspectives on the field of machine learning, and various updates.
+  - [Distill](https://distill.pub/) - The distinguishing trait of a Distill article is outstanding communication and a dedication to human understanding. Distill articles often, but not always, use interactive media. 
+  - [Google AI Blog](https://ai.googleblog.com/search/label/Machine%20Learning) - Google AI conducts research that advances the state-of-the-art in the field and the Google AI blog has a section specifically for machine learning research.
+  - [Data Science Dojo][https://datasciencedojo.com/] - An education startup that enables professionals to extract actionable insights from data. They have an exciting machine learning blog, which has several very informative articles on machine learning.
+  - [Neptune.AI](https://neptune.ai/blog) - Remarkable machine learning blog, offering tutorials on machine learning modeling, hyperparameter optimization, model evaluation, data exploration, generative models, machine learning tools, and many more. Neptune.AI also offers a framework that makes it easier to track versions of your Jupyter notebooks, helps with managing your experimentation process, and integrates with your team’s workflow easily.
+  - [BAIR Berkeley](https://bair.berkeley.edu/blog/) - The BAIR blog provides an accessible, general-audience medium for researchers to communicate research findings, perspectives on the field, and various updates. Posts are from students, postdocs, and faculty in BAIR and intend to provide a relevant and timely discussion of research findings and results, both to experts and the general audience.
+  - [OpenAI](https://openai.com/blog) - The OpenAI blog brings state-of-the-art research in the field. Their mission is to discover and enact the path to safe artificial general intelligence (AGI).
+  - [Machine Learning (Theory) by John Langford](https://hunch.net/) - The Machine Learning (Theory) blog is an experiment in the application of a blog to academic research in machine learning and learning theory by machine learning researcher John Langford. He has emphasized that the field of machine learning “is shifting from an academic discipline to an industrial tool”.
+  - [DeepMind Blog](https://www.deepmind.com/research?filters=%7B%22category%22%3A%5B%22Research%22%5D%7D) - DeepMind works on some of the most complex and exciting challenges in AI. Their world-class research has resulted in hundreds of peer-reviewed papers, including in Nature and Science.
+  - [Machine Learning at MIT](https://news.mit.edu/topic/machine-learning) - MIT often produces state-of-the-art research in the field of machine learning. This filtered news stream provides the latest news and research on what is happening in the field of machine learning at MIT.
+  - [Colah’s Blog](https://colah.github.io/) - Christopher Olah describes himself as a wandering machine learning researcher, looking to understand things clearly and explain them well [10]. Olah is a researcher with Open AI and formerly at Google AI. His blog has complete and exciting articles for the machine learning researcher and enthusiast — a gold mine of free, open, machine learning research.
+  -[Facebook's AI Blog](https://ai.facebook.com/blog/) - Facebook AI is known for working on state-of-the-art research in the field. Their research areas focus on computer vision, conversational AI, integrity, NLP, ranking and recommendations, systems research, machine learning theory, speech, and audio, along with human and machine intelligence. The Facebook AI Blog encompasses excellent content, from blog posts to research publications.
+  - [Amazon AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/) - Amazon web services (AWS) is one of the most used cloud services around the world. They offer reliable, scalable, and accessible cloud computing services. Their research team publishes blog posts on machine learning state-of-the-art research and ML applications on this AWS blog.
+
+
+
 
 # Public
 
