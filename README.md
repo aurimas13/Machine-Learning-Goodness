@@ -792,7 +792,7 @@ To get either of the books for free if unavailable through links head and search
 
 # Machine Learning Blogs | Day 69
 
-+ Made a list of Machine Learning Research Blogs to follow with simple overviews what each provides. The list is as follows:
++ Assembled the list of Machine Learning Research Blogs to follow with simple overviews what each provides. The list is as follows:
   - [Machine Learning, Towards AI](https://towardsai.net/ai/machine-learning) - Aims to publish unbiased machine learning related articles and be an impartial source of information.
   - [Amazon Science Blog](https://www.amazon.science/blog?f0=0000016e-2ff1-d205-a5ef-aff9651e0000&s=0) - Scientific blog that encompasses work from Amazon’s science community, and its research areas include cloud and systems, computer vision, conversational AI, NLP, machine learning, robotics, search and information retrieval and security, privacy, and abuse prevention.
   - [Machine Learning Blog, ML@CMU, Carnegie Mellon University](https://blog.ml.cmu.edu/) - General-audience medium for researchers to communicate research findings, perspectives on the field of machine learning, and various updates.
@@ -806,7 +806,7 @@ To get either of the books for free if unavailable through links head and search
   - [DeepMind Blog](https://www.deepmind.com/research?filters=%7B%22category%22%3A%5B%22Research%22%5D%7D) - DeepMind works on some of the most complex and exciting challenges in AI. Their world-class research has resulted in hundreds of peer-reviewed papers, including in Nature and Science.
   - [Machine Learning at MIT](https://news.mit.edu/topic/machine-learning) - MIT often produces state-of-the-art research in the field of machine learning. This filtered news stream provides the latest news and research on what is happening in the field of machine learning at MIT.
   - [Colah’s Blog](https://colah.github.io/) - Christopher Olah describes himself as a wandering machine learning researcher, looking to understand things clearly and explain them well. Olah is a researcher with Open AI and formerly at Google AI. His blog has complete and exciting articles for the machine learning researcher and enthusiast — a gold mine of free, open, machine learning research.
-  -[Facebook's AI Blog](https://ai.facebook.com/blog/) - Facebook AI is known for working on state-of-the-art research in the field. Their research areas focus on computer vision, conversational AI, integrity, NLP, ranking and recommendations, systems research, machine learning theory, speech, and audio, along with human and machine intelligence. The Facebook AI Blog encompasses excellent content, from blog posts to research publications.
+  - [Facebook's AI Blog](https://ai.facebook.com/blog/) - Facebook AI is known for working on state-of-the-art research in the field. Their research areas focus on computer vision, conversational AI, integrity, NLP, ranking and recommendations, systems research, machine learning theory, speech, and audio, along with human and machine intelligence. The Facebook AI Blog encompasses excellent content, from blog posts to research publications.
   - [Amazon AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/) - Amazon web services (AWS) is one of the most used cloud services around the world. They offer reliable, scalable, and accessible cloud computing services. Their research team publishes blog posts on machine learning state-of-the-art research and ML applications on this AWS blog.
 
 
