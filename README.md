@@ -805,9 +805,13 @@ To get either of the books for free if unavailable through links head and search
   - [Machine Learning (Theory) by John Langford](https://hunch.net/) - The Machine Learning (Theory) blog is an experiment in the application of a blog to academic research in machine learning and learning theory by machine learning researcher John Langford. He has emphasized that the field of machine learning “is shifting from an academic discipline to an industrial tool”.
   - [DeepMind Blog](https://www.deepmind.com/research?filters=%7B%22category%22%3A%5B%22Research%22%5D%7D) - DeepMind works on some of the most complex and exciting challenges in AI. Their world-class research has resulted in hundreds of peer-reviewed papers, including in Nature and Science.
   - [Machine Learning at MIT](https://news.mit.edu/topic/machine-learning) - MIT often produces state-of-the-art research in the field of machine learning. This filtered news stream provides the latest news and research on what is happening in the field of machine learning at MIT.
-  - [Colah’s Blog](https://colah.github.io/) - Christopher Olah describes himself as a wandering machine learning researcher, looking to understand things clearly and explain them well [10]. Olah is a researcher with Open AI and formerly at Google AI. His blog has complete and exciting articles for the machine learning researcher and enthusiast — a gold mine of free, open, machine learning research.
+  - [Colah’s Blog](https://colah.github.io/) - Christopher Olah describes himself as a wandering machine learning researcher, looking to understand things clearly and explain them well. Olah is a researcher with Open AI and formerly at Google AI. His blog has complete and exciting articles for the machine learning researcher and enthusiast — a gold mine of free, open, machine learning research.
   -[Facebook's AI Blog](https://ai.facebook.com/blog/) - Facebook AI is known for working on state-of-the-art research in the field. Their research areas focus on computer vision, conversational AI, integrity, NLP, ranking and recommendations, systems research, machine learning theory, speech, and audio, along with human and machine intelligence. The Facebook AI Blog encompasses excellent content, from blog posts to research publications.
   - [Amazon AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/) - Amazon web services (AWS) is one of the most used cloud services around the world. They offer reliable, scalable, and accessible cloud computing services. Their research team publishes blog posts on machine learning state-of-the-art research and ML applications on this AWS blog.
+
+
+
+
 
 
 
