@@ -792,7 +792,7 @@ To get either of the books for free if unavailable through links head and search
 
 # Machine Learning Blogs | Day 69
 
-+ Assembled the list of Machine Learning Research Blogs to follow with simple overviews what each provides. The list is as follows:
++ Assembled a list of Machine Learning Research Blogs to follow with simple overviews what each provides. The list is as follows:
   - [Machine Learning, Towards AI](https://towardsai.net/ai/machine-learning) - Aims to publish unbiased machine learning related articles and be an impartial source of information.
   - [Amazon Science Blog](https://www.amazon.science/blog?f0=0000016e-2ff1-d205-a5ef-aff9651e0000&s=0) - Scientific blog that encompasses work from Amazon’s science community, and its research areas include cloud and systems, computer vision, conversational AI, NLP, machine learning, robotics, search and information retrieval and security, privacy, and abuse prevention.
   - [Machine Learning Blog, ML@CMU, Carnegie Mellon University](https://blog.ml.cmu.edu/) - General-audience medium for researchers to communicate research findings, perspectives on the field of machine learning, and various updates.
