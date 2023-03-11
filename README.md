@@ -809,7 +809,10 @@ To get either of the books for free if unavailable through links head and search
   - [Facebook's AI Blog](https://ai.facebook.com/blog/) - Facebook AI is known for working on state-of-the-art research in the field. Their research areas focus on computer vision, conversational AI, integrity, NLP, ranking and recommendations, systems research, machine learning theory, speech, and audio, along with human and machine intelligence. The Facebook AI Blog encompasses excellent content, from blog posts to research publications.
   - [Amazon AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/) - Amazon web services (AWS) is one of the most used cloud services around the world. They offer reliable, scalable, and accessible cloud computing services. Their research team publishes blog posts on machine learning state-of-the-art research and ML applications on this AWS blog.
 
+# Metrics in ML & Python Goodies | Day 70
 
++ Found a great overview of the Confusion Matrix, Accuracy, Precision, and Recall as item **78** [here](#worthy-tools) or accessed directly through [here](https://www.kdnuggets.com/2021/02/evaluating-deep-learning-models-confusion-matrix-accuracy-precision-recall.html)
++ Great visual summary of Python libraries and frameworks ranging from Machine Learning to Image Processing to Automation Testing to Web Development to Gamew development to Web Scraping shown below.
 
 
 
