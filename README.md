@@ -810,7 +810,7 @@ To get either of the books for free if unavailable through links head and search
 
 # Metrics in ML & Python Goodies | Day 70
 
-+ Found a fantastic overview on evaluating ML models through metrics of Confusion Matrix, Accuracy, Precision, and Recall as item **88** [here](#worthy-tools) or accessed directly through [here](https://www.kdnuggets.com/2021/02/evaluating-deep-learning-models-confusion-matrix-accuracy-precision-recall.html)
++ Found a fantastic overview on evaluating ML models through metrics of Confusion Matrix, Accuracy, Precision, and Recall as item **88** [here](#worthy-tools) or accessed directly through [here](https://www.kdnuggets.com/2021/02/evaluating-deep-learning-models-confusion-matrix-accuracy-precision-recall.html).
 + Great visual summary of Python libraries and frameworks ranging from Machine Learning to Image Processing to Automation Testing to Web Development to Game Development to Web Scraping shown below.
 
 <p align="center">
