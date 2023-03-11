@@ -152,7 +152,7 @@ to be shared on the repository.
 |85| Interpreting A/B test results: false positives and statistical significance | Interpreting A/B test results by looking at false positives and statistical significance | [Interpreting A/B test results: false positives and statistical significance](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a)
 |86| Complete Guide to A/B Testing Design, Implementation and Pitfalls | End-to-end A/B testing for your Data Science experiments for non-technical and technical specialists with examples and Python implementation | [Complete Guide to A/B Testing Design, Implementation and Pitfalls](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a).
 |87| 10 Statistical Concepts You Should Know For Data Science Interviews | Statistical Concepts necessary to be known for Data Science interviews | [10 Statistical Concepts You Should Know For Data Science Interviews](https://www.kdnuggets.com/2021/02/10-statistical-concepts-data-science-interviews.html).
-
+|88| Evaluating Deep Learning Models: The Confusion Matrix, Accuracy, Precision, and Recall | Overview of evaluating ML models with metrics of Confusion Matrix, Accuracy, Precision, and Recall | [Evaluating Deep Learning Models: The Confusion Matrix, Accuracy, Precision, and Recall](https://www.kdnuggets.com/2021/02/evaluating-deep-learning-models-confusion-matrix-accuracy-precision-recall.html)
 
 
 
@@ -811,9 +811,12 @@ To get either of the books for free if unavailable through links head and search
 
 # Metrics in ML & Python Goodies | Day 70
 
-+ Found a great overview of the Confusion Matrix, Accuracy, Precision, and Recall as item **78** [here](#worthy-tools) or accessed directly through [here](https://www.kdnuggets.com/2021/02/evaluating-deep-learning-models-confusion-matrix-accuracy-precision-recall.html)
-+ Great visual summary of Python libraries and frameworks ranging from Machine Learning to Image Processing to Automation Testing to Web Development to Gamew development to Web Scraping shown below.
++ Found a fantastic overview on evaluating ML models through metrics of Confusion Matrix, Accuracy, Precision, and Recall as item **88** [here](#worthy-tools) or accessed directly through [here](https://www.kdnuggets.com/2021/02/evaluating-deep-learning-models-confusion-matrix-accuracy-precision-recall.html)
++ Great visual summary of Python libraries and frameworks ranging from Machine Learning to Image Processing to Automation Testing to Web Development to Game Development to Web Scraping shown below.
 
+<p align="center">
+  <img height="300px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_70_python_libaries_frameworks.png">
+</p>
 
 
 
