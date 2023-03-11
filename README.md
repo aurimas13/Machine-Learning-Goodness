@@ -814,7 +814,7 @@ To get either of the books for free if unavailable through links head and search
 + Great visual summary of Python libraries and frameworks ranging from Machine Learning to Image Processing to Automation Testing to Web Development to Game Development to Web Scraping shown below.
 
 <p align="center">
-  <img height="300px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_70_python_libraries_frameworks.jpeg">
+  <img height="600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_70_python_libraries_frameworks.jpeg">
 </p>
 
 
