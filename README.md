@@ -55,10 +55,6 @@ Worthy books to hone expertise of ML/DL/NN/AGI, Python Programming, CS fundament
 |12| The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts | The book to learn strategies for crafting compelling ChatGPT prompts that drive engaging and informative conversations | [The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts](https://fka.gumroad.com/l/art-of-chatgpt-prompting)
 |13| 10 ChatGPT prompts for Software Engineers | The book to learn how to prompt for software engineering tasks | [10 ChatGPT prompts for Software Engineers](https://sergiorocks.gumroad.com/l/chatgpt-prompts-for-software-engineers)
 
-
-
-
-
 # Worthy Tools
 [(Back to top)](#table-of-contents)
 
@@ -818,11 +814,8 @@ To get either of the books for free if unavailable through links head and search
 + Great visual summary of Python libraries and frameworks ranging from Machine Learning to Image Processing to Automation Testing to Web Development to Game Development to Web Scraping shown below.
 
 <p align="center">
-  <img height="300px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_70_python_libaries_frameworks.png">
+  <img height="300px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_70_python_libraries_frameworks.jpeg">
 </p>
-
-
-
 
 
 # Public
