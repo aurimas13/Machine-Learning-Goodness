@@ -53,7 +53,10 @@ Worthy books to hone expertise of ML/DL/NN/AGI, Python Programming, CS fundament
 | 10 | Think Bayes | An introduytion to Bayesian statistics with Python implementation and Jupyter Notebooks| [Think Bayes](https://twitter.com/TheSequenceAI/status/1541264801074143232?s=20&t=KyB3eXH00O3HlsUEecSH9g) |
 |11| The Ultimate ChatGPT Guide | The book that provides 100 resources to enhance your life with ChatGPT | [The Ultimate ChatGPT Guide](https://hasantoxr.gumroad.com/l/gpt)
 |12| The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts | The book to learn strategies for crafting compelling ChatGPT prompts that drive engaging and informative conversations | [The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts](https://fka.gumroad.com/l/art-of-chatgpt-prompting)
-|13| 10 ChatGPT prompts for Software Engineers | The book to learn how to prompt for software engineering tasks | [10 ChatGPT prompts for Software Engineers](ttps://sergiorocks.gumroad.com/l/chatgpt-prompts-for-software-engineers)
+|13| 10 ChatGPT prompts for Software Engineers | The book to learn how to prompt for software engineering tasks | [10 ChatGPT prompts for Software Engineers](https://sergiorocks.gumroad.com/l/chatgpt-prompts-for-software-engineers)
+
+
+
 
 
 # Worthy Tools
