@@ -152,7 +152,7 @@ to be shared on the repository.
 |86| Complete Guide to A/B Testing Design, Implementation and Pitfalls | End-to-end A/B testing for your Data Science experiments for non-technical and technical specialists with examples and Python implementation | [Complete Guide to A/B Testing Design, Implementation and Pitfalls](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a).
 |87| 10 Statistical Concepts You Should Know For Data Science Interviews | Statistical Concepts necessary to be known for Data Science interviews | [10 Statistical Concepts You Should Know For Data Science Interviews](https://www.kdnuggets.com/2021/02/10-statistical-concepts-data-science-interviews.html).
 |88| Evaluating Deep Learning Models: The Confusion Matrix, Accuracy, Precision, and Recall | Overview of evaluating ML models with metrics of Confusion Matrix, Accuracy, Precision, and Recall | [Evaluating Deep Learning Models: The Confusion Matrix, Accuracy, Precision, and Recall](https://www.kdnuggets.com/2021/02/evaluating-deep-learning-models-confusion-matrix-accuracy-precision-recall.html)
-
+|89| Artificial intelligence in medicine: Overcoming or recapitulating structural challenges to improving patient care? | Perspective of AI in Medicine | [Artificial intelligence in medicine: Overcoming or recapitulating structural challenges to improving patient care?](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00139-2#.YmldNYRJ8M4.twitter)
 
 
 
@@ -817,6 +817,13 @@ To get either of the books for free if unavailable through links head and search
   <img height="600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_70_python_libraries_frameworks.jpeg">
 </p>
 
+# Artificial Intelligence in Medicine | Day 71
+
++ Read a great perspective of AI in Medicine found as item **89** [here](#worthy-tools) or accessed directly through [here](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00139-2#.YmldNYRJ8M4.twitter). To sum up the article it speaks that the ambitions driving enthusiasm about AI in Medicine include the goals of promoting decisions that are informed by a comprehensive assessment of available data, ensuring that the relative merits of policies, practices, procedures, and interventions are clearly assessed before they are implemented in practice and continuously monitoring clinical workflows and practice patterns so that they can be adjusted in light of changing circumstances. Applications of AI are likely to play a valuable role in advancing each of these goals. 
+
+<p align="center">
+  <img height="600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_71_medicine.png">
+</p>
 
 # Public
 
