@@ -827,7 +827,7 @@ To get either of the books for free if unavailable through links head and search
 
 + Found a great Graph Neural Network application in efficient drug discovery to help transform this process and enable to increase the efficiency in finding new compounds. More on it as item **90** [here](#worthy-tools) or accessed directly through [here](https://www.microsoft.com/en-us/research/blog/moler-creating-a-path-to-more-efficient-drug-design/?OCID=msr_blog_MoLeR_tw).
 
-![GNN in Drug Discovery](https://www.microsoft.com/en-us/research/uploads/prod/2022/04/1400x788_Moler_hero_animation_blog.gif}
+![GNN in Drug Discovery](https://www.microsoft.com/en-us/research/uploads/prod/2022/04/1400x788_Moler_hero_animation_blog.gif)
 
 # Public
 
