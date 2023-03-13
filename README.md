@@ -825,10 +825,13 @@ To get either of the books for free if unavailable through links head and search
 
 # MoLeR - GNN in Drug Discovery | Day 72
 
-+ Found a great Graph Neural Network application in efficient drug discovery to help transform this process and enable to increase the efficiency in finding new compounds. More on it as item **90** [here](#worthy-tools) or accessed directly through [here](https://www.microsoft.com/en-us/research/blog/moler-creating-a-path-to-more-efficient-drug-design/?OCID=msr_blog_MoLeR_tw).
++ Found a great Graph Neural Network application, MoLeR, in efficient drug discovery to help transform the process and enable to increase the efficiency in finding new compounds. MoLeR not only needs fewer steps to construct drug-like molecules, but its generation procedure also occurs in steps that are more akin to the way chemists think about the construction of molecules. More on it as item **90** [here](#worthy-tools) or accessed directly through [here](https://www.microsoft.com/en-us/research/blog/moler-creating-a-path-to-more-efficient-drug-design/?OCID=msr_blog_MoLeR_tw).
 
 ![GNN in Drug Discovery](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_72_1400x788_Moler_hero_animation_blog.gif)
 
+<p align="center">
+  <img height="300px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_72_1400x788_Moler_hero_animation_blog.gif">
+</p>
 # Public
 
 [(Back to top)](#table-of-contents)
