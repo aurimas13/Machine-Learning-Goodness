@@ -830,8 +830,10 @@ To get either of the books for free if unavailable through links head and search
 ![GNN in Drug Discovery](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_72_1400x788_Moler_hero_animation_blog.gif)
 
 <p align="center">
-  <img height="300px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_72_1400x788_Moler_hero_animation_blog.gif">
+  <img height="450px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_72_1400x788_Moler_hero_animation_blog.gif">
 </p>
+
+
 # Public
 
 [(Back to top)](#table-of-contents)
