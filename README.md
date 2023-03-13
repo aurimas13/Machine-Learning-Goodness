@@ -834,6 +834,14 @@ To get either of the books for free if unavailable through links head and search
 <!-- 
 ![GNN in Drug Discovery](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_72_1400x788_Moler_hero_animation_blog.gif) -->
 
+
+# AI still needs humans | Day 73
+
++ While reading articles on AI wear realised that with the growing capabilities and outsource of AI across a lot fields one needs to think of AI as simply taking care of a grass. If you do not cut it will become overgrown and  messy. Same for AI: we need to make constant reviews to reduce AI biases, take care for changes that could weaken our data models and most importantly take care for our models daily to support our companies' future successes. It is worth noting that:
+- Just like physical tools such as laptops, allocate budget for AI wear and tear. Set aside funds in your company's annual spending forecasts for AI repairs and improvements, to ensure your business stays competitive with industry standards.
+- And a workforce that co-exists with AI breeds a stronger support system and more succesful environment where each can strive, with more people ready to spot issues and improvements and use artificial intelligence to its full potential. After all, returning to my grass analogy, the more hands that plant in our AI soil, the greater our businesses will grow. 
+Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-intelligent-heres-why/).
+
 # Public
 
 [(Back to top)](#table-of-contents)
