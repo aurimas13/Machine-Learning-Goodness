@@ -153,6 +153,7 @@ to be shared on the repository.
 |87| 10 Statistical Concepts You Should Know For Data Science Interviews | Statistical Concepts necessary to be known for Data Science interviews | [10 Statistical Concepts You Should Know For Data Science Interviews](https://www.kdnuggets.com/2021/02/10-statistical-concepts-data-science-interviews.html).
 |88| Evaluating Deep Learning Models: The Confusion Matrix, Accuracy, Precision, and Recall | Overview of evaluating ML models with metrics of Confusion Matrix, Accuracy, Precision, and Recall | [Evaluating Deep Learning Models: The Confusion Matrix, Accuracy, Precision, and Recall](https://www.kdnuggets.com/2021/02/evaluating-deep-learning-models-confusion-matrix-accuracy-precision-recall.html)
 |89| Artificial intelligence in medicine: Overcoming or recapitulating structural challenges to improving patient care? | Perspective of AI in Medicine | [Artificial intelligence in medicine: Overcoming or recapitulating structural challenges to improving patient care?](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00139-2#.YmldNYRJ8M4.twitter)
+|90| Graph Neural Network in Drug Discovery | Deep Learning application to transform Drug Discovery process to increase the efficiency in finding new compounds | [Graph Neural Network in Drug Discovery](https://www.microsoft.com/en-us/research/blog/moler-creating-a-path-to-more-efficient-drug-design/?OCID=msr_blog_MoLeR_tw).
 
 
 
@@ -821,9 +822,12 @@ To get either of the books for free if unavailable through links head and search
 
 + Read a great perspective of AI in Medicine found as item **89** [here](#worthy-tools) or accessed directly through [here](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00139-2#.YmldNYRJ8M4.twitter). To sum up the article it speaks that the ambitions driving enthusiasm about AI in Medicine include the goals/challenges of promoting decisions that are informed by a comprehensive assessment of available data, ensuring that the relative merits of policies, practices, procedures and interventions are clearly assessed before they are implemented in practice and continuously monitoring clinical workflows and practice patterns so that they can be adjusted in light of changing circumstances. It declares that applications of AI are likely to play a valuable role in advancing each of these goals/challenges. 
 
-<p align="center">
-  <img height="600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_71_medicine.png">
-</p>
+
+# MoLeR - GNN in Drug Discovery | Day 72
+
++ Found a great Graph Neural Network application in efficient drug discovery to help transform this process and enable to increase the efficiency in finding new compounds. More on it as item **90** [here](#worthy-tools) or accessed directly through [here](https://www.microsoft.com/en-us/research/blog/moler-creating-a-path-to-more-efficient-drug-design/?OCID=msr_blog_MoLeR_tw).
+
+![GNN in Drug Discovery](https://www.microsoft.com/en-us/research/uploads/prod/2022/04/1400x788_Moler_hero_animation_blog.gif}
 
 # Public
 
