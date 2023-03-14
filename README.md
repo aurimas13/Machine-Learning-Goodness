@@ -842,6 +842,9 @@ To get either of the books for free if unavailable through links head and search
 - And a workforce that co-exists with AI breeds a stronger support system and more succesful environment where each can strive, with more people ready to spot issues and improvements and use artificial intelligence to its full potential. After all, returning to my grass analogy, the more hands that plant in our AI soil, the greater our businesses will grow. 
 Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-intelligent-heres-why/).
 
+
+
+
 # Public
 
 [(Back to top)](#table-of-contents)
