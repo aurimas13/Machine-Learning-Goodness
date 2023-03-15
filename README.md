@@ -844,7 +844,7 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
 
 # Autoencoders in Chemistry | Day 74
 
-+  Machine Learning application solved a common problem in synchrotron X-ray experiments by reducing the noise, also known as meaningless information present in the data and replaced these noisy targets with noise-free input signals. The ML concept they used was of autoencoders. Overview is given as item **91** [here](#worthy-tools) or accessed directly through [here](https://techxplore.com/news/2022-04-scientists-approach-noise-x-ray.html) while the detailed scientific publication can be found [here](https://www.nature.com/articles/s41598-021-93747-y).
++  Machine Learning application solved a common problem in synchrotron X-ray experiments by reducing the noise, also known as meaningless information present in the data and replaced these noisy targets with noise-free input signals. The ML concept they used was autoencoders. Overview is given as item **91** [here](#worthy-tools) or accessed directly through [here](https://techxplore.com/news/2022-04-scientists-approach-noise-x-ray.html) while the detailed scientific publication can be found [here](https://www.nature.com/articles/s41598-021-93747-y).
 
 <p align="center">
   <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_74_xray.png">
