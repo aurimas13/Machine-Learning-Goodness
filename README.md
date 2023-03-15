@@ -153,8 +153,8 @@ to be shared on the repository.
 |87| 10 Statistical Concepts You Should Know For Data Science Interviews | Statistical Concepts necessary to be known for Data Science interviews | [10 Statistical Concepts You Should Know For Data Science Interviews](https://www.kdnuggets.com/2021/02/10-statistical-concepts-data-science-interviews.html).
 |88| Evaluating Deep Learning Models: The Confusion Matrix, Accuracy, Precision, and Recall | Overview of evaluating ML models with metrics of Confusion Matrix, Accuracy, Precision, and Recall | [Evaluating Deep Learning Models: The Confusion Matrix, Accuracy, Precision, and Recall](https://www.kdnuggets.com/2021/02/evaluating-deep-learning-models-confusion-matrix-accuracy-precision-recall.html)
 |89| Artificial intelligence in medicine: Overcoming or recapitulating structural challenges to improving patient care? | Perspective of AI in Medicine | [Artificial intelligence in medicine: Overcoming or recapitulating structural challenges to improving patient care?](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00139-2#.YmldNYRJ8M4.twitter)
-|90| Graph Neural Network in Drug Discovery | Deep Learning application to transform Drug Discovery process to increase the efficiency in finding new compounds | [Graph Neural Network in Drug Discovery](https://www.microsoft.com/en-us/research/blog/moler-creating-a-path-to-more-efficient-drug-design/?OCID=msr_blog_MoLeR_tw).
-
+|90| Graph Neural Network in Drug Discovery | Deep Learning application to transform Drug Discovery process to increase the efficiency in finding new compounds | [Graph Neural Network in Drug Discovery](https://www.microsoft.com/en-us/research/blog/moler-creating-a-path-to-more-efficient-drug-design/?OCID=msr_blog_MoLeR_tw)
+|91| New AI approach to reduce noise in X-ray data| Overview of the usage of autoencoders to replace noisy X-ray data with noise-free input signals | [New AI approach to reduce noise in X-ray data](https://techxplore.com/news/2022-04-scientists-approach-noise-x-ray.html)
 
 
 
@@ -838,12 +838,17 @@ To get either of the books for free if unavailable through links head and search
 # AI still needs humans | Day 73
 
 + While reading articles on AI wear realised that with the growing capabilities and outsource of AI across a lot fields one needs to think of AI as simply taking care of a grass. If you do not cut it will become overgrown and  messy. Same for AI: we need to make constant reviews to reduce AI biases, take care for changes that could weaken our data models and most importantly take care for our models daily to support our companies' future successes. It is worth noting that:
-- Just like physical tools such as laptops, allocate budget for AI wear and tear. Set aside funds in your company's annual spending forecasts for AI repairs and improvements, to ensure your business stays competitive with industry standards.
-- And a workforce that co-exists with AI breeds a stronger support system and more succesful environment where each can strive, with more people ready to spot issues and improvements and use artificial intelligence to its full potential. After all, returning to my grass analogy, the more hands that plant in our AI soil, the greater our businesses will grow. 
+  - Just like physical tools such as laptops, allocate budget for AI wear and tear. Set aside funds in your company's annual spending forecasts for AI repairs and improvements, to ensure your business stays competitive with industry standards.
+  - And a workforce that co-exists with AI breeds a stronger support system and more succesful environment where each can strive, with more people ready to spot issues and improvements and use artificial intelligence to its full potential. After all, returning to my grass analogy, the more hands that plant in our AI soil, the greater our businesses will grow. 
 Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-intelligent-heres-why/).
 
+# Autoencoders in Chemistry| Day 74
 
++  Machine Learning application solved a common problem in synchrotron X-ray experiments by reducing the noise, also known as meaningless information present in the data and replaced these noisy targets with noise-free input signals. The ML concept they used was of autoencoders. Details could be found as item **91** or accessed directly through [here](https://techxplore.com/news/2022-04-scientists-approach-noise-x-ray.html).
 
+<p align="center">
+  <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_74_xray.png">
+</p>
 
 # Public
 
