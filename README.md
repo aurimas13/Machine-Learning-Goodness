@@ -842,7 +842,7 @@ To get either of the books for free if unavailable through links head and search
   - And a workforce that co-exists with AI breeds a stronger support system and more succesful environment where each can strive, with more people ready to spot issues and improvements and use artificial intelligence to its full potential. After all, returning to my grass analogy, the more hands that plant in our AI soil, the greater our businesses will grow. 
 Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-intelligent-heres-why/).
 
-# Autoencoders in Chemistry| Day 74
+# Autoencoders in Chemistry | Day 74
 
 +  Machine Learning application solved a common problem in synchrotron X-ray experiments by reducing the noise, also known as meaningless information present in the data and replaced these noisy targets with noise-free input signals. The ML concept they used was of autoencoders. Details could be found as item **91** or accessed directly through [here](https://techxplore.com/news/2022-04-scientists-approach-noise-x-ray.html).
 
