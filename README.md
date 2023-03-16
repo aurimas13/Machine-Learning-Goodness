@@ -855,8 +855,6 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
 + Made a list of perfect materials on Youtube to learn Data Science / Machine Learning:
 1. [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer/featured): 
   If you’re new to Data Science, being able to understand the concept of Statistics and Machine Learning can be difficult. John Starmer joined YouTube on May 24, 2011, and currently has 895K subscribers. 
-
-  
   Starmer uses the concept of images to help you understand complex topics and slowly builds up your understanding. I used StatQuest when I first dived into Data Science when I realised how important it is to understand the concept of Statistics.
   
   He starts off his videos with a short catchy introduction to him singing to break the ice and also make you feel at ease about learning complex theory. 
