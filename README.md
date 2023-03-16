@@ -860,6 +860,7 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
   Starmer uses the concept of images to help you understand complex topics and slowly builds up your understanding. I used StatQuest when I first dived into Data Science when I realised how important it is to understand the concept of Statistics.
   
   He starts off his videos with a short catchy introduction to him singing to break the ice and also make you feel at ease about learning complex theory. 
+
 2. [Krish Naik]():
   Krish Naik is the cofounder of iNeuron and has over 10 years of experience in machine learning, deep learning, and computer vision. Krish Naik joined YouTube on Feb 11, 2012, and currently has 731K subscribers.  
 
