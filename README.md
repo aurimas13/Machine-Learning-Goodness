@@ -854,10 +854,10 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
 
 + Made a list of perfect materials on Youtube to learn Data Science / Machine Learning:
 1. [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer/featured): 
-  If you’re new to Data Science, being able to understand the concept of Statistics and Machine Learning can be difficult. John Starmer joined YouTube on May 24, 2011, and currently has 895K subscribers. 
+  if you’re new to Data Science, being able to understand the concept of Statistics and Machine Learning can be difficult. John Starmer joined YouTube on May 24, 2011, and currently has 895K subscribers. 
   Starmer uses the concept of images to help you understand complex topics and slowly builds up your understanding. I used StatQuest when I first dived into Data Science when I realised how important it is to understand the concept of Statistics. He starts off his videos with a short catchy introduction to him singing to break the ice and also make you feel at ease about learning complex theory. 
 
-2. [Krish Naik]():
+2. [Krish Naik](https://www.youtube.com/user/krishnaik06):
   Krish Naik is the cofounder of iNeuron and has over 10 years of experience in machine learning, deep learning, and computer vision. Krish Naik joined YouTube on Feb 11, 2012, and currently has 731K subscribers.  
   Not only does Naik speak on the theory and applications of Data Science, Machine Learning, Deep Learning, and more; he also gives advice and guidance on entering and building yourself within the field. He also has three different types of Memberships on his YouTube channel; DataScience Materials, Data Science Guidance, and Projects Live DataScience. 
 
@@ -874,10 +874,10 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
   Corey Schafer focuses on creating tutorials and walkthroughs for software developers, programmers, and engineers. Schafer joined YouTube on May 31, 2006, and currently has 1.08M subscribers. Schafer's content is not based on a particular skill level as he caters to beginners to people with years of experience. Schafer covers a variety of topics such as Python, Git, Terminal Commands, SQL, JavaScript, Computer Science Fundamentals, and more.
 
 7. [sentdex](https://www.youtube.com/user/sentdex):
-  Sentdex provides Python Programming tutorials, from the basics to the complex. Sentdex joined YouTube on Dec 16, 2012, and currently has 1.22M subscribers. Sentdex has a variety of topics covered in tutorials such as machine learning, finance, data analysis, robotics, web development, game development, and more. Sentdex videos are not long in comparison to other YouTube channels, however, he still provides all the information required to understand the topic, This makes his video useful for people who want the information, and get easily demotivated from long videos.
+  sentdex provides Python Programming tutorials, from the basics to the complex. Sentdex joined YouTube on Dec 16, 2012, and currently has 1.22M subscribers. Sentdex has a variety of topics covered in tutorials such as machine learning, finance, data analysis, robotics, web development, game development, and more. Sentdex videos are not long in comparison to other YouTube channels, however, he still provides all the information required to understand the topic, This makes his video useful for people who want the information, and get easily demotivated from long videos.
 
 8. [Joma Tech](https://www.youtube.com/c/JomaOppa/featured):
-  If you are already undergoing your Data Science journey, but you need a bit of advice about the sector and what’s trending in the market, Joma Tech is the person for you. Joma Tech talks about life in Silicon Valley and major tech companies. Joma Tech joined YouTube on Aug 31, 2016, and currently has 2.15M subscribers. He gives you the truth about what you will be doing as a Data Scientist, Engineer, etc, as well as information about the hiring process.
+  if you are already undergoing your Data Science journey, but you need a bit of advice about the sector and what’s trending in the market, Joma Tech is the person for you. Joma Tech talks about life in Silicon Valley and major tech companies. Joma Tech joined YouTube on Aug 31, 2016, and currently has 2.15M subscribers. He gives you the truth about what you will be doing as a Data Scientist, Engineer, etc, as well as information about the hiring process.
 
 
 <!-- # SQL for Data Science professionals | Day 76
