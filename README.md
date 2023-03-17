@@ -879,6 +879,8 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
 8. [Joma Tech](https://www.youtube.com/c/JomaOppa/featured):
   if you are already undergoing your Data Science journey, but you need a bit of advice about the sector and what’s trending in the market, Joma Tech is the person for you. Joma Tech talks about life in Silicon Valley and major tech companies. Joma Tech joined YouTube on Aug 31, 2016, and currently has 2.15M subscribers. He gives you the truth about what you will be doing as a Data Scientist, Engineer, etc, as well as information about the hiring process.
 
+# GPT-4 | Day 76
++ Fantastic how efficient GPT-4 to its predecessor ChatGPT (GPT-3.5) has become. Its advantage over the predecessor to generate multimodal content which means it can produce images, audio and other types of media apart from text is amazing. More of a look at what we already know it can do as found [here](https://pub.towardsai.net/everything-you-need-to-know-about-gpt-4-2fdf737e7862) or let's go in history and see what OpenAI's chief scientist's said about the potential of multimodal AI back in 2020 as found [here](https://www.deeplearning.ai/the-batch/ilya-sutskever-fusion-of-language-and-vision/?utm_campaign=The%20Batch&utm_content=241730068&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456) and [here](https://twitter.com/thealexbanks/status/1636375170616270851) is a tweet to get the most out of GPT-4.
 
 <!-- # SQL for Data Science professionals | Day 76
 
