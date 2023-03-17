@@ -329,7 +329,7 @@ and its analysis as item **14** [here](#worthy-tools) or accessed through [here]
 + Check out the code snippet for Decision Trees [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_15_Decision_Tree.md).
 + Read John R. Searle's paper contradicting 'Turing Test' as item **15** [here](#worthy-tools) with its analysis as found as **16** [here](#worthy-tools).
 
-# Neural Networks & Its architectures | Day 16
+# Neural Networks & Its Architectures | Day 16
 
 + An amazing video on Neural Networks by **3Blue1Brown** youtube channel. This video gives a good understanding of Neural Networks and
 uses Handwritten digit dataset to explain the concept. Link to the video found as item 17 [here](worthy-tools) or accessed through 
