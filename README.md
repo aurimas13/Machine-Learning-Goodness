@@ -505,6 +505,7 @@ through [here](https://www.researchgate.net/publication/324030716_Applied_Artifi
 3. [Convolutional Neural Networks](https://www.youtube.com/watch?v=WvoLTXIjBYU&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=4)
 4. [Analyzing Models with TensorBoard](https://www.youtube.com/watch?v=BqgTU7_cBnk&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=5)
 + Made a notebook looking at Ordinal and One Hot Encodings as found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_34_Example_of_Neural_Networks_for_Tabular_Data_Demonstration_1.ipynb).
+
 # Essential Papers, AlphaCode & ML | Day 35  
 
 + Read three papers as items **41**, **42** and **43** as found [here](#worthy-tools) or summarrised and accessed below:
@@ -880,7 +881,12 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
   if you are already undergoing your Data Science journey, but you need a bit of advice about the sector and what’s trending in the market, Joma Tech is the person for you. Joma Tech talks about life in Silicon Valley and major tech companies. Joma Tech joined YouTube on Aug 31, 2016, and currently has 2.15M subscribers. He gives you the truth about what you will be doing as a Data Scientist, Engineer, etc, as well as information about the hiring process.
 
 # GPT-4 | Day 76
-+ Fantastic how efficient GPT-4 to its predecessor ChatGPT (GPT-3.5) has become. Its advantage over the predecessor to generate multimodal content which means it can produce images, audio and other types of media apart from text is amazing. More of a look at what we already know it can do as found [here](https://pub.towardsai.net/everything-you-need-to-know-about-gpt-4-2fdf737e7862) or let's go in history and see what OpenAI's chief scientist's said about the potential of multimodal AI back in 2020 as found [here](https://www.deeplearning.ai/the-batch/ilya-sutskever-fusion-of-language-and-vision/?utm_campaign=The%20Batch&utm_content=241730068&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456) and [here](https://twitter.com/thealexbanks/status/1636375170616270851) is a tweet to get the most out of GPT-4.
++ Fantastic how efficient GPT-4 to its predecessor ChatGPT (GPT-3.5) has become. Its advantage over the predecessor to generate multimodal content which means it can produce images, audio and other types of media apart from text is amazing. A look at what we already know it can do can be found [here](https://pub.towardsai.net/everything-you-need-to-know-about-gpt-4-2fdf737e7862). If you also wish to get the most out of GPT-4 by making correct prompts view this tweet [here](https://twitter.com/thealexbanks/status/1636375170616270851). Additionaly let's go in history and see what OpenAI's Chief Scientist said about the potential of multimodal AI back in 2020 as found [here](https://www.deeplearning.ai/the-batch/ilya-sutskever-fusion-of-language-and-vision/?utm_campaign=The%20Batch&utm_content=241730068&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456).
+
+<p align="center">
+  <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_76_gpt4.png">
+</p>
+
 
 <!-- # SQL for Data Science professionals | Day 76
 
