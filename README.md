@@ -889,7 +889,7 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
 
 # NLP | Day 77
 
-+ NLP is more than chatbots and text summarizers. It helps power image, video, music generators and more. This comprehensive guide as item **91** [here](#worthy-tools) or accessed directly through [here](https://www.deeplearning.ai/resources/natural-language-processing/?hss_channel=tw-992153930095251456) covers how it works, where it is being applied, top techniques, libraries and frameworks to name some of the things that are covered. If you also fancy how to leverage AI to boost your productivity and accelerate your career take a look at [this news letter](https://superhuman.beehiiv.com/).
++ NLP is more than chatbots and text summarizers. It helps power image, video, music generators and more. This comprehensive guide as item **91** [here](#worthy-tools) or accessed directly through [here](https://www.deeplearning.ai/resources/natural-language-processing/?hss_channel=tw-992153930095251456) covers how it works, where it is being applied, top techniques, libraries and frameworks to name some of the things that are covered. If you also fancy how to leverage AI to boost your productivity and accelerate your career take a look at [this newsletter](https://superhuman.beehiiv.com/).
 
 <p align="center">
   <img height="250px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_77_nlp.png">
