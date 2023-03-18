@@ -155,7 +155,7 @@ to be shared on the repository.
 |89| Artificial intelligence in medicine: Overcoming or recapitulating structural challenges to improving patient care? | Perspective of AI in Medicine | [Artificial intelligence in medicine: Overcoming or recapitulating structural challenges to improving patient care?](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00139-2#.YmldNYRJ8M4.twitter)
 |90| Graph Neural Network in Drug Discovery | Deep Learning application to transform Drug Discovery process to increase the efficiency in finding new compounds | [Graph Neural Network in Drug Discovery](https://www.microsoft.com/en-us/research/blog/moler-creating-a-path-to-more-efficient-drug-design/?OCID=msr_blog_MoLeR_tw)
 |91| New AI approach to reduce noise in X-ray data| Overview of the usage of autoencoders to replace noisy X-ray data with noise-free input signals | [New AI approach to reduce noise in X-ray data](https://techxplore.com/news/2022-04-scientists-approach-noise-x-ray.html)
-
+|92| Natural Language Processing | The guide covers how it works, where it is applied top technques and more | [Natural Language Processing]( https://www.deeplearning.ai/resources/natural-language-processing/?hss_channel=tw-992153930095251456) 
 
 
 
@@ -886,6 +886,11 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
 <p align="center">
   <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_76_gpt4.png">
 </p>
+
+# NLP & Chatbots| Day 77
+
++ NLP is more than chatbots and text summarizers. It helps power image, video, music generators and more. This comprehensive guide as item **91** [here](#worthy-tools) or accessed directly through [here]( https://www.deeplearning.ai/resources/natural-language-processing/?hss_channel=tw-992153930095251456 covers how it works, where it is being applied, top techniques, libraries and frameworks to name some of the things that are covered. If you also fancy how to leverage AI to boost your productivity and accelerate your career take a look at [this news letter](https://superhuman.beehiiv.com/).
+
 
 
 <!-- # SQL for Data Science professionals | Day 76
