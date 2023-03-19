@@ -902,7 +902,7 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
 
 # Big O Cheatsheets & Algorithms for MLOps| Day 79
 
-+ Irerespctive of how it is thought I believe grasping Big O notation for data structures and algorithms to use as an ML/MLOps Engineer or any kind of a developer is essential and will boost your career. Knowing which algorithm to use and understanding Big O will boost your MLOps approach when deploying a model and save enormous time as well as give you surprising career benefits. Even though I know it might be difficult to grasp the concept of algorithms, hence I recommend reading the visual book on the algorithms as item **1** [here](#worthy-books) or more technical one as item **2** [here](#worthy-books) to understand them better. More details on them under **Day 8**.
++ Irrespective of how it is thought I believe grasping Big O notation for data structures and algorithms to use as an ML/MLOps Engineer or any kind of a developer is essential and will boost your career. Knowing which algorithm to use and understanding Big O will boost your MLOps approach when deploying a model and save enormous time as well as give you surprising career benefits. Even though I know it might be difficult to grasp the concept of algorithms, hence I recommend reading the visual book on the algorithms as item **1** [here](#worthy-books) or more technical one as item **2** [here](#worthy-books) to understand them better. More details on them under **Day 8**.
 + Regarding the Big O notation for data structures. The cheatsheets could be accesed as item **92** [here](#worthy-tools) and **93** [here](#worthy-tools) and looked upon below. 
 
 <p align="center">
