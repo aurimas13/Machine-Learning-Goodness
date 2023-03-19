@@ -156,7 +156,8 @@ to be shared on the repository.
 |90| Graph Neural Network in Drug Discovery | Deep Learning application to transform Drug Discovery process to increase the efficiency in finding new compounds | [Graph Neural Network in Drug Discovery](https://www.microsoft.com/en-us/research/blog/moler-creating-a-path-to-more-efficient-drug-design/?OCID=msr_blog_MoLeR_tw)
 |91| New AI approach to reduce noise in X-ray data| Overview of the usage of autoencoders to replace noisy X-ray data with noise-free input signals | [New AI approach to reduce noise in X-ray data](https://techxplore.com/news/2022-04-scientists-approach-noise-x-ray.html)
 |92| Natural Language Processing | The guide covers how it works, where it is applied top technques and more | [Natural Language Processing]( https://www.deeplearning.ai/resources/natural-language-processing/?hss_channel=tw-992153930095251456) 
-
+|93| Big O Cheatsheet | Big O Cheatsheet #1 | [Big O Cheatsheet](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/big_o_cheats.jpg)
+|94| Big O Cheatsheet | Big O Cheatsheet #2 | [Big O Cheatsheet](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/big_o_2_cheats.png)
 
 
 
@@ -254,8 +255,7 @@ and on the potential of AI in the art [here](https://medium.com/mlearning-ai/is-
 + Finished 'Grokking Algorithms: An illustrated guide for programmers and other curious people' by Aditya Y. Bhargava
 that can be found as item **1** [here](#worthy-books). Recommend it highly as algorithms are explained simply through visualisations
 and some usage of algorithms in ML is visualised as well. Loved it. Also found another technical book of Steven Skiena's 'Algorithm Design Manual' 
-by reading its preface that will help to hone expertise on algorithms further as it can be found as item **2** [here](#worthy-books) with videos that complement
-the book [here](https://www3.cs.stonybrook.edu/~skiena/373/videos/).
+by reading its preface that will help to hone expertise on algorithms further as it can be found as item **2** [here](#worthy-books) with videos that complement the book [here](https://www3.cs.stonybrook.edu/~skiena/373/videos/).
 
 + Began diving into Category Theory and its usage in Machine Learning. A nice GitHub repository that lists all of the
 relevant papers which can be found as item **4** [here](#worthy-repositories) while to get a good grasp of Category Theory started
@@ -900,8 +900,17 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
 
 + Stumbled across a great article on SQL interview questions for professionals as can be accessed through [here](https://www.kdnuggets.com/2022/01/sql-interview-questions-experienced-professionals.html) as well as a Python cheatsheet that can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_78_python_cheats.png).
 
+# Big O Cheatsheets & Algorithms for MLOps| Day 79
+
++ Irerespctive of how it is thought I believe knowing Big O notation and algorithms to use as an Ml/MLOps Engineer or any kind of a developer is esential and will boost your career. Knowing which algorithm to use and understanding Big O will boost your MLOps apporach when deploying a model and save enormous time as well give surprising career benefits. Even though I know it might be difficult to grasp the concept of algorithms, hence I recommend reading the visual book on the algorithms as item **1** [here](#worthy-books) or more technical one as item **2** [here](#worthy-books). More details on them under **Day 8**.
+*Regarding the Big O notation. The cheatsheets could be accesed as item **92** [here](#worthy-tools) and **93** [here](#worthy-tools) and looked upon belo. 
+
 <p align="center">
-  <img height="700px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_78_python_cheats.png">
+  <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/big_o_cheats.jpg">
+</p>
+
+<p align="center">
+  <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/big_o_2_cheats.png">
 </p>
 
 
