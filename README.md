@@ -898,10 +898,10 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
 
 # SQL Interviews & Python Cheatsheet  | Day 76
 
-+ Stumbled across a great article on SQL interview questions for professionals as can be accessed through [here](https://www.kdnuggets.com/2022/01/sql-interview-questions-experienced-professionals.html) as well as aPython cheatsheet that can be found [here]().
++ Stumbled across a great article on SQL interview questions for professionals as can be accessed through [here](https://www.kdnuggets.com/2022/01/sql-interview-questions-experienced-professionals.html) as well as aPython cheatsheet that can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_78_python_cheats.png).
 
 <p align="center">
-  <img height="250px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_78_python_cheats.png">
+  <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_78_python_cheats.png">
 </p>
 
 
