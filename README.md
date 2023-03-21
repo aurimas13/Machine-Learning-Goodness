@@ -913,6 +913,14 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
   <img height="310px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/big_o_2_cheats.png">
 </p>
 
+# GPT4 | Day 80
+
++ Read a study about the impact of GPTs' on the US labor market that shows surprising figures:
+  - ~ 80% of the workers may have at least 10% of tasks affected
+  - ~ 19% of workers may see at least 50% of tasks impacted
+The article could be found as pdf [here](https://arxiv.org/pdf/2303.10130.pdf) or as an article on arxiv.org [here](https://arxiv.org/abs/2303.10130).
++ GPT4 might also have some flaws like it is constrained by an extensive set of human-crafted “guardrails” that seek to prevent it from being offensive or off the wall, it doesn’t update its knowledge in real time, its command of languages other than English is limitedm it doesn’t analyze audio or video and it still makes arithmetic errors that a calculator would avoid. In short it will be more likely overcome with GPT5. More about that [here](https://www.geekwire.com/2023/commentary-openais-gpt-4-has-some-limitations-that-are-fixable-and-some-that-are-not/)
+
 
 # Public
 
