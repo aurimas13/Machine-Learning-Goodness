@@ -158,7 +158,7 @@ to be shared on the repository.
 |92| Natural Language Processing | The guide covers how it works, where it is applied top technques and more | [Natural Language Processing]( https://www.deeplearning.ai/resources/natural-language-processing/?hss_channel=tw-992153930095251456) 
 |93| Big O Cheatsheet | Big O Cheatsheet for Data Structures #1 | [Big O Cheatsheet](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/big_o_cheats.jpg)
 |94| Big O Cheatsheet | Big O Cheatsheet for Data Structures #2 | [Big O Cheatsheet](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/big_o_2_cheats.png)
-
+|95| A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT | A historical overview of generative AI techniques and applications | [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT](https://arxiv.org/abs/2303.04226)
 
 
 
@@ -921,6 +921,10 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
 The article could be found as pdf [here](https://arxiv.org/pdf/2303.10130.pdf) or as an article on arxiv.org [here](https://arxiv.org/abs/2303.10130).
 + GPT4 might also have some flaws like it is constrained by an extensive set of human-crafted “guardrails” that seek to prevent it from being offensive or off the wall, it doesn’t update its knowledge in real time, its command of languages other than English is limited, it doesn’t analyze audio or video and it still makes arithmetic errors that a calculator would avoid but the prospect for the future of OpenAI is bright. Those very likely will be overcome with GPT5. More about that [here](https://www.geekwire.com/2023/commentary-openais-gpt-4-has-some-limitations-that-are-fixable-and-some-that-are-not/).
 
+# Generative AI & GPT 4 Bot | Day 81
+
++ Read an overview of recent generative AI techniques and applications. Simply put Generative AI can be thought as Artificial Intelligence Generated Content (AIGC) that which involves the creation of digital content, such as images, music, and natural language, through AI models. The goal of AIGC is to make the content creation process more efficient and accessible, allowing for the production of high-quality content at a faster pace. Details can be found as item **95** [here](#worthy-tools) or accessed directly through [here](https://arxiv.org/abs/2303.04226). 
++ Found a fantastic tutorial to make a Twitter GPT Bot as details are [here](https://dev.to/mindsdb/build-a-celebrity-twitter-chatbot-with-gpt-4-3l34).
 
 # Public
 
