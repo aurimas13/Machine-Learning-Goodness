@@ -12,6 +12,7 @@
 <a href="https://img.shields.io/github/last-commit/aurimas13/Machine-Learning-Goodness"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/Machine-Learning-Goodness?style=social"/></a
 <a href="https://img.shields.io/github/issues/aurimas13/Machine-Learning-Goodness"><img alt="issues" src="https://img.shields.io/github/issues/aurimas13/Machine-Learning-Goodness?style=social"/></a
 <a href="https://img.shields.io/github/stars/aurimas13/Machine-Learning-Goodness"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/Machine-Learning-Goodness?style=social"/>
+<a href="https://img.shields.io/github/forks/aurimas13/CodeAcademy-AI-Course"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/Machine-Learning-Goodness?style=social"/>
 <a href="https://twitter.com/anausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
 </p>
 <p align=center>
