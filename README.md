@@ -9,9 +9,9 @@
 <img alt="jupyter" src="https://img.shields.io/badge/tool-Jupyter-blue.svg?style=social&logo=jupyter")></a>
 <a href="https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notebooks">
 <img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
-<a href="https://img.shields.io/github/last-commit/aurimas13/Revenue-Forecast"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/CodeAcademy-AI-Course?style=social"/></a
-<a href="https://img.shields.io/github/issues/aurimas13/CodeAcademy-AI-Course"><img alt="issues" src="https://img.shields.io/github/issues/aurimas13/CodeAcademy-AI-Course?style=social"/></a
-<a href="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course?style=social"/>
+<a href="https://img.shields.io/github/last-commit/aurimas13/Machine-Learning-Goodness"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/Machine-Learning-Goodness?style=social"/></a
+<a href="https://img.shields.io/github/issues/aurimas13/Machine-Learning-Goodness"><img alt="issues" src="https://img.shields.io/github/issues/aurimas13/Machine-Learning-Goodness?style=social"/></a
+<a href="https://img.shields.io/github/stars/aurimas13/Machine-Learning-Goodness"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/Machine-Learning-Goodness?style=social"/>
 <a href="https://twitter.com/anausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
 </p>
 <p align=center>
@@ -173,7 +173,7 @@ Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details 
 
 | **Number** | **Title**                                 | **Description**                                                                                     | **Link**                                                                                                                |
 |------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| 1          | Advanced AI course                        | Code Academy Advanced AI course in Lithuania                                                        | [Advanced AI course](https://github.com/aurimas13/CodeAcademy-AI-Course)                                                |
+| 1          | Advanced AI course                        | Code Academy Advanced AI course in Lithuania                                                        | [Advanced AI course](https://github.com/aurimas13/Machine-Learning-Goodness)                                                |
 | 2          | GitHub on Coursera's Deep Learning Course | GitHub Repo for Coursera's Deep Learning Specialization by deeplearning.ai                          | [GitHub on Coursera's DL Course](https://github.com/aurimas13/Coursera-Deep-Learning-Specialization)                    |
 | 3          | Notes on Coursera's Deep Learning Course  | Lecture Notes for Coursera's Deep Learning Specialization by deeplearning.ai                        | [Notes on Cousera's DL Course](https://drive.google.com/drive/folders/1X9qp9KsGs6IuVgzZJZvMJvVzgxPjhNKN?usp=share_link) |
 | 4          | Category Theory on Machine Learning       | Github containing list of publications of Category Theory in various AI fields                      | [Category Theory on ML](https://github.com/bgavran/Category_Theory_Machine_Learning)                                    |
@@ -955,4 +955,4 @@ The Logo of the repository can be found [here](https://github.com/aurimas13/Mach
 # License
 [(Back to top)](#table-of-contents)
  
-The MIT LICENSE can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/LICENSE).
+The MIT LICENSE can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/LICENSE).
