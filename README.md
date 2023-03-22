@@ -4,12 +4,15 @@
 <p align="center" > <b>Machine Learning Goodness </b> with various <b> notebooks </b>, ML/DL projects update and <b> AGI/AI </b> tips/cheats. </p>
 <br>
 <p align=center>
-    <a href="https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notebooks">
-<img alt="jupyter" src="https://img.shields.io/badge/language-jupyter-orange.svg?style=social&logo=jupyter")></a>
-    <a href="https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notebooks">
+<!-- <a href="https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notebooks"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a> -->
+<a href="https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notebooks">
+<img alt="jupyter" src="https://img.shields.io/badge/tool-Jupyter-blue.svg?style=social&logo=jupyter")></a>
+<a href="https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notebooks">
 <img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
-    <a href="https://twitter.com/anausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
-    <img height="20px" title="profile views" src="https://img.shields.io/github/stars/aurimas13/Coding-and_Teaching-ML?style=social" alt="stars">
+<a href="https://img.shields.io/github/last-commit/aurimas13/Revenue-Forecast"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/CodeAcademy-AI-Course?style=social"/></a
+<a href="https://img.shields.io/github/issues/aurimas13/CodeAcademy-AI-Course"><img alt="issues" src="https://img.shields.io/github/issues/aurimas13/CodeAcademy-AI-Course?style=social"/></a
+<a href="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course?style=social"/>
+<a href="https://twitter.com/anausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
 </p>
 <p align=center>
 <b> Overview </b> 
