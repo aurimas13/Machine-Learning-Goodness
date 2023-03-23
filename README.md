@@ -59,6 +59,9 @@ Worthy books to hone expertise of ML/DL/NN/AGI, Python Programming, CS fundament
 |11| The Ultimate ChatGPT Guide | The book that provides 100 resources to enhance your life with ChatGPT | [The Ultimate ChatGPT Guide](https://hasantoxr.gumroad.com/l/gpt)
 |12| The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts | The book to learn strategies for crafting compelling ChatGPT prompts that drive engaging and informative conversations | [The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts](https://fka.gumroad.com/l/art-of-chatgpt-prompting)
 |13| 10 ChatGPT prompts for Software Engineers | The book to learn how to prompt for software engineering tasks | [10 ChatGPT prompts for Software Engineers](https://sergiorocks.gumroad.com/l/chatgpt-prompts-for-software-engineers)
+|14| How to Build Your Career in AI | Andrew Ng's insights about learning foundational skills, working on projects, finding jobs, and community in machine | [How to Build Your Career in AI](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book?ref=the-batch-deeplearning-ai)
+
+
 
 # Worthy Tools
 
@@ -947,7 +950,7 @@ The article could be found as pdf [here](https://arxiv.org/pdf/2303.10130.pdf) o
 # Copilot X & AI Book | Day 82
 
 - Started using a renewed GitHub Copilot that adopts GPT-4 as part of collaboration between Microsoft and OpenAI. As they say they are not only adopting OpenAI’s new GPT-4 model, but are introducing chat and voice for Copilot, and bringing Copilot to pull requests, the command line, and docs to answer questions on your projects. What that means is that they included Copilot Pull Requests and a chat interface ran on GPT-4 integrated with VS Code and Visual Studio. More details [here](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/).
-- Came across an amazing free book titled "How to Build Your Career in AI" by Andrew Ng on his insights about learning foundational skills, working on projects, finding jobs, and community in machine learning as can be accessed [here](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book?ref=the-batch-deeplearning-ai).
+- Came across an amazing free book titled "How to Build Your Career in AI" by Andrew Ng on his insights about learning foundational skills, working on projects, finding jobs, and community in machine learning as can be accessed as item **14** [here](#worthy-books) or directly [here](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book?ref=the-batch-deeplearning-ai).
 
 # Public
 
