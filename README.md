@@ -957,7 +957,7 @@ The article could be found as pdf [here](https://arxiv.org/pdf/2303.10130.pdf) o
 - ChatGPT can now browse the internet. More [here](https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/?guccounter=1). 
 - Found how to construct a website using ChatGPT as given [here](https://www.kdnuggets.com/2023/03/chatgpt-webpage-construction.html).
 - Dived into building an RNN with Python. A great tutorial on creating it from scratch can be accessed [here](https://pub.towardsai.net/building-a-recurrent-neural-network-from-scratch-in-python-3ad244b1054f).
-- Started refreshing about MLOps and found [this summary](https://www.kdnuggets.com/2023/02/learn-mlops-github-repositories.html) useful that provides the best GitHub repositories for learning.
+- Started refreshing about MLOps and found [this summary](https://www.kdnuggets.com/2023/02/learn-mlops-github-repositories.html) useful. It provides the best GitHub repositories for learning.
 - Finally came across a cheatsheet to Deep Learning algorithms that could be read through [here](https://pub.towardsai.net/a-cheat-sheet-to-deep-learning-algorithms-types-applications-and-examples-2619bfbb47fc)..
 
 # Public
