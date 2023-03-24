@@ -934,7 +934,7 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
   <img height="310px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/big_o_2_cheats.png">
 </p>
 
-# GPT4 Again| Day 80
+# GPT4 Again | Day 80
 
 - Read a study about the impact of GPTs' on the US labor market that shows surprising figures:
   - ~ 80% of the workers may have at least 10% of tasks affected
