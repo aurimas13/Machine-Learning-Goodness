@@ -952,6 +952,14 @@ The article could be found as pdf [here](https://arxiv.org/pdf/2303.10130.pdf) o
 - Started using a renewed GitHub Copilot that adopts GPT-4 as part of collaboration between Microsoft and OpenAI. As they say they are not only adopting OpenAI’s new GPT-4 model, but are introducing chat and voice for Copilot, and bringing Copilot to pull requests, the command line, and docs to answer questions on your projects. What that means is that they included Copilot Pull Requests and a chat interface ran on GPT-4 integrated with VS Code and Visual Studio. More details [here](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/).
 - Came across an amazing free book titled "How to Build Your Career in AI" by Andrew Ng on his insights about learning foundational skills, working on projects, finding jobs, and community in machine learning as can be accessed as item **14** [here](#worthy-books) or directly [here](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book?ref=the-batch-deeplearning-ai).
 
+# OpenAI's ChatGPT Awesomness & | Day 83
+
+- ChatGPT can now browse the internet. More [here](https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/?guccounter=1). 
+- Found how to construct a website using ChatGPT as given [here](https://www.kdnuggets.com/2023/03/chatgpt-webpage-construction.html).
+- Dived into building an RNN with Python. A great tutorial on creating it from scratch can be accessed [here](https://pub.towardsai.net/building-a-recurrent-neural-network-from-scratch-in-python-3ad244b1054f).
+- Started learning about MLOps and found [this summary](https://www.kdnuggets.com/2023/02/learn-mlops-github-repositories.html) useful as it provides the best GitHub repositories for that.
+- Finally came across a cheatsheet to Deep Learning algorithms that could be read through [here](https://pub.towardsai.net/a-cheat-sheet-to-deep-learning-algorithms-types-applications-and-examples-2619bfbb47fc)..
+
 # Public
 
 [(Back to top)](#table-of-contents)
