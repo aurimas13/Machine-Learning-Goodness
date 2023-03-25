@@ -962,7 +962,7 @@ The article could be found as pdf [here](https://arxiv.org/pdf/2303.10130.pdf) o
 
 # Top Channels for Machine Learning | Day 84
 
-Made a refreshed list of Youtube Channels to learn Machine Learning now.<sup>1</sup>
+Made a refreshed list<sup>1</sup> of Youtube Channels to learn Machine Learning now:
 
 1. **DeepLearningAI**
 
@@ -1021,7 +1021,7 @@ Kevin Markham is a data science educator and the founder of dataschool.io. This 
 11. **3Blue1Brown**
  
 
-Subscribers: 5.05 M, Videos: 128, Views: 329 M, Link: [3Blue1Brown])(https://www.youtube.com/@3blue1brown)
+Subscribers: 5.05 M, Videos: 128, Views: 329 M, Link: [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 
 This channel by Grant Sanderson is known for explaining complex mathematical and machine-learning concepts through appealing and intuitive animations. This channel is aimed towards a broader audience and is considered one of the best channels for Maths, Data Science, and ML
 
@@ -1038,7 +1038,8 @@ Subscribers: 47.8 K, Videos: 122, Views: 1.6 M, Link: [Machine Learning Street T
 
 This channel is managed by Tim Scarfe. It has regular cameos with Keith Duggar and Yannic Kilcher. This channel covers the latest development in the field of AI and ML. They provide high-quality content and invite the leading thinkers in the AI space to cover the current affairs in AI with in-depth analysis. 
 
-<sup>1</sup> Aditional 8 Youtube Channels at Day 75. Let's go:
+<sup>1</sup> Aditional 8 Youtube Channels at Day 75. 
+
 <!-- # LLaMA | Day 85
 
 https://towardsai.net/p/machine-learning/meta-just-released-llama-a-language-model-that-can-revolutionize-business-communication-and-automation -->
