@@ -960,6 +960,89 @@ The article could be found as pdf [here](https://arxiv.org/pdf/2303.10130.pdf) o
 - Started refreshing about MLOps and found [this summary](https://www.kdnuggets.com/2023/02/learn-mlops-github-repositories.html) useful. It provides the best GitHub repositories for learning.
 - Finally came across a cheatsheet to Deep Learning algorithms that could be read through [here](https://pub.towardsai.net/a-cheat-sheet-to-deep-learning-algorithms-types-applications-and-examples-2619bfbb47fc).
 
+# Top Channels for Machine Learning | Day 84
+
+Made a refreshed list of Youtube Channels to learn Machine Learning now.<sup>1</sup>
+
+1. **DeepLearningAI**
+
+Subscribers: 203 K, Videos: 333, Views: 13.5 M, Link: [DeepLearningAI](https://www.youtube.com/@Deeplearningai)
+
+DeepLearningAI is founded by Andrew Ng, a well-known AI researcher who founded Google Brain. His deep learning specialization on Coursera has a huge global following. The channel offers a variety of educational content, including video lectures and tutorials, interviews with experts in the field, and live Q&A sessions. It also keeps the viewers updated with the latest trends in the field of Machine Learning and Deep Learning.
+
+3. **Artificial Intelligence — All in One**
+
+Subscribers: 158 K, Videos: 525, Views: 17.7 M, Link: [Artificial Intelligence - All in One](https://www.youtube.com/@ArtificialIntelligenceAllinOne)
+
+It is a comprehensive resource that provides a one-stop shop for all the things in Artificial Intelligence. It includes tutorials, videos, and other resources about the fundamentals of AI, machine learning, deep learning, computer vision, natural language processing, and more. The content is designed to be accessible to individuals with a wide range of backgrounds and skill levels, from beginners to experts.
+
+4. **Two Minute Papers**
+
+Subscribers: 1.4 M, Videos: 770, Views: 119 M, Link: [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)
+
+It's an amazing channel hosted by Konrad Kording that provides a summary of the latest research papers in form of short videos. The video covers the key findings, contributions, and implications of the research. This channel is particularly useful for practitioners, researchers, or anyone who wants to keep themselves updated about the latest developments.
+
+5. **Kaggle**
+
+Subscribers: 124 K, Videos: 351, Views: 3.6 M, Link: [Kaggle](https://www.youtube.com/@kaggle)
+
+Kaggle is one of the most renowned platforms for data scientists and machine learning practitioners to polish their skills. This youtube channel not only covers various tutorials for beginners and intermediate-level audiences but also features interviews with industry gurus. They also share winning solutions of the Kaggle competitions that help the audience to learn from the experts.
+
+6. **Applied AI Course**
+
+Subscribers: 83.4 K, Videos: 517, Views: 13.8 M, Link: [Applied AI Course](https://www.youtube.com/@AppliedAICourse)
+
+As the name suggests, this channel focuses more on practical knowledge rather than theoretical rigor. It teaches the core ideas of Machine Learning and works on real case studies that enable an individual to deal with real-world business problems and build their AI solutions.
+
+7. **Jeremy Howard**
+ 
+Subscribers: 73.6 K, Videos: 164, Views: 7 M, Link: [Jeremy Howard](https://www.youtube.com/@howardjeremyp)
+
+Jeremy Howard is the co-founder of fast.ai and is well-known for his contributions to the field of deep learning. The purpose of his channel is to make AI accessible to everyone regardless of their backgrounds. Therefore, his video lectures are easy to understand and follow.
+
+8. **Siraj Raval**
+ 
+Subscribers: 739 K, Videos: 450, Views: 48 M, Link: [Siraj Raval](https://www.youtube.com/@SirajRaval)
+
+Siraj Raval is a well-known figure in the field of Machine Learning. His youtube channel covers topics related to machine learning, deep learning, computer vision, natural processing language, etc. His fun and engaging approach to teaching is what makes his content unique and easier to digest.
+
+9. **Daniel Bourke**
+ 
+Subscribers:  147K, Videos: 299, Views: 7 M, Link: Daniel [Bourke](https://www.youtube.com/@mrdbourke)
+
+Daniel Bourke is the instructor of one of the bestseller courses on Udemy, PyTorch for Deep Learning in 2023: Zero to Mastery. He is a self-taught machine learning engineer who has worked with a wide range of industries. Daniel takes you step-by-step from an absolute beginner to becoming a master in the field of Machine Learning.
+
+10. **Data School**
+
+Subscribers:  216K, Videos: 139, Views: 10.8 M, Link: [Data School](https://www.youtube.com/@dataschool)
+
+Kevin Markham is a data science educator and the founder of dataschool.io. This channel provides in-depth tutorials, webinars, and resources to help individuals build the skills they need to succeed in their professional careers. His channels are famous for clear, concise, and step-by-step explanations of complex concepts.
+
+11. **3Blue1Brown**
+ 
+
+Subscribers: 5.05 M, Videos: 128, Views: 329 M, Link: [3Blue1Brown])(https://www.youtube.com/@3blue1brown)
+
+This channel by Grant Sanderson is known for explaining complex mathematical and machine-learning concepts through appealing and intuitive animations. This channel is aimed towards a broader audience and is considered one of the best channels for Maths, Data Science, and ML
+
+12. **Jeff Heaton**
+ 
+
+Subscribers: 75.3 K, Videos: 554, Views: 5.9 M, Link: Jeff [Heaton](https://www.youtube.com/@HeatonResearch)
+
+Jeff Heaton is the creator of one of several popular books that can be found here. He uses real-world examples to explain complex concepts. He teaches concepts related to machine learning, deep learning, AI, etc. It is a great primer for beginners before diving deeper. 
+
+13. **Machine Learning Street Talk**
+
+Subscribers: 47.8 K, Videos: 122, Views: 1.6 M, Link: [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk)
+
+This channel is managed by Tim Scarfe. It has regular cameos with Keith Duggar and Yannic Kilcher. This channel covers the latest development in the field of AI and ML. They provide high-quality content and invite the leading thinkers in the AI space to cover the current affairs in AI with in-depth analysis. 
+
+<sup>1</sup> Aditional 8 Youtube Channels at Day 75. Let's go:
+<!-- # LLaMA | Day 85
+
+https://towardsai.net/p/machine-learning/meta-just-released-llama-a-language-model-that-can-revolutionize-business-communication-and-automation -->
+
 # Public
 
 [(Back to top)](#table-of-contents)
