@@ -1044,7 +1044,7 @@ This channel is managed by Tim Scarfe. It has regular cameos with Keith Duggar a
 
 - Studied a [paper](https://arxiv.org/abs/2302.13971) on LLaMA, a new LLM model, while detailed article explanation on it could be found [here](https://towardsai.net/p/machine-learning/meta-just-released-llama-a-language-model-that-can-revolutionize-business-communication-and-automation). I will not go into technical details on it just the prospects. It could help automate various business processes, from content generation to data analysis. For example, LLaMA could generate product descriptions, website copy, or even entire articles with just a few prompts that could save businesses significant time and resources while improving their content quality. Another potential use case for LLaMA would be in the realm of cybersecurity. For example, LLaMA could analyze and interpret vast amounts of text data, such as emails or social media posts, to identify potential security threats or attacks.
 
-# The Ultimate 100 AI Tools
+# The Ultimate 100 AI Tools | Day 86
 
 - Found 100 AI tools that will hone your productivity a lot. Some tools as Crhome extensions that I use are Magical AI, ConverseAI and Eightify. More [here](https://joinsuperhuman.notion.site/e71c212c744142609d520d27bff65dcd?v=7785a239e4464e05a2c713f36cfcc2f4).
 
