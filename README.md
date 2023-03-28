@@ -1054,7 +1054,7 @@ This channel is managed by Tim Scarfe. It has regular cameos with Keith Duggar a
 - Created a presentation on [GPT](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/GPT_Guide.pdf) covering ChatGPT and GPT4.
 
 <p align="center">
-  <img height="310px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Images/Day_87_GPT_Guide.png">
+  <img height="310px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_87_GPT_Guide.png">
 </p>
 
 # Public
