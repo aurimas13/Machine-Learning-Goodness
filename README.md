@@ -1059,7 +1059,7 @@ Created a presentation on [GPT](https://github.com/aurimas13/Machine-Learning-Go
 
 # GPT4 in Medicine | Day 88
 
-Listened [YouTube video](https://www.youtube.com/watch?v=gArDvIFCzh4) about the prospects of LLMs like GPT4 in medicine. For example it showed that it passed American Medical Exam up to level 3 with accuracy of 90%. Apart from that Peter Lee also concluded that GPT4 is a great research assitant and this could help researchers and medical specialistsdoctors hone their abilities to perfection by making a use of it. Amazing.
+Listened [YouTube video](https://www.youtube.com/watch?v=gArDvIFCzh4) about the prospects of GPT4 in medicine. For example it showed that it passed American Medical Exam up to level 3 with accuracy of 90%. Apart from that it also concluded that GPT4 is a great research assitant and  could help researchers and medical specialists/doctors hone their abilities to perfection by making a use of it.
 
 
 
