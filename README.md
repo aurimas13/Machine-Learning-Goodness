@@ -1061,7 +1061,9 @@ Created a presentation on [GPT](https://github.com/aurimas13/Machine-Learning-Go
 
 Listened [YouTube video](https://www.youtube.com/watch?v=gArDvIFCzh4) about the prospects of GPT4 in medicine. For example, it showed that it passed American Medical Exam up to level 3 with an accuracy of 90%. Apart from that, it concluded that GPT4 as a research assistant could help researchers and medical specialists/doctors hone their abilities to perfection by making use of it. Amazing. 
 
+# Generative AI and Prompt Engineering for Data Scientists | Day 89
 
+Found a great [ebook](http://bit.ly/3ZjUR7q) on the latest trends and techniques to unlock the full potential of AI in various applications. It aims to provide a comprehensive guide on generative AI and prompt engineering, equipping readers with the knowledge and tools necessary to excel in the realm of datascience. Generative AI encompasses a range of models and techniques designed to generate new data based on existing input data. These models have demonstrated significant capabilities in natural language processing, image generation, and more. By understanding the mechanics and intricacies of generative AI, data scientists can harness its power to create innovative solutions for a multitude of problems. Prompt engineering, on the other hand, deals with the art of crafting eective prompts to guide AI models in generating desired outputs. As AI models become more sophisticated, the need for efficient and precise prompt engineering has grown more critical. By mastering this skill, data scientists can better direct AI models to produce targeted results, ultimately enhancing the efficacy of their applications. It delves into the key concepts, best practices, and real-world applications. More at the book through pressing the link above.
 
 # Public
 
