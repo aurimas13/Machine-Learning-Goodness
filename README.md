@@ -1071,7 +1071,7 @@ Found a great [ebook](http://bit.ly/3ZjUR7q) on the latest trends and techniques
 - Expreimented with [ChatDoctor](https://arxiv.org/abs/2303.14070) (publication also availtble as item **96** [here](#worthy-books) that shows great potential to understand patients' needs, provide informed advice, and offer valuable assistance in a variety of medical-related fields by looking over 700 diseases. The integration with LLaMA into healthcare can revolutionize the way healthcare professionals and patients communicate, ultimately improving the overall efficiency and quality of patient care and outcomes. Want to try it - go to item **12** [here](#worthy-repositories) and play with it.
 
 <p align="center">
-  <img height="300px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_90_ChatDoctor.png">
+  <img height="150px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_90_ChatDoctor.png">
 </p>
 
 # Public
