@@ -168,7 +168,7 @@ to be shared on the repository.
 |93| Big O Cheatsheet | Big O Cheatsheet for Data Structures #1 | [Big O Cheatsheet](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/big_o_cheats.jpg)
 |94| Big O Cheatsheet | Big O Cheatsheet for Data Structures #2 | [Big O Cheatsheet](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/big_o_2_cheats.png)
 |95| A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT | A historical overview of generative AI techniques and applications | [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT](https://arxiv.org/abs/2303.04226)
-
+|96| ChatDoctor | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge | [ChatDoctor](https://arxiv.org/abs/2303.14070)
 # Worthy Repositories
 
 [(Back to top)](#table-of-contents)
@@ -188,6 +188,7 @@ Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details 
 | 9          | ML Youtube Courses                        | Most recent Machine Leaning courses available on Youtube                                            | [ML Youtube Course](https://github.com/dair-ai/ML-YouTube-Courses)                                                      |
 | 10         | Machine Learning Course Notes             | Notes on the courses related to Machine Learning                                                    | [Machine Learning Course Notes](https://github.com/dair-ai/ML-Course-Notes)                                             |
 |11| Effective Testing for ML Projects | GitHub repository for Effective Testing for ML Projects | [Effective Testing for ML Projects](https://github.com/edublancas/ml-testing)
+|12| ChatDoctor | GitHub repository for ChatDoctor while it is written about it on 90th day or accessed as 96 item on tool | [ChatDoctor GitHub](https://github.com/Kent0n-Li/ChatDoctor)
 
 # Notebooks
 
@@ -1064,6 +1065,14 @@ Listened [YouTube video](https://www.youtube.com/watch?v=gArDvIFCzh4) about the 
 # Generative AI and Prompt Engineering for DS | Day 89
 
 Found a great [ebook](http://bit.ly/3ZjUR7q) on the latest trends and techniques to unlock the full potential of AI in various applications. It aims to provide a comprehensive guide on generative AI and prompt engineering, equipping readers with the knowledge and tools necessary to excel in the realm of datascience. Generative AI encompasses a range of models and techniques designed to generate new data based on existing input data. These models have demonstrated significant capabilities in natural language processing, image generation, and more. By understanding the mechanics and intricacies of generative AI, data scientists can harness its power to create innovative solutions for a multitude of problems. Prompt engineering, on the other hand, deals with the art of crafting eective prompts to guide AI models in generating desired outputs. As AI models become more sophisticated, the need for efficient and precise prompt engineering has grown more critical. By mastering this skill, data scientists can better direct AI models to produce targeted results, ultimately enhancing the efficacy of their applications. It delves into the key concepts, best practices, and real-world applications. More at the book through pressing the link above.
+
+# ChatDoctoy| Day 90
+
+- Expreimented with [ChatDoctor](https://arxiv.org/abs/2303.14070) (publication also availtble as item **96** [here](#worthy-books) that shows great potential to understand patients' needs, provide informed advice, and offer valuable assistance in a variety of medical-related fields by looking over 700 diseases. The integration with LLaMA into healthcare can revolutionize the way healthcare professionals and patients communicate, ultimately improving the overall efficiency and quality of patient care and outcomes. Want to try it - go to item **12** [here](#worthy-repositories) and play with it.
+
+<p align="center">
+  <img height="450px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_90_ChatDoctor.png">
+</p>
 
 # Public
 
