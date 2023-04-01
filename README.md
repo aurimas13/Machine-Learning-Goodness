@@ -61,8 +61,6 @@ Worthy books to hone expertise of ML/DL/NN/AGI, Python Programming, CS fundament
 |13| 10 ChatGPT prompts for Software Engineers | The book to learn how to prompt for software engineering tasks | [10 ChatGPT prompts for Software Engineers](https://sergiorocks.gumroad.com/l/chatgpt-prompts-for-software-engineers)
 |14| How to Build Your Career in AI | Andrew Ng's insights about learning foundational skills, working on projects, finding jobs, and community in machine | [How to Build Your Career in AI](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book?ref=the-batch-deeplearning-ai)
 
-
-
 # Worthy Tools
 
 [(Back to top)](#table-of-contents)
@@ -169,6 +167,7 @@ to be shared on the repository.
 |94| Big O Cheatsheet | Big O Cheatsheet for Data Structures #2 | [Big O Cheatsheet](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/big_o_2_cheats.png)
 |95| A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT | A historical overview of generative AI techniques and applications | [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT](https://arxiv.org/abs/2303.04226)
 |96| ChatDoctor | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge | [ChatDoctor](https://arxiv.org/abs/2303.14070)
+
 # Worthy Repositories
 
 [(Back to top)](#table-of-contents)
@@ -935,7 +934,6 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
   <img height="310px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/big_o_2_cheats.png">
 </p>
 
-
 # GPT4 Again | Day 80
 
 - Read a study about the impact of GPTs' on the US labor market that shows surprising figures:
@@ -956,7 +954,7 @@ The article could be found as pdf [here](https://arxiv.org/pdf/2303.10130.pdf) o
 
 # ChatGPT Awesomness, RNN, MLOps & DL | Day 83
 
-- ChatGPT can now browse the internet. More [here](https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/?guccounter=1). 
+- ChatGPT can now browse the internet. More [here](https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/?guccounter=1).
 - Found how to construct a website using ChatGPT as given [here](https://www.kdnuggets.com/2023/03/chatgpt-webpage-construction.html).
 - Dived into building an RNN with Python. A great tutorial on creating it from scratch can be accessed [here](https://pub.towardsai.net/building-a-recurrent-neural-network-from-scratch-in-python-3ad244b1054f).
 - Started refreshing about MLOps and found [this summary](https://www.kdnuggets.com/2023/02/learn-mlops-github-repositories.html) useful. It provides the best GitHub repositories for learning.
@@ -997,19 +995,19 @@ Subscribers: 83.4 K, Videos: 517, Views: 13.8 M, Link: [Applied AI Course](https
 As the name suggests, this channel focuses more on practical knowledge rather than theoretical rigor. It teaches the core ideas of Machine Learning and works on real case studies that enable an individual to deal with real-world business problems and build their AI solutions.
 
 7. **Jeremy Howard**
- 
+
 Subscribers: 73.6 K, Videos: 164, Views: 7 M, Link: [Jeremy Howard](https://www.youtube.com/@howardjeremyp)
 
 Jeremy Howard is the co-founder of fast.ai and is well-known for his contributions to the field of deep learning. The purpose of his channel is to make AI accessible to everyone regardless of their backgrounds. Therefore, his video lectures are easy to understand and follow.
 
 8. **Siraj Raval**
- 
+
 Subscribers: 739 K, Videos: 450, Views: 48 M, Link: [Siraj Raval](https://www.youtube.com/@SirajRaval)
 
 Siraj Raval is a well-known figure in the field of Machine Learning. His youtube channel covers topics related to machine learning, deep learning, computer vision, natural processing language, etc. His fun and engaging approach to teaching is what makes his content unique and easier to digest.
 
 9. **Daniel Bourke**
- 
+
 Subscribers:  147K, Videos: 299, Views: 7 M, Link: Daniel [Bourke](https://www.youtube.com/@mrdbourke)
 
 Daniel Bourke is the instructor of one of the bestseller courses on Udemy, PyTorch for Deep Learning in 2023: Zero to Mastery. He is a self-taught machine learning engineer who has worked with a wide range of industries. Daniel takes you step-by-step from an absolute beginner to becoming a master in the field of Machine Learning.
@@ -1021,26 +1019,24 @@ Subscribers:  216K, Videos: 139, Views: 10.8 M, Link: [Data School](https://www.
 Kevin Markham is a data science educator and the founder of dataschool.io. This channel provides in-depth tutorials, webinars, and resources to help individuals build the skills they need to succeed in their professional careers. His channels are famous for clear, concise, and step-by-step explanations of complex concepts.
 
 11. **3Blue1Brown**
- 
 
 Subscribers: 5.05 M, Videos: 128, Views: 329 M, Link: [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 
 This channel by Grant Sanderson is known for explaining complex mathematical and machine-learning concepts through appealing and intuitive animations. This channel is aimed towards a broader audience and is considered one of the best channels for Maths, Data Science, and ML
 
 12. **Jeff Heaton**
- 
 
 Subscribers: 75.3 K, Videos: 554, Views: 5.9 M, Link: Jeff [Heaton](https://www.youtube.com/@HeatonResearch)
 
-Jeff Heaton is the creator of one of several popular books that can be found here. He uses real-world examples to explain complex concepts. He teaches concepts related to machine learning, deep learning, AI, etc. It is a great primer for beginners before diving deeper. 
+Jeff Heaton is the creator of one of several popular books that can be found here. He uses real-world examples to explain complex concepts. He teaches concepts related to machine learning, deep learning, AI, etc. It is a great primer for beginners before diving deeper.
 
 13. **Machine Learning Street Talk**
 
 Subscribers: 47.8 K, Videos: 122, Views: 1.6 M, Link: [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk)
 
-This channel is managed by Tim Scarfe. It has regular cameos with Keith Duggar and Yannic Kilcher. This channel covers the latest development in the field of AI and ML. They provide high-quality content and invite the leading thinkers in the AI space to cover the current affairs in AI with in-depth analysis. 
+This channel is managed by Tim Scarfe. It has regular cameos with Keith Duggar and Yannic Kilcher. This channel covers the latest development in the field of AI and ML. They provide high-quality content and invite the leading thinkers in the AI space to cover the current affairs in AI with in-depth analysis.
 
-<sup>1</sup> Aditional 8 Youtube Channels at Day 75. 
+<sup>1</sup> Aditional 8 Youtube Channels at Day 75.
 
 # LLaMA | Day 85
 
@@ -1060,7 +1056,7 @@ Created a presentation on [GPT](https://github.com/aurimas13/Machine-Learning-Go
 
 # GPT4 in Medicine | Day 88
 
-Listened [YouTube video](https://www.youtube.com/watch?v=gArDvIFCzh4) about the prospects of GPT4 in medicine. For example, it showed that it passed American Medical Exam up to level 3 with an accuracy of 90%. Apart from that, it concluded that GPT4 as a research assistant could help researchers and medical specialists/doctors hone their abilities to perfection by making use of it. Amazing. 
+Listened [YouTube video](https://www.youtube.com/watch?v=gArDvIFCzh4) about the prospects of GPT4 in medicine. For example, it showed that it passed American Medical Exam up to level 3 with an accuracy of 90%. Apart from that, it concluded that GPT4 as a research assistant could help researchers and medical specialists/doctors hone their abilities to perfection by making use of it. Amazing.
 
 # Generative AI and Prompt Engineering for DS | Day 89
 
@@ -1073,6 +1069,41 @@ Found a great [ebook](http://bit.ly/3ZjUR7q) on the latest trends and techniques
 <p align="center">
   <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_90_ChatDoctor.png">
 </p>
+
+# ChatGPT Outperforms Crowd-Workers | Day 91
+
+Read and analysed a publication on how ChatGPT outperforms crowd-workers for text-annotation tasks. Fascinating that ChatGPT outperforms crowd-workers for several annotation tasks, including relevance, stance, topics, and frames detection and is much more cost efficent than MTurk. Article [here](https://arxiv.org/abs/2303.15056)
+
+
+<!-- # Data Science from GitHub | Day 93
+
+Made a list on how to learn about Data Science from these Github respositories:
+
+  1. [Data Science For Beginners](https://github.com/microsoft/Data-Science-For-Beginners): One of the best GitHub repositories I have come across! This repo provided by Azure Cloud Advocates from Microsoft offers a 10-week, 20-lesson curriculum to help you break into data science. The lessons include a pre-lesson that is followed by a post-lesson quiz, written instructions on how to complete the lesson, with a solution, and an assignment.
+
+  This covers the basics of data science and is aimed at beginners. You will cover aspects such as data science ethics, introduction to statistics & probability, visualizing relationships, and more.
+  2. [Free Data Science Books](https://github.com/chaconnewu/free-data-science-books): If you’re a bookworm and the best way for you to learn is by flicking through pages - this GitHub repo has come to save the day. Not only does it provide a list of books that follow a curriculum, it's FREE!
+
+  The books will state their difficulty level with beginner, intermediate, or veteran next to it. The topics covered include Data Science Introduction, Data Processing, Data Analysis, Data Science Application, Data Visualization, Uncategorized, and MOOCs about Data Science.
+  
+  3. [Data Science Curriculum](https://github.com/ossu/data-science):
+  When starting out on your roadmap to data science, it can be difficult to know where to start. This is the problem I had, and a lot of people I know. Following a curriculum will allow you to manage your time well, ensure you hit all the data science aspects and realize where your weaknesses are so you can work on them.
+
+  This data science curriculum provided by Open Source Society University gives you a list of courses that you need in order to become a data scientist. They may not have the materials there for free, but having a study plan makes your life much easier.
+
+  4. [Awesome Data Science](https://github.com/academic/awesome-datascience): Similar to a curriculum, this Awesome Data Science GitHub goes through all the nooks and cracks of data science. If you are the type of person that needs to know the topics you require to become a data scientist, but want to go and do your own research, this GitHub repository is for you. It’s the toolbox to data science
+
+  It provides you with books, blog articles, web pages and more on everything you need to know about data science. They also give you more information on free courses, intensive programs and colleges that can kickstart your data science career.
+  
+  5. [Data Science All Cheat Sheet](https://github.com/yash42828/Data-Science--All-Cheat-Sheet): Cheat sheets are a great way to learn something new. They provide you with the basic information and allow you to go off and study about it more. The owner pulled together these cheat sheets and aimed to help students achieve comprehensive content that provided clarity.
+  
+  6. [Best of ML with Python](https://github.com/ml-tooling/best-of-ml-python): This Best of ML with Python GitHub repository provides you with 910 open-source projects grouped into 34 categories. The projects are ranked by a project-quality score, so you can see which projects are popular with a description of what the project entails. You have categories such as data loading & extraction, model interpretability, medical data, and more.
+  
+  7. [Data Science Interview Resources - Interview Questions](https://github.com/rbhatia46/Data-Science-Interview-Resources): The hard skill questions you will be asked during a data science interview will typically be based in two categories: theoretical and technical. This GitHub repo goes through both and helps you test your knowledge in order to prepare for your interview. They also give you tips on building your resume/CV, which is an important aspect when trying to win over the recruiter. -->
+
+<!-- 
+# ChatGPT Retrieval Plugin | Day 94 
+Experimented with ChatGPT Retrieval Plugin. -->
 
 # Public
 
