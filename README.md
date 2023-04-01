@@ -1072,7 +1072,7 @@ Found a great [ebook](http://bit.ly/3ZjUR7q) on the latest trends and techniques
 
 # ChatGPT Outperforms Crowd-Workers | Day 91
 
-Read and analysed a publication on how ChatGPT outperforms crowd-workers for text-annotation tasks. Fascinating that ChatGPT outperforms crowd-workers for several annotation tasks, including relevance, stance, topics, and frames detection and is much more cost efficent than MTurk. Article [here](https://arxiv.org/abs/2303.15056)
+Read and analysed a publication on how ChatGPT outperforms crowd-workers for text-annotation tasks. Fascinating that ChatGPT outperforms crowd-workers for several annotation tasks, including relevance, stance, topics, and frames detection and is much more cost efficent than MTurk. Article [here](https://arxiv.org/abs/2303.15056).
 
 
 <!-- # Data Science from GitHub | Day 93
