@@ -1075,7 +1075,7 @@ Found a great [ebook](http://bit.ly/3ZjUR7q) on the latest trends and techniques
 Read and analysed a publication on how ChatGPT outperforms crowd-workers for text-annotation tasks. Fascinating that ChatGPT outperforms crowd-workers for several annotation tasks, including relevance, stance, topics, and frames detection and is much more cost efficent than MTurk. Article [here](https://arxiv.org/abs/2303.15056).
 
 
-<!-- # Data Science from GitHub | Day 93
+# Data Science from GitHub | Day 92
 
 Made a list on how to learn about Data Science from these Github respositories:
 
@@ -1099,10 +1099,10 @@ Made a list on how to learn about Data Science from these Github respositories:
   
   6. [Best of ML with Python](https://github.com/ml-tooling/best-of-ml-python): This Best of ML with Python GitHub repository provides you with 910 open-source projects grouped into 34 categories. The projects are ranked by a project-quality score, so you can see which projects are popular with a description of what the project entails. You have categories such as data loading & extraction, model interpretability, medical data, and more.
   
-  7. [Data Science Interview Resources - Interview Questions](https://github.com/rbhatia46/Data-Science-Interview-Resources): The hard skill questions you will be asked during a data science interview will typically be based in two categories: theoretical and technical. This GitHub repo goes through both and helps you test your knowledge in order to prepare for your interview. They also give you tips on building your resume/CV, which is an important aspect when trying to win over the recruiter. -->
+  7. [Data Science Interview Resources - Interview Questions](https://github.com/rbhatia46/Data-Science-Interview-Resources): The hard skill questions you will be asked during a data science interview will typically be based in two categories: theoretical and technical. This GitHub repo goes through both and helps you test your knowledge in order to prepare for your interview. They also give you tips on building your resume/CV, which is an important aspect when trying to win over the recruiter.
 
 <!-- 
-# ChatGPT Retrieval Plugin | Day 94 
+# ChatGPT Retrieval Plugin | Day 93 
 Experimented with ChatGPT Retrieval Plugin. -->
 
 # Public
