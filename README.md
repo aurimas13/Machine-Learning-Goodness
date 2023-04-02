@@ -1082,6 +1082,7 @@ Made a list on how to learn about Data Science from these Github respositories:
   1. [Data Science For Beginners](https://github.com/microsoft/Data-Science-For-Beginners): One of the best GitHub repositories I have come across! This repo provided by Azure Cloud Advocates from Microsoft offers a 10-week, 20-lesson curriculum to help you break into data science. The lessons include a pre-lesson that is followed by a post-lesson quiz, written instructions on how to complete the lesson, with a solution, and an assignment.
 
   This covers the basics of data science and is aimed at beginners. You will cover aspects such as data science ethics, introduction to statistics & probability, visualizing relationships, and more.
+  
   2. [Free Data Science Books](https://github.com/chaconnewu/free-data-science-books): If you’re a bookworm and the best way for you to learn is by flicking through pages - this GitHub repo has come to save the day. Not only does it provide a list of books that follow a curriculum, it's FREE!
 
   The books will state their difficulty level with beginner, intermediate, or veteran next to it. The topics covered include Data Science Introduction, Data Processing, Data Analysis, Data Science Application, Data Visualization, Uncategorized, and MOOCs about Data Science.
