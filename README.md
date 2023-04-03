@@ -1095,7 +1095,7 @@ Made a list on how to learn about Data Science from these Github respositories:
   7. [Data Science Interview Resources - Interview Questions](https://github.com/rbhatia46/Data-Science-Interview-Resources): The hard skill questions you will be asked during a data science interview will typically be based in two categories: theoretical and technical. This GitHub repo goes through both and helps you test your knowledge in order to prepare for your interview. They also give you tips on building your resume/CV, which is an important aspect when trying to win over the recruiter.
 
 
-# 5 AI tools, ChatGPT Plugin, Survey, Book | Day 92 
+# 5 AI tools, ChatGPT Plugin, Survey, Book | Day 93 
 
 - Here are my 5 AI intergrations that I use almost daily:
   1. **Slides AI** that generate beautiful slides and compelling presentations with AI in seconds.
