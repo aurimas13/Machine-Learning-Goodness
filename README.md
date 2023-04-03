@@ -1094,9 +1094,21 @@ Made a list on how to learn about Data Science from these Github respositories:
   
   7. [Data Science Interview Resources - Interview Questions](https://github.com/rbhatia46/Data-Science-Interview-Resources): The hard skill questions you will be asked during a data science interview will typically be based in two categories: theoretical and technical. This GitHub repo goes through both and helps you test your knowledge in order to prepare for your interview. They also give you tips on building your resume/CV, which is an important aspect when trying to win over the recruiter.
 
-<!-- 
-# ChatGPT Retrieval Plugin | Day 93 
-Experimented with ChatGPT Retrieval Plugin. -->
+
+# 5 AI tools, ChatGPT Plugin, Survey, Book | Day 92 
+
+- Here are my 5 AI intergrations that I use almost daily:
+  1. **Slides AI** that generate beautiful slides and compelling presentations with AI in seconds.
+  2. **Stability AI** - Photoshop's AI plugin powered by Stable Diffusion - that helps create, edit, and iterate AI images directly within Photoshop.
+  3. **Kickresume AI** that helps land more job interviews.
+  4. **Perplexity AI** for IPhone that is a search app providing instant answers and cited sources on any topic.
+  5. **Gamma AI** - a GPT-4 powered app - that creates compelling presentation decks in minutes. With Gamma it is possible to create engaging presentations, memos, briefs, and docs that are easy to discuss live or share async.
+- Experimented with [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin) that lets you easily search and find personal or work documents by asking questions in everyday language.
+- [Survey on LLM](https://arxiv.org/abs/2303.18223) introduces the background, key findings, and mainstream techniques while focusing on  pre-training, adaptation tuning, utilization, and capacity evaluation of LLMs.
+- Amazon already sells a book on [ChatGPT](https://www.amazon.com/ChatGPT-Phenomenon-OpenAIs-Language-Model/dp/B0BSJ3FDRL).
+
+
+
 
 # Public
 
