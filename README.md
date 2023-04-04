@@ -188,6 +188,9 @@ Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details 
 | 10         | Machine Learning Course Notes             | Notes on the courses related to Machine Learning                                                    | [Machine Learning Course Notes](https://github.com/dair-ai/ML-Course-Notes)                                             |
 |11| Effective Testing for ML Projects | GitHub repository for Effective Testing for ML Projects | [Effective Testing for ML Projects](https://github.com/edublancas/ml-testing)
 |12| ChatDoctor | GitHub repository for ChatDoctor while it is written about it on 90th day or accessed as 96 item on tool | [ChatDoctor GitHub](https://github.com/Kent0n-Li/ChatDoctor)
+|13| Auto-GPT | GitHub repository of an experimetal application showcasing the capabilites of GPt4 | [Auto-GPT](https://github.com/Torantulino/Auto-GPT)
+|14| Vicuna-13B | An open-source chatbot trained by fine-tuning LLaMA on ~70K user-shared ChatGPT conversations | [Vicuna-13B](https://github.com/lm-sys/FastChat)
+
 
 # Notebooks
 
@@ -1107,7 +1110,13 @@ Made a list on how to learn about Data Science from these Github respositories:
 - [Survey on LLM](https://arxiv.org/abs/2303.18223) introduces the background, key findings, and mainstream techniques while focusing on  pre-training, adaptation tuning, utilization, and capacity evaluation of LLMs.
 - Amazon already sells a book on [ChatGPT](https://www.amazon.com/ChatGPT-Phenomenon-OpenAIs-Language-Model/dp/B0BSJ3FDRL).
 
+# AUTO-GPT, Vicuna-13B & AI Model for Cancer | Day 94
 
+- Joined open-source development of Auto-GPT that is an experimental open-source application showcasing the capabilities of the GPT-4 language model. It autonomously develops and manages businesses to increase net worth. To try it and join yourself look at it as item **13** [here](#worthy-repositories) or access directly [here](https://github.com/Torantulino/Auto-GPT).
+
+- New chatbot just arrived as Vicuna-13B that is an open-source chatbot trained by fine-tuning LLaMA on ~70K user-shared ChatGPT conversations. It claims to achieve "more than 90% quality of OpenAI ChatGPT and Google Bard while outperforming other models like LLaMA and Stanford Alpaca in more than 90% of cases". Seems possible to run it on your own machine with a single GPU. Details as item **14** [here](#worthy-repositories) or accessed directly the repo [here](https://github.com/lm-sys/FastChat) and blog [here](https://vicuna.lmsys.org)
+
+- Researchers from University of British Columbia developed an AI model that predicts cancer patient survival with accuraccy of above 85%. Details in the publication is [here](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801709).
 
 
 # Public
