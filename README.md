@@ -1118,7 +1118,7 @@ Made a list on how to learn about Data Science from these Github respositories:
 
 - Researchers from University of British Columbia developed an AI model that predicts cancer patient survival with accuraccy of above 85%. Details in the publication is [here](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801709).
 
-# Trends in AI | Day 95
+# Trends in Artificial Intelligence | Day 95
 
 *** Some trends of Artificial Intelligence from 2010s to nowadays as given by [AI Index Report](https://aiindex.stanford.edu/report/) from Stanford University:***
 
