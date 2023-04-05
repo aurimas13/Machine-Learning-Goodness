@@ -1162,7 +1162,7 @@ Some trends of Artificial Intelligence from 2010s to nowadays as given by [AI In
   <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_8.jpeg">
 </p>
 
-**- **By comparison, people in China believe in AI's future way more than people in the US.** ***What about Lithuania?***
+**By comparison, people in China believe in AI's future way more than people in the US.** ***What about Lithuania?***
 <p align="center">
   <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_9.jpeg">
 </p>
