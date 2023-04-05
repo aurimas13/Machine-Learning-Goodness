@@ -1123,39 +1123,39 @@ Made a list on how to learn about Data Science from these Github respositories:
 Some trends of Artificial Intelligence from 2010s to nowadays as given by [AI Index Report](https://aiindex.stanford.edu/report/) from Stanford University:
 - AI research has been heating up for years, with no signs of slowing down
 <p align="center">
-  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_2.png">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_2.jpeg">
 </p>
 - AI models are getting big, and fast:
 <p align="center">
-  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_1.png">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_1.jpeg">
 </p>
 - New AI models today get MILLIONS times more training than 10 years ago.
 <p align="center">
-  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_3.png">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_3.jpeg">
 </p>
 - With great power comes great responsibility. 95_tPeople are also using these more capable AI models to do questionable things, like deepfaking politicians.
 <p align="center">
-  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_4.png">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_4.jpeg">
 </p>
 - This number is going to continue to skyrocket as the world figures out how to adjust to new AI capabilities. Notable ones include the outstanding lawsuit against Stability AI for copyright concerns.
 <p align="center">
-  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_5.png">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_5.jpeg">
 </p>
 - Governments are sprinting to figure out their approach to AI. Look at the EU. They've been working on their big AI Act for nearly 2 years. Then ChatGPT comes out and throws a big wrench in their framework. Kneejerk reaction from Italy to ban it.
 <p align="center">
-  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_6.png">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_6.jpeg">
 </p>
 - Newly funded AI startups has ~tripled in the last 10 years. 57 of 273 companies in the most recent YC batch is doing work with generative AI.
 <p align="center">
-  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_7.png">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_7.jpeg">
 </p>
 - It's a good time to have AI-related skills.
 <p align="center">
-  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_8.png">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_8.jpeg">
 </p>
 - By comparison, people in China believe in AI's future way more than people in the US. What about Lithuania?
 <p align="center">
-  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_9.png">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_9.jpeg">
 </p>
 
 # Public
