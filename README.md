@@ -1118,6 +1118,45 @@ Made a list on how to learn about Data Science from these Github respositories:
 
 - Researchers from University of British Columbia developed an AI model that predicts cancer patient survival with accuraccy of above 85%. Details in the publication is [here](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801709).
 
+# Trends in AI | Day 95
+
+Some trends of Artificial Intelligence from 2010s to nowadays as given by [AI Index Report](https://aiindex.stanford.edu/report/) from Stanford University:
+- AI research has been heating up for years, with no signs of slowing down
+<p align="center">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_2.png">
+</p>
+- AI models are getting big, and fast:
+<p align="center">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_1.png">
+</p>
+- New AI models today get MILLIONS times more training than 10 years ago.
+<p align="center">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_3.png">
+</p>
+- With great power comes great responsibility. 95_tPeople are also using these more capable AI models to do questionable things, like deepfaking politicians.
+<p align="center">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_4.png">
+</p>
+- This number is going to continue to skyrocket as the world figures out how to adjust to new AI capabilities. Notable ones include the outstanding lawsuit against Stability AI for copyright concerns.
+<p align="center">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_5.png">
+</p>
+- Governments are sprinting to figure out their approach to AI. Look at the EU. They've been working on their big AI Act for nearly 2 years. Then ChatGPT comes out and throws a big wrench in their framework. Kneejerk reaction from Italy to ban it.
+<p align="center">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_6.png">
+</p>
+- Newly funded AI startups has ~tripled in the last 10 years. 57 of 273 companies in the most recent YC batch is doing work with generative AI.
+<p align="center">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_7.png">
+</p>
+- It's a good time to have AI-related skills.
+<p align="center">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_8.png">
+</p>
+- By comparison, people in China believe in AI's future way more than people in the US. What about Lithuania?
+<p align="center">
+  <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_9.png">
+</p>
 
 # Public
 
