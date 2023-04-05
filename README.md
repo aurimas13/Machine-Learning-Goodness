@@ -1120,7 +1120,8 @@ Made a list on how to learn about Data Science from these Github respositories:
 
 # Trends in AI | Day 95
 
-Some trends of Artificial Intelligence from 2010s to nowadays as given by [AI Index Report](https://aiindex.stanford.edu/report/) from Stanford University:
+*** Some trends of Artificial Intelligence from 2010s to nowadays as given by [AI Index Report](https://aiindex.stanford.edu/report/) from Stanford University:***
+
 **AI research has been heating up for years, with no signs of slowing down**
 <p align="center">
   <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_2.jpeg">
