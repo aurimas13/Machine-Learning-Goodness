@@ -1169,7 +1169,7 @@ Some trends of Artificial Intelligence from 2010s to nowadays as given by [AI In
 
 # Overview of ChatGPT & GPT-4 | Day 96
 
-Read a fantastic overview of applications of ChatGPT and GPT-4 that was recommended by @omarsar0 on Twitter.
+Read a fantastic [overview of applications of ChatGPT and GPT-4](https://arxiv.org/abs/2304.01852) that was recommended by @omarsar0 on Twitter.
 
 To sum up the analysis on these LLMs is done by studying 194 relevant papers and discusses capabilities, limitations, concerns, and more.
 
