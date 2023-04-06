@@ -1167,7 +1167,7 @@ Some trends of Artificial Intelligence from 2010s to nowadays as given by [AI In
   <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_95_trend_9.jpeg">
 </p>
 
-# Overview of applications of ChatGPT and GPT-4 | Day 96
+# Overview of ChatGPT & GPT-4 | Day 96
 
 Read a fantastic overview of applications of ChatGPT and GPT-4 that was recommended by @omarsar0 on Twitter.
 
@@ -1176,7 +1176,7 @@ To sum up the analysis on these LLMs is done by studying 194 relevant papers and
 I second him that this is a great read for AI developers and researchers.
 
 <p align="center">
-  <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_96_survey.png">
+  <img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_96_survey.png">
 </p>
 
 
