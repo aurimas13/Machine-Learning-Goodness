@@ -1184,7 +1184,7 @@ I second him that this is a great read for AI developers and researchers.
 Found an awesome prompt engineering guide as accessed as item **15** [here](#worthy-repositories) or straight [here](https://github.com/dair-ai/Prompt-Engineering-Guide) that contains all the latest papers, learning guides, lectures, references, and tools related to prompt engineering. Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs). Developers use prompt engineering to design robust and effective prompting techniques that interface with LLMs and other tools.
 
 <p align="center">
-  <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_97_propt.png">
+  <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_97_prompt.png">
 </p>
 
 
