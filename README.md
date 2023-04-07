@@ -190,7 +190,7 @@ Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details 
 |12| ChatDoctor | GitHub repository for ChatDoctor while it is written about it on 90th day or accessed as 96 item on tool | [ChatDoctor GitHub](https://github.com/Kent0n-Li/ChatDoctor)
 |13| Auto-GPT | GitHub repository of an experimetal application showcasing the capabilites of GPt4 | [Auto-GPT](https://github.com/Torantulino/Auto-GPT)
 |14| Vicuna-13B | An open-source chatbot trained by fine-tuning LLaMA on ~70K user-shared ChatGPT conversations | [Vicuna-13B](https://github.com/lm-sys/FastChat)
-
+|15| Prompt Engineering Guide | Prompt Engineering Guide | [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 # Notebooks
 
@@ -1177,6 +1177,14 @@ I second him that this is a great read for AI developers and researchers.
 
 <p align="center">
   <img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_96_survey.png">
+</p>
+
+# Prompt Engineering | Day 97
+
+Found an awesome prompt engineering guide as accessed as item **15** [here](#worthy-repositories) or straight [here](https://github.com/dair-ai/Prompt-Engineering-Guide) that contains all the latest papers, learning guides, lectures, references, and tools related to prompt engineering. Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs). Developers use prompt engineering to design robust and effective prompting techniques that interface with LLMs and other tools.
+
+<p align="center">
+  <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_97_propt.png">
 </p>
 
 
