@@ -191,6 +191,9 @@ Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details 
 |13| Auto-GPT | GitHub repository of an experimetal application showcasing the capabilites of GPt4 | [Auto-GPT](https://github.com/Torantulino/Auto-GPT)
 |14| Vicuna-13B | An open-source chatbot trained by fine-tuning LLaMA on ~70K user-shared ChatGPT conversations | [Vicuna-13B](https://github.com/lm-sys/FastChat)
 |15| Prompt Engineering Guide | Prompt Engineering Guide | [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+|16| Best-of Machine Learning with Python | 910 curated ML projects | [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
+|17| Data Science for Beginners - A Curriculum | Azure Cloud Advocates at Microsoft are pleased to offer a 10-week, 20-lesson curriculum all about Data Science | [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
+| 18 | Data-Science-Interview-Resources | Data Science Interview Resources | [Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources)
 
 # Notebooks
 
@@ -1187,6 +1190,11 @@ Found an awesome prompt engineering guide as accessed as item **15** [here](#wor
   <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_97_prompt.png">
 </p>
 
+# Machine Learning Projects & Data Science | Day 98
+
+- Found a great GitHub repo of curated Machine learning list that contains 910 awesome open-source projects with a total of 3.7M stars grouped into 34 categories. Can be found as item **16** [here](#worthy-repositories) or accessed directly [here](https://github.com/ml-tooling/best-of-ml-python).
+
+- Other fantastic GitHub repos that give tips on how to begin the path of Data Science career and how to land your dream job as a Data Scientist can be found as item **17** and **18** [here](#worthy-repositories) and [here](#worthy-repositories) or accessed dirctly though [here](https://github.com/microsoft/Data-Science-For-Beginners) and [here](https://github.com/rbhatia46/Data-Science-Interview-Resources).
 
 # Public
 
