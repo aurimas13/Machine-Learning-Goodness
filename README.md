@@ -167,6 +167,8 @@ to be shared on the repository.
 |94| Big O Cheatsheet | Big O Cheatsheet for Data Structures #2 | [Big O Cheatsheet](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/big_o_2_cheats.png)
 |95| A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT | A historical overview of generative AI techniques and applications | [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT](https://arxiv.org/abs/2303.04226)
 |96| ChatDoctor | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge | [ChatDoctor](https://arxiv.org/abs/2303.14070)
+|97| ALL CHEAT SHEET | Cheatsheets from Artificial Intelligence to Data Engineering to Machine Learning to Linux to Mathematics to R to Matlab and many more fields | [ALL CHEAT SHEET](https://github.com/yash42828/Data-Science--All-Cheat-Sheet)
+
 
 # Worthy Repositories
 
@@ -194,6 +196,7 @@ Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details 
 |16| Best-of Machine Learning with Python | 910 curated ML projects | [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
 |17| Data Science for Beginners - A Curriculum | Azure Cloud Advocates at Microsoft are pleased to offer a 10-week, 20-lesson curriculum all about Data Science | [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
 | 18 | Data-Science-Interview-Resources | Data Science Interview Resources | [Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources)
+| 19 | AWESOME DATA SCIENCE | Open source Data Science repository to learn and apply data science skills towards solving real world problems | [AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)
 
 # Notebooks
 
@@ -1195,6 +1198,12 @@ Found an awesome prompt engineering guide as accessed as item **15** [here](#wor
 - Found a great GitHub repo of curated Machine learning list that contains 910 awesome open-source projects with a total of 3.7M stars grouped into 34 categories. Can be found as item **16** [here](#worthy-repositories) or accessed directly [here](https://github.com/ml-tooling/best-of-ml-python).
 
 - Other fantastic GitHub repos that give tips on how to begin the path of Data Science career and how to land your dream job as a Data Scientist can be found as item **17** and **18** [here](#worthy-repositories) and [here](#worthy-repositories) or accessed dirctly though [here](https://github.com/microsoft/Data-Science-For-Beginners) and [here](https://github.com/rbhatia46/Data-Science-Interview-Resources).
+
+# Awesome Data Science & ALL Cheatsheets | Day 99
+
+- Took today easier due to Easter holiday and found an open source Data Science repository to learn and apply data science skills towards solving real world problems as can be inspected as item **19** [here](#worthy-repositories) or accessed directly through [here](https://github.com/academic/awesome-datascience).
+
+- Found ALL cheasheets ranging from Artificial Intelligence to Data Engineering to Machine Learning to Linux to Mathematics to R to Matlab and many more fields. The cheatcode can be found as item **97** [here](#worthy-tools) or accessed directly through [here](https://github.com/yash42828/Data-Science--All-Cheat-Sheet)
 
 # Public
 
