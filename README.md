@@ -1203,7 +1203,8 @@ Found an awesome prompt engineering guide as accessed as item **15** [here](#wor
 
 - Took today easier due to Easter holiday and found an open source Data Science repository to learn and apply data science skills towards solving real world problems as can be inspected as item **19** [here](#worthy-repositories) or accessed directly through [here](https://github.com/academic/awesome-datascience).
 
-- Found ALL cheasheets ranging from Artificial Intelligence to Data Engineering to Machine Learning to Linux to Mathematics to R to Matlab and many more fields. The cheatcode can be found as item **97** [here](#worthy-tools) or accessed directly through [here](https://github.com/yash42828/Data-Science--All-Cheat-Sheet)
+- Found ALL cheasheets ranging from Artificial Intelligence to Data Engineering to Machine Learning to Linux to Mathematics to R to Matlab and many more fields. The cheatcode can be found as item **97** [here](#worthy-tools) or accessed directly through [here](https://github.com/yash42828/Data-Science--All-Cheat-Sheet).
+
 
 # Public
 
