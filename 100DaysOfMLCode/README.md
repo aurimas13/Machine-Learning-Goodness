@@ -10,7 +10,7 @@
 
 - Check out the code snippet for Data Preprocessing [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_3_Data_PreProcessing.md).
 
-- Added beneficial website as item **3** of public open-source datasets for AI [here](#worthy-tools).
+- Added beneficial website as item **3** of public open-source datasets for AI [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools.
 
 <p align="center">
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_3_Data_Preprocessing.jpg">
