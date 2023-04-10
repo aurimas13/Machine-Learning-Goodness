@@ -16,13 +16,13 @@
 <a href="https://twitter.com/anausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
 </p>
 <p align=center>
-<b> Overview </b>
+<b> Overview & Next Move</b>
 </p>
 
 With the start of *100DaysOfMLCode** challenge this Machine Learning Goodness repository is updated daily with either
 the completed Jupyter notebooks, Python codes, ML projects, useful ML/DL/NN libraries, cheat codes of ML/DL/NN/AI, useful information such as websites, beneficial learning materials, tips and whatnot not to mention some basic and advanced Python coding.
 
-*** As the challenge is over the repo still grows. New beneficial material or materials in the world of Machine Learning when found is/are added to [books](#worthy-books), [tools](#worthy-tools) or [repositories](#worthy-repositories) and tweeted through my Twitter account and on Linkedin as well as sometimes on Facebook.**
+As the challenge is over the repo still grows. New beneficial material or materials in the world of Machine Learning when found is/are added to [books](#worthy-books), [tools](#worthy-tools) or [repositories](#worthy-repositories) and tweeted through my Twitter account and on Linkedin as well as sometimes on Facebook.
 
 # Table of Contents
 
