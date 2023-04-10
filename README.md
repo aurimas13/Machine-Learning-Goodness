@@ -18,11 +18,10 @@
 <p align=center>
 <b> Overview </b>
 </p>
-<p align=left>
+
 With the start of *100DaysOfMLCode** challenge this Machine Learning Goodness repository is updated daily with either
 the completed Jupyter notebooks, Python codes, ML projects, useful ML/DL/NN libraries, cheat codes of ML/DL/NN/AI, useful information such as websites, beneficial learning materials, tips and whatnot not to mention some basic and advanced Python coding.
-Currently, new useful material in the world of AI, ML or DS when found is added to [books](#worthy-books), [tools](#worthy-tools) or [repositories(#worthy-repositories)
-</p>
+Currently, new useful material in the world of AI, ML or DS when found is added to [books](#worthy-books), [tools](#worthy-tools) or [repositories](#worthy-repositories).
 
 # Table of Contents
 
