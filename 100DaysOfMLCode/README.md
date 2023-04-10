@@ -1,10 +1,10 @@
 ## Machine Learning Regression Notebook | Day 1
 
-- Check out the Jupyter code for Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_1_Example_with_PyCaret_of_Regression.ipynb).
+- Check out the Jupyter code for Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_1_Example_with_PyCaret_of_Classification.ipynb).
 
 ## Machine Learning Classification Notebook | Day 2
 
-- Check out the Jupyter code for Classification [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_2_Example_with_PyCaret_of_Classification.ipynb).
+- Check out the Jupyter code for Classification [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_2_Example_with_PyCaret_of_Regression.ipynb).
 
 ## Data Preprocessing and Beneficial Website | Day 3
 
