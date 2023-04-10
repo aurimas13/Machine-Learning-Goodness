@@ -20,7 +20,7 @@
 
 - Check out the code snippet for Simple Linear Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_4_Simple_Linear_Regression.md).
 
-- Added beneficial websites as items **2** & **3** of Deep Learning Course & its lecture notes [here](#worthy-repositories).
+- Added beneficial websites as items **2** & **3** of Deep Learning Course & its lecture notes [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories.
 
 <p align="center">
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_4_Simple_Linear_Regression.jpg">
@@ -29,8 +29,7 @@
 ## Multiple Linear Regression and ML Cheatsheet | Day 5
 
 - Check out the code snippet for Multiple Linear Regression [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_5_Multiple_Linear_Regression.md).
-- Added a huge Cheatsheet on Machine Learning as item **4** [here](#worthy-tools) via GitHub repo containing classical
-equations with diagrams that helped recall knowledge and ideas on Machine Learning.
+- Added a huge Cheatsheet on Machine Learning as item **4** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools via GitHub repo containing classical equations with diagrams that helped recall knowledge and ideas on Machine Learning.
 
 <p align="center">
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_5_Multiple_Linear_Regression.jpg">
@@ -38,9 +37,8 @@ equations with diagrams that helped recall knowledge and ideas on Machine Learni
 
 ## Universal Intelligence and K Nearest Neighbours | Day 6
 
-- Added a publication (**5**) on Universal Intelligence: A Definition of Machine Intelligence [here](#worthy-tools)
-that looks into informal definitions of intelligence defined by experts, then mathematically investigates what
-is intelligence for machines and studies other tests and definitions of intelligence proposed for machines.
+- Added a publication (**5**) on Universal Intelligence: A Definition of Machine Intelligence [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools that looks into informal definitions of intelligence defined by experts, then mathematically investigates what is intelligence for machines and studies other tests and definitions of intelligence proposed for machines.
+
 - Learnt about K Nearest Neighbours algorithm and made a graphical summary below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_6_K_Nearest_Neighbours.jpg).
 
 <p align="center">
@@ -58,34 +56,33 @@ and on the potential of AI in the art [here](https://medium.com/mlearning-ai/is-
 ## Algorithms, Category Theory in ML & ML experiment tracking | Day 8
 
 - Finished 'Grokking Algorithms: An illustrated guide for programmers and other curious people' by Aditya Y. Bhargava
-that can be found as item **1** [here](#worthy-books). Recommend it highly as algorithms are explained simply through visualisations
+that can be found as item **1** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books. Recommend it highly as algorithms are explained simply through visualisations
 and some usage of algorithms in ML is visualised as well. Loved it. Also found another technical book of Steven Skiena's 'Algorithm Design Manual'
-by reading its preface that will help to hone expertise on algorithms further as it can be found as item **2** [here](#worthy-books) with videos that complement the book [here](https://www3.cs.stonybrook.edu/~skiena/373/videos/).
+by reading its preface that will help to hone expertise on algorithms further as it can be found as item **2** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books with videos that complement the book [here](https://www3.cs.stonybrook.edu/~skiena/373/videos/).
 
 - Began diving into Category Theory and its usage in Machine Learning. A nice GitHub repository that lists all of the
-relevant papers which can be found as item **4** [here](#worthy-repositories) while to get a good grasp of Category Theory started
-reading the book of Category Theory for Programmers by Bartosz Milewski [here](https://www.scribd.com/document/387084492/Category-Theory-for-Programmers)
-as also it can be inspected through [here](#worthy-books) as item **3** where a blog on which the book is based is given.
+relevant papers which can be found as item **4** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories while to get a good grasp of Category Theory started reading the book of Category Theory for Programmers by Bartosz Milewski [here](https://www.scribd.com/document/387084492/Category-Theory-for-Programmers)
+as also it can be inspected through [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books as item **3** where a blog on which the book is based is given.
 
 - Dived into ML experiment tracking [here](https://neptune.ai/blog/ml-experiment-tracking) that in a few words is the process of saving all the experiment related information.
 
 ## Automated ML, Algorithm Design Manual & Logistic Regression | Day 9
 
-- To work out how we could automate all aspects of ML and data analysis pipeline found this awesome book as item **4** [here](#worthy-books). I highly recommend it to any machine learning researcher
+- To work out how we could automate all aspects of ML and data analysis pipeline found this awesome book as item **4** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books. I highly recommend it to any machine learning researcher
 wanting to get started in the field and to any practitioner looking to understand the methods behind all the AutoML tools out there. Do check it out.
 After finishing with the current technical book that is going to be my the third technical book of the year to go hand in hand with [this one](https://www.scribd.com/document/387084492/Category-Theory-for-Programmers).
 
 - Started reading 'Algorithm Design Manual' to refresh as well as strengthen knowledge on algorithms used in Machine Learning and Computer Science
-as full book can be found as item **2** [here](#worthy-books) with videos that complement the book [here](https://www3.cs.stonybrook.edu/~skiena/373/videos/).
+as full book can be found as item **2** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books with videos that complement the book [here](https://www3.cs.stonybrook.edu/~skiena/373/videos/).
 
 - To clear my insights on Logistic Regression I was searching on the internet for some well documented sources and came across the article
-as item **6** [here](#worthy-tools). It provides a detailed description of Logistic Regression and I recommend to check it out.
+as item **6** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools. It provides a detailed description of Logistic Regression and I recommend to check it out.
 
 ## Support Vector Machines & Brain-Computer Interface | Day 10
 
 - Strengthened understanding on what Support Vector Machine is, how it is used to solve classification problems and honed expertise about its usage.
 - Made a graphical summary of SVM below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_10_Support_Vector_Machines.jpg).
-- Looked at Brain-Computer Interface (BCI) as a good summary is given as item **7** [here](#worthy-tools) and a nice article on research fascinating news as item **8** [here](#worthy-tools)
+- Looked at Brain-Computer Interface (BCI) as a good summary is given as item **7** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools and a nice article on research fascinating news as item **8** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools
 
 <p align="center">
 
@@ -98,7 +95,7 @@ as item **6** [here](#worthy-tools). It provides a detailed description of Logis
 - Implemented Support Vector Machine (SVM) on linearly related data while using Scikit-Learn. As in this library we have SVC classifier I used it to solve the task.
 The code snippet of it can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_11_SVM.md).
 - Coming from chemical background made me hyper excited to study about ML influence on Chemistry
-through diving into it while reading a number of articles of which some highlights could be **9**, **10**, **11** & **12** as found [here](#worthy-tools).
+through diving into it while reading a number of articles of which some highlights could be **9**, **10**, **11** & **12** as found [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools.
 
 ## Notebooks on PyTorch Tensors & Visualisations | Day 12
 
@@ -111,15 +108,15 @@ and the other on visualising Neural Networks through Pytorch
 
 - Made a notebook with a simple overview of Perceptron theory and its usage through PyTorch as found
 [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_13_Example_of_PyTorch_with_Perceptron.ipynb).
-- Learned about different types of naive bayes classifiers. Also started to hone Machine Learning expertise by studying the lectures given by Bloomberg as found as item **5** [here](#worthy-repositories).
+- Learned about different types of naive bayes classifiers. Also started to hone Machine Learning expertise by studying the lectures given by Bloomberg as found as item **5** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories.
 First one in the playlist was Black Box Machine Learning. It gives the whole overview about prediction functions, feature extraction, learning algorithms,
 performance evaluation, cross-validation, sample bias, nonstationarity, overfitting, and hyperparameter tuning.
   
 ## Decision Trees & Original first paper on AI with its analysis | Day 14
 
 - Made a graphical summary of Decision Trees below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_14_Decision_Tree.jpg).
-- Read Alan Turing's original paper on the foundation of AI as found as **13** [here](#worthy-tools) or accessed through [here](https://gordicaleksa.medium.com/turing-for-dummies-ai-part-1-f0f668bcd83d)
-and its analysis as item **14** [here](#worthy-tools) or accessed through [here](https://gordicaleksa.medium.com/turing-for-dummies-ai-part-1-f0f668bcd83d).
+- Read Alan Turing's original paper on the foundation of AI as found as **13** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed through [here](https://gordicaleksa.medium.com/turing-for-dummies-ai-part-1-f0f668bcd83d)
+and its analysis as item **14** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed through [here](https://gordicaleksa.medium.com/turing-for-dummies-ai-part-1-f0f668bcd83d).
 
 <p align="center">
 
@@ -130,16 +127,15 @@ and its analysis as item **14** [here](#worthy-tools) or accessed through [here]
 ## Code on Decision Trees & Paper contradicting 'Turing Test' with its analysis | Day 15
 
 - Check out the code snippet for Decision Trees [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_15_Decision_Tree.md).
-- Read John R. Searle's paper contradicting 'Turing Test' as item **15** [here](#worthy-tools) with its analysis as found as **16** [here](#worthy-tools).
+- Read John R. Searle's paper contradicting 'Turing Test' as item **15** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools with its analysis as found as **16** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools.
 
 # Neural Networks & Its Architectures | Day 16
 
 - An amazing video on Neural Networks by **3Blue1Brown** youtube channel. This video gives a good understanding of Neural Networks and
-uses Handwritten digit dataset to explain the concept. Link to the video found as item 17 [here](worthy-tools) or accessed through
+uses Handwritten digit dataset to explain the concept. Link to the video found as item 17 [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed through
 [here](https://www.youtube.com/watch?v=aircAruvnKk&t=7s).
 
-- A great article going though Neural Network 8 architectures that every ML engineer needs to know found as it 18 [here](worthy-tools)
-or accessed through [here](https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html).
+- A great article going though Neural Network 8 architectures that every ML engineer needs to know found as it 18 [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed through [here](https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html).
 
 # Machine Learning in Chemistry | Day 17
 
@@ -148,14 +144,14 @@ reactions as well as other chemical niceties:
 
 1. Most cited article is on the reaction predictions for organic chemistry where these reactions were
 explored by the use of neural networks. This newly developed predictor built a system which predicts the likely products of these reaction.
-Further details found as item **19** [here](#worthy-tools) or accessed though [here](https://pubs.acs.org/doi/10.1021/acscentsci.6b00219).
+Further details found as item **19** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed though [here](https://pubs.acs.org/doi/10.1021/acscentsci.6b00219).
 2. Machine Learning methods (Support Vector Machine, Naive Bayes, and Random Forest) looked at the compatibility of
-specific chemical processes and the feasability of these predicted reactions. The link as item **20** found [here](#worthy-tools)
+specific chemical processes and the feasability of these predicted reactions. The link as item **20** found [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools
 or accessed though [here](https://pubs.acs.org/doi/10.1021/ci500698a)
 3. Machine Learning studied one of the largest reaction space to date by creating a database that contains all possible
-chemical reactions found as item **21** [here](#worthy-tools) or accessed though [here](https://www.nature.com/articles/s41467-020-19267-x)
+chemical reactions found as item **21** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed though [here](https://www.nature.com/articles/s41467-020-19267-x)
 4. The review overviewed how important chemical questions that could be answered through using machine learning techniques
-as found as item **22** [here](#worthy-tools) or accessed though [here](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00033)
+as found as item **22** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed though [here](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00033)
 
 # Image Recognition | Day 18
 
@@ -168,30 +164,29 @@ the US, Europe and Japan as found [here](https://github.com/aurimas13/Machine-Le
 
 # BoTorch & Reinforcement Learning | Day 20
 
-- Studied about BoTorch as a low level framework of PyTorch which introduction can be found as item **23** [here](#worthy-tools) or accessed through [here](https://pub.towardsai.net/botorch-is-a-framework-for-bayesian-optimization-in-pytorch-7d0f90c69064)
-or full Bayesian optimization as it says as found as item **24** [here](#worthy-tools) or accessed through [here](https://botorch.org/).
+- Studied about BoTorch as a low level framework of PyTorch which introduction can be found as item **23** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed through [here](https://pub.towardsai.net/botorch-is-a-framework-for-bayesian-optimization-in-pytorch-7d0f90c69064)
+or full Bayesian optimization as it says as found as item **24** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed through [here](https://botorch.org/).
 
-- Found VS code shortcut cheatsheet as found as item **25** [here](#worthy-tools) or accessed through [here](https://betterprogramming.pub/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d).
+- Found VS code shortcut cheatsheet as found as item **25** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed through [here](https://betterprogramming.pub/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d).
 
 - Came across an awesome Reinforcement Learning material that includes everything from codes to theory to Lectures, Papers
-to Applications and other amazing material on RL you can check by visiting item **6** [here](#worthy-repositories) that can also be accessed straight from [here](https://github.com/aikorea/awesome-rl).
+to Applications and other amazing material on RL you can check by visiting item **6** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories that can also be accessed straight from [here](https://github.com/aikorea/awesome-rl).
 
 ## TensorFlow Eager with Graph Executions & Simple ML Cheatsheet | Day 21
 
 - Wrote a notebook by comparing Eager and Graph executions in TensorFlow [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_21_Example_of_Graph_and_Eager_Execution.ipynb)
-- Analysed a simple, short and to the point Machine Learning cheatsheet that can be found as item **26** [here](#worthy-tools)
+- Analysed a simple, short and to the point Machine Learning cheatsheet that can be found as item **26** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools
 or accessed straight through [here](https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet).
 
 ## DeepMind/UCL Lectures & ML and DL courses & Simple Clustering Cheatsheet | Day 22
 
-- Honed knowledge of Reinforcment Learning through studying DeepMind and UCL lecture slides on it as item **27** [here](#worthy-tools)
-or accessed through [here](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm).
-- Found a fantastic full course on Machine Learning by the great Andrew Ng as item **28** [here](#worthy-tools) or accessed through
+- Honed knowledge of Reinforcment Learning through studying DeepMind and UCL lecture slides on it as item **27** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed through [here](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm).
+- Found a fantastic full course on Machine Learning by the great Andrew Ng as item **28** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed through
 [here](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) and two years ago did this on as item **29**
-found [here](#worthy-tools) or accessed through [here](https://www.coursera.org/specializations/deep-learning)
+found [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed through [here](https://www.coursera.org/specializations/deep-learning)
 which I also highly recommend to begin learning about Deep Learning as time from time I revisit it that I did today for example.
 
-- Analysed a short cheatsheet on Clustering and added it as item **30** [here](#worthy-tools) or accessed
+- Analysed a short cheatsheet on Clustering and added it as item **30** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed
 through [here](https://towardsdatascience.com/clustering-cheat-sheet-dcf72259abb6).
 
 <p align="center">
@@ -207,7 +202,7 @@ through [here](https://towardsdatascience.com/clustering-cheat-sheet-dcf72259abb
 - Made a graphical summary of Random Forest below as well as [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_23_Random_Forest.jpg).
 
 - Found a fantastic cheatsheet on Confusion Matrix that incorporates accuracy, precision, recall, TPR, FPR, specificity, sensitivity, ROC and
-added it as item **31** [here](#worthy-tools) or accessed through [here](http://numerical.recipes/whp/ConfusionMatrixDefns.pdf).
+added it as item **31** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed through [here](http://numerical.recipes/whp/ConfusionMatrixDefns.pdf).
 
 <p align="center">
 
@@ -219,7 +214,7 @@ added it as item **31** [here](#worthy-tools) or accessed through [here](http://
 
 - Check out the code snippet for Decision Trees [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Code/Day_24_Random_Forest.md).
 
-- Found various cheatsheets for Data Scientists as item **32** [here](#worthy-tools) or
+- Found various cheatsheets for Data Scientists as item **32** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or
 accessed through [here](https://www.datacamp.com/cheat-sheet) as the glimpse given below.
 
 <p align="center">
@@ -230,7 +225,7 @@ accessed through [here](https://www.datacamp.com/cheat-sheet) as the glimpse giv
 
 - Strengthened knowledge about Unsupervised Learning and particularly Clustering by creating a visual on K-Means as shown
 below and found a wonderful animation that can help to easily understand K-Means Clustering as found as item **33**
-[here](#worthy-tools) or accessed through [here](https://shabal.in/visuals/kmeans/6.html).
+[here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed through [here](https://shabal.in/visuals/kmeans/6.html).
 
 <p align="center">
   <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_25_K_Means_Clustering.jpg">
@@ -238,18 +233,18 @@ below and found a wonderful animation that can help to easily understand K-Means
 
 # Linear Algebra | Day 26
 
-- Found an awesome channel as item **34** [here](#worthy-tools) or you can check the channel directly [here](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) by
+- Found an awesome channel as item **34** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or you can check the channel directly [here](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) by
 **3Blue1Brown**. It has a playlist called `Essence of Linear Algebra`. Started yesterday and completed full playlist of videos today
 which gave a complete overview of Vectors, Linear Combinations, Spans, Basis Vectors, Linear Transformations, Matrix Multiplication,
 3D Transformations, Determinants, Inverse Matrix, Column Space, Null Space, Non-Square Matrices, Dot Product, Cross Product, Eigenvectors, Eigenvalues and Abstract Vector Spaces.
 
-- Link to the playlist of `Essence of Linear Algebra` can be found as item **35** [here] or accessed straight through [here](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
+- Link to the playlist of `Essence of Linear Algebra` can be found as item **35** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed straight through [here](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 
 # Reinforcement Learning | 27
 
-- Found an amazing Princeton material as slides on the Neuroscience of Reinforcement Learning as item **36** [here](#worthy-tools)
+- Found an amazing Princeton material as slides on the Neuroscience of Reinforcement Learning as item **36** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools
 or accessed straight through [here](https://www.princeton.edu/~yael/ICMLTutorial.pdf). Looked also at overview of
-Reinforcement Learning implementation for Drug Design as found as item  **37** [here](#worthy-tools) or accessed
+Reinforcement Learning implementation for Drug Design as found as item  **37** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed
 through [here](https://httpsmedium.datadriveninvestor.com/drug-design-made-fun-using-reinforcement-learning-212a4f867f33).
 
 # Employee Performance with PyCaret | Day 28
@@ -258,27 +253,26 @@ through [here](https://httpsmedium.datadriveninvestor.com/drug-design-made-fun-u
 
 # BCI, Chemical Reactions & Big O | Day 29
 
-- Found a great article on Brain-Computer Interface as item **38** [here](#worthy-tools) where it speaks about
+- Found a great article on Brain-Computer Interface as item **38** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools where it speaks about
 closed-loop system possibility once penetrating microneedles can conform to the brain or simply
 about an advanced brain-computer interface with a flexible and moldable penetrating microneedles
 that gets to the brain's cortex. It can also be accessed through [here](https://medicalxpress.com/news/2022-03-brain-computer-interface-flexible.html).
-- Came across a GitHub repository on optimizing chemical reactions through Reinforcement Learning as item **7** [here](#worthy-repositories)
-or accessed through [here](https://github.com/lightingghost/chemopt).
-- Also found a fantastic explanation on Big O notation as item **39** [here](#worthy-tools)
+- Came across a GitHub repository on optimizing chemical reactions through Reinforcement Learning as item **7** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories or accessed through [here](https://github.com/lightingghost/chemopt).
+- Also found a fantastic explanation on Big O notation as item **39** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools
 or accessed through [here](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/).
 
 # DS Certificates, Chemical Reactions & Big O | Day 30
 
-- Came across 6 Data Science certificates in one place that could boost your career as found as item **40** [here](#worthy-tools) or
+- Came across 6 Data Science certificates in one place that could boost your career as found as item **40** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or
 accessed through [here](https://www.kdnuggets.com/2021/02/6-data-science-certificates.html). Particularly interested in Google Professional Data Engineer Certification &
 SAS Certified AI & Machine Learning Professional. Take a look youself. Maybe you will find something useful as well.
 - Also found GitHub repo of Machine Learning cheatsheets on Supervised, Unsupervised & Deep Learning as well as Tips and Tricks given by Stanford CS course.
-Details as item **41** [here](#worthy-repositories) or accessesd through [here](https://www.kdnuggets.com/2021/02/6-data-science-certificates.html).
+Details as item **8** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories or accessesed through [here](https://www.kdnuggets.com/2021/02/6-data-science-certificates.html).
 
 # Mathematics for CS and ML | Day 31
 
 - Started reading lecture notes as books of MIT and University Of California on Mathematics for Computer Science and Mathematics for
-Machine Learning as items **5** and **6** [here](#worthy-books) and [here](#worthy-books) or accessed through
+Machine Learning as items **5** and **6** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books and [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books or accessed through
 [here](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) and [here](https://gwthomas.github.io/docs/math4ml.pdf).
 
 # Quizzes about TensorFlow & PyTorch | Day 32
@@ -293,7 +287,7 @@ while on PyTorch can be found [here](https://github.com/aurimas13/Machine-Learni
 and [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Problems/Problem_PyTorch.ipynb).
 Their solutions could be also found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Problems/Solution_to_Problem_PyCaret.ipynb)
 and [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Problems/Solution_to_Problem_PyTorch.ipynb).
-- Found an AI book on engineering Artificial Intelligence applications as item **7** [here](#worthy-books) or accessed
+- Found an AI book on engineering Artificial Intelligence applications as item **7** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books or accessed
 through [here](https://www.researchgate.net/publication/324030716_Applied_Artificial_Intelligence_-_An_Engineering_Approach).
 
 # DL with Python, TensorFlow, Keras & Encoding | Day 34
@@ -309,7 +303,7 @@ through [here](https://www.researchgate.net/publication/324030716_Applied_Artifi
 
 # Essential Papers, AlphaCode & ML | Day 35  
 
-- Read three papers as items **41**, **42** and **43** as found [here](#worthy-tools) or summarrised and accessed below:
+- Read three papers as items **41**, **42** and **43** as found [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or summarrised and accessed below:
 
 1. [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf) that explained the new concept of how to measure human-like artificial intelligence
 that enables fair general intelligence comparisons between AI systems and humans. Written by creator of Keras, Francois Chollet.
@@ -318,7 +312,7 @@ that enables fair general intelligence comparisons between AI systems and humans
 a system for code generation that can create novel solutions to competitive programming problems that require deeper reasoning like
 knowing many computer science algorithms to implement. Fantastic read.
 
-- Found an awesome quick explanation about Machine Learning as item **44** found [here](#worthy-tools) or accessed
+- Found an awesome quick explanation about Machine Learning as item **44** found [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed
 through [here](https://pub.towardsai.net/what-is-machine-learning-ml-b58162f97ec7). It explained what Machine Learning is,
 how it works, and its importance in five minutes of reading.
 
@@ -331,17 +325,17 @@ scientific discovery as found [here](https://www.youtube.com/watch?v=XtJVLOe4cfs
 
 # Automate ML pipeline & Autoencoders | Day 37
 
-- Read the short book of automating Machine Learning pipeline as item **8** [here](#worthy-books) or accessed through
+- Read the short book of automating Machine Learning pipeline as item **8** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books or accessed through
 [here](https://www.databricks.com/wp-content/uploads/2022/02/How-to-Automate-Your-Machine-Learning-Pipeline-eBook-v4-012522.pdf).
 This short overview looked at the lifecycle using the Databricks Lakehouse Platform.
 - Studied Autoencoders that give a good representation of your data that focuses on the signal rather  the noise.
 Found and article that briefly introduced Autoencoders and dived deeper into an Undercomplete Autoencoder,
-suitable for dimensionality reduction and feature extraction as item **45** [here](#worthy-tools) or accessed through
+suitable for dimensionality reduction and feature extraction as item **45** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed through
 [here](https://towardsdatascience.com/autoencoders-ae-a-smart-way-to-process-your-data-using-unsupervised-neural-networks-9661f93a8509).
 
 # Machine Learning Yearning | Day 38
 
-- Came across a Machine Learning Yearning book as item **9** [here](#worthy-books) that is suited for AI Engineers in the era of Deep Learning
+- Came across a Machine Learning Yearning book as item **9** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books that is suited for AI Engineers in the era of Deep Learning
 where it answers such queries as techniques for reducing avoidable bias, deciding whether to include inconsistent data, generalizing from
 the training set to the dev set, identifying Bias, Variance, and Data Mismatch Errors as well as spotting a flawed ML pipeline
 to name a few of the questions that the book answers. It can also be accessed straight through
@@ -350,11 +344,10 @@ to name a few of the questions that the book answers. It can also be accessed st
 # ChatGPT & Scikit-learn Cheatsheets | Day 39
 
 - Found an awesome Cheatsheet regarding ChatGPT usage. As OpenAI said it's a must-have for anyone looking to get the
-most out of ChatGPT or NLP tasks in general. It can be found as item **46** [here](#worthy-tools) or accessed directly through
+most out of ChatGPT or NLP tasks in general. It can be found as item **46** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through
 [here](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf) with KDnuggets post on it
 [here](https://www.kdnuggets.com/2023/01/chatgpt-cheat-sheet.html).
-- Also came across a cheatsheet of Scikit-learn on Machine Learning that can be found as item **47** [here](#worthy-tools)
-or accessed straight by clicking on
+- Also came across a cheatsheet of Scikit-learn on Machine Learning that can be found as item **47** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed straight by clicking on
 [here](https://www.kdnuggets.com/publications/sheets/Scikit-Learn_Cheatsheet_for_Machine_Learning.pdf)
 with KDnuggets post on it [here](https://www.kdnuggets.com/2022/12/scikit-learn-machine-learning-cheatsheet.html).
 A bit on Scikit-learn: Scikit-learn is an open-source Python library for all kinds of predictive data analysis.
@@ -365,16 +358,16 @@ and data preprocessing tasks.
 
 - Came across a fantastic GitHub repository that gives useful ML courses on the Youtube videos where you could refresh yor Machine Learning
 expertise ranging from Deep Learning to Reinforcement Learning to Graph Machine Learning asnd other subcategories through watching them
-as found as item **9** [here](#worthy-repositories) or accessed straight through [here](https://github.com/dair-ai/ML-YouTube-Courses).
-- Found Top 13 Deep Learning libraries summarised in one article found as item **48** [here](#worthy-tools) or accessed straight through
+as found as item **9** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories or accessed straight through [here](https://github.com/dair-ai/ML-YouTube-Courses).
+- Found Top 13 Deep Learning libraries summarised in one article found as item **48** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed straight through
 [here](https://www.kdnuggets.com/2018/11/top-python-deep-learning-libraries.html).
 - Stumbled across another fantastic GitHub repository on Machine Learning Courses but this time it provides notes on the  
 courses like for Deep Learning Specialization of 2022 or MIT's Introduction of Deep Learning to name a few. It can be
-accessed as item **10** [here](#worthy-repositories) or through this [link](https://github.com/dair-ai/ML-Course-Notes) directly.
+accessed as item **10** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories or through this [link](https://github.com/dair-ai/ML-Course-Notes) directly.
 
 # Visualisations, Errors & Testing | Day 41
 
-- Took today a bit easier and spent time reading articles. The ones I found interesting are items **49**, **50** and **51** where a simple guide of vislisations on Machine Learning is given, then a blog post that helps discovering errors in your Machine Learning models and lastly a well explained overview on Hypothesis Tedting. These article coulds be found [here](#worthy-tools) or accessed directly through here:
+- Took today a bit easier and spent time reading articles. The ones I found interesting are items **49**, **50** and **51** where a simple guide of vislisations on Machine Learning is given, then a blog post that helps discovering errors in your Machine Learning models and lastly a well explained overview on Hypothesis Tedting. These article coulds be found [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through here:
 
 1. [A Simple Guide to Machine Learning Visualisations](https://towardsdatascience.com/a-simple-guide-to-machine-learning-visualisations-6c808ac925dd)
 2. [Discovering the systematic errors made by machine learning models](https://ai.stanford.edu/blog/domino/)|
@@ -382,8 +375,8 @@ accessed as item **10** [here](#worthy-repositories) or through this [link](http
 
 # AI Course, ChatGPT hack & Money | Day 42
 
-- Found a well  balanced beginners course on AI by Microsoft as item **52** [here](#worthy-tools) or accessed directly through [here]( https://www.kdnuggets.com/2022/08/free-ai-beginners-course.html).
-- Also spent time reading articles and the two ones I found interesting give ChatGPT productivity hacks and explanation on how to triple your income with Data Science as items **53** ant **54** [here](#worthy-tools) or accessed directly through here:
+- Found a well  balanced beginners course on AI by Microsoft as item **52** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here]( https://www.kdnuggets.com/2022/08/free-ai-beginners-course.html).
+- Also spent time reading articles and the two ones I found interesting give ChatGPT productivity hacks and explanation on how to triple your income with Data Science as items **53** ant **54** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through here:
 
 1. [ChatGPT productivity hacks](https://www.zdnet.com/article/chatgpt-productivity-hacks-five-ways-to-use-chatbots-to-make-your-life-easier/?taid=63e690b4be05cf0001218da8)
 2. [Triple Money with Data Science](https://www.kdnuggets.com/2021/10/tripled-my-income-data-science-18-months.html)
@@ -392,13 +385,13 @@ accessed as item **10** [here](#worthy-repositories) or through this [link](http
 
 - Took it easy today. Created two notebooks with some explanations on Neural Nets for Tabular Data there while using TensorFlow and PyTorch. The former uses in-built embeddings and is short and can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_43_Example_of_Neural_Networks_for_Tabular_Data_Demonstration_2.ipynb) while the latter uses Neural Nets for Tabular Data with PyTorch with less explanation and can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notebooks/Day_44_Example_of_Neural_Networks_for_Tabular_with_PyTorch_Demonstration.ipynb).
 
-- Came across predictions on AI by Andrew Ng for the next 10 years. Great read. Have a look yourself as item **55** [here](#worthy-tools) or access straight through [here](https://venturebeat.com/ai/andrew-ng-predicts-the-next-10-years-in-ai/?sf162890539=1).
+- Came across predictions on AI by Andrew Ng for the next 10 years. Great read. Have a look yourself as item **55** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or access straight through [here](https://venturebeat.com/ai/andrew-ng-predicts-the-next-10-years-in-ai/?sf162890539=1).
 
 # ChatGPT & Think Bayes | Day 44
 
-- Delved into ChatGPT by reading a paper showing that it performs much better than GPT3 and more like a nine-year-old kid. It can be found as item **56** [here](#worthy-tools) or accessed straight through [here](https://arxiv.org/pdf/2302.02083.pdf) and read a nice article on how ChatGPT helps to automate Machine Learning projects found as item **57** [here](#worthy-tools) or accesed straight through [here](https://pub.towardsai.net/how-chatgpt-helps-you-to-automate-machine-learning-55520f49db9c).
+- Delved into ChatGPT by reading a paper showing that it performs much better than GPT3 and more like a nine-year-old kid. It can be found as item **56** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed straight through [here](https://arxiv.org/pdf/2302.02083.pdf) and read a nice article on how ChatGPT helps to automate Machine Learning projects found as item **57** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accesed straight through [here](https://pub.towardsai.net/how-chatgpt-helps-you-to-automate-machine-learning-55520f49db9c).
 
-- Came across a book on [an introduction to Bayesian statistics](#worthy-books) as item **10** there or could be accessed straight [here](https://twitter.com/TheSequenceAI/status/1541264801074143232?s=20&t=KyB3eXH00O3HlsUEecSH9g) that uses computational methods relevant to ML practitioners:
+- Came across a book on [an introduction to Bayesian statistics](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books as item **10** there or could be accessed straight [here](https://twitter.com/TheSequenceAI/status/1541264801074143232?s=20&t=KyB3eXH00O3HlsUEecSH9g) that uses computational methods relevant to ML practitioners:
   1. This book uses Python code instead of math!
   2. There’s a Jupyter notebook for every chapter
   3. Code is written in NumPy, SciPy, and Pandas
@@ -449,8 +442,8 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 # ChaGPT Cheat Sheets & Books | Day 48
 
-- ChatGPT Cheat Sheets could be found as items **58** and **59** [here](#worthy-tools) where you could learn ChatGPT tips and tricks for NLP, Code, Structure and Unstructured output, Media types, and Meta ChatGPT and [here](#worthy-tools) for understanding OpenAI API and using it to build ChatGPT applications or accessed throuh [here](https://www.kdnuggets.com/2023/01/chatgpt-cheat-sheet.html) and [here](https://github.com/openai/openai-cookbook)
-- Books on ChatGPR as items **11**, **12** and **13** could be found [here](#worthy-books) where it provides 100 resources to enhance your life with ChatGPT, [here](#worthy-books) where you could learn strategies for crafting compelling ChatGPT prompts that drive engaging and informative conversations and [here](#worthy-books) to learn how to prompt for software engineering tasks or accessed through [here](https://hasantoxr.gumroad.com/l/gpt), [here](https://fka.gumroad.com/l/art-of-chatgpt-prompting) and [here](https://sergiorocks.gumroad.com/l/chatgpt-prompts-for-software-engineers).
+- ChatGPT Cheat Sheets could be found as items **58** and **59** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools where you could learn ChatGPT tips and tricks for NLP, Code, Structure and Unstructured output, Media types, and Meta ChatGPT and [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools for understanding OpenAI API and using it to build ChatGPT applications or accessed throuh [here](https://www.kdnuggets.com/2023/01/chatgpt-cheat-sheet.html) and [here](https://github.com/openai/openai-cookbook)
+- Books on ChatGPR as items **11**, **12** and **13** could be found [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books where it provides 100 resources to enhance your life with ChatGPT, [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books where you could learn strategies for crafting compelling ChatGPT prompts that drive engaging and informative conversations and [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books to learn how to prompt for software engineering tasks or accessed through [here](https://hasantoxr.gumroad.com/l/gpt), [here](https://fka.gumroad.com/l/art-of-chatgpt-prompting) and [here](https://sergiorocks.gumroad.com/l/chatgpt-prompts-for-software-engineers).
 
 <p align="center">
   <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/chatgpt_cheats_print.png">
@@ -458,27 +451,27 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 # Could AI revolutionise Drug Discovery? | Day 49
 
-- Read article on Graph Machine Learning for Drug Discovery. As DL applciations have been on the rise in Drug Discoveryy yet Graph Machine Learning has gained considerable attention for its exceptional ability to model graph-structured biomedical data and investigate their properties and functional relationships. Details are found as item **60** [here](#worthy-tools) or accessed straight through [here](https://deepai.org/publication/knowledge-augmented-graph-machine-learning-for-drug-discovery-a-survey-from-precision-to-interpretability)
+- Read article on Graph Machine Learning for Drug Discovery. As DL applciations have been on the rise in Drug Discoveryy yet Graph Machine Learning has gained considerable attention for its exceptional ability to model graph-structured biomedical data and investigate their properties and functional relationships. Details are found as item **60** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed straight through [here](https://deepai.org/publication/knowledge-augmented-graph-machine-learning-for-drug-discovery-a-survey-from-precision-to-interpretability)
 
 # Machine Learning Visualisations | Day 50
 
-- Studied about Machine Learning Visualisations. Remembered the basics (1<sup>st</sup> link), then studied the implementation in PyTorch that I use frequently (2<sup>nd</sup> link) and finished by looking at visualisations role in ML (3<sup>rd</sup> link.) These articles can be accesesed though [here](#worthy-tools) as there they are as items **61**, **62** and **63** or by clicking on a link below:
+- Studied about Machine Learning Visualisations. Remembered the basics (1<sup>st</sup> link), then studied the implementation in PyTorch that I use frequently (2<sup>nd</sup> link) and finished by looking at visualisations role in ML (3<sup>rd</sup> link.) These articles can be accesesed though [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools as there they are as items **61**, **62** and **63** or by clicking on a link below:
   1. [A Simple Guide to Machine Learning Visualisations](https://towardsdatascience.com/a-simple-guide-to-machine-learning-visualisations-6c808ac925dd)
   2. [How to Visualize PyTorch Neural Networks – 3 Examples in Python](https://appsilon.com/visualize-pytorch-neural-networks/)
   3. [Role of Data Visualization in Machine Learning](https://pub.towardsai.net/role-of-data-visualization-in-machine-learning-a6dd62ad1082)
 
 # Work in progress | Day 51
 
-- Worked on the private repository of [my own ML Project](https://github.com/aurimas13/ML-Project---Barbora) and dived into A/B testing by looking [here](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) or [here](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) as well as found tips for Data Scientists and Data Engineers in their interviews given by Seattle Data Guy [here](https://seattledataguy.substack.com/p/3-sql-interview-tips-and-questions?r=2ydye&s=w). All of the links can also be found [here](#worthy-tools) as items  **64**, **65** and **66**.
+- Worked on the private repository of [my own ML Project](https://github.com/aurimas13/ML-Project---Barbora) and dived into A/B testing by looking [here](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) or [here](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) as well as found tips for Data Scientists and Data Engineers in their interviews given by Seattle Data Guy [here](https://seattledataguy.substack.com/p/3-sql-interview-tips-and-questions?r=2ydye&s=w). All of the links can also be found [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools as items  **64**, **65** and **66**.
 
 # ML Project & Git Cheat Sheet | Day 52
 
-- Worked on the private repository of [my own ML Project](https://github.com/aurimas13/ML-Project---Barbora) and came across a Cheat Sheet of Git commands for Data Science as could be acessed through a list [here](#worthy-tools) as item **67** or directly thourgh [here](https://www.kdnuggets.com/publications/sheets/Git_Cheatsheet_KDnuggets.pdf). A summary of what it contains is described in this [website](https://www.kdnuggets.com/2022/11/git-data-science-cheatsheet.html) by KDnuggets.
+- Worked on the private repository of [my own ML Project](https://github.com/aurimas13/ML-Project---Barbora) and came across a Cheat Sheet of Git commands for Data Science as could be acessed through a list [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools as item **67** or directly thourgh [here](https://www.kdnuggets.com/publications/sheets/Git_Cheatsheet_KDnuggets.pdf). A summary of what it contains is described in this [website](https://www.kdnuggets.com/2022/11/git-data-science-cheatsheet.html) by KDnuggets.
 
 # CNN for Breast Cancer & Goodhart’s Law | Day  53
 
-- Found an article on Convolutional Neural Nets for Breast Cancer Classification that built an algorithm to automatically identify whether a patient is suffering from breast cancer or not by looking at biopsy images. The implementation could be found as item **68** [here](#worthy-tools) or accessed straight through [here](https://www.kdnuggets.com/2019/10/convolutional-neural-network-breast-cancer-classification.html).
-- Looked at Goodhart’s Law that says: “When a measure becomes a target, it ceases to be a good measure.”. This philosophy is strived for in OpenAI. More as item **69** [here](#worthy-tools) or accessed through [here](https://openai.com/blog/measuring-goodharts-law/).
+- Found an article on Convolutional Neural Nets for Breast Cancer Classification that built an algorithm to automatically identify whether a patient is suffering from breast cancer or not by looking at biopsy images. The implementation could be found as item **68** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed straight through [here](https://www.kdnuggets.com/2019/10/convolutional-neural-network-breast-cancer-classification.html).
+- Looked at Goodhart’s Law that says: “When a measure becomes a target, it ceases to be a good measure.”. This philosophy is strived for in OpenAI. More as item **69** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed through [here](https://openai.com/blog/measuring-goodharts-law/).
 
 <p align="center">
   <img height="555px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/cancer.png">
@@ -490,11 +483,11 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
   - [Top 5 free ML courses](https://www.kdnuggets.com/2022/02/top-5-free-machine-learning-courses.html)
   - [Machine Learning Systems Design: A Free Stanford Course](https://www.kdnuggets.com/2021/02/machine-learning-systems-design-free-stanford-course.html)
   - [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai)
-- Continued working on my own ML Project as took notes from building an ML model from scratch as accessed as item **70** [here](#worthy-tools) or given directly [here](https://thesequence.substack.com/p/-guest-post-how-to-build-an-ml-platform).
+- Continued working on my own ML Project as took notes from building an ML model from scratch as accessed as item **70** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or given directly [here](https://thesequence.substack.com/p/-guest-post-how-to-build-an-ml-platform).
 
 # Self-Supervised Learning | Day 55
 
-- Studied and dived into the world of Self-Supervised Learning as it could be accessed through item **71** [here](#worthy-tools) or directly through [here](https://thesequence.substack.com/p/-edge137-self-supervised-learning?s=w). In short terms it is known as the dark matter of AI as it is a type of Unsupervised Learning and the list of the valuable articles on it are:
+- Studied and dived into the world of Self-Supervised Learning as it could be accessed through item **71** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or directly through [here](https://thesequence.substack.com/p/-edge137-self-supervised-learning?s=w). In short terms it is known as the dark matter of AI as it is a type of Unsupervised Learning and the list of the valuable articles on it are:
   1. [A New Series About Self-Supervised Learning](https://thesequence.substack.com/p/edge123)
   2. [Self-Supervised Learning for Computer Vision](https://thesequence.substack.com/p/edge135)
   3. [Self-Supervised Learning for Speech](https://thesequence.substack.com/p/edge133)
@@ -505,7 +498,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
   
 # MLOps, ML in Medicine & Ethics of AI  | Day 56
 
-- Studied about MLOps where great recaps on it could be found as items **72** and **73** [here](#worthy-tools) or accessed directly through [here](https://thesequence.substack.com/p/edge153) and [here](https://thesequence.substack.com/p/-edge20-what-is-mlops-top-mlops-technologies).
+- Studied about MLOps where great recaps on it could be found as items **72** and **73** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here](https://thesequence.substack.com/p/edge153) and [here](https://thesequence.substack.com/p/-edge20-what-is-mlops-top-mlops-technologies).
 
 - Read about Machine Learning applications in Medicine (Rheumatology) as could be found by accessing directly through [here](https://www.medscape.com/viewarticle/971281).
 
@@ -515,8 +508,8 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 # NN Art & More MLOps | Day 57
 
-- Found artistic representations of neural networks as item **74** [here](#worthy-tools) or accessed directly through [here](https://tylerneylon.com/a/randnn/).
-- Dived more into MLOPs as its design patterns could be found as item **75** [here](#worthy-tools) or accessed directly through [here](https://www.kdnuggets.com/2022/02/design-patterns-machine-learning-mlops.html).
+- Found artistic representations of neural networks as item **74** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here](https://tylerneylon.com/a/randnn/).
+- Dived more into MLOPs as its design patterns could be found as item **75** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here](https://www.kdnuggets.com/2022/02/design-patterns-machine-learning-mlops.html).
 
 <p align="center">
   <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/artistic_NN.png">
@@ -524,7 +517,7 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 # Stay on top with AI world | Day 58
 
-- Found the article of most rewarding resources to stay on top with fast moving AI world as item **76** [here](#worthy-tools) or accessed directyly through [here](https://www.kdnuggets.com/2022/03/stay-top-going-ai-world.html). It includes *Youtube* channels worth following, *Arxiv* dataset with papers, *Papers With Code* on the newest ML research with repos, and of course *Twitter* posts on AI like following my created [list](https://twitter.com/i/lists/1455819654539132937) where you culd get news on AI world (constantly updated when a new AI worthy account is included), Public Speaking, Investment, my posts and the fun that comes with all of that.
+- Found the article of most rewarding resources to stay on top with fast moving AI world as item **76** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directyly through [here](https://www.kdnuggets.com/2022/03/stay-top-going-ai-world.html). It includes *Youtube* channels worth following, *Arxiv* dataset with papers, *Papers With Code* on the newest ML research with repos, and of course *Twitter* posts on AI like following my created [list](https://twitter.com/i/lists/1455819654539132937) where you culd get news on AI world (constantly updated when a new AI worthy account is included), Public Speaking, Investment, my posts and the fun that comes with all of that.
 
 <p align="center">
   <img height="300px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/list.png">
@@ -540,24 +533,24 @@ and is available [here](https://github.com/aurimas13/Machine-Learning-Goodness/b
 
 # ChatGPT and Whisper API | Day 61
 
-- Started using ChatGPT and Whisper API's to integrate its models in my ML projects. It was released recently by OpenAI for developers to improve their work as these API's could be found as item **77** [here](#worthy-tools) or accessed directly through [here](https://openai.com/blog/introducing-chatgpt-and-whisper-apis).
+- Started using ChatGPT and Whisper API's to integrate its models in my ML projects. It was released recently by OpenAI for developers to improve their work as these API's could be found as item **77** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here](https://openai.com/blog/introducing-chatgpt-and-whisper-apis).
 
 # Top ML Projects $ DS Interviews | Day 62
 
-- Came across a wonderful KDnuggets article of what should get you hired as an ML Engineer when completing one of the projects like MNIST Digit Classification, Heart Disease Prediction or Sales Forecasting to name a few of the 20 offered as the rest could be found as item **78** [here](#worthy-tools) or accessed directly through [here](https://www.kdnuggets.com/2021/09/20-machine-learning-projects-hired.html).
-- Every one knows that for Machine Learning you need to master Python, however there are other programming languages that could boost your arsenal in ML as well. Such could be Java and Javascript while the rest are found as top 7 ML pragramming languaes as item **79** [here](#worthy-tools) or accessed directly through [here](https://www.codecademy.com/resources/blog/machine-learning-programming-languages/).
+- Came across a wonderful KDnuggets article of what should get you hired as an ML Engineer when completing one of the projects like MNIST Digit Classification, Heart Disease Prediction or Sales Forecasting to name a few of the 20 offered as the rest could be found as item **78** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here](https://www.kdnuggets.com/2021/09/20-machine-learning-projects-hired.html).
+- Every one knows that for Machine Learning you need to master Python, however there are other programming languages that could boost your arsenal in ML as well. Such could be Java and Javascript while the rest are found as top 7 ML pragramming languaes as item **79** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here](https://www.codecademy.com/resources/blog/machine-learning-programming-languages/).
 
 # Effective Testing for ML Projects | Day 63
 
-- Found a wonderful blog that summarises the effective testing for Machine Learning Projects by giving and solving examples. The blog posts could be found as items **80**, **81** and **82** [here](#worthy-tools) or accessed directly through [here](https://ploomber.io/blog/ml-testing-i/), [here](https://ploomber.io/blog/ml-testing-ii/) and [here](https://ploomber.io/blog/ml-testing-iii/). The GitHub repository of the project could be found also as item **11** [here](#worthy-repositories).
+- Found a wonderful blog that summarises the effective testing for Machine Learning Projects by giving and solving examples. The blog posts could be found as items **80**, **81** and **82** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here](https://ploomber.io/blog/ml-testing-i/), [here](https://ploomber.io/blog/ml-testing-ii/) and [here](https://ploomber.io/blog/ml-testing-iii/). The GitHub repository of the project could be found also as item **11** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories.
 
 # A/B Testing | Day 64
 
-- Studied about A/B Testing while understanding its fundamentals, working through Python examples and digging into False Negatives and False Positives as more on that could be found as items **83** **84**, **85** and **86** [here](#worthy-tools) or accessed directly through [here](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481), [here](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962), [here](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) and [here](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a).
+- Studied about A/B Testing while understanding its fundamentals, working through Python examples and digging into False Negatives and False Positives as more on that could be found as items **83** **84**, **85** and **86** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481), [here](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962), [here](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) and [here](https://towardsdatascience.com/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a).
 
 # Statistical Concepts in Data Science | Day 65
 
-- Refreshed knowledge about statistical concepts necessary to be known for Data Science interviews ranging from Z-tests and T-tests to Uniform and Poisson Distributions to name a few ot the 10 that could be found as item **87** [here](#worthy-tools) or accessed directly through [here](https://www.kdnuggets.com/2021/02/10-statistical-concepts-data-science-interviews.html).
+- Refreshed knowledge about statistical concepts necessary to be known for Data Science interviews ranging from Z-tests and T-tests to Uniform and Poisson Distributions to name a few ot the 10 that could be found as item **87** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here](https://www.kdnuggets.com/2021/02/10-statistical-concepts-data-science-interviews.html).
 
 # Python Tricks & Reinforcement Learning | Day 66
 
@@ -624,7 +617,7 @@ To get either of the books for free if unavailable through links head and search
 
 # Metrics in ML & Python Goodies | Day 70
 
-- Found a fantastic overview on evaluating ML models through metrics of Confusion Matrix, Accuracy, Precision, and Recall as item **88** [here](#worthy-tools) or accessed directly through [here](https://www.kdnuggets.com/2021/02/evaluating-deep-learning-models-confusion-matrix-accuracy-precision-recall.html).
+- Found a fantastic overview on evaluating ML models through metrics of Confusion Matrix, Accuracy, Precision, and Recall as item **88** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here](https://www.kdnuggets.com/2021/02/evaluating-deep-learning-models-confusion-matrix-accuracy-precision-recall.html).
 - Great visual summary of Python libraries and frameworks ranging from Machine Learning to Image Processing to Automation Testing to Web Development to Game Development to Web Scraping shown below.
 
 <p align="center">
@@ -633,11 +626,11 @@ To get either of the books for free if unavailable through links head and search
 
 # Artificial Intelligence in Medicine | Day 71
 
-- Read a great perspective of AI in Medicine found as item **89** [here](#worthy-tools) or accessed directly through [here](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00139-2#.YmldNYRJ8M4.twitter). To sum up the article it speaks that the ambitions driving enthusiasm about AI in Medicine include the goals/challenges of promoting decisions that are informed by a comprehensive assessment of available data, ensuring that the relative merits of policies, practices, procedures and interventions are clearly assessed before they are implemented in practice and continuously monitoring clinical workflows and practice patterns so that they can be adjusted in light of changing circumstances. It declares that applications of AI are likely to play a valuable role in advancing each of these goals/challenges.
+- Read a great perspective of AI in Medicine found as item **89** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00139-2#.YmldNYRJ8M4.twitter). To sum up the article it speaks that the ambitions driving enthusiasm about AI in Medicine include the goals/challenges of promoting decisions that are informed by a comprehensive assessment of available data, ensuring that the relative merits of policies, practices, procedures and interventions are clearly assessed before they are implemented in practice and continuously monitoring clinical workflows and practice patterns so that they can be adjusted in light of changing circumstances. It declares that applications of AI are likely to play a valuable role in advancing each of these goals/challenges.
 
 # MoLeR - GNN in Drug Discovery | Day 72
 
-- Found a great Graph Neural Network application, MoLeR, in efficient drug discovery to help transform the process and enable to increase the efficiency in finding new compounds. MoLeR not only needs fewer steps to construct drug-like molecules, but its generation procedure also occurs in steps that are more akin to the way chemists think about the construction of molecules. More on it as item **90** [here](#worthy-tools) or accessed directly through [here](https://www.microsoft.com/en-us/research/blog/moler-creating-a-path-to-more-efficient-drug-design/?OCID=msr_blog_MoLeR_tw).
+- Found a great Graph Neural Network application, MoLeR, in efficient drug discovery to help transform the process and enable to increase the efficiency in finding new compounds. MoLeR not only needs fewer steps to construct drug-like molecules, but its generation procedure also occurs in steps that are more akin to the way chemists think about the construction of molecules. More on it as item **90** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here](https://www.microsoft.com/en-us/research/blog/moler-creating-a-path-to-more-efficient-drug-design/?OCID=msr_blog_MoLeR_tw).
 
 <p align="center">
   <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_72_1400x788_Moler_hero_animation_blog.gif">
@@ -655,7 +648,7 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
 
 # Autoencoders in Chemistry | Day 74
 
-- Machine Learning application solved a common problem in synchrotron X-ray experiments by reducing the noise, also known as meaningless information present in the data and replaced these noisy targets with noise-free input signals. The ML concept they used was autoencoders. Overview is given as item **91** [here](#worthy-tools) or accessed directly through [here](https://techxplore.com/news/2022-04-scientists-approach-noise-x-ray.html) while the detailed scientific publication can be found [here](https://www.nature.com/articles/s41598-021-93747-y).
+- Machine Learning application solved a common problem in synchrotron X-ray experiments by reducing the noise, also known as meaningless information present in the data and replaced these noisy targets with noise-free input signals. The ML concept they used was autoencoders. Overview is given as item **91** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here](https://techxplore.com/news/2022-04-scientists-approach-noise-x-ray.html) while the detailed scientific publication can be found [here](https://www.nature.com/articles/s41598-021-93747-y).
 
 <p align="center">
   <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_74_xray.png">
@@ -701,7 +694,7 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
 
 # NLP | Day 77
 
-- NLP is more than chatbots and text summarizers. It helps power image, video, music generators and more. This comprehensive guide as item **91** [here](#worthy-tools) or accessed directly through [here](https://www.deeplearning.ai/resources/natural-language-processing/?hss_channel=tw-992153930095251456) covers how it works, where it is being applied, top techniques, libraries and frameworks to name some of the things that are covered. If you also fancy how to leverage AI to boost your productivity and accelerate your career take a look at [this newsletter](https://superhuman.beehiiv.com/).
+- NLP is more than chatbots and text summarizers. It helps power image, video, music generators and more. This comprehensive guide as item **91** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here](https://www.deeplearning.ai/resources/natural-language-processing/?hss_channel=tw-992153930095251456) covers how it works, where it is being applied, top techniques, libraries and frameworks to name some of the things that are covered. If you also fancy how to leverage AI to boost your productivity and accelerate your career take a look at [this newsletter](https://superhuman.beehiiv.com/).
 
 <p align="center">
   <img height="250px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_77_nlp.png">
@@ -713,8 +706,8 @@ Details at this [article](https://technative.io/ai-still-needs-humans-to-stay-in
 
 # Big O Cheatsheets & Algorithms for MLOps| Day 79
 
-- Irrespective of how it is thought I believe grasping Big O notation for data structures and algorithms to use as an ML/MLOps Engineer or any kind of a developer is essential and will boost your career. Knowing which algorithm to use and understanding Big O will boost your MLOps approach when deploying a model and save enormous time as well as give you surprising career benefits. Even though I know it might be difficult to grasp the concept of algorithms, hence I recommend reading the visual book on the algorithms as item **1** [here](#worthy-books) or more technical one as item **2** [here](#worthy-books) to understand them better. More details on them under **Day 8**.
-- Regarding the Big O notation for data structures. The cheatsheets could be accesed as item **92** [here](#worthy-tools) and **93** [here](#worthy-tools) and looked upon below.
+- Irrespective of how it is thought I believe grasping Big O notation for data structures and algorithms to use as an ML/MLOps Engineer or any kind of a developer is essential and will boost your career. Knowing which algorithm to use and understanding Big O will boost your MLOps approach when deploying a model and save enormous time as well as give you surprising career benefits. Even though I know it might be difficult to grasp the concept of algorithms, hence I recommend reading the visual book on the algorithms as item **1** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books or more technical one as item **2** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books to understand them better. More details on them under **Day 8**.
+- Regarding the Big O notation for data structures. The cheatsheets could be accesed as item **92** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools and **93** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools and looked upon below.
 
 <p align="center">
   <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/big_o_cheats.jpg">
@@ -734,13 +727,13 @@ The article could be found as pdf [here](https://arxiv.org/pdf/2303.10130.pdf) o
 
 # Generative AI & GPT 4 Bot | Day 81
 
-- Read an overview of recent generative AI techniques and applications. Simply put Generative AI can be thought as Artificial Intelligence Generated Content (AIGC) that which involves the creation of digital content, such as images, music, and natural language, through AI models. The goal of AIGC is to make the content creation process more efficient and accessible, allowing for the production of high-quality content at a faster pace. Details can be found as item **95** [here](#worthy-tools) or accessed directly through [here](https://arxiv.org/abs/2303.04226).
+- Read an overview of recent generative AI techniques and applications. Simply put Generative AI can be thought as Artificial Intelligence Generated Content (AIGC) that which involves the creation of digital content, such as images, music, and natural language, through AI models. The goal of AIGC is to make the content creation process more efficient and accessible, allowing for the production of high-quality content at a faster pace. Details can be found as item **95** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here](https://arxiv.org/abs/2303.04226).
 - Found a fantastic tutorial to make a Twitter GPT Bot as details are [here](https://dev.to/mindsdb/build-a-celebrity-twitter-chatbot-with-gpt-4-3l34).
 
 # Copilot X & AI Book | Day 82
 
 - Started using a renewed GitHub Copilot that adopts GPT-4 as part of collaboration between Microsoft and OpenAI. As they say they are not only adopting OpenAI’s new GPT-4 model, but are introducing chat and voice for Copilot, and bringing Copilot to pull requests, the command line, and docs to answer questions on your projects. What that means is that they included Copilot Pull Requests and a chat interface ran on GPT-4 integrated with VS Code and Visual Studio. More details [here](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/).
-- Came across an amazing free book titled "How to Build Your Career in AI" by Andrew Ng on his insights about learning foundational skills, working on projects, finding jobs, and community in machine learning as can be accessed as item **14** [here](#worthy-books) or directly [here](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book?ref=the-batch-deeplearning-ai).
+- Came across an amazing free book titled "How to Build Your Career in AI" by Andrew Ng on his insights about learning foundational skills, working on projects, finding jobs, and community in machine learning as can be accessed as item **14** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books or directly [here](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book?ref=the-batch-deeplearning-ai).
 
 # ChatGPT Awesomness, RNN, MLOps & DL | Day 83
 
@@ -854,7 +847,7 @@ Found a great [ebook](http://bit.ly/3ZjUR7q) on the latest trends and techniques
 
 # ChatDoctor | Day 90
 
-- Experimented with [ChatDoctor](https://arxiv.org/abs/2303.14070) (publication also available as item **96** [here](#worthy-books)) that shows great potential to understand patients' needs, provide informed advice, and offer valuable assistance in a variety of medical-related fields by looking over 700 diseases. The integration with LLaMA into healthcare can revolutionize the way healthcare professionals and patients communicate, ultimately improving the overall efficiency and quality of patient care and outcomes. Want to try it - go to item **12** [here](#worthy-repositories) and play with it.
+- Experimented with [ChatDoctor](https://arxiv.org/abs/2303.14070) (publication also available as item **96** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Books) that shows great potential to understand patients' needs, provide informed advice, and offer valuable assistance in a variety of medical-related fields by looking over 700 diseases. The integration with LLaMA into healthcare can revolutionize the way healthcare professionals and patients communicate, ultimately improving the overall efficiency and quality of patient care and outcomes. Want to try it - go to item **12** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories and play with it.
 
 <p align="center">
   <img height="200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_90_ChatDoctor.png">
@@ -899,9 +892,9 @@ Made a list on how to learn about Data Science from these Github respositories:
 
 # AUTO-GPT, Vicuna-13B & AI Model for Cancer | Day 94
 
-- Joined open-source development of Auto-GPT that is an experimental open-source application showcasing the capabilities of the GPT-4 language model. It autonomously develops and manages businesses to increase net worth. To try it and join yourself look at it as item **13** [here](#worthy-repositories) or access directly [here](https://github.com/Torantulino/Auto-GPT).
+- Joined open-source development of Auto-GPT that is an experimental open-source application showcasing the capabilities of the GPT-4 language model. It autonomously develops and manages businesses to increase net worth. To try it and join yourself look at it as item **13** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories or access directly [here](https://github.com/Torantulino/Auto-GPT).
 
-- New chatbot just arrived as Vicuna-13B that is an open-source chatbot trained by fine-tuning LLaMA on ~70K user-shared ChatGPT conversations. It claims to achieve "more than 90% quality of OpenAI ChatGPT and Google Bard while outperforming other models like LLaMA and Stanford Alpaca in more than 90% of cases". Seems possible to run it on your own machine with a single GPU. Details as item **14** [here](#worthy-repositories) or accessed directly the repo [here](https://github.com/lm-sys/FastChat) and blog [here](https://vicuna.lmsys.org)
+- New chatbot just arrived as Vicuna-13B that is an open-source chatbot trained by fine-tuning LLaMA on ~70K user-shared ChatGPT conversations. It claims to achieve "more than 90% quality of OpenAI ChatGPT and Google Bard while outperforming other models like LLaMA and Stanford Alpaca in more than 90% of cases". Seems possible to run it on your own machine with a single GPU. Details as item **14** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories or accessed directly the repo [here](https://github.com/lm-sys/FastChat) and blog [here](https://vicuna.lmsys.org)
 
 - Researchers from University of British Columbia developed an AI model that predicts cancer patient survival with accuraccy of above 85%. Details in the publication is [here](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801709).
 
@@ -968,7 +961,7 @@ I second him that this is a great read for AI developers and researchers.
 
 # Prompt Engineering | Day 97
 
-Found an awesome prompt engineering guide as accessed as item **15** [here](#worthy-repositories) or straight [here](https://github.com/dair-ai/Prompt-Engineering-Guide) that contains all the latest papers, learning guides, lectures, references, and tools related to prompt engineering. Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs). Developers use prompt engineering to design robust and effective prompting techniques that interface with LLMs and other tools.
+Found an awesome prompt engineering guide as accessed as item **15** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories or straight [here](https://github.com/dair-ai/Prompt-Engineering-Guide) that contains all the latest papers, learning guides, lectures, references, and tools related to prompt engineering. Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs). Developers use prompt engineering to design robust and effective prompting techniques that interface with LLMs and other tools.
 
 <p align="center">
   <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Day_97_prompt.png">
@@ -976,15 +969,15 @@ Found an awesome prompt engineering guide as accessed as item **15** [here](#wor
 
 # Machine Learning Projects & Data Science | Day 98
 
-- Found a great GitHub repo of curated Machine learning list that contains 910 awesome open-source projects with a total of 3.7M stars grouped into 34 categories. Can be found as item **16** [here](#worthy-repositories) or accessed directly [here](https://github.com/ml-tooling/best-of-ml-python).
+- Found a great GitHub repo of curated Machine learning list that contains 910 awesome open-source projects with a total of 3.7M stars grouped into 34 categories. Can be found as item **16** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories or accessed directly [here](https://github.com/ml-tooling/best-of-ml-python).
 
-- Other fantastic GitHub repos that give tips on how to begin the path of Data Science career and how to land your dream job as a Data Scientist can be found as item **17** and **18** [here](#worthy-repositories) and [here](#worthy-repositories) or accessed dirctly though [here](https://github.com/microsoft/Data-Science-For-Beginners) and [here](https://github.com/rbhatia46/Data-Science-Interview-Resources).
+- Other fantastic GitHub repos that give tips on how to begin the path of Data Science career and how to land your dream job as a Data Scientist can be found as item **17** and **18** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories and [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories or accessed dirctly though [here](https://github.com/microsoft/Data-Science-For-Beginners) and [here](https://github.com/rbhatia46/Data-Science-Interview-Resources).
 
 # Awesome Data Science & ALL Cheatsheets | Day 99
 
-- Took today easier due to Easter holiday and found an open source Data Science repository to learn and apply data science skills towards solving real world problems as can be inspected as item **19** [here](#worthy-repositories) or accessed directly through [here](https://github.com/academic/awesome-datascience).
+- Took today easier due to Easter holiday and found an open source Data Science repository to learn and apply data science skills towards solving real world problems as can be inspected as item **19** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Repositories or accessed directly through [here](https://github.com/academic/awesome-datascience).
 
-- Found ALL cheasheets ranging from Artificial Intelligence to Data Engineering to Machine Learning to Linux to Mathematics to R to Matlab and many more fields. The cheatcode can be found as item **97** [here](#worthy-tools) or accessed directly through [here](https://github.com/yash42828/Data-Science--All-Cheat-Sheet).
+- Found ALL cheasheets ranging from Artificial Intelligence to Data Engineering to Machine Learning to Linux to Mathematics to R to Matlab and many more fields. The cheatcode can be found as item **97** [here](https://github.com/aurimas13/Machine-Learning-Goodness) under Worthy Tools or accessed directly through [here](https://github.com/yash42828/Data-Science--All-Cheat-Sheet).
 
 # ChatGPT as a Programming Assistant | Day 100
 
