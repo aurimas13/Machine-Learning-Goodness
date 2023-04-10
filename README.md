@@ -21,7 +21,8 @@
 
 With the start of *100DaysOfMLCode** challenge this Machine Learning Goodness repository is updated daily with either
 the completed Jupyter notebooks, Python codes, ML projects, useful ML/DL/NN libraries, cheat codes of ML/DL/NN/AI, useful information such as websites, beneficial learning materials, tips and whatnot not to mention some basic and advanced Python coding.
-Currently, new useful material in the world of AI, ML or DS when found is added to [books](#worthy-books), [tools](#worthy-tools) or [repositories](#worthy-repositories).
+
+*** As the challenge is over new beneficial material in the world of Machine Learning when found is added to [books](#worthy-books), [tools](#worthy-tools) or [repositories](#worthy-repositories) and tweeted through my Twitter account and on Linkedin as well as sometimes on Facebook.***
 
 # Table of Contents
 
