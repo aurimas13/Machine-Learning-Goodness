@@ -19,9 +19,9 @@
 <b> Overview </b>
 </p>
 <p align=left>
-With the start of #100DaysOfMLCode challenge this Machine Learning Goodness repository is updated daily with either
-the completed Jupyter notebooks, Python codes, ML projects, useful ML/DL/NN libraries, cheat codes of ML/DL/NN/AI, useful information
-such as websites, beneficial learning materials, tips and whatnot not to mention some basic and advanced Python coding.
+With the start of *100DaysOfMLCode** challenge this Machine Learning Goodness repository is updated daily with either
+the completed Jupyter notebooks, Python codes, ML projects, useful ML/DL/NN libraries, cheat codes of ML/DL/NN/AI, useful information such as websites, beneficial learning materials, tips and whatnot not to mention some basic and advanced Python coding.
+Currently, new useful material in the world of AI, ML or DS when found is added to [books](#worthy-books), [tools](#worthy-tools) or [repositories(#worthy-repositories)
 </p>
 
 # Table of Contents
@@ -215,7 +215,7 @@ Additional notes that we covered through lectures or additional material that I 
 
 [(Back to top)](#table-of-contents)
 
-Materials from the challenge of #100DaysOfMLCode for each day can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/100DaysOfMLCode) under README section there.
+Materials from the challenge of **#100DaysOfMLCode** for each day can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/100DaysOfMLCode) under README section there.
 
 # Public
 
