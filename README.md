@@ -1207,7 +1207,7 @@ Found an awesome prompt engineering guide as accessed as item **15** [here](#wor
 
 # ChatGPT as a Programming Assistant | Day 100
 
-- Came across a wonderful article on how to make ChatGTP be you Python programming assistant by creating a simple data processing script, refactoring your well thought code, extend your code and converting your code to simple web application. All details [here](https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html).
+- Came across a wonderful article on how to make ChatGTP be your Python programming assistant by creating a simple data processing script, refactoring your well thought code, extend your code and converting your code to a simple web application. All details [here](https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html).
 
 - Found a core code concept to build ChatGPT-like bots in less tant 20 lines of JavaScript. Details [here](https://pub.towardsai.net/core-code-to-build-chatgpt-like-bots-in-20-lines-of-javascript-c2a506e5cc9a).
 
