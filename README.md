@@ -1205,7 +1205,7 @@ Found an awesome prompt engineering guide as accessed as item **15** [here](#wor
 
 - Found ALL cheasheets ranging from Artificial Intelligence to Data Engineering to Machine Learning to Linux to Mathematics to R to Matlab and many more fields. The cheatcode can be found as item **97** [here](#worthy-tools) or accessed directly through [here](https://github.com/yash42828/Data-Science--All-Cheat-Sheet).
 
-# ChatGPT as a Programming Assistant & Core Code | Day 100
+# ChatGPT as a Programming Assistant | Day 100
 
 - Came across a wonderful article on how to make ChatGTP be you Python programming assistant by creating a simple data processing script, refactoring your well thought code, extend your code and converting your code to simple web application. Alld etails [here](https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html).
 
