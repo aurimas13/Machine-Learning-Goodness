@@ -169,6 +169,7 @@ to be shared on the repository.
 |96| ChatDoctor | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge | [ChatDoctor](https://arxiv.org/abs/2303.14070)
 |97| ALL CHEAT SHEET | Cheatsheets from Artificial Intelligence to Data Engineering to Machine Learning to Linux to Mathematics to R to Matlab and many more fields | [ALL CHEAT SHEET](https://github.com/yash42828/Data-Science--All-Cheat-Sheet)
 | 98 | GMAI | Paper on a Generalist Medical AI (GMAI) to drive the development of large-scale medical AI models, increase accuracy on medical tasks, make complex medical information easier to access and assist surgical teams | [GMAI](https://www.nature.com/articles/s41586-023-05881-4)
+| 99 | 9 essential ChatGPT prompts | 9 essential ChatGPT prompts with examples | [9 essential ChatGPT prompt](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/9_essential_chatgpt_prompts.jpeg)
 
 # Worthy Repositories
 
