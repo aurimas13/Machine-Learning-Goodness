@@ -168,7 +168,7 @@ to be shared on the repository.
 |95| A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT | A historical overview of generative AI techniques and applications | [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT](https://arxiv.org/abs/2303.04226)
 |96| ChatDoctor | A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge | [ChatDoctor](https://arxiv.org/abs/2303.14070)
 |97| ALL CHEAT SHEET | Cheatsheets from Artificial Intelligence to Data Engineering to Machine Learning to Linux to Mathematics to R to Matlab and many more fields | [ALL CHEAT SHEET](https://github.com/yash42828/Data-Science--All-Cheat-Sheet)
-
+| 98 | GMAI | Paper on a Generalist Medical AI (GMAI) to drive the development of large-scale medical AI models, increase accuracy on medical tasks, make complex medical information easier to access and assist surgical teams | [GMAI](https://www.nature.com/articles/s41586-023-05881-4)
 
 # Worthy Repositories
 
