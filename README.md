@@ -171,6 +171,8 @@ to be shared on the repository.
 | 98 | GMAI | Paper on a Generalist Medical AI (GMAI) to drive the development of large-scale medical AI models, increase accuracy on medical tasks, make complex medical information easier to access and assist surgical teams | [GMAI](https://www.nature.com/articles/s41586-023-05881-4)
 | 99 | 9 essential ChatGPT prompts | 9 essential ChatGPT prompts with examples | [9 essential ChatGPT prompt](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/9_essential_chatgpt_prompts.jpeg)
 | 100 | IPython ChatGPT extension | Extension that allows you to use ChatGPT directly from your Jupyter Notebook or IPython Shell | [IPython ChatGPT extension](https://github.com/santiagobasulto/ipython-gpt)
+| 101 | OpenAssistant | Open-source alternative to ChatGPT | [OpenAssitant](open-assistant.io/chat)
+
 
 # Worthy Repositories
 
