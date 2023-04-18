@@ -172,7 +172,7 @@ to be shared on the repository.
 | 99 | 9 essential ChatGPT prompts | 9 essential ChatGPT prompts with examples | [9 essential ChatGPT prompt](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/9_essential_chatgpt_prompts.jpeg)
 | 100 | IPython ChatGPT extension | Extension that allows you to use ChatGPT directly from your Jupyter Notebook or IPython Shell | [IPython ChatGPT extension](https://github.com/santiagobasulto/ipython-gpt)
 | 101 | OpenAssistant | Open-source alternative to ChatGPT | [OpenAssistant](https://open-assistant.io/chat/)
-
+| 102 | DINOv2 | Unsupervised Vision Transformer Model can be used as a backbone for almost all your CV tasks| [DINOv2](https://github.com/facebookresearch/dinov2 )
 
 # Worthy Repositories
 
