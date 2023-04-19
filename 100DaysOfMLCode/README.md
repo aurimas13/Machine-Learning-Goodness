@@ -791,7 +791,7 @@ Siraj Raval is a well-known figure in the field of Machine Learning. His youtube
 
 9. **Daniel Bourke**
 
-Subscribers:  147K, Videos: 299, Views: 7 M, Link: Daniel [Bourke](https://www.youtube.com/@mrdbourke)
+Subscribers:  147K, Videos: 299, Views: 7 M, Link: [Daniel Bourke](https://www.youtube.com/@mrdbourke)
 
 Daniel Bourke is the instructor of one of the bestseller courses on Udemy, PyTorch for Deep Learning in 2023: Zero to Mastery. He is a self-taught machine learning engineer who has worked with a wide range of industries. Daniel takes you step-by-step from an absolute beginner to becoming a master in the field of Machine Learning.
 
