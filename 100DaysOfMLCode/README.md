@@ -809,7 +809,7 @@ This channel by Grant Sanderson is known for explaining complex mathematical and
 
 12. **Jeff Heaton**
 
-Subscribers: 75.3 K, Videos: 554, Views: 5.9 M, Link: Jeff [Heaton](https://www.youtube.com/@HeatonResearch)
+Subscribers: 75.3 K, Videos: 554, Views: 5.9 M, Link: [Jeff Heaton](https://www.youtube.com/@HeatonResearch)
 
 Jeff Heaton is the creator of one of several popular books that can be found here. He uses real-world examples to explain complex concepts. He teaches concepts related to machine learning, deep learning, AI, etc. It is a great primer for beginners before diving deeper.
 
