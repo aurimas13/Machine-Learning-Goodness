@@ -173,6 +173,7 @@ to be shared on the repository.
 | 100 | IPython ChatGPT extension | Extension that allows you to use ChatGPT directly from your Jupyter Notebook or IPython Shell | [IPython ChatGPT extension](https://github.com/santiagobasulto/ipython-gpt)
 | 101 | OpenAssistant | Open-source alternative to ChatGPT | [OpenAssistant](https://open-assistant.io/chat/)
 | 102 | DINOv2 | Unsupervised Vision Transformer Model can be used as a backbone for almost all your CV tasks| [DINOv2](https://github.com/facebookresearch/dinov2 )
+| 103 | Datamol | Open-source toolkit that simplifies molecular processing and featurization workflows for ML scientists in drug discovery | [Datamol](https://datamol.io/)
 
 # Worthy Repositories
 
@@ -201,6 +202,7 @@ Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details 
 |17| Data Science for Beginners - A Curriculum | Azure Cloud Advocates at Microsoft are pleased to offer a 10-week, 20-lesson curriculum all about Data Science | [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
 | 18 | Data-Science-Interview-Resources | Data Science Interview Resources | [Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources)
 | 19 | AWESOME DATA SCIENCE | Open source Data Science repository to learn and apply data science skills towards solving real world problems | [AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)
+| 20 | Datamol | Open-source toolkit that simplifies molecular processing and featurization workflows for ML scientists in drug discovery | [Datamol](https://github.com/datamol-io/datamol)
 
 # Notebooks
 
