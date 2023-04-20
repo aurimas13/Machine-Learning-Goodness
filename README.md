@@ -1,7 +1,7 @@
 <p align=center>
   <img height="444px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/ml.png"/>
 </p>
-<p align="center" > <b>Machine Learning Goodness </b> with various <b> notebooks </b>, ML/DL projects update and <b> AGI/AI </b> tips/cheats. </p>
+<p align="center" > <b> Machine Learning Goodness </b> with various <b> repositries or notebooks </b>, ML/DL projects update and <b> AGI/AI </b> tips/cheats. </p>
 <br>
 <p align=center>
 <!-- <a href="https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notebooks"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a> -->
@@ -19,8 +19,8 @@
 <b> Overview & Next Move</b>
 </p>
 
-With the start of *100DaysOfMLCode** challenge this Machine Learning Goodness repository is updated daily with either
-the completed Jupyter notebooks, Python codes, ML projects, useful ML/DL/NN libraries, cheat codes of ML/DL/NN/AI, useful information such as websites, beneficial learning materials, tips and whatnot not to mention some basic and advanced Python coding.
+With the start of **100DaysOfMLCode** challenge this Machine Learning Goodness repository is updated daily with either
+the completed Jupyter notebooks, Python codes, ML projects, useful ML/DL/NN libraries, repositories, cheat codes of ML/DL/NN/AI, useful information such as websites, beneficial learning materials, tips and whatnot not to mention some basic and advanced Python coding.
 
 As the challenge is over the repo still grows. New beneficial material or materials in the world of Machine Learning when found is/are added to [books](#worthy-books), [tools](#worthy-tools) or [repositories](#worthy-repositories) and tweeted through my Twitter account and on Linkedin as well as sometimes on Facebook.
 
