@@ -1,7 +1,7 @@
 <p align=center>
   <img height="444px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/ml.png"/>
 </p>
-<p align="center" > <b> Machine Learning Goodness </b> with various <b> repositries or notebooks </b>, ML/DL projects update and <b> AGI/AI </b> tips/cheats. </p>
+<p align="center" > <b> Machine Learning Goodness </b> with various <b> repositories or notebooks </b>, ML/DL projects and <b> AGI/AI </b> tips/cheats. </p>
 <br>
 <p align=center>
 <!-- <a href="https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notebooks"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a> -->
