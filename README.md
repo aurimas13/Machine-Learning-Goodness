@@ -174,6 +174,7 @@ to be shared on the repository.
 | 101 | OpenAssistant | Open-source alternative to ChatGPT | [OpenAssistant](https://open-assistant.io/chat/)
 | 102 | DINOv2 | Unsupervised Vision Transformer Model can be used as a backbone for almost all your CV tasks| [DINOv2](https://github.com/facebookresearch/dinov2 )
 | 103 | Datamol | Open-source toolkit that simplifies molecular processing and featurization workflows for ML scientists in drug discovery | [Datamol](https://datamol.io/)
+| 104 | ChatGPT vs GPT4 comparison | Image  comparing ChatGPT with GPT | [ChatGPT vs GPT4 comparison](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/chatgpt_gpt4.png)
 
 # Worthy Repositories
 
