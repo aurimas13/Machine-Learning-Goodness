@@ -175,6 +175,7 @@ to be shared on the repository.
 | 102 | DINOv2 | Unsupervised Vision Transformer Model can be used as a backbone for almost all your CV tasks| [DINOv2](https://github.com/facebookresearch/dinov2 )
 | 103 | Datamol | Open-source toolkit that simplifies molecular processing and featurization workflows for ML scientists in drug discovery | [Datamol](https://datamol.io/)
 | 104 | ChatGPT vs GPT4 comparison | Image  comparing ChatGPT with GPT | [ChatGPT vs GPT4 comparison](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/chatgpt_gpt4.png)
+| 105 | Self-Supervised Learning Cookbook | Research and all the notes on the dark matter of intelligence | [Self-Supervised Learning Cookbook ](https://arxiv.org/abs/2304.12210)
 
 # Worthy Repositories
 
