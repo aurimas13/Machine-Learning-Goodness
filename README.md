@@ -176,6 +176,9 @@ to be shared on the repository.
 | 103 | Datamol | Open-source toolkit that simplifies molecular processing and featurization workflows for ML scientists in drug discovery | [Datamol](https://datamol.io/)
 | 104 | ChatGPT vs GPT4 comparison | Image  comparing ChatGPT with GPT | [ChatGPT vs GPT4 comparison](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/chatgpt_gpt4.png)
 | 105 | Self-Supervised Learning Cookbook | Research and all the notes on the dark matter of intelligence | [Self-Supervised Learning Cookbook ](https://arxiv.org/abs/2304.12210)
+| 106 | GitHub Copilot Guide | GitHub Copilot Guide as slides | [GitHub Copilot Guide](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/Copilot_Guide.pdf)
+| 107 | Comparison of GitHub Copilot with ChatGPT | Comparison of two programming helpers as slides | [Comparison of GitHub Copilot with ChatGPT ](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/Copilot_vs_ChatGPT.pdf)
+
 
 # Worthy Repositories
 
