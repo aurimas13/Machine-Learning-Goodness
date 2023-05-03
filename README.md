@@ -178,7 +178,7 @@ to be shared on the repository.
 | 105 | Self-Supervised Learning Cookbook | Research and all the notes on the dark matter of intelligence | [Self-Supervised Learning Cookbook ](https://arxiv.org/abs/2304.12210)
 | 106 | Prompt Engineering Cheat Sheet | Helping to write great prompts to Chat Bots like GPT| [Prompt Engineering Cheat Sheet](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/prompt_cheats.jpeg)
 | 107 | GitHub Copilot Guide | GitHub Copilot Guide as slides | [GitHub Copilot Guide](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/Copilot_Guide.pdf)
-<!-- | 108 | Comparison of GitHub Copilot with ChatGPT | Comparison of two programming helpers as slides | [Comparison of GitHub Copilot with ChatGPT ](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/Copilot_vs_ChatGPT.pdf) -->
+| 108 | Comparison of GitHub Copilot with ChatGPT | Comparison of two programming helpers as slides | [Comparison of GitHub Copilot with ChatGPT ](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/Copilot_vs_ChatGPT.pdf)
 
 
 # Worthy Repositories
