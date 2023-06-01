@@ -178,8 +178,8 @@ to be shared on the repository.
 | 105 | Self-Supervised Learning Cookbook | Research and all the notes on the dark matter of intelligence | [Self-Supervised Learning Cookbook ](https://arxiv.org/abs/2304.12210)
 | 106 | Prompt Engineering Cheat Sheet | Helping to write great prompts to Chat Bots like GPT| [Prompt Engineering Cheat Sheet](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/prompt_cheats.jpeg)
 | 107 | GitHub Copilot Guide | GitHub Copilot Guide as slides | [GitHub Copilot Guide](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/Copilot_Guide.pdf)
-| 108 | Comparison of GitHub Copilot with ChatGPT | Comparison of two programming helpers as slides | [Comparison of GitHub Copilot with ChatGPT ](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/Copilot_vs_ChatGPT.pdf)
-
+| 108 | Comparison of GitHub Copilot with ChatGPT | Comparison of a chatbot with a programming helper as slides | [Comparison of GitHub Copilot with ChatGPT ](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/Copilot_vs_ChatGPT.pdf)
+| 109 | Comparison of GitHub Copilot with Codeium | Comaprison of coding helpers; one payable, other open source | [Comparison of GitHub Copilot with Codeium](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/Copilot_vs_Codeium.jpg)
 
 # Worthy Repositories
 
@@ -220,8 +220,7 @@ Done notebooks of various datasets can be found [here](https://github.com/aurima
 
 [(Back to top)](#table-of-contents)
 
-Additional notes that we covered through lectures or additional material that I said about can be found
-[here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notes).
+Additional notes that we covered through lectures or material that I mentioned and spoke about can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notes).
 
 # 100DaysOfMLCode
 
