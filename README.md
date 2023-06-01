@@ -179,7 +179,8 @@ to be shared on the repository.
 | 106 | Prompt Engineering Cheat Sheet | Helping to write great prompts to Chat Bots like GPT| [Prompt Engineering Cheat Sheet](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/prompt_cheats.jpeg)
 | 107 | GitHub Copilot Guide | GitHub Copilot Guide as slides | [GitHub Copilot Guide](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/Copilot_Guide.pdf)
 | 108 | Comparison of GitHub Copilot with ChatGPT | Comparison of a chatbot with a programming helper as slides | [Comparison of GitHub Copilot with ChatGPT ](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/Copilot_vs_ChatGPT.pdf)
-| 109 | Comparison of GitHub Copilot with Codeium | Comaprison of coding helpers; one payable, other open source | [Comparison of GitHub Copilot with Codeium](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/Copilot_vs_Codeium.jpg)
+| 109 | Comparison of GitHub Copilot with Codeium | Comparison of coding helpers; one payable, other open source | [Comparison of GitHub Copilot with Codeium](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/Copilot_vs_Codeium.jpg)
+| 110| Getting started with AutoGPT | Getting started with AutoGPT - Insallation - Use Cases - Possibl Misuse | [https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/AutoGPT_Guide.pdf]
 
 # Worthy Repositories
 
