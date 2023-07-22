@@ -231,14 +231,14 @@ Additional notes that we covered through lectures or material that I mentioned a
 
 [(Back to top)](#table-of-contents)
 
-Materials from the challenge of **#100DaysOfMLCode** for each day can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/100DaysOfMLCode) under README section there.
+Materials from the challenge of **#100DaysOfMLCode** for each day can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/100DaysOfMLCode) under **README** section there.
 
 
 # FinishYearWithML
 
 [(Back to top)](#table-of-contents)
 
-Materials from the challenge of **#FinishYearWithML** for each day can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/FinishYearWithML) under README section there.
+Materials from the challenge of **#FinishYearWithML** for each day can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/FinishYearWithML) under **README** section there.
 
 # Public
 
