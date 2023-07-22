@@ -22,7 +22,7 @@
 With the start of **100DaysOfMLCode** challenge this Machine Learning Goodness repository is updated daily with either
 the completed Jupyter notebooks, Python codes, ML projects, useful ML/DL/NN libraries, repositories, cheat codes of ML/DL/NN/AI, useful information such as websites, beneficial learning materials, tips and whatnot not to mention some basic and advanced Python coding.
 
-As the challenge is over the repo still grows. New beneficial material or materials in the world of Machine Learning when found is/are added to [books](#worthy-books), [tools](#worthy-tools) or [repositories](#worthy-repositories) and tweeted through my Twitter account and on Linkedin as well as sometimes on Facebook.
+As the challenge is over the repo still grows. New beneficial material or materials in the world of Machine Learning when found is/are added to [books](#worthy-books), [tools](#worthy-tools) or [repositories](#worthy-repositories) as well as updated in **FinishYearWithML** challenge and tweeted through my Twitter account and on Linkedin as well as sometimes on Facebook, Instagram.
 
 # Table of Contents
 
@@ -33,6 +33,7 @@ As the challenge is over the repo still grows. New beneficial material or materi
 - [Notebooks](#notebooks)
 - [Notes](#notes)  
 - [100DaysOfMLCode](#100daysofmlcode)
+- [FinishYearWithML](#FinishYearWithML)
 - [Public](#public)
 - [Jupyter in Browser](#jupyter-in-browser)
 - [Logo](#logo)
@@ -182,6 +183,8 @@ to be shared on the repository.
 | 109 | Comparison of GitHub Copilot with Codeium | Comparison of coding helpers; one payable, other open source | [Comparison of GitHub Copilot with Codeium](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/Copilot_vs_Codeium.jpg)
 | 110| Getting started with AutoGPT | Getting started with AutoGPT - Insallation - Use Cases - Possibl Misuse | [https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/AutoGPT_Guide.pdf]
 | 111 | Useful AI Tools | Useful AI Tools from Copilot to AutoGPT to MidJourney to Grammarly to converational bots | [https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/Useful_AI_Tools.pdf]
+| 112 | ChatGPT Prompting Cheat Sheet | Cheatsheet of useful ChatGPT prompts | [ChatGPT Prompting Cheat Sheet](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/ChatGPT_prompting_cheats.png)
+| 113 | MACHINE LEARNING A First Course for Engineers and Scientists | Machine Learning beginner to advaned informaton from Cambridge | [MACHINE LEARNING A First Course for Engineers and Scientists](https://smlbook.org/book/sml-book-draft-latest.pdf).
 
 # Worthy Repositories
 
@@ -230,6 +233,13 @@ Additional notes that we covered through lectures or material that I mentioned a
 
 Materials from the challenge of **#100DaysOfMLCode** for each day can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/100DaysOfMLCode) under README section there.
 
+
+# FinishYearWithML
+
+[(Back to top)](#table-of-contents)
+
+Materials from the challenge of **#FinishYearWithML** for each day can be found [here](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/FinishYearWithML) under README section there.
+
 # Public
 
 [(Back to top)](#table-of-contents)
@@ -243,8 +253,7 @@ Public folder contains two files:
 
 [(Back to top)](#table-of-contents)
 
-First nice thing is that you could run Jupyter also through browser by doing so going [here](https://jupyterlite.github.io/demo/lab/index.html) and
-reading more about it in this [article](https://medium.com/geekculture/run-jupyter-notebooks-on-a-web-browser-using-jupyterlite-18e3bd25bd97).
+First nice thing is that you could run Jupyter also through browser by doing so going [here](https://jupyterlite.github.io/demo/lab/index.html) and reading more about it in this [article](https://medium.com/geekculture/run-jupyter-notebooks-on-a-web-browser-using-jupyterlite-18e3bd25bd97).
 
 If you find difficulty in running Jupyter Notebook through Browser then you could use Google Colab by clicking
 [here](https://colab.research.google.com/notebooks/intro.ipynb). Functionalities of both machines are similar.
