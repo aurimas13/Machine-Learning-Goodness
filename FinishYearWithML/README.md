@@ -7,4 +7,4 @@
   <img height="1200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/ChatGPT_prompting_cheats.png">
 </p>
 
-Both of these are added to the [Notes](#notes) section and also at the main README.md file under **Worthy Tools** section as 112th and 113th tools.
+Both of these are also added to the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main) under **Worthy Tools** section as 112th and 113th tools. In [Notes](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main/Notes) section you will only find the cheat sheet.
