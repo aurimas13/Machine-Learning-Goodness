@@ -16,7 +16,7 @@ Here are 10 worthy **Python** books ranging from Machine Learning Projets as fre
 2.  [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - **free**
 3.  [An Introduction to Statistics with Python](https://pyoflife.com/an-introduction-to-statistics-with-python-pdf/) - **free**
 4. [Python for Everybody](https://www.py4e.com/book) - **free**
-5. [Machine Learning with Python for Everyone](hhttps://www.amazon.com/Machine-Learning-Everyone-Addison-Wesley-Analytics/dp/0134845625?&linkCode=sl1&tag=kirkdborne-20&linkId=932715cf8497c405ba30600c0184ca2f&language=en_US&ref_=as_li_ss_tl) - **paid but worth it** 
+5. [Machine Learning with Python for Everyone](https://www.amazon.com/Machine-Learning-Everyone-Addison-Wesley-Analytics/dp/0134845625?&linkCode=sl1&tag=kirkdborne-20&linkId=932715cf8497c405ba30600c0184ca2f&language=en_US&ref_=as_li_ss_tl) - **paid but worth it** 
 6. [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/) - **paid**
 7. [Python Data Science Essentials](https://www.oreilly.com/library/view/python-data-science/9781785280429/) - **paid**
 8. [Graph Data Modeling with Python](https://www.amazon.com/Graph-Data-Modeling-Python-practical/dp/1804618039?&linkCode=sl1&tag=kirkdborne-20&linkId=f650d6f52b0b6d52e4875e502d3871e0&language=en_US&ref_=as_li_ss_tl) - **paid**
