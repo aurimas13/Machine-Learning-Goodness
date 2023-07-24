@@ -27,10 +27,8 @@ All of these are also added to the main repository's [README](https://github.com
 
 ## Machine Learning Q and AI | Day 3
 
-What books are you reading this week? I'm currently reading Machine Learning Q and AI by @rasbt
- and I'm thoroughly enjoying it! 
+- Started reading this awesome book that covers most asked interview questions in an ML Engineer interviews but it also has a lot of advanced topics that Sebastian covers. Link to get it is [here](https://leanpub.com/machine-learning-q-and-ai). 
 
 <p align="center">
-  <img height="1200px" src=" https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/ML_Q_and_AI.png">
+  <img height="1200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/ML_Q_and_AI.png">
 </p>
- https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/ML_Q_and_AI.png
