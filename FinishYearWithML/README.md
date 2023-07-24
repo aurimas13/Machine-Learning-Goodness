@@ -25,3 +25,12 @@ Here are 10 worthy **Python** books ranging from Machine Learning Projets as fre
 
 All of these are also added to the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/) with a bit of decription under **Worthy Tools** section as 114th to 123rd tools. 
 
+## Machine Learning Q and AI | Day 3
+
+What books are you reading this week? I'm currently reading Machine Learning Q and AI by @rasbt
+ and I'm thoroughly enjoying it! 
+
+<p align="center">
+  <img height="1200px" src=" https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/ML_Q_and_AI.png">
+</p>
+ https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/ML_Q_and_AI.png
