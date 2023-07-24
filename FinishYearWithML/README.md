@@ -23,12 +23,14 @@ Here are 10 worthy **Python** books ranging from Machine Learning Projets as fre
 9. [50 Days of Python — A Challenge a Day.](https://www.amazon.com/Days-Python-Challenge-Challenges-Beginners/dp/B09TPT5C3K?_encoding=UTF8&qid=1665155102&sr=1-1&linkCode=sl1&tag=kirkdborne-20&linkId=612a6a29c0b3edf8f3007dcb0c92da57&language=en_US&ref_=as_li_ss_tl) - **paid**
 10. [Tiny Python Projects](https://www.amazon.com/Tiny-Python-Projects-Ken-Youens-Clark/dp/1617297518?&_encoding=UTF8&tag=kirkdborne-20&linkCode=ur2&linkId=56f1a9cdf365cc1a64c25b596d02593f&camp=1789&creative=9325) - **paid**
 
-All of these are also added to the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/) with a bit of decription under **Worthy Tools** section as 114th to 123rd tools. 
+All of these are also added to the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/) with a bit of description under **Worthy Tools** section as 114th to 123rd tools. 
 
 ## Machine Learning Q and AI | Day 3
 
 - Read first section of this awesome book that covers commonly asked interview questions in an ML Engineer interviews but it also has a lot of advanced topics that Sebastian covers. Link to get it is [here](https://leanpub.com/machine-learning-q-and-ai). 
 
 <p align="center">
-  <img height="1200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/ML_Q_and_AI.png">
+  <img height="1600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/ML_Q_and_AI.png">
 </p>
+
+It is also added to the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/) with a bit of description under **Worthy Books** as 15th item.
