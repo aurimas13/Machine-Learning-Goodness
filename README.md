@@ -61,6 +61,7 @@ Worthy books to hone expertise of ML/DL/NN/AGI, Python Programming, CS fundament
 |12| The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts | The book to learn strategies for crafting compelling ChatGPT prompts that drive engaging and informative conversations | [The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts](https://fka.gumroad.com/l/art-of-chatgpt-prompting)
 |13| 10 ChatGPT prompts for Software Engineers | The book to learn how to prompt for software engineering tasks | [10 ChatGPT prompts for Software Engineers](https://sergiorocks.gumroad.com/l/chatgpt-prompts-for-software-engineers)
 |14| How to Build Your Career in AI | Andrew Ng's insights about learning foundational skills, working on projects, finding jobs, and community in machine | [How to Build Your Career in AI](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book?ref=the-batch-deeplearning-ai)
+| 15 | Machine Learning Q and AI | Th book on popular wuestions asked in interviews on ML and advanced information to those questions | [Machine Learning Q and AI ](https://leanpub.com/machine-learning-q-and-ai). 
 
 # Worthy Tools
 
