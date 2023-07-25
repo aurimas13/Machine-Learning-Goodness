@@ -34,3 +34,13 @@ All of these are also added to the main repository's [README](https://github.com
 </p>
 
 It is also added to the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/) with a bit of description under **Worthy Books** as 15th item.
+
+## Mind Blowing AI Tools | Day 4
+
+- Found a visual of mind blowing AI tools that are shown below.
+
+<p align="center">
+  <img height="1600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/blowing.jpeg">
+</p>
+
+It is also added to the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/) with a bit of description under **Worthy Tools** as 124th item.
