@@ -40,7 +40,32 @@ It is also added to the main repository's [README](https://github.com/aurimas13/
 - Found a visual of mind blowing AI tools that are shown below.
 
 <p align="center">
-  <img height="1600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/blowing.jpeg">
+  <img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/blowing.jpeg">
 </p>
 
 It is also added to the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/) with a bit of description under **Worthy Tools** as 124th item.
+
+
+## The Big Book of ML Use Cases | Day 5
+
+The 'Big Book of Machine Learning Use Cases' is a comprehensive collection of technical blogs, code samples, and notebooks that delve into various practical applications of machine learning. The book is designed to guide readers on their machine learning journey with Databricks Lakehouse.
+
+The book covers a wide range of topics, including:
+
+1. **Exploratory Data Analysis (EDA)**: The book provides insightful visualizations on datasets, such as the distribution of tweet lengths for each sentiment category using violin plots from Seaborn. It also includes word clouds for positive and negative tweets to show the most common words for the two sentiment types.
+
+2. **Topic Modeling**: An interactive topic modeling dashboard was built using Gensim to provide insights on the most common topics in the dataset and the most frequently used words in each topic.
+
+3. **Fraud Detection**: The book discusses the use of machine learning in detecting fraudulent transactions. It also explains the importance of domain experts being able to understand why a transaction was identified as fraudulent.
+
+4. **Sound Pattern Matching**: The book explores the use of dynamic time warping in determining the similarity of audio clips.
+
+5. **Real-Time Analytics in Sports**: The book discusses how technologies like Statcast and Databricks have brought real-time analytics to sports, changing the paradigm of what it means to be a data-driven team.
+
+The book is designed to help organizations across many industries use machine learning to power new customer experiences, optimize business processes, and improve employee productivity. From detecting financial fraud to improving the play-by-play decision-making for professional sports teams, this book serves as a practical guide to machine learning applications.
+
+You can download it from - https://bit.ly/3OuLfVv
+
+<p align="center">
+  <img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/ml_use_cases.png">
+</p>
