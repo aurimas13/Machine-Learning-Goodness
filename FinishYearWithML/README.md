@@ -74,10 +74,10 @@ You can download it from - https://bit.ly/3OuLfVv
 
 - Found a simple yet powerful concept powered by GPT - [privateGPT](https://github.com/imartinez/privateGPT) - where you can ask questions to your documents without an internet connection by just using the power of LLMs. 100% private, no data leaves your execution environment at any point. This is a miracle tool that saves your identity without leaking anything. Excited of this tool while trying it. Try [privateGPT](https://github.com/imartinez/privateGPT).
 
-## 7 High-Income Skills To Learn | Day 7
+## 7 High-Income Skills To Have | Day 7
 
-- Found 7 high-income skills to learn in 2023. They are:
+- Found 7 high-income skills to have in 2023 and theyhey are:
 
 <p align="center">
-  <img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/7_high.jpg">
+  <img height="1200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/7_high.jpg">
 </p>
