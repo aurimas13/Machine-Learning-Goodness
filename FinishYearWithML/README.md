@@ -79,5 +79,5 @@ You can download it from - https://bit.ly/3OuLfVv
 - Found 7 high-income skills to learn in 2023. They are:
 
 <p align="center">
-  <img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/7_highjpg">
+  <img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/7_high.jpg">
 </p>
