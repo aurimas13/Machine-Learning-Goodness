@@ -81,3 +81,11 @@ You can download it from - https://bit.ly/3OuLfVv
 <p align="center">
   <img height="1200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/7_high.jpg">
 </p>
+
+## RT2 Vision-Language Action Models | Day 8
+
+- Because PaLM-E or GPT-4 can speak in many languages and understand images - Google DeepMind created [RT-2](https://robotics-transformer2.github.io) that uses a VLM (up to 55B params) backbone and fine-tunes it to directly output robot actions that are executed in the real world.
+
+<p align="center">
+  <img height="1200px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/RT2.png">
+</p>
