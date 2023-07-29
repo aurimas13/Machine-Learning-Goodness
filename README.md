@@ -227,6 +227,8 @@ Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details 
 | 19 | AWESOME DATA SCIENCE | Open source Data Science repository to learn and apply data science skills towards solving real world problems | [AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)
 | 20 | Datamol | Open-source toolkit that simplifies molecular processing and featurization workflows for ML scientists in drug discovery | [Datamol](https://github.com/datamol-io/datamol)
 | 21 | privateGPT | A magical tool where you can ask questions to your documents without an internet connection by just using the power of LLMs | [privateGPT](https://github.com/imartinez/privateGPT)
+| 22 | RT-2 modle | A model  that uses up to 55B params backbone and fine-tunes it to directly output robot actions that are executed in the real world | [RT-2](https://robotics-transformer2.github.io)
+
 
 # Notebooks
 
