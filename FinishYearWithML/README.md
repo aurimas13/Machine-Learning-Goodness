@@ -90,8 +90,17 @@ It is also added to the main repository's [README](https://github.com/aurimas13/
 - Because PaLM-E or GPT-4 can speak in many languages and understand images - Google DeepMind created [RT-2](https://robotics-transformer2.github.io) that uses a VLM (up to 55B params) backbone and fine-tunes it to directly output robot actions that are executed in the real world.
 
 <p align="center">
-  <img height="2222x" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/RT2.png">
+  <img height="2222px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/RT2.png">
 </p>
 
 It is also added to the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/) with a bit of description under **Worthy Repositories** as 22nd item.
 
+## Comprehensive Guide to ML | Day 9
+
+- Found a comprehensive guide to ML that as accessed from Berekely University [here](https://www.datasciencecentral.com/free-book-a-comprehensive-guide-to-machine-learning-berkeley/) or below.
+
+<p align="center">
+  <img height="1600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/comprehensive.png">
+</p>
+
+It is also added to the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/) with a bit of description under **Worthy Books** as 16th item.
