@@ -95,7 +95,7 @@ It is also added to the main repository's [README](https://github.com/aurimas13/
 
 It is also added to the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/) with a bit of description under **Worthy Repositories** as 22nd item.
 
-## Comprehensive Guide to ML | Day 9
+## Comprehensive Guide to Machine Learning | Day 9
 
 - Found a comprehensive guide to ML that as accessed from Berekely University [here](https://www.datasciencecentral.com/free-book-a-comprehensive-guide-to-machine-learning-berkeley/) or below.
 
