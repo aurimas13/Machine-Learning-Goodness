@@ -104,3 +104,13 @@ It is also added to the main repository's [README](https://github.com/aurimas13/
 </p>
 
 It is also added to the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/) with a bit of description under **Worthy Books** as 16th item.
+
+## 150+ Python Projects with Source Code | Day 10
+
+- Found 179 Python Projects with Source Code accessed from [here](https://thecleverprogrammer.com/2021/01/14/python-projects-with-source-code/) or below that are solved and explained for free.
+
+<p align="center">
+  <img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/python.png">
+</p>
+
+It is also added to the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/) with a bit of description under **Worthy Tools** as 125th item.
