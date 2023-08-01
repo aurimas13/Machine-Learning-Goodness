@@ -110,8 +110,18 @@ It is also added to the main repository's [README](https://github.com/aurimas13/
 - Found 179 Python Projects with Source Code accessed from [here](https://thecleverprogrammer.com/2021/01/14/python-projects-with-source-code/) or below that are solved and explained for free.
 
 <p align="center">
-  <img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/python.png">
+  <img height="600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/python.png">
 </p>
 
 It is also added to the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/) with a bit of description under **Worthy Tools** as 125th item.
 
+
+## Math for Deep Learning | Day 11
+
+- Found a great book tht I bought of Mathematics for Machine Learning and Artificial Intelligence. It is a 479-page PDF eBook on The Mathematics & Statistics Foundations of for Data Science HERE 👉 http://amzn.to/3EBc8Q2 ⬇️
+
+<p align="center">
+  <img height="600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/math.png">
+</p>
+
+It is also added to the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/) with a bit of description under **Worthy Books** as 17th item.

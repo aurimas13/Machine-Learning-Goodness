@@ -63,6 +63,7 @@ Worthy books to hone expertise of ML/DL/NN/AGI, Python Programming, CS fundament
 |14| How to Build Your Career in AI | Andrew Ng's insights about learning foundational skills, working on projects, finding jobs, and community in machine | [How to Build Your Career in AI](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book?ref=the-batch-deeplearning-ai)
 | 15 | Machine Learning Q and AI | Th book on popular wuestions asked in interviews on ML and advanced information to those questions | [Machine Learning Q and AI ](https://leanpub.com/machine-learning-q-and-ai) 
 | 16 | A comprehensive guide to Machine Learning | A free book of comprehensive guide to ML | [A comprehensive guide to Machine Learning](https://www.datasciencecentral.com/free-book-a-comprehensive-guide-to-machine-learning-berkeley/)
+| 17 | Math for Deep Learning: What You Need to Know to Understand Neural Networks | A book of Mathematics for Machine Learning and Artificial Intelligence that goes into the Mathematics & Statistics Foundations of for Data Science | [Math for Deep Learning: What You Need to Know to Understand Neural Networks](http://amzn.to/3EBc8Q2)
 
 # Worthy Tools
 
@@ -198,6 +199,7 @@ to be shared on the repository.
 | 122 | 50 Days of Python — A Challenge a Day. | 50 Days of Python — A Challenge a Day. | [50 Days of Python — A Challenge a Day.](https://www.amazon.com/Days-Python-Challenge-Challenges-Beginners/dp/B09TPT5C3K?_encoding=UTF8&qid=1665155102&sr=1-1&linkCode=sl1&tag=kirkdborne-20&linkId=612a6a29c0b3edf8f3007dcb0c92da57&language=en_US&ref_=as_li_ss_tl)
 | 123 | Tiny Python Projects | Tiny Python Projects | [Tiny Python Projects](https://www.amazon.com/Tiny-Python-Projects-Ken-Youens-Clark/dp/1617297518?&_encoding=UTF8&tag=kirkdborne-20&linkCode=ur2&linkId=56f1a9cdf365cc1a64c25b596d02593f&camp=1789&creative=9325) 
 | 124 | Mind Blowing AI tools | AI tools from writing to video to design to productivity to marketing to Chatbot | [Mind Blowing AI tools](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/blowing.jpeg)
+| 125 | 150+ Python Projects with Source Code | 179 Python Projects with Source Code | [150+ Python Projects with Source Code ](https://thecleverprogrammer.com/2021/01/14/python-projects-with-source-code/)
 
 # Worthy Repositories
 
