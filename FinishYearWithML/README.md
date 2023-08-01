@@ -121,7 +121,7 @@ It is also added to the main repository's [README](https://github.com/aurimas13/
 - Found a great book tht I bought of Mathematics for Machine Learning and Artificial Intelligence. It is a 479-page PDF eBook on The Mathematics & Statistics Foundations of for Data Science HERE 👉 http://amzn.to/3EBc8Q2 ⬇️
 
 <p align="center">
-  <img height="600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/math.png">
+  <img height="1000px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/math.png">
 </p>
 
 It is also added to the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/) with a bit of description under **Worthy Books** as 17th item.
