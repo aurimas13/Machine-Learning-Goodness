@@ -162,4 +162,4 @@ It is also added to the main repository's [README](https://github.com/aurimas13/
     -   They enable a greater understanding of proteins and their functions.
     -   They offer potential for vast application in medical science, energy, and environmental sectors.
 
-Article - [Generative-AI: dreaming up proteins](https://www.dw.com/en/generative-ai-inventing-proteins-is-changing-medicine/a-66356415.
+Article - [Generative-AI: dreaming up proteins](https://www.dw.com/en/generative-ai-inventing-proteins-is-changing-medicine/a-66356415).
