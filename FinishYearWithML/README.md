@@ -128,36 +128,36 @@ It is also added to the main repository's [README](https://github.com/aurimas13/
 
 ## Generative AI: Dreaming up proteins | Day 12
 
--   DeepMind's AlphaFold Solution:
+-   **DeepMind's AlphaFold Solution**:
     -    Solved the "protein folding problem."
     -   Allows prediction of protein's structure from its amino acid sequence.
     -   A major breakthrough that had eluded science for nearly a century.
 
-- Importance of Protein Structure:
+- **Importance of Protein Structure**:
     -   Essential to understanding the function of proteins.
     -   Includes functions like oxygen carrying in red blood cells and enzymes' digestion of starches.
 
-- Impact of AlphaFold:
+- **Impact of AlphaFold**:
     -    Accelerated research across all biology fields.
     -   Used in the development of malaria vaccines, cancer drugs, plastic-digesting enzymes, and solar energy conversion.
     -   AlphaFold Protein Structure Database used by over 1.2 million researchers.
 
-- Creation of New Proteins with AI:
+- **Creation of New Proteins with AI**:
     -   AlphaFold led to the development of other tools for custom protein creation.
     -   Genie, a generative AI model, uses digital art techniques to create entirely new proteins.
     -   Allows the creation of proteins never before seen in nature.
 
-- Applications of Generative AI Tools:
+- **Applications of Generative AI Tools**:
     -   Link protein structure with function, enhancing scientific understanding.
     -   Examples include insights into Alzheimer's disease and evolutionary biology.
     -   Potential immediate benefits in energy, environment, and agriculture sectors, e.g., enzymes to break down pollutants.
 
-- Limitations of AI Tools in Protein Modeling:
+- **Limitations of AI Tools in Protein Modeling**:
     -   Current tools only design static and rigid proteins.
     -   Real proteins are dynamic, and this aspect is beyond current AI capabilities.
     -   Ongoing work to solve this issue and to train AI with real-world data to understand functional impacts.
 
-- Overall Impact:
+- **Overall Impact**:
     -   AI tools like AlphaFold and Genie are transforming scientific research.
     -   They enable a greater understanding of proteins and their functions.
     -   They offer potential for vast application in medical science, energy, and environmental sectors.
