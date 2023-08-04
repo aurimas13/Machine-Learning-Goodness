@@ -163,3 +163,53 @@ It is also added to the main repository's [README](https://github.com/aurimas13/
     -   They offer potential for vast application in medical science, energy, and environmental sectors.
 
 Article - [Generative-AI: dreaming up proteins](https://www.dw.com/en/generative-ai-inventing-proteins-is-changing-medicine/a-66356415).
+
+## GPTCache | Day 13
+
+- You can cut your GPT API expenses by 50% through caching using LangChain and GPTCache.
+
+GPTCache uses embedding algorithms to convert queries into embeddings and uses a vector store for similarity search on these embeddings. 
+
+This process allows GPTCache to identify and retrieve similar or related queries from the cache storage.
+
+You will also benefit from significant response time increase and API rate limit restrictions.
+
+To install run `pip install gptcache` and to learn more visit [here](https://github.com/zilliztech/GPTCache) that is also available under Worthy Repositories as 23rd item there in the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main).
+
+## Cedana AI | Day 14
+
+🚀 Cedana brings real-time migration for compute! Here are its overview:
+
+**Problem**
+  - Long-running compute job failures lead to restarting from scratch.
+  - Poor utilization results in higher costs, especially with large GPU clusters.
+  -  Cold start times negatively impact customer satisfaction.
+  -  Limited GPU access hinders innovation.
+
+**Solution**
+  - Real-time migration for compute.
+  - Maximizes utilization to save costs.
+  - Dynamically allocates compute resources based on preferences.
+  -  Ensures jobs continue despite infra failure or revocation.
+  - Provides access to planet-scale compute through vendor aggregation.
+  - Enables fast auto-suspend-resume and automatic instance management.
+
+**How it works**
+  -  Open-source package or managed service.
+  -  Compatible with Linux processes or containers.
+  -  **Use cases include AI training, HPC, DevTools, ML Ops, Computational Biology**.
+  -  Seamless provisioning and management of infrastructure.
+
+**Team Background**
+  - Expertise in real-world robotics, large-scale computer vision, NLP, and more.
+  - Several patents in AI use cases including energy and healthcare.
+
+**Cedana CLI Tool**
+  - Offers various features like launching instances, reliability, performance gains.
+  - Provides ease of use, compatibility with different providers, and various functionalities.
+
+**Future Developments**
+  - Plans include adding more cloud providers, container checkpointing, GPU checkpointing, Kubernetes support, and more.
+
+
+GitHub repo - [Cedana AI](https://github.com/cedana/cedana-cli)
