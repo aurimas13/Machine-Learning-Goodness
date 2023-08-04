@@ -211,12 +211,12 @@ To install run `pip install gptcache` and to learn more visit [here](https://git
 **Future Developments**
   - Plans include adding more cloud providers, container checkpointing, GPU checkpointing, Kubernetes support, and more.
 
+<p align="center">
+  <img height="600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Cedana.png">
+</p>
 
 GitHub repo - [Cedana AI](https://github.com/cedana/cedana-cli)
 
-<p align="center">
-  <img height="1000px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/Cedana.png">
-</p>
 
 
 
