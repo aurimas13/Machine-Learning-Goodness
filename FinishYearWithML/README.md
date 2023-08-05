@@ -224,5 +224,5 @@ The Future is now 💥🖖
 See what Robotics with a flavour of AI or Machine Learning can do for you.
 
 <p align="center">
-  <img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/robot-on-a-bike.mp4">
+  <img src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/robot-on-a-bike.gif" alt="robot-on-a-bike" height="800px"/>
 </p>
