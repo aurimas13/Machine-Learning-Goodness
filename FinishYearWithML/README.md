@@ -216,3 +216,13 @@ To install run `pip install gptcache` and to learn more visit [here](https://git
 </p>
 
 GitHub repo - [Cedana AI](https://github.com/cedana/cedana-cli)
+
+## The Future is here | Day 15
+
+The Future is now 💥🖖 
+
+See what Robotics with a flavour of AI or Machine Learning can do for you.
+
+<p align="center">
+  <img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/robot-on-a-bike.mp4">
+</p>
