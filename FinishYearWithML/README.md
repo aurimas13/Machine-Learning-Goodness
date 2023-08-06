@@ -226,3 +226,27 @@ See what Robotics with a flavour of AI or Machine Learning can do for you.
 <p align="center">
   <img src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/robot-on-a-bike.gif" alt="robot-on-a-bike" height="800px"/>
 </p>
+
+## 130 Machine Learning Tricks and Resources and 10 free tips | Day 16
+
+Found an overview of Machine Learning Tricks and Resources - [here](https://towardsdatascience.com/130-ml-tricks-and-resources-curated-carefully-from-3-years-plus-free-ebook-7832ca4a37ef/) - and here are the 10 ticks summarised for it:
+
+  1. **Permutation Importance with ELI5**: This method helps determine the importance of features in a model by measuring the change in model performance when a feature is randomly shuffled. It is available through the ELI5 package, works with any model structure, and is easy to interpret and implement.
+
+  2. **ConfusionMatrix display for better confusion matrix**: Sklearn's ConfusionMatrixDisplay class provides more control over how to display your confusion matrix. It allows you to modify labels, colormap, and even plot the matrix without generating predictions beforehand.
+
+  3. **Text representation of a decision tree**: Sklearn enables you to print a text representation of a decision tree, allowing you to easily create prediction paths for any sample in your dataset.
+
+  4. **Default RMSE in Sklearn**: The Root Mean Squared Error (RMSE) is available as a parameter inside Sklearn's mean_squared_error function.
+
+  5. **Decision Tree Visualization with Sklearn**: Plotting decision trees in Sklearn: Sklearn allows you to visualize decision trees to understand how they work better.
+
+  6. **Rule of thumb for fit/transform/fit_transform**: This rule helps differentiate between fit/transform/fit_transform functions of Sklearn. For example, "fit" must be called on training data first as it learns statistical properties of features, and "transform" can be used on all sets as long as "fit" was called on training data.
+
+  7. **Difference between micro, macro, and weighted averages**: These terms refer to different methods of averaging precision scores in multi-class classification problems. Macro average is a simple arithmetic mean, the weighted average takes class imbalance into account, and micro average calculates accuracy by dividing correctly classified samples by the total number of samples.
+
+  8. **Saving and loading Parquet files**: Saving to Parquet is faster: Saving and loading Parquet files is quicker than with other formats. An example provided shows the speed difference in saving an 11GB dataframe to Parquet and CSV.
+
+  9. **Parallel execution with joblib**: Joblib enables you to utilize the cores in your CPU by writing parallel code for large loops, significantly speeding up processes such as sending HTTP requests.
+
+  10. **Getting a scorer object from just the name**: Instead of importing multiple metrics one by one from sklearn, you can use the "get_scorer" function of the metrics module to get a scorer object ready to use.
