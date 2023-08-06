@@ -227,7 +227,7 @@ See what Robotics with a flavour of AI or Machine Learning can do for you.
   <img src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/robot-on-a-bike.gif" alt="robot-on-a-bike" height="800px"/>
 </p>
 
-## 130 Machine Learning Tricks and Resources and 10 free tips | Day 16
+## 130 Machine Learning Tricks and Resources and 10 Free Tips | Day 16
 
 Found an overview of Machine Learning Tricks and Resources - [here](https://towardsdatascience.com/130-ml-tricks-and-resources-curated-carefully-from-3-years-plus-free-ebook-7832ca4a37ef/) - and here are the 10 ticks summarised:
 
