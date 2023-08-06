@@ -229,7 +229,7 @@ See what Robotics with a flavour of AI or Machine Learning can do for you.
 
 ## 130 Machine Learning Tricks and Resources and 10 free tips | Day 16
 
-Found an overview of Machine Learning Tricks and Resources - [here](https://towardsdatascience.com/130-ml-tricks-and-resources-curated-carefully-from-3-years-plus-free-ebook-7832ca4a37ef/) - and here are the 10 ticks summarised for it:
+Found an overview of Machine Learning Tricks and Resources - [here](https://towardsdatascience.com/130-ml-tricks-and-resources-curated-carefully-from-3-years-plus-free-ebook-7832ca4a37ef/) - and here are the 10 ticks summarised:
 
   1. **Permutation Importance with ELI5**: This method helps determine the importance of features in a model by measuring the change in model performance when a feature is randomly shuffled. It is available through the ELI5 package, works with any model structure, and is easy to interpret and implement.
 
