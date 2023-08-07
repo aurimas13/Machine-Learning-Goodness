@@ -250,3 +250,19 @@ Found an overview of Machine Learning Tricks and Resources - [here](https://towa
   9. **Parallel execution with joblib**: Joblib enables you to utilize the cores in your CPU by writing parallel code for large loops, significantly speeding up processes such as sending HTTP requests.
 
   10. **Getting a scorer object from just the name**: Instead of importing multiple metrics one by one from sklearn, you can use the "get_scorer" function of the metrics module to get a scorer object ready to use.
+
+## DemoGPT | Day 17
+
+The summarry of DemoGPT that can be found [here](https://github.com/melih-unsal/DemoGPT) is as follows:
+
+- DemoGPT is an automatic AI App generator powered by Llama 2 and offers capabilities to create interactive Streamlit applications with just a prompt.
+- The application facilitates auto-generation of LangChain code leveraging GPT-3.5-turbo & Llama 2.
+- The operational process involves planning based on user instructions, task creation, code snippet generation, and final code assembly.
+- The generated LangChain code evolves into a user-friendly Streamlit application, enhancing user engagement and experience.
+- Future enhancements include the integration of a publicly available database for quicker generation process and ensuring a streamlined workflow.
+- DemoGPT offers model flexibility, allowing the use of any Large Language Model (LLM) that fulfills specific performance criteria.
+- The app is dedicated to crafting intelligent, interactive, and inclusive solutions, going beyond traditional coding paradigms.
+- Installation can be done through pip or via source code from the repository.
+- The "To-Do" list includes implementing new DemoGPT pipeline, allowing users to select models, integrating Gorilla model for API calls, adding Rapid API, and others.
+- The application is open-source and invites contributions for bug fixing, documentation improvement, or new feature proposal.
+
