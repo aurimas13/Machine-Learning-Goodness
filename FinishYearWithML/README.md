@@ -281,5 +281,9 @@ The summarry of DemoGPT that can be found [here](https://github.com/melih-unsal/
   - Universal compatibility: Works with your favorite frameworks like Angular, React, Flutter, and more.
   - Seamless app previews across different platforms.
   - And the cherry on top? Easy deployments with Firebase Hosting!
-  
+
 [Check it out!](https://developers.googleblog.com/2023/08/introducing-project-idx-experiment-to-improve-full-stack-multiplatform-app-development.html)
+
+<p align="center">
+  <img height="600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/IDX.png">
+</p>
