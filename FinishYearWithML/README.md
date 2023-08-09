@@ -270,3 +270,16 @@ The summarry of DemoGPT that can be found [here](https://github.com/melih-unsal/
 
 - Found a curated list of AI-powered developer tools that leverage AI to assist developers in tasks such as code completion, refactoring, debugging, documentation, and more
 - The list includes tools such as GitHuB Copilot X, Codeium, TabNine, and others. More can be found straight [here](https://github.com/jamesmurdza/awesome-ai-devtools) and also found through the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main) under Worty Repositories as 24th item where more useful material is shared.
+
+## Project IDX | Day 19
+
+- Projext IDX by Google revolutionizes multiplatform app development with a browser-based experience on Google Cloud, enhanced by AI. It integrates seamlessly with popular frameworks and languages, previews apps across platforms, and leverages advanced AI support for smarter coding. Easily deployed via Firebase Hosting.
+
+- Several points why it is worth checking out:
+  - It’s a browser-based experience, which means you can work from ANYWHERE.
+  - AI-powered: Smart coding with the help of Codey & PaLM 2 models.
+  - Universal compatibility: Works with your favorite frameworks like Angular, React, Flutter, and more.
+  - Seamless app previews across different platforms.
+  - And the cherry on top? Easy deployments with Firebase Hosting!
+  
+[Check it out!](https://developers.googleblog.com/2023/08/introducing-project-idx-experiment-to-improve-full-stack-multiplatform-app-development.html)
