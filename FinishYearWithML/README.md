@@ -266,3 +266,7 @@ The summarry of DemoGPT that can be found [here](https://github.com/melih-unsal/
 - The "To-Do" list includes implementing new DemoGPT pipeline, allowing users to select models, integrating Gorilla model for API calls, adding Rapid API, and others.
 - The application is open-source and invites contributions for bug fixing, documentation improvement, or new feature proposal.
 
+## Awesome AI-Powered Developer Tools | Day 18
+
+- Found a curated list of AI-powered developer tools that leverage AI to assist developers in tasks such as code completion, refactoring, debugging, documentation, and more
+- The list includes tools such as GitHuB Copilot X, Codeium, TabNine, and others. More can be found straight [here](https://github.com/jamesmurdza/awesome-ai-devtools) and also found through the main repository's [README](https://github.com/aurimas13/Machine-Learning-Goodness/tree/main) under Worty Repositories as 24th item where more useful material is shared.

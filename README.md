@@ -232,6 +232,7 @@ Worthy GitHub repositories related to the ML/DL/NN/AGI courses with all details 
 | 21 | privateGPT | A magical tool where you can ask questions to your documents without an internet connection by just using the power of LLMs | [privateGPT](https://github.com/imartinez/privateGPT)
 | 22 | RT-2 modle | A model  that uses up to 55B params backbone and fine-tunes it to directly output robot actions that are executed in the real world | [RT-2](https://robotics-transformer2.github.io)
 | 23 | GPTCache | A tool that allows you to cache the results of GPT-3 API calls and reuse them later | [GPTCache](https://github.com/zilliztech/GPTCache)
+| 24 | Awesome AI-Powered Developer Tools | Tools that leverage AI to assist developers in tasks such as code completion, refactoring, debugging, documentation, and more | [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) 
 
 # Notebooks
 
