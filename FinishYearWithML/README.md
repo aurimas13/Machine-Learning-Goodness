@@ -293,5 +293,5 @@ The summarry of DemoGPT that can be found [here](https://github.com/melih-unsal/
 The Technology when in the right hands can do amazing things. Here is a video of a mechanism that allows a person to use hands that he did not have before. Simply amazing!
 
 <p align="center">
-  <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/tech_awesome.gif">
+  <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/tech_awesome.gif">
 </p>
