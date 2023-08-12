@@ -313,3 +313,4 @@ A simple way how to recognise real AI is found [here](https://www.bbntimes.com/s
 
 <img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/real_fake.png">
 </p>
+
