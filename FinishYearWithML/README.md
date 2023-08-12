@@ -311,6 +311,7 @@ A simple way how to recognise real AI is found [here](https://www.bbntimes.com/s
   - Fake AI is common in customer service, marketing, and entertainment.
   - It's crucial to distinguish between real and fake AI for informed decisions.
 
-<img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/real_fake.png">
+<p align="center">
+<img height="600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/real_fake.png">
 </p>
 
