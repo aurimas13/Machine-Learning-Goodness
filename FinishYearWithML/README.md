@@ -295,3 +295,21 @@ The Technology when in the right hands can do amazing things. Here is a video of
 <p align="center">
   <img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/tech_awesome.gif">
 </p>
+
+## Real vs Fake AI | Day 21
+
+A simple way how to recognise real AI is found [here](https://www.bbntimes.com/science/real-vs-fake-ai-how-to-spot-the-difference) as it's summary is:
+
+  - AI is transforming our lives and work.
+  - Not all AI is the same; quality varies.
+  - Alan Turing's 1950 paper set the AI vision.
+  - AI has multiple subsets: machine learning, deep learning, NLP, expert systems, robotics, machine vision, and speech recognition.
+  - Tech companies often claim AI capabilities, but there's a difference between real and fake AI.
+  - Real AI uses machine learning algorithms and evolves based on data.
+  - Fake AI simulates AI through rule-based systems without true learning.
+  - To differentiate, understand the technology, assess results, and examine source code.
+  - Fake AI is common in customer service, marketing, and entertainment.
+  - It's crucial to distinguish between real and fake AI for informed decisions.
+
+<img height="400px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/real_fake.png">
+</p>
