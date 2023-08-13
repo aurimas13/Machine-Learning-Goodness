@@ -334,5 +334,5 @@ Microsoft introduced Azure ChatGPT and here is it's overbview with a link to acc
 [Check it out!](https://github.com/microsoft/azurechatgpt)
 
 <p align="center">
-<img height="600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/real_fake2.png">
+<img height="600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/azure_chatgpt.png">
 </p>
