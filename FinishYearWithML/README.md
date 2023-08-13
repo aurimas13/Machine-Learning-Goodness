@@ -314,3 +314,25 @@ A simple way how to recognise real AI is found [here](https://www.bbntimes.com/s
 <p align="center">
 <img height="600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/real_fake2.png">
 </p>
+
+## Azure ChatGPT | Day 22
+
+Microsoft introduced Azure ChatGPT and here is it's overbview with a link to access it after:
+
+  - ChatGPT is widely popular for business productivity and creative assistance.
+  - Using public ChatGPT can risk exposing confidential intellectual property.
+  - Azure ChatGPT is an enterprise solution, acting as a private version of ChatGPT.
+  - Benefits of Azure ChatGPT:
+      - Private: Ensures data privacy and isolation from OpenAI operations.
+      - Controlled: Offers enterprise-grade security controls and isolated network traffic.
+      - Value: Integrates with internal data sources and services like ServiceNow.
+  - Azure ChatGPT comes with a Solution Accelerator for easy deployment.
+  - The project welcomes contributions and follows Microsoft's Open Source Code of Conduct.
+  - Azure ChatGPT is designed for secure internal enterprise use.
+  - The project has received significant engagement with 3.3k stars and 478 forks on GitHub.
+
+[Check it out!](https://github.com/microsoft/azurechatgpt)
+
+<p align="center">
+<img height="600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/real_fake2.png">
+</p>
