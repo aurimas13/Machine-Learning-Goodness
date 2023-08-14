@@ -339,7 +339,7 @@ Microsoft introduced Azure ChatGPT and here is it's overbview with a link to acc
 
 ## Top 20 AI tools for Productivity | Day 23
 
-Here is top 20 AI tools for productivity:
+The top 20 AI tools for productivity:
 
 <p align="center">
 <img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/20_ai_tools.png">
