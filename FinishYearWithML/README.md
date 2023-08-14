@@ -336,3 +336,11 @@ Microsoft introduced Azure ChatGPT and here is it's overbview with a link to acc
 <p align="center">
 <img height="600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/azure_chatgpt.png">
 </p>
+
+## Top 20 AI tools for Productivity | Day 23
+
+Here is top 20 AI tools for productivity:
+
+<p align="center">
+<img height="600px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/20_ai_tools.png">
+</p>
