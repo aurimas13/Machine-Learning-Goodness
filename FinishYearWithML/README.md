@@ -344,3 +344,9 @@ The top 20 AI tools for productivity:
 <p align="center">
 <img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/20_ai_tools.png">
 </p>
+
+## ChatGPT ain't that good, PDF Tool powered by AI & tuning LLMs | Day 24
+
+- While the chatbot's answers to questions sound great, they're often wrong. ChatGPT might be great at answering quick questions or even helping you get started on a blog post, but it needs to improve its coding skills, according to researchers. More [here](https://www.pcmag.com/news/chatgpt-isnt-good-at-coding)
+- PDF Tool to todify them in the browser without uploading. More [here](https://www.pdftool.org/en)
+- The [paper on tuning LLMs](https://arxiv.org/abs/2308.07124v1) delves into the enhancement of large language models (LLMs) for natural language tasks through instruction tuning with code. The authors have curated a dataset named COMMITPACK, which they benchmark against other code instructions on the StarCoder model. This results in achieving state-of-the-art performance. Additionally, they introduce HUMANEVALPACK, a benchmark designed for coding tasks across various languages. Their models, named OCTOCODER and OCTOGEEX, outperform others on this benchmark. All the code, models, and data are made publicly accessible.
