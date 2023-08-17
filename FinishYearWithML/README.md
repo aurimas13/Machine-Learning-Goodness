@@ -350,3 +350,29 @@ The top 20 AI tools for productivity:
 - While the chatbot's answers to questions sound great, they're often wrong. ChatGPT might be great at answering quick questions or even helping you get started on a blog post, but it needs to improve its coding skills, according to researchers. More [here](https://www.pcmag.com/news/chatgpt-isnt-good-at-coding)
 - PDF Tool to todify them in the browser without uploading. More [here](https://www.pdftool.org/en)
 - The [paper on tuning LLMs](https://arxiv.org/abs/2308.07124v1) delves into the enhancement of large language models (LLMs) for natural language tasks through instruction tuning with code. The authors have curated a dataset named COMMITPACK, which they benchmark against other code instructions on the StarCoder model. This results in achieving state-of-the-art performance. Additionally, they introduce HUMANEVALPACK, a benchmark designed for coding tasks across various languages. Their models, named OCTOCODER and OCTOGEEX, outperform others on this benchmark. All the code, models, and data are made publicly accessible.
+
+## Modelling the invisible world of Molecular Biology with Machine Learning | Day 25
+
+[The article](https://www.isomorphiclabs.com/articles/modelling-the-invisible-world-of-molecular-biology-with-machine-learning) summarises the following:
+
+- AI-enabled drug discovery offers huge potential, with ML applications in drug discovery seeing rapid advancements recently.
+
+- The use of ML has been particularly significant in understanding and modelling proteins, highlighted by structure prediction models like AlphaFold2.
+
+- Drug discovery involves complex systems that are challenging to describe using traditional methods.
+
+- Machine learning can offer a more nuanced and detailed description language for these intricate biological systems.
+
+- Using machine learning, digital models of these systems are created which can be manipulated and explored for hypotheses testing.
+
+- Algorithms developed for this purpose, similar to DeepMind’s AlphaGo, can explore molecular structures to aid in therapeutic discoveries.
+
+- The author highlights the transformational capabilities of deep learning across a range of domains, from computer vision to reinforcement learning.
+
+- Collaborative efforts among a diverse team are crucial in achieving breakthroughs in this space.
+
+- Even though it's a challenging field, the team is optimistic about achieving their goals, especially given their progress so far.
+
+<p align="center">
+<img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/azure_chadrug_discovery.png">
+</p>
