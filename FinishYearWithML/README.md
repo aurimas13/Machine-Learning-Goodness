@@ -374,5 +374,5 @@ The top 20 AI tools for productivity:
 - Even though it's a challenging field, the team is optimistic about achieving their goals, especially given their progress so far.
 
 <p align="center">
-<img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/azure_chadrug_discovery.png">
+<img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/drug_discovery.png">
 </p>
