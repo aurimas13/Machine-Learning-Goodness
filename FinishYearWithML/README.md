@@ -376,3 +376,9 @@ The top 20 AI tools for productivity:
 <p align="center">
 <img height="800px" src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/drug_discovery.png">
 </p>
+
+## ChatGPT outperforms 1st and 2nd year medical students | Day 26
+
+A recent study reveals that ChatGPT outperforms first- and second-year medical students on complex clinical reasoning exam questions, signaling a need for a new approach for medical education.
+
+More [here](https://hai.stanford.edu/news/chatgpt-out-scores-medical-students-complex-clinical-care-exam-questions?utm_source=twitter&utm_medium=social&utm_content=Stanford%20HAI_twitter_StanfordHAI_202308210710_sf181079039&utm_campaign=&sf181079039=1).
