@@ -382,3 +382,11 @@ The top 20 AI tools for productivity:
 A recent study reveals that ChatGPT outperforms first- and second-year medical students on complex clinical reasoning exam questions, signaling a need for a new approach for medical education.
 
 More [here](https://hai.stanford.edu/news/chatgpt-out-scores-medical-students-complex-clinical-care-exam-questions?utm_source=twitter&utm_medium=social&utm_content=Stanford%20HAI_twitter_StanfordHAI_202308210710_sf181079039&utm_campaign=&sf181079039=1).
+
+## PanoHead | Day 27
+
+Found an amazing Computer Vision implementation. Simply superb. PanoHead is a new model that generates 3D textured models from a single image.
+
+GitHub: https://sizhean.github.io/panohead
+Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/An_PanoHead_Geometry-Aware_3D_Full-Head_Synthesis_in_360deg_CVPR_2023_paper.pdf
+
