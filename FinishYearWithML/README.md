@@ -390,3 +390,6 @@ Found an amazing Computer Vision implementation. Simply superb. PanoHead is a ne
 GitHub: https://sizhean.github.io/panohead
 Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/An_PanoHead_Geometry-Aware_3D_Full-Head_Synthesis_in_360deg_CVPR_2023_paper.pdf
 
+<p align="center">
+  <img src="https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Public/Images/PanoHead.gif" alt="panohead" height="800px"/>
+</p>
