@@ -200,6 +200,7 @@ to be shared on the repository.
 | 123 | Tiny Python Projects | Tiny Python Projects | [Tiny Python Projects](https://www.amazon.com/Tiny-Python-Projects-Ken-Youens-Clark/dp/1617297518?&_encoding=UTF8&tag=kirkdborne-20&linkCode=ur2&linkId=56f1a9cdf365cc1a64c25b596d02593f&camp=1789&creative=9325) 
 | 124 | Mind Blowing AI tools | AI tools from writing to video to design to productivity to marketing to Chatbot | [Mind Blowing AI tools](https://github.com/aurimas13/Machine-Learning-Goodness/blob/main/Notes/blowing.jpeg)
 | 125 | 150+ Python Projects with Source Code | 179 Python Projects with Source Code | [150+ Python Projects with Source Code ](https://thecleverprogrammer.com/2021/01/14/python-projects-with-source-code/)
+| 126 | 1000 ChatGPT useful prompts | 1000 ChatGPT useful prompts | [1000 ChatGPT useful prompts](https://www.superhuman.ai/c/1000_chatgpt_prompts)
 
 # Worthy Repositories
 
